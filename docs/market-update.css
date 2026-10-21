@@ -1,0 +1,1 @@
+.sector-filter{border:1px solid var(--line);background:#fff;padding:9px 13px;border-radius:11px;color:var(--ink);min-width:190px}.sector-filter:focus{outline:0;border-color:#69aa9e;box-shadow:0 0 0 3px rgba(57,142,126,.08)}@media(max-width:760px){.sector-filter{width:100%;min-height:43px}}

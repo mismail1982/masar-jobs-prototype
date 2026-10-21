@@ -18,6 +18,7 @@
   <link rel="stylesheet" href="styles.css" />
   <link rel="stylesheet" href="source-library-enhancement.css">
   <link rel="stylesheet" href="welcome.css">
+  <link rel="stylesheet" href="market-update.css">
 </head>
 <body>
   <section class="auth-screen" id="authScreen">
@@ -108,7 +109,7 @@
           <div>
             <span class="hero-kicker">نتائج اليوم</span>
             <h2>وجدنا فرصًا تستحق اهتمامك</h2>
-            <p id="heroLiveSummary">جارٍ تحميل الوظائف الحقيقية من مصادر الشركات الرسمية...</p>
+            <p id="heroLiveSummary">جارٍ تحميل وظائف السوق من المصادر الرسمية...</p>
             <button class="primary" data-section="jobs">استعرض أفضل الفرص <span>←</span></button>
           </div>
           <div class="hero-score">
@@ -118,7 +119,7 @@
         </div>
 
         <section class="panel application-control" aria-labelledby="applicationModeTitle">
-          <div class="application-control-head"><div><span class="eyebrow">أنت المتحكم</span><h3 id="applicationModeTitle">اختر طريقة التقديم</h3><p>يمكنك تغييرها في أي وقت، ولن تُرسل النسخة التجريبية طلبات خارجية حقيقية.</p></div><span class="mode-status" id="applicationModeStatus">بموافقتي</span></div>
+        <div class="application-control-head"><div><span class="eyebrow">أنت المتحكم</span><h3 id="applicationModeTitle">اختر طريقة التقديم</h3><p>يمكنك تغييرها في أي وقت. يجهّز مسار الطلب ويفتح المصدر الرسمي، ولا يتم الإرسال النهائي دون موافقتك.</p></div><span class="mode-status" id="applicationModeStatus">بموافقتي</span></div>
           <div class="application-modes">
             <label><input type="radio" name="applicationMode" value="manual"><span><b>تصفح وتقديم يدوي</b><small>أفتح الوظائف وأختار بنفسي.</small></span></label>
             <label><input type="radio" name="applicationMode" value="approval" checked><span><b>اسألني قبل التقديم</b><small>يعرض الوظيفة والخطاب ثم يطلب موافقتي.</small></span></label>
@@ -129,7 +130,7 @@
         </section>
 
         <div class="stats-grid">
-          <article class="stat-card"><span class="stat-icon mint">⌕</span><div><small>وظائف حقيقية متاحة</small><strong id="liveJobCount">0</strong><em id="liveUpdateLabel">جارٍ التحديث</em></div></article>
+            <article class="stat-card"><span class="stat-icon mint">⌕</span><div><small>وظائف السوق المتاحة</small><strong id="liveJobCount">0</strong><em id="liveUpdateLabel">جارٍ التحديث</em></div></article>
           <article class="stat-card"><span class="stat-icon sand">◎</span><div><small>مطابقة أعلى من 50%</small><strong id="matchedLiveCount">0</strong><em>حسب ملفك المهني</em></div></article>
           <article class="stat-card"><span class="stat-icon blue">✓</span><div><small>طلبات جاهزة</small><strong id="readyCount">3</strong><em>بانتظار مراجعتك</em></div></article>
           <article class="stat-card"><span class="stat-icon violet">↗</span><div><small>مصادر شركات مباشرة</small><strong id="liveFeedCount">8</strong><em>تحديث دوري</em></div></article>
@@ -156,18 +157,18 @@
       <section class="page" id="jobs">
         <div class="section-title">
           <div><span class="eyebrow">محرك المطابقة</span><h2>الفرص المناسبة لك</h2><p>رتّبنا النتائج بحسب المهارات والخبرة والراتب والموقع.</p></div>
-          <button class="outline" id="addJobBtn">＋ إضافة وظيفة للتجربة</button>
+          <button class="outline" id="addJobBtn">＋ إضافة وظيفة</button>
         </div>
         <div class="keyword-search">
-          <div><span class="eyebrow">ابدأ بالكلمة المفتاحية</span><h3>ما نوع الوظيفة التي تبحث عنها؟</h3><p>مثال: مهندس معماري، عمارة، هندسة مدنية، Revit أو مدير مشروعات.</p></div>
+          <div><span class="eyebrow">ابدأ بالكلمة المفتاحية</span><h3>ما نوع الوظيفة التي تبحث عنها؟</h3><p>ابحث في المحاسبة والمالية، الطب والصحة، التعليم، الخدمات، التقنية، المبيعات، التشغيل والهندسة.</p></div>
           <label><span>⌕</span><input id="keywordSearch" type="search" placeholder="اكتب المسمى أو التخصص" /><button id="keywordSearchBtn">بحث</button></label>
-          <div class="keyword-chips"><button data-keyword="هندسة معمارية">هندسة معمارية</button><button data-keyword="مهندس مدني">مهندس مدني</button><button data-keyword="مهندس ميكانيكا">ميكانيكا</button><button data-keyword="مدير مشروعات">إدارة مشروعات</button><button data-keyword="BIM">BIM</button></div>
+          <div class="keyword-chips"><button data-keyword="محاسب">محاسبة</button><button data-keyword="تمريض">وظائف طبية</button><button data-keyword="معلم">تعليم</button><button data-keyword="خدمة عملاء">خدمة عملاء</button><button data-keyword="مبيعات">مبيعات</button><button data-keyword="تقنية المعلومات">تقنية</button><button data-keyword="هندسة">هندسة</button></div>
         </div>
         <div class="active-criteria" id="activeCriteria"><span>الدولة: <b id="criteriaCountry">السعودية</b></span><span>الراتب المستهدف: <b id="criteriaSalary">18,000 ± 2,000 ر.س</b></span><span>الخبرة: <b id="criteriaExperience">7 سنوات</b></span></div>
-        <div class="panel live-jobs-status"><span class="live-source-dot"></span><div><strong id="liveJobsStatus">جارٍ الاتصال بمصادر الوظائف الحقيقية...</strong><small id="liveJobsUpdated">Greenhouse وLever وصفحات الشركات الرسمية</small></div><button class="outline" id="refreshLiveJobs">تحديث الآن</button></div>
+        <div class="panel live-jobs-status"><span class="live-source-dot"></span><div><strong id="liveJobsStatus">جارٍ الاتصال بمصادر سوق العمل...</strong><small id="liveJobsUpdated">مصادر شركات ومنصات توظيف عامة</small></div><button class="outline" id="refreshLiveJobs">تحديث الآن</button></div>
         <div class="filters">
           <button class="filter active" data-filter="all">الكل</button>
-          <button class="filter" data-filter="live">وظائف حقيقية</button>
+          <select class="sector-filter" id="jobSectorFilter" aria-label="المجال الوظيفي"><option value="">كل المجالات</option><option value="finance">المحاسبة والمالية</option><option value="healthcare">الطب والرعاية الصحية</option><option value="education">التعليم والتدريب</option><option value="customer">خدمة العملاء</option><option value="sales">المبيعات وتطوير الأعمال</option><option value="marketing">التسويق والإعلام</option><option value="hr">الموارد البشرية والإدارة</option><option value="operations">العمليات وسلاسل الإمداد</option><option value="technology">التقنية والبيانات</option><option value="hospitality">الضيافة والسياحة</option><option value="legal">القانون والامتثال</option><option value="manufacturing">التصنيع والصيانة</option><option value="energy">الطاقة والنفط والغاز</option><option value="engineering">الهندسة والإنشاءات</option><option value="general">وظائف أخرى</option></select>
           <button class="filter" data-filter="experience">الخبرة مناسبة</button>
           <button class="filter" data-filter="salary">الراتب مناسب</button>
           <button class="filter" data-filter="remote">عن بُعد</button>
@@ -320,7 +321,7 @@
       <div class="match-reasons" id="matchReasons"></div>
       <label class="submit-consent"><input id="submitConsent" type="checkbox" /><span>أؤكد أنني راجعت البيانات وأوافق على سياسة الخصوصية والأمان وإرسال الطلب لهذه الوظيفة.</span></label>
       <div class="modal-actions"><button class="outline" data-close-modal>حفظ كمسودة</button><button class="primary" id="approveApplication" disabled>موافقة وإرسال الطلب</button></div>
-      <p class="modal-disclaimer">الإرسال في هذه النسخة محاكاة تجريبية؛ الربط الحقيقي سيُفعّل بعد إضافة خدمات البريد ومصادر الوظائف المعتمدة.</p>
+      <p class="modal-disclaimer">يتم فتح صفحة التقديم الرسمية بعد موافقتك. الإرسال النهائي يخضع لخطوات منصة التوظيف أو جهة العمل.</p>
       </div>
     </div>
   </div>
@@ -329,7 +330,7 @@
     <div class="modal-backdrop" data-close-job></div>
     <form class="modal-card small" id="jobForm">
       <button class="modal-close" type="button" data-close-job>×</button>
-      <span class="eyebrow">اختبر محرك المطابقة</span><h2>أضف وظيفة يدويًا</h2>
+      <span class="eyebrow">إضافة فرصة إلى مسار</span><h2>أضف وظيفة</h2>
       <div class="form-grid">
         <label>المسمى الوظيفي<input name="title" required placeholder="مثال: مدير عمليات" /></label>
         <label>اسم الشركة<input name="company" required placeholder="اسم الشركة" /></label>

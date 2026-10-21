@@ -6,6 +6,11 @@ const feeds = [
   { type: 'lever', token: 'kpler', company: 'Kpler' },
   { type: 'lever', token: 'binance', company: 'Binance' },
   { type: 'lever', token: 'weloglobal', company: 'Welo Data' },
+  { type: 'lever', token: 'jobgether', company: 'Jobgether Partners' },
+  { type: 'lever', token: 'soum', company: 'SOUM' },
+  { type: 'lever', token: 'flowlife', company: 'Flow' },
+  { type: 'lever', token: 'dlocal', company: 'dLocal' },
+  { type: 'lever', token: 'rws', company: 'RWS' },
   { type: 'greenhouse', token: 'gener8tor', company: 'gener8tor' },
   { type: 'greenhouse', token: 'alphasights', company: 'AlphaSights' },
   { type: 'greenhouse', token: 'cialfo', company: 'Cialfo' },
@@ -30,14 +35,35 @@ const detectCity = location => {
 };
 const detectCategory = title => {
   const value = title.toLowerCase();
+  if (/doctor|physician|nurse|nursing|medical|clinical|pharma|pharmac|health|dentist|laboratory|radiology|therap/.test(value)) return 'healthcare';
+  if (/teacher|teaching|education|academic|school|tutor|instructor|learning|trainer/.test(value)) return 'education';
+  if (/accountant|accounting|finance|financial|audit|treasury|tax|payroll|banking|credit|billing|revenue/.test(value)) return 'finance';
+  if (/customer|call center|support|service|reception|guest experience/.test(value)) return 'customer';
+  if (/sales|business development|account manager|commercial|partnership/.test(value)) return 'sales';
+  if (/marketing|content|social media|brand|seo|communications|graphic design/.test(value)) return 'marketing';
+  if (/human resources|people|talent|recruit|hr |administrative|office manager|secretar/.test(value)) return 'hr';
+  if (/operations|procurement|supply chain|logistics|warehouse|inventory|delivery|fleet/.test(value)) return 'operations';
+  if (/software|developer|data|cloud|devops|cyber|information technology|\bit\b|product manager|ui\/ux/.test(value)) return 'technology';
+  if (/legal|lawyer|counsel|compliance|governance|contract/.test(value)) return 'legal';
+  if (/hotel|hospitality|restaurant|chef|food|beverage|tourism|travel|aviation|cabin crew/.test(value)) return 'hospitality';
+  if (/security|safety|hse|fire/.test(value)) return 'security';
+  if (/manufactur|production|factory|quality|maintenance|technician/.test(value)) return 'manufacturing';
+  if (/oil|gas|energy|petroleum|drilling|renewable|solar/.test(value)) return 'energy';
   if (/architect|architecture|bim/.test(value)) return 'architecture';
   if (/civil|structural|construction|site engineer/.test(value)) return 'civil';
   if (/mechanical|mep|hvac/.test(value)) return 'mechanical';
   if (/electrical|power engineer/.test(value)) return 'electrical';
   if (/project|program|pmo|planning/.test(value)) return 'projects';
-  return 'engineering';
+  return 'general';
 };
-const detectSkills = text => ['Revit','AutoCAD','BIM','MEP','HVAC','Primavera P6','PMP','Python','JavaScript','React','SQL','SAP','Power BI','Sales','Marketing','Finance','Compliance','Operations','Leadership'].filter(skill => text.toLowerCase().includes(skill.toLowerCase())).slice(0, 7);
+const detectSkills = text => ['Revit','AutoCAD','BIM','MEP','HVAC','Primavera P6','PMP','Python','JavaScript','React','SQL','SAP','Power BI','Excel','IFRS','Accounting','Audit','Finance','Nursing','Clinical','Teaching','Education','Customer Service','Sales','Marketing','Compliance','Operations','Procurement','Logistics','Leadership'].filter(skill => text.toLowerCase().includes(skill.toLowerCase())).slice(0, 7);
+const detectExperience = text => {
+  const range = text.match(/(\d{1,2})\s*(?:-|–|to)\s*(\d{1,2})\s*(?:\+\s*)?(?:years?|yrs?)/i);
+  if (range) return [Number(range[1]), Number(range[2])];
+  const minimum = text.match(/(?:minimum|min\.?|at least)?\s*(\d{1,2})\+?\s*(?:years?|yrs?)\s+(?:of\s+)?experience/i);
+  if (minimum) return [Number(minimum[1]), Math.min(30, Number(minimum[1]) + 8)];
+  return [0, 30];
+};
 const age = date => {
   if (!date) return 'حديثًا'; const days = Math.max(0, Math.floor((Date.now() - new Date(date).getTime()) / 86400000));
   return days === 0 ? 'اليوم' : days === 1 ? 'أمس' : `منذ ${days} أيام`;
@@ -75,6 +101,7 @@ for (const row of collected) {
   const key = `${row.company}|${row.title}|${row.location}`.toLowerCase();
   if (unique.has(key)) continue;
   const skills = detectSkills(searchable);
+  const [minExp, maxExp] = detectExperience(searchable);
   unique.set(key, {
     id: hash(`${row.source}:${row.rawId}`),
     externalId: String(row.rawId),
@@ -87,8 +114,8 @@ for (const row of collected) {
     minSalary: 0,
     maxSalary: 0,
     salaryDisclosed: false,
-    minExp: 0,
-    maxExp: 30,
+    minExp,
+    maxExp,
     category: detectCategory(row.title),
     age: age(row.date),
     publishedAt: row.date,
@@ -100,7 +127,7 @@ for (const row of collected) {
   });
 }
 
-const jobs = [...unique.values()].sort((a, b) => String(b.publishedAt || '').localeCompare(String(a.publishedAt || ''))).slice(0, 300);
+const jobs = [...unique.values()].sort((a, b) => String(b.publishedAt || '').localeCompare(String(a.publishedAt || ''))).slice(0, 500);
 const output = { generatedAt: new Date().toISOString(), total: jobs.length, feeds: feeds.length, jobs };
 const outputPath = resolve(process.argv[2] || 'docs/live-jobs.json');
 await mkdir(dirname(outputPath), { recursive: true });
