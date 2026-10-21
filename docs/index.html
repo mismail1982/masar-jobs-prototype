@@ -1,0 +1,328 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="مسار — مساعد ذكي للبحث عن الوظائف وتحليل ملاءمتها وتجهيز طلبات التقديم." />
+  <meta name="theme-color" content="#0c2f2d" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="مسار" />
+  <title>مسار | مساعدك الذكي للوظائف</title>
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="masar-icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="masar-icon.svg" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <section class="auth-screen" id="authScreen">
+    <div class="auth-visual">
+      <a class="brand auth-brand" href="#"><span class="brand-mark">م</span><span><strong>مسار</strong><small>مساعدك الذكي للوظائف</small></span></a>
+      <div class="auth-promise">
+        <span class="hero-kicker">فرص أدق، تقديم أذكى</span>
+        <h1>خلّي الوظيفة المناسبة<br>توصلك في وقتها.</h1>
+        <p>نبحث بالكلمات المفتاحية، ونقارن الخبرة والموقع والراتب قبل أن نطلب موافقتك على التقديم.</p>
+        <div class="auth-points"><span>✓ بحث حسب التخصص</span><span>✓ قرار التقديم بيدك</span><span>✓ بياناتك محفوظة بأمان</span></div>
+      </div>
+    </div>
+    <div class="auth-form-wrap">
+      <form class="auth-card" id="registerForm">
+        <span class="auth-step">الخطوة 1 من 2</span>
+        <h2>أنشئ حسابك</h2><p>ابدأ باختيار الدولة ثم أدخل بيانات التواصل.</p>
+        <label>الدولة<select name="country" id="signupCountry" required><option value="">اختر الدولة</option><option value="السعودية" data-code="+966">🇸🇦 السعودية</option><option value="الإمارات" data-code="+971">🇦🇪 الإمارات</option><option value="قطر" data-code="+974">🇶🇦 قطر</option><option value="الكويت" data-code="+965">🇰🇼 الكويت</option><option value="البحرين" data-code="+973">🇧🇭 البحرين</option><option value="عُمان" data-code="+968">🇴🇲 عُمان</option></select></label>
+        <label>الاسم الكامل<input name="name" required placeholder="اكتب اسمك كما يظهر في السيرة" /></label>
+        <label>رقم الجوال<div class="phone-field"><span id="phoneCode">+---</span><input name="phone" inputmode="numeric" required placeholder="5xxxxxxxx" /></div></label>
+        <label>البريد الإلكتروني<input name="email" type="email" required placeholder="name@example.com" /></label>
+        <label class="consent-check"><input name="privacy" type="checkbox" required /><span>أوافق على <button type="button" id="showPrivacy">سياسة الخصوصية والأمان</button> ومعالجة بياناتي لتقديم الخدمة.</span></label>
+        <button class="primary wide-btn" type="submit">إرسال رمز التحقق</button>
+        <div class="auth-security">🔒 لن نشارك بياناتك أو نرسل طلبًا دون موافقتك.</div>
+      </form>
+      <form class="auth-card hidden" id="otpForm">
+        <span class="auth-step">الخطوة 2 من 2</span>
+        <h2>تحقق من حسابك</h2><p>أرسلنا رمزًا من 6 أرقام إلى <strong id="maskedPhone"></strong></p>
+        <div class="otp-inputs" dir="ltr"><input maxlength="1" inputmode="numeric"><input maxlength="1" inputmode="numeric"><input maxlength="1" inputmode="numeric"><input maxlength="1" inputmode="numeric"><input maxlength="1" inputmode="numeric"><input maxlength="1" inputmode="numeric"></div>
+        <div class="demo-code">للتجربة: رمز الجوال هو <strong id="demoOtp"></strong></div>
+        <label class="email-activation"><input id="emailActivated" type="checkbox" /><span><strong>تفعيل البريد الإلكتروني</strong><small>في النسخة التجريبية اضغط هنا لمحاكاة فتح رابط التفعيل المرسل إلى <b id="activationEmail"></b>.</small></span></label>
+        <button class="primary wide-btn" type="submit">تأكيد وبدء الاستخدام</button>
+        <button class="text-btn wide-btn" type="button" id="backToRegister">تعديل البيانات</button>
+      </form>
+    </div>
+  </section>
+
+  <div class="privacy-dialog" id="privacyDialog" aria-hidden="true"><div class="privacy-card"><button id="closePrivacy">×</button><span class="eyebrow">خصوصيتك أولًا</span><h2>سياسة الخصوصية والأمان</h2><ul><li>نستخدم بياناتك لمطابقة الوظائف وتجهيز طلبات التقديم فقط.</li><li>لن يتم إرسال طلب أو بريد أو رسالة قبل موافقتك الواضحة.</li><li>يمكنك حذف بياناتك وطلباتك في أي وقت.</li><li>هذه النسخة التجريبية تحفظ البيانات على جهازك ولا ترسل OTP فعليًا.</li></ul></div></div>
+
+  <div class="app-shell">
+    <aside class="sidebar" aria-label="القائمة الرئيسية">
+      <a class="brand" href="#" aria-label="مسار الرئيسية">
+        <span class="brand-mark">م</span>
+        <span><strong>مسار</strong><small>مساعدك الذكي للوظائف</small></span>
+      </a>
+
+      <nav class="nav-list">
+        <button class="nav-item active" data-section="dashboard"><span>⌂</span> لوحة المتابعة</button>
+        <button class="nav-item" data-section="jobs"><span>⌕</span> فرص مناسبة <b id="navJobCount">6</b></button>
+        <button class="nav-item" data-section="applications"><span>✓</span> طلبات التقديم</button>
+        <button class="nav-item" data-section="channels"><span>⌁</span> قنوات الوظائف <b id="navSourceCount">6</b></button>
+        <button class="nav-item" data-section="library"><span>▦</span> مكتبة البحث</button>
+        <button class="nav-item salary-nav" data-section="salary"><span>﷼</span> راتبي كام؟</button>
+        <button class="nav-item" data-section="profile"><span>♙</span> ملفي المهني</button>
+      </nav>
+
+      <div class="sidebar-card">
+        <span class="sparkle">✦</span>
+        <strong>ملفك يقترب من الاكتمال</strong>
+        <p>أضف مهاراتك والراتب المتوقع لتحصل على نتائج أدق.</p>
+        <div class="progress"><i style="width:72%"></i></div>
+        <button data-section="profile">إكمال الملف</button>
+      </div>
+
+      <div class="sidebar-foot">
+        <span class="avatar">أ</span>
+        <span><strong id="sidebarName">أحمد محمد</strong><small id="sidebarCountry">باحث عن فرصة</small></span><button class="logout-btn" id="logoutBtn" title="تسجيل الخروج">↪</button>
+      </div>
+    </aside>
+
+    <main class="main">
+      <header class="topbar">
+        <button class="mobile-menu" id="menuBtn" aria-label="فتح القائمة">☰</button>
+        <div>
+          <p class="eyebrow">الأربعاء، 21 أكتوبر</p>
+          <h1 id="pageTitle">صباح الخير، أحمد <span>👋</span></h1>
+        </div>
+        <div class="top-actions">
+          <label class="search-box"><span>⌕</span><input id="globalSearch" type="search" placeholder="ابحث عن وظيفة أو شركة" /></label>
+          <button class="icon-button" aria-label="الإشعارات">♢<i></i></button>
+          <span class="scan-status"><i></i> البحث يعمل الآن</span>
+        </div>
+      </header>
+
+      <section class="page active" id="dashboard">
+        <div class="hero">
+          <div>
+            <span class="hero-kicker">نتائج اليوم</span>
+            <h2>وجدنا فرصًا تستحق اهتمامك</h2>
+            <p>حلّل مسار 28 وظيفة جديدة. اخترنا لك الأفضل بناءً على خبرتك وتفضيلاتك.</p>
+            <button class="primary" data-section="jobs">استعرض أفضل الفرص <span>←</span></button>
+          </div>
+          <div class="hero-score">
+            <div class="score-ring" style="--score:100"><span><strong>3/3</strong><small>شروط مناسبة</small></span></div>
+            <div><strong>مهندس معماري أول</strong><small>أفق العمران · الرياض</small></div>
+          </div>
+        </div>
+
+        <div class="stats-grid">
+          <article class="stat-card"><span class="stat-icon mint">⌕</span><div><small>فرص تم تحليلها</small><strong>128</strong><em>+28 اليوم</em></div></article>
+          <article class="stat-card"><span class="stat-icon sand">◎</span><div><small>تطابق أعلى من 70%</small><strong>14</strong><em>6 فرص جديدة</em></div></article>
+          <article class="stat-card"><span class="stat-icon blue">✓</span><div><small>طلبات جاهزة</small><strong id="readyCount">3</strong><em>بانتظار مراجعتك</em></div></article>
+          <article class="stat-card"><span class="stat-icon violet">↗</span><div><small>مقابلات قادمة</small><strong>2</strong><em>هذا الأسبوع</em></div></article>
+        </div>
+
+        <div class="content-grid">
+          <section class="panel jobs-preview">
+            <div class="panel-head"><div><span class="eyebrow">مختارة لك</span><h3>أقوى فرص اليوم</h3></div><button class="text-btn" data-section="jobs">عرض الكل ←</button></div>
+            <div id="dashboardJobs" class="job-list compact"></div>
+          </section>
+          <aside class="panel activity-panel">
+            <div class="panel-head"><div><span class="eyebrow">مباشر</span><h3>نشاط مسار</h3></div><span class="live-dot"></span></div>
+            <div class="timeline">
+              <div><span class="activity-icon mint">⌕</span><p><strong>تم العثور على 8 وظائف جديدة</strong><small>من صفحات شركات موثوقة · منذ 4 دقائق</small></p></div>
+              <div><span class="activity-icon sand">✦</span><p><strong>تطابق قوي بنسبة 88%</strong><small>مدير مشروعات في أفق التقنية · منذ 18 دقيقة</small></p></div>
+              <div><span class="activity-icon blue">✉</span><p><strong>تم تجهيز خطاب تقديم</strong><small>محلل أعمال أول · منذ ساعة</small></p></div>
+              <div><span class="activity-icon violet">✓</span><p><strong>تمت إضافة طلب للمراجعة</strong><small>شركة روافد المالية · أمس</small></p></div>
+            </div>
+            <div class="safe-note"><span>♢</span><p><strong>وضع المراجعة الآمنة مفعّل</strong><small>لن نرسل أي طلب أو رسالة قبل موافقتك.</small></p></div>
+          </aside>
+        </div>
+      </section>
+
+      <section class="page" id="jobs">
+        <div class="section-title">
+          <div><span class="eyebrow">محرك المطابقة</span><h2>الفرص المناسبة لك</h2><p>رتّبنا النتائج بحسب المهارات والخبرة والراتب والموقع.</p></div>
+          <button class="outline" id="addJobBtn">＋ إضافة وظيفة للتجربة</button>
+        </div>
+        <div class="keyword-search">
+          <div><span class="eyebrow">ابدأ بالكلمة المفتاحية</span><h3>ما نوع الوظيفة التي تبحث عنها؟</h3><p>مثال: مهندس معماري، عمارة، هندسة مدنية، Revit أو مدير مشروعات.</p></div>
+          <label><span>⌕</span><input id="keywordSearch" type="search" placeholder="اكتب المسمى أو التخصص" /><button id="keywordSearchBtn">بحث</button></label>
+          <div class="keyword-chips"><button data-keyword="هندسة معمارية">هندسة معمارية</button><button data-keyword="مهندس مدني">مهندس مدني</button><button data-keyword="مهندس ميكانيكا">ميكانيكا</button><button data-keyword="مدير مشروعات">إدارة مشروعات</button><button data-keyword="BIM">BIM</button></div>
+        </div>
+        <div class="active-criteria" id="activeCriteria"><span>الدولة: <b id="criteriaCountry">السعودية</b></span><span>الراتب المستهدف: <b id="criteriaSalary">18,000 ± 2,000 ر.س</b></span><span>الخبرة: <b id="criteriaExperience">7 سنوات</b></span></div>
+        <div class="filters">
+          <button class="filter active" data-filter="all">الكل</button>
+          <button class="filter" data-filter="experience">الخبرة مناسبة</button>
+          <button class="filter" data-filter="salary">الراتب مناسب</button>
+          <button class="filter" data-filter="remote">عن بُعد</button>
+          <button class="filter" data-filter="riyadh">الرياض</button>
+        </div>
+        <div id="jobsList" class="job-list full"></div>
+      </section>
+
+      <section class="page" id="applications">
+        <div class="section-title"><div><span class="eyebrow">متابعة منظمة</span><h2>طلبات التقديم</h2><p>كل خطوة محفوظة من لحظة العثور على الوظيفة حتى الرد.</p></div></div>
+        <div class="panel table-panel">
+          <table>
+            <thead><tr><th>الوظيفة</th><th>الشركة</th><th>التطابق</th><th>تاريخ الإضافة</th><th>الحالة</th><th></th></tr></thead>
+            <tbody id="applicationsTable"></tbody>
+          </table>
+          <div class="empty-state" id="emptyApplications"><span>◌</span><h3>لا توجد طلبات بعد</h3><p>اختر فرصة مناسبة وجهّز طلب التقديم لتظهر هنا.</p><button class="primary" data-section="jobs">استعرض الفرص</button></div>
+        </div>
+      </section>
+
+      <section class="page" id="channels">
+        <div class="section-title"><div><span class="eyebrow">مصادر متعددة · مكان واحد</span><h2>قنوات الوظائف</h2><p>حدّد القنوات والدولة ونطاق العمل، وسيتولى مسار التنظيف وإزالة التكرار قبل المطابقة.</p></div><button class="primary" id="openSourceForm">＋ إضافة قناة</button></div>
+        <div class="source-summary">
+          <article><span>⌁</span><div><strong id="sourceCount">6</strong><small>مصادر مضافة</small></div></article>
+          <article><span>↻</span><div><strong>كل 15 دقيقة</strong><small>دورة الفحص المقترحة</small></div></article>
+          <article><span>◫</span><div><strong>23</strong><small>وظيفة بعد حذف المكرر</small></div></article>
+          <article><span>♢</span><div><strong>3</strong><small>وظائف مشبوهة مستبعدة</small></div></article>
+        </div>
+        <div class="channel-grid" id="channelGrid"></div>
+        <div class="panel source-policy"><div><span>🛡️</span><div><h3>جمع قانوني وآمن</h3><p>القنوات العامة تُربط عبر واجهات رسمية أو خلاصات وتنبيهات مصرح بها. LinkedIn وFacebook لا يتم جمعهما بالـscraping، والتقديم يظل بعد موافقة المستخدم.</p></div></div><div class="pipeline"><span>استقبال</span><i>←</i><span>تنظيف</span><i>←</i><span>حذف المكرر</span><i>←</i><span>مطابقة</span><i>←</i><span>موافقة</span></div></div>
+      </section>
+
+      <section class="page" id="library">
+        <div class="section-title"><div><span class="eyebrow">دليل البحث الموحد</span><h2>مكتبة المواقع والتخصصات</h2><p>اختر الدولة والتخصص، ثم افتح نفس البحث في المصادر المتاحة دون نسخ آلي مخالف.</p></div><span class="library-badge">18 مجالًا · أكثر من 150 كلمة</span></div>
+        <div class="library-search panel">
+          <label><span>الكلمة أو التخصص</span><input id="libraryQuery" placeholder="مثال: مهندس معماري أو تحليل بيانات" /></label>
+          <label><span>الدولة</span><select id="libraryCountry"><option>السعودية</option><option>الإمارات</option><option>قطر</option><option>الكويت</option><option>البحرين</option><option>عُمان</option><option>مصر</option><option>الأردن</option><option>لبنان</option><option>العراق</option><option>المغرب</option><option>تونس</option><option>الجزائر</option></select></label>
+          <button class="primary" id="prepareMultiSearch">جهّز البحث في كل المواقع</button>
+        </div>
+        <div class="provider-strip" id="providerStrip"></div>
+        <div class="library-tabs"><button class="active" data-library-tab="countries">المواقع حسب الدولة</button><button data-library-tab="specialties">مكتبة التخصصات</button></div>
+        <div class="library-view active" id="countriesLibrary">
+          <div class="library-filter"><input id="countryLibraryFilter" placeholder="ابحث عن دولة أو موقع توظيف" /><span id="countryLibraryCount"></span></div>
+          <div class="country-library-grid" id="countryLibraryGrid"></div>
+        </div>
+        <div class="library-view" id="specialtiesLibrary">
+          <div class="library-filter"><input id="specialtyLibraryFilter" placeholder="ابحث عن تخصص أو مهارة أو برنامج" /><span id="specialtyLibraryCount"></span></div>
+          <div class="specialty-library-grid" id="specialtyLibraryGrid"></div>
+        </div>
+        <div class="panel library-note"><span>ⓘ</span><p><strong>طريقة الربط:</strong> Bayt وتنقيب وGulfTalent متاحون الآن كبحث موجّه وروابط أصلية. الجمع الآلي الكامل يحتاج API أو اتفاقًا رسميًا من كل منصة؛ لذلك نحافظ على المصدر الأصلي ونمنع scraping.</p></div>
+      </section>
+
+      <section class="page" id="salary">
+        <div class="section-title"><div><span class="eyebrow">تقدير سوقي ذكي</span><h2>راتبي كام؟</h2><p>قدّر نطاق راتبك بناءً على الدور والخبرة والموقع والمؤهل واللغات والبرامج المهنية.</p></div><span class="estimate-note">تقدير استرشادي وليس عرضًا وظيفيًا</span></div>
+        <div class="salary-layout">
+          <form class="panel salary-form" id="salaryForm">
+            <div class="form-grid">
+              <label>المسمى أو التخصص<input name="role" value="مهندس معماري" required /></label>
+              <label>الدولة<select name="country"><option>السعودية</option><option>الإمارات</option><option>قطر</option><option>الكويت</option><option>البحرين</option><option>عُمان</option></select></label>
+              <label>المدينة<input name="city" value="الرياض" /></label>
+              <label>سنوات الخبرة<input name="experience" type="number" min="0" max="40" value="7" /></label>
+              <label>المؤهل العلمي<select name="education"><option value="diploma">دبلوم</option><option value="bachelor" selected>بكالوريوس</option><option value="master">ماجستير</option><option value="phd">دكتوراه</option></select></label>
+              <label>اللغة الإنجليزية<select name="english"><option value="basic">أساسي</option><option value="good">جيد</option><option value="fluent" selected>متقدم</option><option value="bilingual">ثنائي اللغة</option></select></label>
+              <label>الشهادات المهنية<select name="certification"><option value="none">لا يوجد</option><option value="one" selected>شهادة واحدة</option><option value="advanced">شهادتان أو أكثر</option></select></label>
+              <label>حجم الشركة<select name="companySize"><option value="small">صغيرة</option><option value="medium" selected>متوسطة</option><option value="large">كبيرة / دولية</option></select></label>
+              <fieldset class="wide software-field"><legend>البرامج والمهارات المتقدمة</legend><label><input type="checkbox" name="tools" value="revit" checked> Revit</label><label><input type="checkbox" name="tools" value="bim" checked> BIM</label><label><input type="checkbox" name="tools" value="autocad" checked> AutoCAD</label><label><input type="checkbox" name="tools" value="p6"> Primavera P6</label><label><input type="checkbox" name="tools" value="powerbi"> Power BI</label><label><input type="checkbox" name="tools" value="leadership"> قيادة فرق</label></fieldset>
+            </div>
+            <button class="primary wide-btn salary-submit" type="submit">احسب راتبي المتوقع</button>
+          </form>
+          <aside class="panel salary-result" id="salaryResult">
+            <span class="eyebrow">التقدير الحالي</span><p>أكمل المعايير واضغط على «احسب راتبي المتوقع».</p>
+            <div class="salary-placeholder">﷼</div>
+          </aside>
+        </div>
+        <div class="salary-method"><strong>كيف نحسبه؟</strong><span>المسمى والتخصص</span><i>＋</i><span>سنوات الخبرة</span><i>＋</i><span>معامل المدينة والدولة</span><i>＋</i><span>المؤهل واللغات</span><i>＋</i><span>البرامج والشهادات</span></div>
+      </section>
+
+      <section class="page" id="profile">
+        <div class="section-title"><div><span class="eyebrow">أساس المطابقة</span><h2>ملفك المهني</h2><p>كلما كانت بياناتك أدق، كانت الوظائف والخطابات أفضل.</p></div><span class="autosave">● محفوظ محليًا على جهازك</span></div>
+        <form id="profileForm" class="profile-grid">
+          <div class="panel form-panel">
+            <div class="panel-head"><div><span class="eyebrow">بيانات أساسية</span><h3>من أنت وماذا تبحث؟</h3></div></div>
+            <div class="form-grid">
+              <label>الاسم الكامل<input name="name" value="أحمد محمد" required /></label>
+              <label>المسمى المستهدف<input name="role" value="مدير مشروعات" required /></label>
+              <label>الدولة المستهدفة<select name="country"><option>السعودية</option><option>الإمارات</option><option>قطر</option><option>الكويت</option><option>البحرين</option><option>عُمان</option></select></label>
+              <label>المنطقة<input name="region" value="منطقة الرياض" /></label>
+              <label>سنوات الخبرة<input name="experience" type="number" min="0" value="7" /></label>
+              <label>أقل راتب شهري<input name="salary" type="number" min="0" value="18000" /><span class="input-suffix">ر.س</span></label>
+              <label>المدن المفضلة<input name="cities" value="الرياض، جدة، عن بُعد" /></label>
+              <label>لغة الخطاب<select name="language"><option value="ar">العربية</option><option value="en">English</option></select></label>
+              <label class="wide">المهارات الأساسية<input name="skills" value="إدارة المشروعات، Agile، تحليل الأعمال، إدارة الفرق، التخطيط الاستراتيجي" /></label>
+              <label class="wide">مختصر السيرة الذاتية<textarea name="summary" rows="5">مدير مشروعات بخبرة 7 سنوات في قيادة الفرق متعددة التخصصات، وإدارة المشروعات التقنية، وتحسين العمليات وتسليم المبادرات ضمن الوقت والميزانية.</textarea></label>
+            </div>
+          </div>
+          <aside class="panel cv-panel">
+            <span class="eyebrow">السيرة الذاتية</span><h3>ارفع أحدث نسخة</h3>
+            <label class="dropzone" id="dropzone">
+              <input id="cvUpload" type="file" accept=".pdf,.doc,.docx" />
+              <span>⇧</span><strong>اسحب الملف هنا أو اضغط للاختيار</strong><small>PDF أو Word · بحد أقصى 10MB</small>
+            </label>
+            <div id="fileInfo" class="file-info hidden"></div>
+            <div class="privacy-note">🔒 لا يغادر الملف جهازك في هذه النسخة التجريبية.</div>
+            <button class="primary wide-btn" type="submit">حفظ وتحليل الملف</button>
+          </aside>
+        </form>
+      </section>
+    </main>
+  </div>
+
+  <div class="modal" id="applicationModal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-modal></div>
+    <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+      <button class="modal-close" data-close-modal aria-label="إغلاق">×</button>
+      <span class="eyebrow">طلب تقديم ذكي</span>
+      <h2 id="modalTitle">تجهيز طلب التقديم</h2>
+      <div class="selected-job" id="selectedJob"></div>
+      <div class="decision-stage" id="decisionStage"><div class="decision-icon">؟</div><h3>هل تريد التقديم على هذه الوظيفة؟</h3><p>راجع ملاءمة الخبرة والموقع والراتب أولًا. لن يتم أي إرسال قبل اختيارك وموافقتك.</p><div><button class="outline" id="declineApplication">لا، احتفظ بها فقط</button><button class="primary" id="acceptApplication">نعم، جهّز الطلب</button></div></div>
+      <div id="composeStage" class="hidden">
+      <div class="stepper"><span class="active">1 الوظيفة مناسبة</span><i></i><span class="active">2 مراجعة الرسالة</span><i></i><span>3 موافقة وإرسال</span></div>
+      <div class="composer-tabs">
+        <button class="active" data-compose="email">مقدمة البريد</button>
+        <button data-compose="letter">خطاب التقديم</button>
+        <button data-compose="linkedin">رسالة LinkedIn</button>
+      </div>
+      <div class="compose-area">
+        <div class="compose-toolbar"><span id="composeLabel">مقدمة بريد جاهزة للمراجعة</span><button id="copyText">نسخ النص</button></div>
+        <textarea id="generatedText" rows="13"></textarea>
+      </div>
+      <div class="match-reasons" id="matchReasons"></div>
+      <label class="submit-consent"><input id="submitConsent" type="checkbox" /><span>أؤكد أنني راجعت البيانات وأوافق على سياسة الخصوصية والأمان وإرسال الطلب لهذه الوظيفة.</span></label>
+      <div class="modal-actions"><button class="outline" data-close-modal>حفظ كمسودة</button><button class="primary" id="approveApplication" disabled>موافقة وإرسال الطلب</button></div>
+      <p class="modal-disclaimer">الإرسال في هذه النسخة محاكاة تجريبية؛ الربط الحقيقي سيُفعّل بعد إضافة خدمات البريد ومصادر الوظائف المعتمدة.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="modal" id="jobModal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-job></div>
+    <form class="modal-card small" id="jobForm">
+      <button class="modal-close" type="button" data-close-job>×</button>
+      <span class="eyebrow">اختبر محرك المطابقة</span><h2>أضف وظيفة يدويًا</h2>
+      <div class="form-grid">
+        <label>المسمى الوظيفي<input name="title" required placeholder="مثال: مدير عمليات" /></label>
+        <label>اسم الشركة<input name="company" required placeholder="اسم الشركة" /></label>
+        <label>الموقع<input name="location" value="الرياض" /></label>
+        <label>الراتب المتوقع<input name="salary" placeholder="18–24 ألف ر.س" /></label>
+        <label class="wide">المهارات المطلوبة<input name="skills" placeholder="إدارة، تحليل، Agile" /></label>
+        <label class="wide">الوصف الوظيفي<textarea name="description" rows="5" required></textarea></label>
+      </div>
+      <button class="primary wide-btn" type="submit">تحليل الوظيفة وإضافتها</button>
+    </form>
+  </div>
+
+  <div class="modal" id="sourceModal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-source></div>
+    <form class="modal-card small" id="sourceForm">
+      <button class="modal-close" type="button" data-close-source>×</button>
+      <span class="eyebrow">مصدر جديد</span><h2>إضافة قناة وظائف</h2>
+      <div class="form-grid">
+        <label>نوع المصدر<select name="type"><option value="telegram">Telegram</option><option value="facebook">Facebook</option><option value="linkedin">LinkedIn</option><option value="portal">موقع توظيف</option><option value="company">صفحة شركة</option><option value="email">تنبيه بريد</option></select></label>
+        <label>اسم القناة أو الموقع<input name="name" required placeholder="مثال: وظائف الهندسة — السعودية" /></label>
+        <label class="wide">الرابط<input name="url" type="url" required placeholder="https://..." /></label>
+        <label>الدولة<select name="country"><option>السعودية</option><option>الإمارات</option><option>قطر</option><option>الكويت</option><option>البحرين</option><option>عُمان</option><option>كل دول الخليج</option></select></label>
+        <label>نطاق العمل<input name="sector" placeholder="مثال: هندسة وعمارة" /></label>
+      </div>
+      <div class="connector-hint" id="connectorHint">سيحتاج بوت Telegram إلى إضافته للقناة حتى يستقبل المنشورات رسميًا.</div>
+      <button class="primary wide-btn" type="submit">حفظ وإرسال طلب الربط</button>
+    </form>
+  </div>
+
+  <div class="toast" id="toast" role="status"></div>
+  <script src="https://telegram.org/js/telegram-web-app.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

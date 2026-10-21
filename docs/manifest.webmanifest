@@ -1,0 +1,20 @@
+{
+  "name": "مسار — مساعدك الذكي للوظائف",
+  "short_name": "مسار",
+  "description": "بحث موحّد عن الوظائف ومطابقة الخبرة والموقع والراتب.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#0c2f2d",
+  "icons": [
+    {
+      "src": "masar-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
