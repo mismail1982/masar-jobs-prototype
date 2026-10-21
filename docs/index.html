@@ -52,7 +52,7 @@
     </div>
   </section>
 
-  <div class="privacy-dialog" id="privacyDialog" aria-hidden="true"><div class="privacy-card"><button id="closePrivacy">×</button><span class="eyebrow">خصوصيتك أولًا</span><h2>سياسة الخصوصية والأمان</h2><ul><li>نستخدم بياناتك لمطابقة الوظائف وتجهيز طلبات التقديم فقط.</li><li>لن يتم إرسال طلب أو بريد أو رسالة قبل موافقتك الواضحة.</li><li>يمكنك حذف بياناتك وطلباتك في أي وقت.</li><li>هذه النسخة التجريبية تحفظ البيانات على جهازك ولا ترسل OTP فعليًا.</li></ul></div></div>
+  <div class="privacy-dialog" id="privacyDialog" aria-hidden="true"><div class="privacy-card"><button id="closePrivacy">×</button><span class="eyebrow">خصوصيتك أولًا</span><h2>سياسة الخصوصية والأمان</h2><ul><li>نستخدم بياناتك لمطابقة الوظائف وتجهيز طلبات التقديم فقط.</li><li>لن يتم إرسال طلب إلا وفق طريقة التقديم التي تختارها وبموافقتك المسبقة.</li><li>يمكنك إيقاف التقديم التلقائي أو حذف بياناتك وطلباتك في أي وقت.</li><li>هذه النسخة التجريبية تحفظ البيانات على جهازك ولا ترسل OTP أو طلبات فعلية.</li></ul></div></div>
 
   <div class="app-shell">
     <aside class="sidebar" aria-label="القائمة الرئيسية">
@@ -112,6 +112,17 @@
             <div><strong>مهندس معماري أول</strong><small>أفق العمران · الرياض</small></div>
           </div>
         </div>
+
+        <section class="panel application-control" aria-labelledby="applicationModeTitle">
+          <div class="application-control-head"><div><span class="eyebrow">أنت المتحكم</span><h3 id="applicationModeTitle">اختر طريقة التقديم</h3><p>يمكنك تغييرها في أي وقت، ولن تُرسل النسخة التجريبية طلبات خارجية حقيقية.</p></div><span class="mode-status" id="applicationModeStatus">بموافقتي</span></div>
+          <div class="application-modes">
+            <label><input type="radio" name="applicationMode" value="manual"><span><b>تصفح وتقديم يدوي</b><small>أفتح الوظائف وأختار بنفسي.</small></span></label>
+            <label><input type="radio" name="applicationMode" value="approval" checked><span><b>اسألني قبل التقديم</b><small>يعرض الوظيفة والخطاب ثم يطلب موافقتي.</small></span></label>
+            <label><input type="radio" name="applicationMode" value="auto"><span><b>تقديم تلقائي</b><small>للوظائف المطابقة بأكثر من 50% بعد موافقة مسبقة.</small></span></label>
+          </div>
+          <label class="auto-consent hidden" id="autoConsentWrap"><input type="checkbox" id="autoApplyConsent"><span>أوافق مسبقًا على تجهيز وإرسال الطلبات المطابقة تلقائيًا وفق ملفي المهني وسياسة الخصوصية.</span></label>
+          <button class="primary" id="saveApplicationMode">حفظ طريقة التقديم</button>
+        </section>
 
         <div class="stats-grid">
           <article class="stat-card"><span class="stat-icon mint">⌕</span><div><small>فرص تم تحليلها</small><strong>128</strong><em>+28 اليوم</em></div></article>
@@ -258,6 +269,27 @@
         </form>
       </section>
     </main>
+  </div>
+
+  <nav class="mobile-bottom-nav" aria-label="تنقل سريع">
+    <button class="mobile-nav-item active" data-section="dashboard"><span>⌂</span><small>الرئيسية</small></button>
+    <button class="mobile-nav-item" data-section="jobs"><span>⌕</span><small>الوظائف</small></button>
+    <button class="mobile-nav-item" data-section="applications"><span>✓</span><small>طلباتي</small><b id="mobileApplicationCount">0</b></button>
+    <button class="mobile-nav-item" data-section="profile"><span>♙</span><small>ملفي</small></button>
+  </nav>
+
+  <div class="modal" id="jobDetailsModal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-details></div>
+    <div class="modal-card job-details-card" role="dialog" aria-modal="true" aria-labelledby="jobDetailsTitle">
+      <button class="modal-close" data-close-details aria-label="إغلاق">×</button>
+      <span class="eyebrow">تفاصيل الوظيفة</span>
+      <div class="job-details-heading"><span class="company-logo" id="jobDetailsLogo"></span><div><h2 id="jobDetailsTitle"></h2><p id="jobDetailsCompany"></p></div></div>
+      <div class="job-facts" id="jobDetailsFacts"></div>
+      <section class="job-detail-section"><h3>الوصف الوظيفي</h3><p id="jobDetailsDescription"></p></section>
+      <section class="job-detail-section"><h3>المهارات المطلوبة</h3><div class="job-detail-skills" id="jobDetailsSkills"></div></section>
+      <div class="job-detail-match" id="jobDetailsMatch"></div>
+      <div class="job-detail-actions"><button class="outline" data-close-details>العودة للوظائف</button><button class="primary" id="detailsApplyBtn">التقديم على الوظيفة</button></div>
+    </div>
   </div>
 
   <div class="modal" id="applicationModal" aria-hidden="true">
