@@ -92,6 +92,7 @@
     <main class="main">
       <header class="topbar">
         <button class="mobile-menu" id="menuBtn" aria-label="فتح القائمة">☰</button>
+        <button class="page-back hidden" id="pageBackBtn" type="button" aria-label="الرجوع إلى الصفحة السابقة">→ <span>رجوع</span></button>
         <div>
           <p class="eyebrow">الأربعاء، 21 أكتوبر</p>
           <h1 id="pageTitle">صباح الخير، أحمد <span>👋</span></h1>
@@ -168,6 +169,7 @@
         <div class="panel live-jobs-status"><span class="live-source-dot"></span><div><strong id="liveJobsStatus">جارٍ الاتصال بمصادر سوق العمل...</strong><small id="liveJobsUpdated">مصادر شركات ومنصات توظيف عامة</small></div><button class="outline" id="refreshLiveJobs">تحديث الآن</button></div>
         <div class="filters">
           <button class="filter active" data-filter="all">الكل</button>
+          <button class="filter" data-filter="saved">المحفوظة</button>
           <select class="sector-filter" id="jobSectorFilter" aria-label="المجال الوظيفي"><option value="">كل المجالات</option><option value="finance">المحاسبة والمالية</option><option value="healthcare">الطب والرعاية الصحية</option><option value="education">التعليم والتدريب</option><option value="customer">خدمة العملاء</option><option value="sales">المبيعات وتطوير الأعمال</option><option value="marketing">التسويق والإعلام</option><option value="hr">الموارد البشرية والإدارة</option><option value="operations">العمليات وسلاسل الإمداد</option><option value="technology">التقنية والبيانات</option><option value="hospitality">الضيافة والسياحة</option><option value="legal">القانون والامتثال</option><option value="manufacturing">التصنيع والصيانة</option><option value="energy">الطاقة والنفط والغاز</option><option value="engineering">الهندسة والإنشاءات</option><option value="general">وظائف أخرى</option></select>
           <button class="filter" data-filter="experience">الخبرة مناسبة</button>
           <button class="filter" data-filter="salary">الراتب مناسب</button>
@@ -293,9 +295,10 @@
       <div class="job-details-heading"><span class="company-logo" id="jobDetailsLogo"></span><div><h2 id="jobDetailsTitle"></h2><p id="jobDetailsCompany"></p></div></div>
       <div class="job-facts" id="jobDetailsFacts"></div>
       <section class="job-detail-section"><h3>الوصف الوظيفي</h3><p id="jobDetailsDescription"></p></section>
+      <section class="job-detail-section"><h3>الشروط والمتطلبات</h3><ul class="job-requirements" id="jobDetailsRequirements"></ul></section>
       <section class="job-detail-section"><h3>المهارات المطلوبة</h3><div class="job-detail-skills" id="jobDetailsSkills"></div></section>
       <div class="job-detail-match" id="jobDetailsMatch"></div>
-      <div class="job-detail-actions"><button class="outline" data-close-details>العودة للوظائف</button><a class="outline hidden" id="detailsSourceLink" target="_blank" rel="noopener noreferrer">فتح الإعلان الأصلي ↗</a><button class="primary" id="detailsApplyBtn">التقديم على الوظيفة</button></div>
+      <div class="job-detail-actions"><button class="outline" data-close-details>→ رجوع للوظائف</button><button class="outline save-job-btn" id="detailsSaveBtn">☆ حفظ الوظيفة</button><a class="outline hidden" id="detailsSourceLink" target="_blank" rel="noopener noreferrer">عرض الإعلان الأصلي ↗</a><button class="primary" id="detailsApplyBtn">التقديم على الوظيفة</button></div>
     </div>
   </div>
 

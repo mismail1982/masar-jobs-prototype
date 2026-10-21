@@ -1,5 +1,6 @@
 (function(){
   const translations={
+    "المحفوظة":"Saved","رجوع":"Back","الشروط والمتطلبات":"Requirements and conditions","→ رجوع للوظائف":"→ Back to jobs","☆ حفظ الوظيفة":"☆ Save job","عرض الإعلان الأصلي ↗":"View original listing ↗","عرض ثم التقديم":"Review then apply","★ محفوظة":"★ Saved","★ محفوظة — اضغط للإزالة":"★ Saved — tap to remove","التقديم على هذه الوظيفة":"Apply for this job",
     "مسار":"Masar","مساعدك الذكي للوظائف":"Your smart job assistant","فرص أدق، تقديم أذكى":"Better matches, smarter applications",
     "خلّي الوظيفة المناسبة":"Let the right job","توصلك في وقتها.":"find you at the right time.",
     "نبحث بالكلمات المفتاحية، ونقارن الخبرة والموقع والراتب قبل أن نطلب موافقتك على التقديم.":"We search by keywords and compare experience, location and salary before asking for your approval to apply.",

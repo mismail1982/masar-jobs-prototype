@@ -29,3 +29,12 @@
 .language-switch{display:flex;align-items:center;gap:3px;padding:3px;border:1px solid var(--line);border-radius:11px;background:#fff;direction:ltr}.language-switch button{border:0;background:transparent;color:#72827f;border-radius:8px;padding:6px 8px;font-size:9px;font-weight:700}.language-switch button.active{background:var(--teal);color:#fff}.auth-language-switch{position:absolute;z-index:3;top:22px;left:24px}.auth-screen{position:fixed}[dir=ltr] body{font-family:Arial,"Tajawal",sans-serif}[dir=ltr] .nav-item,[dir=ltr] .table-panel th,[dir=ltr] .table-panel td{text-align:left}[dir=ltr] .nav-item b{margin-right:0;margin-left:auto}[dir=ltr] .top-actions{margin-right:0;margin-left:auto}[dir=ltr] .input-suffix{left:auto;right:13px}[dir=ltr] .modal-close{left:auto;right:20px}[dir=ltr] .logout-btn{margin-right:0;margin-left:auto}[dir=ltr] .source-state{margin-right:0;margin-left:auto}[dir=ltr] .channel-actions button:last-child{margin-right:0;margin-left:auto}[dir=ltr] .job-details-heading{padding-left:0;padding-right:38px}[dir=ltr] .timeline>div:not(:last-child):after{right:auto;left:20px}
 @media(max-width:1050px){.language-switch:not(.auth-language-switch){display:none}}
 @media(max-width:760px){.auth-language-switch{top:14px;left:15px}[dir=ltr] .sidebar{right:auto;left:-280px;box-shadow:20px 0 50px rgba(0,0,0,.2)}[dir=ltr] .sidebar.open{right:auto;left:0}.topbar>.mobile-menu+.language-switch{display:flex}.top-actions .language-switch{display:flex}.language-switch button{padding:6px}.top-actions{gap:7px}}
+
+/* Job details and internal-page navigation */
+.page-back{border:1px solid var(--line);background:#fff;color:var(--teal);height:42px;border-radius:12px;padding:0 13px;font-weight:800;display:flex;align-items:center;gap:6px;white-space:nowrap;flex:0 0 auto}
+.page-back:hover{border-color:#8dbeb3;background:#f4faf8}
+.job-requirements{margin:0;padding:0 19px 0 0;color:#536865;font-size:11px;line-height:1.9}
+.job-requirements li{margin:5px 0}
+.save-job-btn.saved{background:#fff8e6;border-color:#dec77e;color:#7b6228}
+[dir=ltr] .job-requirements{padding:0 0 0 19px}
+@media(max-width:760px){.page-back{height:40px;padding:0 10px}.page-back span{display:none}.job-detail-actions>*{flex:1 1 45%}.job-detail-actions a{flex-basis:100%}}
