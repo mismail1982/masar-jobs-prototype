@@ -5,7 +5,24 @@ const keywordGroups={
  mechanical:["ميكانيكا","ميكانيكي","mechanical","mep","hvac"],
  electrical:["كهرباء","كهربائي","electrical","power engineer"],
  engineering:["مهندس","مهندسة","هندسة","engineer","engineering"],
- projects:["مدير مشروعات","إدارة مشروعات","project manager","project management","pmp","planning engineer"]
+ projects:["مدير مشروعات","إدارة مشروعات","project manager","project management","pmp","planning engineer","pmo","مدير منتج","product manager"],
+ technology:["برمجيات","مبرمج","مطور","تقنية المعلومات","software","developer","data analyst","data scientist","cloud","devops","cybersecurity","sap","ui/ux"],
+ healthcare:["طبيب","تمريض","ممرض","صيدلي","صحة","مختبرات","أشعة","doctor","nurse","pharmacy","healthcare","medical"],
+ finance:["محاسب","محاسبة","مالي","بنوك","مراجعة","ضرائب","accountant","accounting","finance","audit","banking","treasury","tax"],
+ sales:["مبيعات","تطوير أعمال","مدير حسابات","sales","business development","account manager","retail"],
+ marketing:["تسويق","محتوى","سوشيال ميديا","تصميم جرافيك","marketing","content","seo","social media","graphic designer","e-commerce"],
+ hr:["موارد بشرية","توظيف","استقطاب","إدارة مكتبية","سكرتير","human resources","hr","recruitment","talent acquisition","admin"],
+ operations:["عمليات","مشتريات","لوجستيات","سلسلة إمداد","مستودع","operations","procurement","logistics","supply chain","warehouse"],
+ education:["معلم","تعليم","مدرب","محاضر","teacher","education","trainer","lecturer","academic"],
+ legal:["محامي","قانوني","حوكمة","امتثال","عقود","lawyer","legal","governance","compliance","contracts"],
+ hospitality:["فندق","مطعم","شيف","سياحة","طيران","hotel","hospitality","chef","tourism","aviation","cabin crew"],
+ construction:["إنشاءات","فني","صيانة","كهربائي","سباك","لحام","construction","technician","maintenance","foreman"],
+ energy:["نفط","غاز","طاقة","حفر","بترول","oil","gas","energy","drilling","petroleum","renewable"],
+ manufacturing:["تصنيع","إنتاج","مصنع","تشغيل","manufacturing","production","factory","quality","lean"],
+ customer:["خدمة عملاء","مركز اتصال","استقبال","customer service","call center","customer experience","support"],
+ security:["أمن","سلامة","حارس","إطفاء","security","safety","hse","fire"],
+ transport:["سائق","توصيل","نقل","أسطول","driver","delivery","transport","fleet"],
+ agriculture:["زراعة","بيئة","استدامة","بيطري","agriculture","environment","sustainability","veterinary"]
 };
 const seedJobs=[
  {id:1,title:"مهندس معماري أول",company:"أفق العمران",country:"السعودية",region:"منطقة الرياض",location:"الرياض",mode:"هجين",minSalary:17000,maxSalary:21000,minExp:5,maxExp:9,category:"architecture",age:"منذ 18 دقيقة",skills:["Revit","AutoCAD","BIM","التنسيق الهندسي"],description:"إعداد ومراجعة التصاميم المعمارية والتنسيق مع فرق الإنشاء وMEP ومتابعة التنفيذ وفق المخططات والمواصفات."},
