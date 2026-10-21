@@ -19,6 +19,7 @@
 </head>
 <body>
   <section class="auth-screen" id="authScreen">
+    <div class="language-switch auth-language-switch" aria-label="اختيار اللغة"><button class="active" data-language="ar">العربية</button><button data-language="en">English</button></div>
     <div class="auth-visual">
       <a class="brand auth-brand" href="#"><span class="brand-mark">م</span><span><strong>مسار</strong><small>مساعدك الذكي للوظائف</small></span></a>
       <div class="auth-promise">
@@ -93,6 +94,7 @@
           <h1 id="pageTitle">صباح الخير، أحمد <span>👋</span></h1>
         </div>
         <div class="top-actions">
+          <div class="language-switch" aria-label="اختيار اللغة"><button class="active" data-language="ar">العربية</button><button data-language="en">English</button></div>
           <label class="search-box"><span>⌕</span><input id="globalSearch" type="search" placeholder="ابحث عن وظيفة أو شركة" /></label>
           <button class="icon-button" aria-label="الإشعارات">♢<i></i></button>
           <span class="scan-status"><i></i> البحث يعمل الآن</span>
@@ -356,5 +358,6 @@
   <div class="toast" id="toast" role="status"></div>
   <script src="https://telegram.org/js/telegram-web-app.js"></script>
   <script src="app.js"></script>
+  <script src="i18n.js"></script>
 </body>
 </html>
