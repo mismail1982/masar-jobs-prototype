@@ -1,4 +1,4 @@
-import { mkdir, writeFile } from 'node:fs/promises';
+import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, resolve } from 'node:path';
 
 const feeds = [
@@ -37,15 +37,27 @@ const detectCategory = title => {
   const value = title.toLowerCase();
   if (/doctor|physician|nurse|nursing|medical|clinical|pharma|pharmac|health|dentist|laboratory|radiology|therap/.test(value)) return 'healthcare';
   if (/teacher|teaching|education|academic|school|tutor|instructor|learning|trainer/.test(value)) return 'education';
+  if (/culture|cultural|heritage|museum|curator|librar|archaeolog/.test(value)) return 'culture';
+  if (/artist|creative|graphic design|interior design|photograph|video edit|animation|music|theatre|cinema/.test(value)) return 'creative';
+  if (/media|journal|editor|content|copywriter|social media|public relations|communications|broadcast/.test(value)) return 'media';
+  if (/government|public sector|civil service|government relations|municipal|ministry|regulatory affairs/.test(value)) return 'government';
+  if (/administrative|administration|admin assistant|office manager|secretar|executive assistant|data entry|coordinator/.test(value)) return 'administration';
+  if (/insurance|claims|underwrit|actuar/.test(value)) return 'insurance';
   if (/accountant|accounting|finance|financial|audit|treasury|tax|payroll|banking|credit|billing|revenue/.test(value)) return 'finance';
   if (/customer|call center|support|service|reception|guest experience/.test(value)) return 'customer';
   if (/sales|business development|account manager|commercial|partnership/.test(value)) return 'sales';
-  if (/marketing|content|social media|brand|seo|communications|graphic design/.test(value)) return 'marketing';
-  if (/human resources|people|talent|recruit|hr |administrative|office manager|secretar/.test(value)) return 'hr';
+  if (/marketing|brand|seo|advertising|e-commerce|growth/.test(value)) return 'marketing';
+  if (/human resources|people|talent|recruit|hr |employee relations|personnel/.test(value)) return 'hr';
   if (/operations|procurement|supply chain|logistics|warehouse|inventory|delivery|fleet/.test(value)) return 'operations';
   if (/software|developer|data|cloud|devops|cyber|information technology|\bit\b|product manager|ui\/ux/.test(value)) return 'technology';
   if (/legal|lawyer|counsel|compliance|governance|contract/.test(value)) return 'legal';
   if (/hotel|hospitality|restaurant|chef|food|beverage|tourism|travel|aviation|cabin crew/.test(value)) return 'hospitality';
+  if (/facilit|cleaner|cleaning|general worker|pest control|laundry/.test(value)) return 'services';
+  if (/real estate|property|leasing|valuation/.test(value)) return 'realestate';
+  if (/research|scientist|science|biolog|chemist|physics|r&d/.test(value)) return 'research';
+  if (/social worker|social work|nonprofit|ngo|humanitarian|community development|caregiver/.test(value)) return 'social';
+  if (/sport|fitness|personal trainer|coach|gym/.test(value)) return 'sports';
+  if (/translat|localization|linguist|proofread/.test(value)) return 'translation';
   if (/security|safety|hse|fire/.test(value)) return 'security';
   if (/manufactur|production|factory|quality|maintenance|technician/.test(value)) return 'manufacturing';
   if (/oil|gas|energy|petroleum|drilling|renewable|solar/.test(value)) return 'energy';
@@ -56,7 +68,7 @@ const detectCategory = title => {
   if (/project|program|pmo|planning/.test(value)) return 'projects';
   return 'general';
 };
-const detectSkills = text => ['Revit','AutoCAD','BIM','MEP','HVAC','Primavera P6','PMP','Python','JavaScript','React','SQL','SAP','Power BI','Excel','IFRS','Accounting','Audit','Finance','Nursing','Clinical','Teaching','Education','Customer Service','Sales','Marketing','Compliance','Operations','Procurement','Logistics','Leadership'].filter(skill => text.toLowerCase().includes(skill.toLowerCase())).slice(0, 7);
+const detectSkills = text => ['Revit','AutoCAD','BIM','MEP','HVAC','Primavera P6','PMP','Python','JavaScript','React','SQL','SAP','Power BI','Excel','IFRS','Accounting','Audit','Finance','Insurance','Nursing','Clinical','Teaching','Education','Research','Customer Service','Sales','Marketing','Content','Public Relations','Human Resources','Recruitment','Administration','Compliance','Operations','Procurement','Logistics','Hospitality','Facility Management','Translation','Leadership'].filter(skill => text.toLowerCase().includes(skill.toLowerCase())).slice(0, 7);
 const detectExperience = text => {
   const range = text.match(/(\d{1,2})\s*(?:-|–|to)\s*(\d{1,2})\s*(?:\+\s*)?(?:years?|yrs?)/i);
   if (range) return [Number(range[1]), Number(range[2])];
@@ -128,8 +140,17 @@ for (const row of collected) {
 }
 
 const jobs = [...unique.values()].sort((a, b) => String(b.publishedAt || '').localeCompare(String(a.publishedAt || ''))).slice(0, 500);
-const output = { generatedAt: new Date().toISOString(), total: jobs.length, feeds: feeds.length, jobs };
 const outputPath = resolve(process.argv[2] || 'docs/live-jobs.json');
+if (!jobs.length) {
+  try {
+    const existing = JSON.parse(await readFile(outputPath, 'utf8'));
+    if (Array.isArray(existing.jobs) && existing.jobs.length) {
+      console.warn(`No feeds responded; preserved ${existing.jobs.length} existing jobs instead of publishing an empty list.`);
+      process.exit(0);
+    }
+  } catch {}
+}
+const output = { generatedAt: new Date().toISOString(), total: jobs.length, feeds: feeds.length, jobs };
 await mkdir(dirname(outputPath), { recursive: true });
 await writeFile(outputPath, `${JSON.stringify(output, null, 2)}\n`, 'utf8');
 console.log(`Saved ${jobs.length} live Gulf jobs from ${feeds.length} public company feeds.`);
