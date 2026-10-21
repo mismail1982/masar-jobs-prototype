@@ -106,7 +106,7 @@
           <div>
             <span class="hero-kicker">نتائج اليوم</span>
             <h2>وجدنا فرصًا تستحق اهتمامك</h2>
-            <p>حلّل مسار 28 وظيفة جديدة. اخترنا لك الأفضل بناءً على خبرتك وتفضيلاتك.</p>
+            <p id="heroLiveSummary">جارٍ تحميل الوظائف الحقيقية من مصادر الشركات الرسمية...</p>
             <button class="primary" data-section="jobs">استعرض أفضل الفرص <span>←</span></button>
           </div>
           <div class="hero-score">
@@ -127,10 +127,10 @@
         </section>
 
         <div class="stats-grid">
-          <article class="stat-card"><span class="stat-icon mint">⌕</span><div><small>فرص تم تحليلها</small><strong>128</strong><em>+28 اليوم</em></div></article>
-          <article class="stat-card"><span class="stat-icon sand">◎</span><div><small>تطابق أعلى من 70%</small><strong>14</strong><em>6 فرص جديدة</em></div></article>
+          <article class="stat-card"><span class="stat-icon mint">⌕</span><div><small>وظائف حقيقية متاحة</small><strong id="liveJobCount">0</strong><em id="liveUpdateLabel">جارٍ التحديث</em></div></article>
+          <article class="stat-card"><span class="stat-icon sand">◎</span><div><small>مطابقة أعلى من 50%</small><strong id="matchedLiveCount">0</strong><em>حسب ملفك المهني</em></div></article>
           <article class="stat-card"><span class="stat-icon blue">✓</span><div><small>طلبات جاهزة</small><strong id="readyCount">3</strong><em>بانتظار مراجعتك</em></div></article>
-          <article class="stat-card"><span class="stat-icon violet">↗</span><div><small>مقابلات قادمة</small><strong>2</strong><em>هذا الأسبوع</em></div></article>
+          <article class="stat-card"><span class="stat-icon violet">↗</span><div><small>مصادر شركات مباشرة</small><strong id="liveFeedCount">8</strong><em>تحديث دوري</em></div></article>
         </div>
 
         <div class="content-grid">
@@ -162,8 +162,10 @@
           <div class="keyword-chips"><button data-keyword="هندسة معمارية">هندسة معمارية</button><button data-keyword="مهندس مدني">مهندس مدني</button><button data-keyword="مهندس ميكانيكا">ميكانيكا</button><button data-keyword="مدير مشروعات">إدارة مشروعات</button><button data-keyword="BIM">BIM</button></div>
         </div>
         <div class="active-criteria" id="activeCriteria"><span>الدولة: <b id="criteriaCountry">السعودية</b></span><span>الراتب المستهدف: <b id="criteriaSalary">18,000 ± 2,000 ر.س</b></span><span>الخبرة: <b id="criteriaExperience">7 سنوات</b></span></div>
+        <div class="panel live-jobs-status"><span class="live-source-dot"></span><div><strong id="liveJobsStatus">جارٍ الاتصال بمصادر الوظائف الحقيقية...</strong><small id="liveJobsUpdated">Greenhouse وLever وصفحات الشركات الرسمية</small></div><button class="outline" id="refreshLiveJobs">تحديث الآن</button></div>
         <div class="filters">
           <button class="filter active" data-filter="all">الكل</button>
+          <button class="filter" data-filter="live">وظائف حقيقية</button>
           <button class="filter" data-filter="experience">الخبرة مناسبة</button>
           <button class="filter" data-filter="salary">الراتب مناسب</button>
           <button class="filter" data-filter="remote">عن بُعد</button>
@@ -290,7 +292,7 @@
       <section class="job-detail-section"><h3>الوصف الوظيفي</h3><p id="jobDetailsDescription"></p></section>
       <section class="job-detail-section"><h3>المهارات المطلوبة</h3><div class="job-detail-skills" id="jobDetailsSkills"></div></section>
       <div class="job-detail-match" id="jobDetailsMatch"></div>
-      <div class="job-detail-actions"><button class="outline" data-close-details>العودة للوظائف</button><button class="primary" id="detailsApplyBtn">التقديم على الوظيفة</button></div>
+      <div class="job-detail-actions"><button class="outline" data-close-details>العودة للوظائف</button><a class="outline hidden" id="detailsSourceLink" target="_blank" rel="noopener noreferrer">فتح الإعلان الأصلي ↗</a><button class="primary" id="detailsApplyBtn">التقديم على الوظيفة</button></div>
     </div>
   </div>
 
