@@ -46,15 +46,15 @@ const detectCategory = title => {
   if (/insurance|claims|underwrit|actuar/.test(value)) return 'insurance';
   if (/accountant|accounting|finance|financial|audit|treasury|tax|payroll|banking|credit|billing|revenue/.test(value)) return 'finance';
   if (/customer service|customer success|customer support|customer experience|call center|contact center|reception|guest experience|service desk/.test(value)) return 'customer';
+  if (/human resources|people operations|people partner|talent acquisition|recruit|\bhr\b|employee relations|personnel|payroll/.test(value)) return 'hr';
   if (/sales|business development|account manager|commercial|partnership/.test(value)) return 'sales';
   if (/marketing|brand|seo|advertising|e-commerce|growth/.test(value)) return 'marketing';
-  if (/human resources|people|talent|recruit|hr |employee relations|personnel/.test(value)) return 'hr';
   if (/operations|procurement|supply chain|logistics|warehouse|inventory|delivery|fleet/.test(value)) return 'operations';
   if (/software|developer|data|cloud|devops|cyber|information technology|\bit\b|product manager|ui\/ux/.test(value)) return 'technology';
   if (/legal|lawyer|counsel|compliance|governance|contract/.test(value)) return 'legal';
   if (/hotel|hospitality|restaurant|chef|food|beverage|tourism|travel|aviation|cabin crew/.test(value)) return 'hospitality';
   if (/facility management|facilities|cleaner|cleaning|general worker|pest control|laundry|housekeeping/.test(value)) return 'services';
-  if (/real estate|property|leasing|valuation/.test(value)) return 'realestate';
+  if (/real estate|\bproperty\b|\bleasing\b|\bvaluation\b/.test(value)) return 'realestate';
   if (/research|scientist|science|biolog|chemist|physics|r&d/.test(value)) return 'research';
   if (/social worker|social work|nonprofit|ngo|humanitarian|community development|caregiver/.test(value)) return 'social';
   if (/sport|fitness|personal trainer|coach|gym/.test(value)) return 'sports';
