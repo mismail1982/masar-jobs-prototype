@@ -1,8 +1,93 @@
 {
-  "generatedAt": "2026-10-22T00:06:11.642Z",
-  "total": 275,
+  "generatedAt": "2026-10-22T00:56:55.663Z",
+  "total": 278,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 437804410,
+      "externalId": "b6f7b563-6b1f-4132-be61-abc7f1279ac1",
+      "title": "Mid/Senior AI LLM Engineer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-10-22T00:32:02.184Z",
+      "skills": [
+        "Python",
+        "Insurance",
+        "Content"
+      ],
+      "description": "Accountabilities: Fine-tune and optimize existing open-weight large language models to improve conversational quality, response accuracy, consistency, and personalization. Prepare, curate, and enhance training datasets to support effective model learning, reduce undesirable outputs, and improve the relevance and naturalness of generated responses. Design and implement evaluation frameworks, benchmarks, and testing methodologies to measure model quality, identify weaknesses, and validate improvements. Improve conversational memory, personality consistency, and the ability of models to maintain coherent, context-aware interactions over extended conversations. Develop multilingual conversational capabilities and support interactions involving multiple characters, ensuring natural and consistent behavior across different scenarios. Investigate model failures and performance limitations, adjusting training data, prompts, model configurations, and response filters to address identified issues. Conduct GPU-based training and fine-tuning experiments, troubleshoot infrastructure and performance issues, and optimize training workflows for efficiency and reliability. Apply modern model adaptation and alignment techniques, including supervised fine-tuning, LoRA, QLoRA, and preference-based optimization methods where appropriate. Deploy improved models into production environments, monitor their performance, analyze user-facing outcomes, and implement iterative refinements based on evaluation results. Collaborate with AI engineering, product, web development, and DevOps teams to integrate model improvements into consumer-facing applications and align technical work with product objectives. Work with sensitive conversational use cases and moderation requirements, balancing model behavior, user experience, and applicable content policies. Requirements: Proven hands-on experience fine-tuning open-weight large language models and deploying models into production environments. Strong Python programming skills, including experience developing, testing, and maintaining machine-learning workflows. Practical experience with PyTorch and Hugging Face or comparable machine-learning frameworks and model development tools. Experience with model training and adaptation techniques such as supervised fine-tuning (SFT), Low-Rank Adaptation (LoRA), and Quantized Low-Rank Adaptation (QLoRA). Familiarity with preference-based training and alignment techniques, such as Direct Preference Optimization (DPO) or Group Relative Policy Optimization (GRPO). Experience preparing and managing training datasets, improving data quality, and developing evaluation frameworks to assess model behavior and output quality. Practical experience with GPU-based model training, performance optimization, and debugging training-related technical issues. Strong analytical and problem-solving skills, with the ability to investigate model behavior, identify root causes, design experiments, and demonstrate measurable improvements. Understanding of the challenges involved in deploying and maintaining LLM-powered applications, including response quality, consistency, inference performance, and ongoing monitoring. Experience working on consumer-facing AI products, with an understanding of how model quality and conversational behavior affect user experience. Comfort working with minimally restricted or uncensored AI models, including explicit adult or NSFW content and sensitive moderation material, while applying appropriate safeguards and content-handling practices. Ability to work independently in a remote environment, manage experiments effectively, document findings, and collaborate with cross-functional teams. Strong communication skills, attention to detail, and a continuous-learning mindset, with the ability to translate experimental results into practical product improvements. Benefits: Fully remote working arrangement within Europe. Long-term collaboration opportunities, with B2B co",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/b6f7b563-6b1f-4132-be61-abc7f1279ac1",
+      "isLive": true
+    },
+    {
+      "id": 3688675486,
+      "externalId": "e7b3f080-da3f-446a-9f9c-e4343b08d113",
+      "title": "Backend Engineer, Solving",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-10-22T00:26:18.752Z",
+      "skills": [
+        "Excel",
+        "Accounting",
+        "Finance"
+      ],
+      "description": "Accountabilities: Design, build, and continuously improve the core quote-generation and pricing engine, incorporating on-chain price feeds, swap routing integrations, and dynamic fee calculations to deliver competitive and reliable transaction execution. Develop and maintain integrations with decentralized exchanges (DEXs) and aggregators, including 1inch, LiFi, and Uniswap, implementing contract-level transaction calldata, multi-hop routing, slippage management, and gas estimation. Own end-to-end transaction pipelines, from deposit detection and quote generation through trade execution and settlement, ensuring reliable processing across complex, multi-stage workflows. Improve system reliability and operational visibility by implementing structured error propagation, monitoring, alerting, and incident-triage workflows using tools such as Datadog. Identify, investigate, and resolve execution failures and performance bottlenecks, accounting for transaction reverts, retry mechanisms, liquidity constraints, gas-price spikes, and other edge cases. Collaborate with protocol engineering teams to integrate new settlement primitives and support the transition toward decentralized, protocol-backed liquidity. Develop specialized transaction and pricing features for payment use cases, including one-to-one stablecoin transactions and fixed pricing for major assets. Take ownership of projects from initial design through implementation, testing, deployment, and ongoing optimization, ensuring that solutions meet performance, reliability, and business requirements. Contribute to the continuous improvement of backend architecture, engineering practices, and operational tooling to support a scalable and dependable cross-chain transaction infrastructure. Requirements: Strong backend engineering experience with TypeScript and Node.js, including the ability to develop, maintain, and optimize production-grade backend services. Hands-on experience building systems that interact with on-chain protocols, including querying DEX quotes, constructing swap calldata, handling transaction reverts, and implementing retries or recovery mechanisms. Solid understanding of decentralized finance fundamentals, including automated market makers (AMMs), liquidity pools, token routing, slippage, price impact, and maximum extractable value (MEV). Demonstrated ability to design and own complex, multi-stage processing pipelines, connecting transaction detection, pricing, execution, and settlement into reliable end-to-end systems. Strong focus on reliability and resilience, with the ability to anticipate edge cases, implement robust error handling, establish meaningful observability, and troubleshoot production issues systematically. Excellent problem-solving and analytical skills, with the ability to navigate technical complexity, make sound engineering decisions, and balance execution performance, pricing, and reliability. A high degree of ownership and autonomy, including the ability to drive projects independently from concept to production, manage technical trade-offs, and take responsibility for outcomes. Effective communication and collaboration skills, with the ability to work across engineering teams, share technical context, and contribute to a collaborative, remote-first environment. Nice to have: Experience with cross-chain bridging protocols, blockchain interoperability, or intent-based architectures. Previous experience developing solver infrastructure, market-making systems, or other execution systems within decentralized finance. Familiarity with Solana and Jupiter routing, or with Bitcoin UTXO-based transaction models. Experience with BullMQ, Redis-backed job queues, or comparable asynchronous processing infrastructure. A proven track record of integrating with major DEX aggregators, such as 1inch, LiFi, or 0x. Experience designing systems that optimize transaction pricing, liquidity utilization, execution efficiency, and overall reliability. Benefits: Co",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/e7b3f080-da3f-446a-9f9c-e4343b08d113",
+      "isLive": true
+    },
+    {
+      "id": 4309474421,
+      "externalId": "9f0a15bc-bd83-4a63-adf6-ce6af623e127",
+      "title": "GTM Operations Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-10-22T00:19:11.607Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Accounting",
+        "Education",
+        "Research",
+        "Sales",
+        "Marketing"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a GTM Operations Manager based in Romania. As a GTM Operations Manager, you will help build and optimize the systems, workflows, and automations that connect Sales, Marketing, and Customer Growth teams. You will play a key role in ensuring that valuable customer signals translate into timely, actionable insights and effective engagement. Working across CRM, marketing automation, analytics, and AI-powered tools, you will improve data quality, streamline handoffs, and make customer lifecycle programs more reliable. You will own projects from initial scoping through implementation, testing, rollout, and continuous improvement. This hands-on individual-contributor role offers the opportunity to work autonomously while collaborating with experienced operations professionals and cross-functional stakeholders. You will join a remote-first, international environment that values ownership, practical problem-solving, continuous learning, and high-quality execution. Accountabilities: Own selected go-to-market workflows end-to-end, translating business needs into practical solutions, defining success metrics, managing implementation, and driving ongoing improvements. Optimize lead and account handoffs by developing and maintaining data enrichment, qualification, routing, alerting, and follow-up processes that ensure timely action and clear ownership. Support customer lifecycle programs in collaboration with Marketing and Customer Growth, including audience segmentation, trigger configuration, exclusions, data synchronization, campaign quality assurance, and performance measurement. Maintain reliable data flows across CRM, marketing automation, customer lifecycle, and product-usage systems. Investigate stale records, duplicates, mismatched relationships, and synchronization failures, coordinating with relevant system and data owners to resolve issues. Build, test, and monitor robust automations, accounting for edge cases, failure scenarios, recovery procedures, and operational reliability. Coordinate significant changes with the appropriate system owners before deployment. Identify and implement AI-powered workflows for enrichment, research, qualification, and quality assurance, evaluating output accuracy, understanding limitations, and measuring improvements in efficiency and quality. Document workflows, maintain up-to-date process guides, support user onboarding, gather stakeholder feedback, and improve adoption. Ensure teammates can understand, operate, and troubleshoot the solutions you build. Develop and maintain operational reports and dashboards that track workflow health, handoff effectiveness, campaign execution, data quality, and adoption, collaborating with senior operations colleagues and data specialists to establish consistent metrics. Contribute to the continuous improvement of the GTM operations function by reducing repetitive manual work, clarifying responsibilities, strengthening existing processes, and turning recurring requests into scalable, reusable solutions. Requirements: At least 3 years of hands-on experience in go-to-market, revenue, marketing, sales, or customer operations, with a track record of delivering practical operational improvements. Practical Salesforce experience, including familiarity with objects, relationships, fields, flows, and data management, as well as the ability to build, configure, or improve system functionality directly. Experience building workflows in a marketing automation platform such as Customer.io, HubSpot, Marketo, Braze, or Iterable, including segmentation, triggers, and integrations. Demonstrated experience developing or implementing a useful AI-powered workflow. You should be able to explain the problem addressed, your contribution, how you evaluated the results, what limitations you encountered, and how you improved the solution. A sanitized walkthrou",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/9f0a15bc-bd83-4a63-adf6-ce6af623e127",
+      "isLive": true
+    },
     {
       "id": 1729638299,
       "externalId": "bb979db7-0e05-4e1a-82b3-9c513cf82132",
@@ -928,7 +1013,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-21T00:43:32.095Z",
       "skills": [
         "Excel",
@@ -957,7 +1042,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-21T00:31:29.036Z",
       "skills": [
         "Excel",
@@ -983,7 +1068,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-21T00:19:53.115Z",
       "skills": [
         "Excel",
@@ -1977,7 +2062,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-20T00:44:13.428Z",
       "skills": [
         "SQL",
@@ -2006,7 +2091,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-20T00:32:07.814Z",
       "skills": [
         "Excel",
@@ -2037,7 +2122,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-20T00:23:38.289Z",
       "skills": [
         "Excel",
@@ -3825,7 +3910,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-16T00:40:49.350Z",
       "skills": [
         "Excel",
@@ -3851,7 +3936,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "hr",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-16T00:30:39.715Z",
       "skills": [
         "Excel",
@@ -3878,7 +3963,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "finance",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-16T00:24:07.146Z",
       "skills": [
         "SQL",
@@ -4647,7 +4732,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-15T00:41:32.793Z",
       "skills": [
         "Excel",
@@ -4675,7 +4760,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-15T00:34:18.269Z",
       "skills": [
         "Excel",
@@ -4702,7 +4787,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-15T00:20:59.455Z",
       "skills": [
         "Excel",
