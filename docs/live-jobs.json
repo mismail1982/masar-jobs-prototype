@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T04:19:46.706Z",
+  "generatedAt": "2026-10-22T05:15:50.025Z",
   "total": 289,
   "feeds": 13,
   "jobs": [
@@ -2187,7 +2187,7 @@
       "salaryDisclosed": false,
       "minExp": 0,
       "maxExp": 30,
-      "category": "operations",
+      "category": "security",
       "age": "أمس",
       "publishedAt": "2026-10-20T06:03:22.621Z",
       "skills": [
@@ -2216,7 +2216,7 @@
       "salaryDisclosed": false,
       "minExp": 0,
       "maxExp": 30,
-      "category": "operations",
+      "category": "security",
       "age": "أمس",
       "publishedAt": "2026-10-20T06:02:40.973Z",
       "skills": [
@@ -2245,7 +2245,7 @@
       "salaryDisclosed": false,
       "minExp": 0,
       "maxExp": 30,
-      "category": "operations",
+      "category": "security",
       "age": "أمس",
       "publishedAt": "2026-10-20T06:01:11.370Z",
       "skills": [
@@ -3437,7 +3437,7 @@
       "salaryDisclosed": false,
       "minExp": 0,
       "maxExp": 30,
-      "category": "realestate",
+      "category": "general",
       "age": "منذ 5 أيام",
       "publishedAt": "2026-10-16T12:38:12.415Z",
       "skills": [
@@ -3464,7 +3464,7 @@
       "salaryDisclosed": false,
       "minExp": 0,
       "maxExp": 30,
-      "category": "realestate",
+      "category": "general",
       "age": "منذ 5 أيام",
       "publishedAt": "2026-10-16T12:37:13.480Z",
       "skills": [
@@ -5077,7 +5077,7 @@
       "salaryDisclosed": false,
       "minExp": 0,
       "maxExp": 30,
-      "category": "sales",
+      "category": "hr",
       "age": "منذ 7 أيام",
       "publishedAt": "2026-10-15T00:20:59.455Z",
       "skills": [
@@ -5424,7 +5424,7 @@
       "salaryDisclosed": false,
       "minExp": 0,
       "maxExp": 30,
-      "category": "customer",
+      "category": "general",
       "age": "منذ 21 أيام",
       "publishedAt": "2026-09-30T10:39:45-04:00",
       "skills": [
@@ -5606,7 +5606,7 @@
       "minExp": 10,
       "maxExp": 12,
       "category": "technology",
-      "age": "منذ 28 أيام",
+      "age": "منذ 29 أيام",
       "publishedAt": "2026-09-23T05:08:30.489Z",
       "skills": [
         "Operations",
@@ -5658,7 +5658,7 @@
       "salaryDisclosed": false,
       "minExp": 0,
       "maxExp": 30,
-      "category": "customer",
+      "category": "general",
       "age": "منذ 33 أيام",
       "publishedAt": "2026-09-18T07:14:31-04:00",
       "skills": [
@@ -6081,7 +6081,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 43 أيام",
+      "age": "منذ 44 أيام",
       "publishedAt": "2026-09-08T04:40:50.396Z",
       "skills": [
         "Excel"
@@ -6606,7 +6606,7 @@
       "salaryDisclosed": false,
       "minExp": 0,
       "maxExp": 30,
-      "category": "customer",
+      "category": "general",
       "age": "منذ 79 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
@@ -7472,7 +7472,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "projects",
-      "age": "منذ 335 أيام",
+      "age": "منذ 336 أيام",
       "publishedAt": "2025-11-20T04:47:02.192Z",
       "skills": [
         "Excel",
@@ -7560,7 +7560,7 @@
       "salaryDisclosed": false,
       "minExp": 6,
       "maxExp": 14,
-      "category": "healthcare",
+      "category": "security",
       "age": "منذ 387 أيام",
       "publishedAt": "2025-09-29T10:53:59.334Z",
       "skills": [
@@ -7746,7 +7746,7 @@
       "salaryDisclosed": false,
       "minExp": 0,
       "maxExp": 30,
-      "category": "hr",
+      "category": "general",
       "age": "منذ 526 أيام",
       "publishedAt": "2025-05-13T10:50:29.522Z",
       "skills": [
@@ -7856,7 +7856,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "projects",
-      "age": "منذ 622 أيام",
+      "age": "منذ 623 أيام",
       "publishedAt": "2025-02-06T04:32:02.400Z",
       "skills": [
         "Primavera P6",
