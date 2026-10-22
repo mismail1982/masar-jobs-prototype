@@ -35,6 +35,7 @@ const detectCity = location => {
 };
 const detectCategory = title => {
   const value = title.toLowerCase();
+  if (/occupational safety|safety and health|security|\bhse\b|fire fighting/.test(value)) return 'security';
   if (/doctor|physician|nurse|nursing|medical|clinical|pharma|pharmac|health|dentist|laboratory|radiology|therap/.test(value)) return 'healthcare';
   if (/teacher|teaching|education|academic|school|tutor|instructor|learning|trainer/.test(value)) return 'education';
   if (/culture|cultural|heritage|museum|curator|librar|archaeolog/.test(value)) return 'culture';
@@ -44,7 +45,7 @@ const detectCategory = title => {
   if (/administrative|administration|admin assistant|office manager|secretar|executive assistant|data entry|coordinator/.test(value)) return 'administration';
   if (/insurance|claims|underwrit|actuar/.test(value)) return 'insurance';
   if (/accountant|accounting|finance|financial|audit|treasury|tax|payroll|banking|credit|billing|revenue/.test(value)) return 'finance';
-  if (/customer|call center|support|service|reception|guest experience/.test(value)) return 'customer';
+  if (/customer service|customer success|customer support|customer experience|call center|contact center|reception|guest experience|service desk/.test(value)) return 'customer';
   if (/sales|business development|account manager|commercial|partnership/.test(value)) return 'sales';
   if (/marketing|brand|seo|advertising|e-commerce|growth/.test(value)) return 'marketing';
   if (/human resources|people|talent|recruit|hr |employee relations|personnel/.test(value)) return 'hr';
@@ -52,7 +53,7 @@ const detectCategory = title => {
   if (/software|developer|data|cloud|devops|cyber|information technology|\bit\b|product manager|ui\/ux/.test(value)) return 'technology';
   if (/legal|lawyer|counsel|compliance|governance|contract/.test(value)) return 'legal';
   if (/hotel|hospitality|restaurant|chef|food|beverage|tourism|travel|aviation|cabin crew/.test(value)) return 'hospitality';
-  if (/facilit|cleaner|cleaning|general worker|pest control|laundry/.test(value)) return 'services';
+  if (/facility management|facilities|cleaner|cleaning|general worker|pest control|laundry|housekeeping/.test(value)) return 'services';
   if (/real estate|property|leasing|valuation/.test(value)) return 'realestate';
   if (/research|scientist|science|biolog|chemist|physics|r&d/.test(value)) return 'research';
   if (/social worker|social work|nonprofit|ngo|humanitarian|community development|caregiver/.test(value)) return 'social';
