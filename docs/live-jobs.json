@@ -1,8 +1,89 @@
 {
-  "generatedAt": "2026-10-23T11:48:12.514Z",
-  "total": 295,
+  "generatedAt": "2026-10-23T12:55:35.883Z",
+  "total": 298,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 4191004657,
+      "externalId": "b7518350-1195-4e9d-b4df-088c5d78998f",
+      "title": "Data Platform Engineer (Mid-level)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-10-23T12:39:53.886Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Education"
+      ],
+      "description": "Accountabilities: Improve CI/CD pipelines: Analyze existing deployment pipelines, determine the requirements of new tasks, and adapt established workflows to support reliable, repeatable software delivery. Develop infrastructure-as-code: Extend and maintain infrastructure modules in line with existing repository patterns, ensuring consistency, reliability, and maintainability across services. Apply data governance standards: Implement naming conventions, access controls, retention policies, and other governance requirements for new data services and infrastructure. Build self-service platform tooling: Develop and maintain a reusable template repository with preconfigured CI/CD, infrastructure-as-code, and governance standards so engineering teams can launch new pipelines with minimal manual intervention. Create reusable modules: Build tools and modules that simplify pipeline creation and reduce repetitive engineering work, making common platform tasks accessible through standardized workflows. Improve technical documentation: Write practical documentation, runbooks, and troubleshooting guides that help engineers understand and operate systems independently without relying on individual team members. Own data access workflows: Design and manage access-request processes for data resources, reducing bottlenecks and enabling teams to obtain the permissions they need efficiently. Take ownership of platform tooling: Progress toward full responsibility for the template repository and infrastructure modules, including technical direction, prioritization, maintenance, and roadmap decisions. Collaborate across engineering disciplines: Work with data engineers, backend engineers, and infrastructure specialists to improve platform reliability and make shared tools useful across teams. Use AI tools responsibly: Incorporate AI-assisted development tools into everyday workflows while validating generated code, identifying potential errors, and explaining the reasoning behind technical decisions. Requirements Deployment ownership: Demonstrated experience independently owning a deployment path end to end, including building a pipeline, troubleshooting failures, resolving production issues, and documenting the solution in a runbook. Professional experience: Approximately two years or more of professional experience in software, data, platform, DevOps, or infrastructure engineering. Technical education: A degree in Computer Science, Engineering, or a related field. Python and SQL: Practical working knowledge of both languages and the ability to use them regularly in professional engineering tasks. CI/CD and infrastructure-as-code: Experience working with deployment pipelines and infrastructure-as-code practices, with the ability to understand, adapt, and improve existing implementations. Code analysis and troubleshooting: Ability to navigate an unfamiliar codebase, explain how it works, identify potential failure points, and make sound technical judgments. Containers and cloud: Experience with Docker and familiarity with cloud computing concepts, particularly AWS. Previous experience with specific services such as SageMaker is not required. Cross-functional technical skills: Willingness and ability to work across data engineering, backend systems, and infrastructure rather than focusing exclusively on one area. AI-assisted development: Comfortable using AI coding assistants such as Copilot, Claude, or Cursor. You must be able to review generated code critically, explain why it is correct, and recognize when it is inaccurate or unsafe. Ownership and accountability: A proactive mindset, willingness to take responsibility for systems you modify, and honesty about failures, root causes, and lessons learned. Respect for established patterns: Ability to understand existing architecture and engineering conventions before deciding what should change. Communication and reasoning: Comfortable explaining technical decisions, defending implementation choice",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/b7518350-1195-4e9d-b4df-088c5d78998f",
+      "isLive": true
+    },
+    {
+      "id": 1168524987,
+      "externalId": "027f7c03-75d7-4ce4-ac24-72380ad999af",
+      "title": "Data Platform Engineer (Mid-level)",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-10-23T12:37:36.390Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Education"
+      ],
+      "description": "Accountabilities: Improve CI/CD pipelines: Analyze existing deployment pipelines, determine the requirements of new tasks, and adapt established workflows to support reliable, repeatable software delivery. Develop infrastructure-as-code: Extend and maintain infrastructure modules in line with existing repository patterns, ensuring consistency, reliability, and maintainability across services. Apply data governance standards: Implement naming conventions, access controls, retention policies, and other governance requirements for new data services and infrastructure. Build self-service platform tooling: Develop and maintain a reusable template repository with preconfigured CI/CD, infrastructure-as-code, and governance standards so engineering teams can launch new pipelines with minimal manual intervention. Create reusable modules: Build tools and modules that simplify pipeline creation and reduce repetitive engineering work, making common platform tasks accessible through standardized workflows. Improve technical documentation: Write practical documentation, runbooks, and troubleshooting guides that help engineers understand and operate systems independently without relying on individual team members. Own data access workflows: Design and manage access-request processes for data resources, reducing bottlenecks and enabling teams to obtain the permissions they need efficiently. Take ownership of platform tooling: Progress toward full responsibility for the template repository and infrastructure modules, including technical direction, prioritization, maintenance, and roadmap decisions. Collaborate across engineering disciplines: Work with data engineers, backend engineers, and infrastructure specialists to improve platform reliability and make shared tools useful across teams. Use AI tools responsibly: Incorporate AI-assisted development tools into everyday workflows while validating generated code, identifying potential errors, and explaining the reasoning behind technical decisions. Requirements Deployment ownership: Demonstrated experience independently owning a deployment path end to end, including building a pipeline, troubleshooting failures, resolving production issues, and documenting the solution in a runbook. Professional experience: Approximately two years or more of professional experience in software, data, platform, DevOps, or infrastructure engineering. Technical education: A degree in Computer Science, Engineering, or a related field. Python and SQL: Practical working knowledge of both languages and the ability to use them regularly in professional engineering tasks. CI/CD and infrastructure-as-code: Experience working with deployment pipelines and infrastructure-as-code practices, with the ability to understand, adapt, and improve existing implementations. Code analysis and troubleshooting: Ability to navigate an unfamiliar codebase, explain how it works, identify potential failure points, and make sound technical judgments. Containers and cloud: Experience with Docker and familiarity with cloud computing concepts, particularly AWS. Previous experience with specific services such as SageMaker is not required. Cross-functional technical skills: Willingness and ability to work across data engineering, backend systems, and infrastructure rather than focusing exclusively on one area. AI-assisted development: Comfortable using AI coding assistants such as Copilot, Claude, or Cursor. You must be able to review generated code critically, explain why it is correct, and recognize when it is inaccurate or unsafe. Ownership and accountability: A proactive mindset, willingness to take responsibility for systems you modify, and honesty about failures, root causes, and lessons learned. Respect for established patterns: Ability to understand existing architecture and engineering conventions before deciding what should change. Communication and reasoning: Comfortable explaining technical decisions, defending implementation choice",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/027f7c03-75d7-4ce4-ac24-72380ad999af",
+      "isLive": true
+    },
+    {
+      "id": 1807700207,
+      "externalId": "aa955bfc-7e70-4cf0-9384-44e1a69c1b1e",
+      "title": "Data Platform Engineer (Mid-level)",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-10-23T12:36:37.266Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Education"
+      ],
+      "description": "Accountabilities: Improve CI/CD pipelines: Analyze existing deployment pipelines, determine the requirements of new tasks, and adapt established workflows to support reliable, repeatable software delivery. Develop infrastructure-as-code: Extend and maintain infrastructure modules in line with existing repository patterns, ensuring consistency, reliability, and maintainability across services. Apply data governance standards: Implement naming conventions, access controls, retention policies, and other governance requirements for new data services and infrastructure. Build self-service platform tooling: Develop and maintain a reusable template repository with preconfigured CI/CD, infrastructure-as-code, and governance standards so engineering teams can launch new pipelines with minimal manual intervention. Create reusable modules: Build tools and modules that simplify pipeline creation and reduce repetitive engineering work, making common platform tasks accessible through standardized workflows. Improve technical documentation: Write practical documentation, runbooks, and troubleshooting guides that help engineers understand and operate systems independently without relying on individual team members. Own data access workflows: Design and manage access-request processes for data resources, reducing bottlenecks and enabling teams to obtain the permissions they need efficiently. Take ownership of platform tooling: Progress toward full responsibility for the template repository and infrastructure modules, including technical direction, prioritization, maintenance, and roadmap decisions. Collaborate across engineering disciplines: Work with data engineers, backend engineers, and infrastructure specialists to improve platform reliability and make shared tools useful across teams. Use AI tools responsibly: Incorporate AI-assisted development tools into everyday workflows while validating generated code, identifying potential errors, and explaining the reasoning behind technical decisions. Requirements Deployment ownership: Demonstrated experience independently owning a deployment path end to end, including building a pipeline, troubleshooting failures, resolving production issues, and documenting the solution in a runbook. Professional experience: Approximately two years or more of professional experience in software, data, platform, DevOps, or infrastructure engineering. Technical education: A degree in Computer Science, Engineering, or a related field. Python and SQL: Practical working knowledge of both languages and the ability to use them regularly in professional engineering tasks. CI/CD and infrastructure-as-code: Experience working with deployment pipelines and infrastructure-as-code practices, with the ability to understand, adapt, and improve existing implementations. Code analysis and troubleshooting: Ability to navigate an unfamiliar codebase, explain how it works, identify potential failure points, and make sound technical judgments. Containers and cloud: Experience with Docker and familiarity with cloud computing concepts, particularly AWS. Previous experience with specific services such as SageMaker is not required. Cross-functional technical skills: Willingness and ability to work across data engineering, backend systems, and infrastructure rather than focusing exclusively on one area. AI-assisted development: Comfortable using AI coding assistants such as Copilot, Claude, or Cursor. You must be able to review generated code critically, explain why it is correct, and recognize when it is inaccurate or unsafe. Ownership and accountability: A proactive mindset, willingness to take responsibility for systems you modify, and honesty about failures, root causes, and lessons learned. Respect for established patterns: Ability to understand existing architecture and engineering conventions before deciding what should change. Communication and reasoning: Comfortable explaining technical decisions, defending implementation choice",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/aa955bfc-7e70-4cf0-9384-44e1a69c1b1e",
+      "isLive": true
+    },
     {
       "id": 1818314362,
       "externalId": "2a28a955-3935-4afe-899a-edcf0cd4552d",
@@ -509,7 +590,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-22T11:50:57.100Z",
       "skills": [
         "SQL",
@@ -536,7 +617,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-22T11:49:17.613Z",
       "skills": [
         "SQL",
@@ -563,7 +644,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-22T11:48:32.710Z",
       "skills": [
         "SQL",
@@ -1478,7 +1559,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T12:18:56.929Z",
       "skills": [
         "Excel",
@@ -1505,7 +1586,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T12:16:46.020Z",
       "skills": [
         "Excel",
@@ -1532,7 +1613,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T12:15:53.112Z",
       "skills": [
         "Excel",
@@ -1559,7 +1640,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T12:14:36.095Z",
       "skills": [
         "Excel",
@@ -1587,7 +1668,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "operations",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T12:01:56.347Z",
       "skills": [
         "Finance",
@@ -1617,7 +1698,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "operations",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T11:59:47.757Z",
       "skills": [
         "Finance",
@@ -1647,7 +1728,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "operations",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T11:58:48.204Z",
       "skills": [
         "Finance",
@@ -3448,7 +3529,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T12:05:53.845Z",
       "skills": [
         "Excel",
@@ -3474,7 +3555,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T12:02:09.490Z",
       "skills": [
         "Excel",
@@ -3500,7 +3581,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T12:00:39.884Z",
       "skills": [
         "Excel",
@@ -4447,7 +4528,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-16T12:38:12.415Z",
       "skills": [
         "Python",
@@ -4474,7 +4555,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-16T12:37:13.480Z",
       "skills": [
         "Python",
@@ -4501,7 +4582,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-16T12:22:14.409Z",
       "skills": [
         "Compliance"
@@ -4526,7 +4607,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-16T12:21:26.550Z",
       "skills": [
         "Compliance"
@@ -5352,7 +5433,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 10 أيام",
+      "age": "منذ 11 أيام",
       "publishedAt": "2026-10-12T12:22:58.148Z",
       "skills": [
         "Excel",
@@ -5497,7 +5578,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 14 أيام",
+      "age": "منذ 15 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "Audit",
@@ -5662,7 +5743,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 28 أيام",
+      "age": "منذ 29 أيام",
       "publishedAt": "2026-09-24T12:03:40.894Z",
       "skills": [
         "Sales",
@@ -5815,7 +5896,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 31 أيام",
+      "age": "منذ 32 أيام",
       "publishedAt": "2026-09-21T12:10:38.082Z",
       "skills": [
         "Excel",
@@ -5974,7 +6055,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 36 أيام",
+      "age": "منذ 37 أيام",
       "publishedAt": "2026-09-16T12:38:30.005Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5999,7 +6080,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 36 أيام",
+      "age": "منذ 37 أيام",
       "publishedAt": "2026-09-16T12:18:06.725Z",
       "skills": [
         "Finance",
@@ -6081,7 +6162,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 43 أيام",
+      "age": "منذ 44 أيام",
       "publishedAt": "2026-09-09T12:47:08.145Z",
       "skills": [
         "SAP"
@@ -6106,7 +6187,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 43 أيام",
+      "age": "منذ 44 أيام",
       "publishedAt": "2026-09-09T12:45:38.447Z",
       "skills": [
         "SAP"
@@ -6319,7 +6400,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 50 أيام",
+      "age": "منذ 51 أيام",
       "publishedAt": "2026-09-02T12:36:44.958Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6344,7 +6425,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "finance",
-      "age": "منذ 50 أيام",
+      "age": "منذ 51 أيام",
       "publishedAt": "2026-09-02T11:56:38.924Z",
       "skills": [
         "Accounting",
@@ -6545,7 +6626,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 58 أيام",
+      "age": "منذ 59 أيام",
       "publishedAt": "2026-08-25T12:30:04.705Z",
       "skills": [
         "Sales",
@@ -6572,7 +6653,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 58 أيام",
+      "age": "منذ 59 أيام",
       "publishedAt": "2026-08-25T12:03:51.980Z",
       "skills": [
         "Excel",
@@ -6739,7 +6820,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 70 أيام",
+      "age": "منذ 71 أيام",
       "publishedAt": "2026-08-13T12:01:07.661Z",
       "skills": [
         "Operations"
@@ -6764,7 +6845,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 70 أيام",
+      "age": "منذ 71 أيام",
       "publishedAt": "2026-08-13T11:55:04.485Z",
       "skills": [
         "Operations",
@@ -7038,7 +7119,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "translation",
-      "age": "منذ 106 أيام",
+      "age": "منذ 107 أيام",
       "publishedAt": "2026-07-08T12:41:35.292Z",
       "skills": [
         "Excel",
@@ -7290,7 +7371,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 197 أيام",
+      "age": "منذ 198 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7796,7 +7877,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 430 أيام",
+      "age": "منذ 431 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
@@ -7851,7 +7932,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 463 أيام",
+      "age": "منذ 464 أيام",
       "publishedAt": "2025-07-16T12:45:37.544Z",
       "skills": [
         "Excel",
@@ -7878,7 +7959,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 463 أيام",
+      "age": "منذ 464 أيام",
       "publishedAt": "2025-07-16T12:38:56.781Z",
       "skills": [
         "Excel",
@@ -8122,7 +8203,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 847 أيام",
+      "age": "منذ 848 أيام",
       "publishedAt": "2024-06-27T12:18:56.852Z",
       "skills": [
         "Finance",
@@ -8152,7 +8233,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 883 أيام",
+      "age": "منذ 884 أيام",
       "publishedAt": "2024-05-22T12:17:49.028Z",
       "skills": [
         "Excel",
