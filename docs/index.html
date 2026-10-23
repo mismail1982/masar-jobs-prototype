@@ -202,6 +202,12 @@
           <article><span>♢</span><div><strong>3</strong><small>وظائف مشبوهة مستبعدة</small></div></article>
         </div>
         <div class="channel-grid" id="channelGrid"></div>
+        <div class="panel telegram-library">
+          <div class="telegram-library-head"><div><span class="eyebrow">قنوات راجعنا وجودها</span><h3>مكتبة تيليجرام للتوظيف</h3><p>قنوات لمصر والسعودية والإمارات وقطر والكويت والبحرين وعُمان، مع قنوات تغطي الخليج كاملًا.</p></div><span class="telegram-count" id="telegramChannelCount"></span></div>
+          <div class="telegram-filters"><select id="telegramCountryFilter"><option value="all">كل الدول</option><option value="مصر">مصر</option><option value="السعودية">السعودية</option><option value="الإمارات">الإمارات</option><option value="قطر">قطر</option><option value="الكويت">الكويت</option><option value="البحرين">البحرين</option><option value="عُمان">عُمان</option><option value="كل دول الخليج">كل دول الخليج</option></select><input id="telegramChannelSearch" placeholder="ابحث عن قناة أو دولة" /></div>
+          <div class="telegram-directory" id="telegramDirectory"></div>
+          <p class="telegram-safety">⚠ تحقق دائمًا من جهة الإعلان، ولا تدفع أي رسوم مقابل وظيفة. زر «أضف للمصادر» يحفظ القناة في مسار؛ جمع منشوراتها تلقائيًا يحتاج بوتًا مصرحًا وخادمًا آمنًا.</p>
+        </div>
         <div class="panel source-policy"><div><span>🛡️</span><div><h3>جمع قانوني وآمن</h3><p>القنوات العامة تُربط عبر واجهات رسمية أو خلاصات وتنبيهات مصرح بها. LinkedIn وFacebook لا يتم جمعهما بالـscraping، والتقديم يظل بعد موافقة المستخدم.</p></div></div><div class="pipeline"><span>استقبال</span><i>←</i><span>تنظيف</span><i>←</i><span>حذف المكرر</span><i>←</i><span>مطابقة</span><i>←</i><span>موافقة</span></div></div>
       </section>
 
@@ -378,7 +384,7 @@
         <label>نوع المصدر<select name="type"><option value="telegram">Telegram</option><option value="facebook">Facebook</option><option value="linkedin">LinkedIn</option><option value="portal">موقع توظيف</option><option value="company">صفحة شركة</option><option value="email">تنبيه بريد</option></select></label>
         <label>اسم القناة أو الموقع<input name="name" required placeholder="مثال: وظائف الهندسة — السعودية" /></label>
         <label class="wide">الرابط<input name="url" type="url" required placeholder="https://..." /></label>
-        <label>الدولة<select name="country"><option>السعودية</option><option>الإمارات</option><option>قطر</option><option>الكويت</option><option>البحرين</option><option>عُمان</option><option>كل دول الخليج</option></select></label>
+        <label>الدولة<select name="country"><option>مصر</option><option>السعودية</option><option>الإمارات</option><option>قطر</option><option>الكويت</option><option>البحرين</option><option>عُمان</option><option>كل دول الخليج</option></select></label>
         <label>نطاق العمل<input name="sector" placeholder="مثال: هندسة وعمارة" /></label>
       </div>
       <div class="connector-hint" id="connectorHint">سيحتاج بوت Telegram إلى إضافته للقناة حتى يستقبل المنشورات رسميًا.</div>

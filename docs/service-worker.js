@@ -1,4 +1,4 @@
-const CACHE_NAME='masar-shell-v10';
+const CACHE_NAME='masar-shell-v11';
 const APP_SHELL=['./','./index.html','./styles.css','./app.js','./i18n.js','./manifest.webmanifest','./masar-icon.svg'];
 
 self.addEventListener('install',event=>{

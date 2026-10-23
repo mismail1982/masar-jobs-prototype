@@ -47,11 +47,15 @@
     "تم تسجيل الطلب":"Application recorded","مبروك!":"Congratulations!","العودة للوظائف":"Back to jobs","عرض طلباتي":"View my applications",
     "بعد موافقتك يتم حفظ الطلب والخطاب في «طلباتي» دون فتح موقع خارجي تلقائيًا.":"After approval, the application and letter are saved in My Applications without opening an external site automatically.",
     "تم حفظ الطلب وخطاب التقديم داخل مسار. الإرسال المباشر إلى جهة العمل سيتفعّل عند ربط قاعدة البيانات والتكامل الرسمي.":"Your application and cover letter were saved in Masar. Direct employer delivery will be enabled after the database and official integrations are connected.",
-    "تم تسجيل التقديم بنجاح":"Application recorded successfully","سبق تسجيل طلب لهذه الوظيفة":"An application for this job has already been recorded"
+    "تم تسجيل التقديم بنجاح":"Application recorded successfully","سبق تسجيل طلب لهذه الوظيفة":"An application for this job has already been recorded",
+    "قنوات راجعنا وجودها":"Channels checked for availability","مكتبة تيليجرام للتوظيف":"Telegram jobs channel library","قنوات لمصر والسعودية والإمارات وقطر والكويت والبحرين وعُمان، مع قنوات تغطي الخليج كاملًا.":"Channels for Egypt, Saudi Arabia, UAE, Qatar, Kuwait, Bahrain and Oman, plus Gulf-wide channels.",
+    "كل الدول":"All countries","فتح القناة":"Open channel","فتح القناة ↗":"Open channel ↗","أضف للمصادر":"Add to sources","مضافة ✓":"Added ✓","لا توجد قناة مطابقة لهذا البحث.":"No channel matches this search.",
+    "⚠ تحقق دائمًا من جهة الإعلان، ولا تدفع أي رسوم مقابل وظيفة. زر «أضف للمصادر» يحفظ القناة في مسار؛ جمع منشوراتها تلقائيًا يحتاج بوتًا مصرحًا وخادمًا آمنًا.":"⚠ Always verify the advertiser and never pay a fee for a job. Add to sources saves the channel in Masar; automatic post collection requires an authorized bot and a secure server.",
+    "قناة عامة — فتح مباشر ومتابعة يدوية":"Public channel — direct access and manual follow-up","تمت إضافة قناة تيليجرام إلى مصادرك":"Telegram channel added to your sources","القناة مضافة بالفعل":"This channel is already added"
   });
 
   const placeholderTranslations={
-    "اكتب اسمك كما يظهر في السيرة":"Enter your name as shown on your CV","ابحث عن وظيفة أو شركة":"Search jobs or companies","اكتب المسمى أو التخصص":"Enter a role or specialty","مثال: مهندس معماري أو تحليل بيانات":"Example: Architect or Data Analysis","ابحث عن دولة أو موقع توظيف":"Search country or job site","ابحث عن تخصص أو مهارة أو برنامج":"Search specialty, skill or software","مثال: مدير عمليات":"Example: Operations Manager","اسم الشركة":"Company name","مثال: وظائف الهندسة — السعودية":"Example: Engineering Jobs — Saudi Arabia","مثال: هندسة وعمارة":"Example: Engineering and Architecture","اكتب المسمى كما يظهر في السوق":"Enter the market job title"
+    "اكتب اسمك كما يظهر في السيرة":"Enter your name as shown on your CV","ابحث عن وظيفة أو شركة":"Search jobs or companies","اكتب المسمى أو التخصص":"Enter a role or specialty","مثال: مهندس معماري أو تحليل بيانات":"Example: Architect or Data Analysis","ابحث عن دولة أو موقع توظيف":"Search country or job site","ابحث عن تخصص أو مهارة أو برنامج":"Search specialty, skill or software","مثال: مدير عمليات":"Example: Operations Manager","اسم الشركة":"Company name","مثال: وظائف الهندسة — السعودية":"Example: Engineering Jobs — Saudi Arabia","مثال: هندسة وعمارة":"Example: Engineering and Architecture","اكتب المسمى كما يظهر في السوق":"Enter the market job title","ابحث عن قناة أو دولة":"Search channel or country"
   };
   const textOriginals=new WeakMap(),attrOriginals=new WeakMap();let currentLanguage=localStorage.getItem('masarUiLanguage')||'ar',isTranslating=false;
   const preserveWhitespace=(original,replacement)=>original.replace(original.trim(),replacement);
@@ -70,6 +74,7 @@
     match=value.match(/^(\d+) مجالًا · (\d+) تخصصًا$/);if(match)return `${match[1]} fields · ${match[2]} specialties`;
     match=value.match(/^(\d+) تخصصًا · (\d+) كلمة بحث$/);if(match)return `${match[1]} specialties · ${match[2]} search keywords`;
     match=value.match(/^(\d+) مواقع موثقة بالدليل$/);if(match)return `${match[1]} verified sites`;
+    match=value.match(/^(\d+) قناة$/);if(match)return `${match[1]} channels`;
     match=value.match(/^(\d+) وظيفة متاحة من سوق العمل$/);if(match)return `${match[1]} market jobs available`;
     match=value.match(/^حلّل مسار (\d+) وظيفة ورتبها وفق تخصصك وخبرتك وموقعك وراتبك المستهدف\.$/);if(match)return `Masar analyzed ${match[1]} jobs and ranked them by your field, experience, location and target salary.`;
     match=value.match(/^آخر تحديث: (.+) · (\d+) مصادر$/);if(match)return `Last updated: ${match[1]} · ${match[2]} sources`;
