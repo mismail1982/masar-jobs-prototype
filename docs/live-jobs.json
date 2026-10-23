@@ -1,8 +1,36 @@
 {
-  "generatedAt": "2026-10-23T08:48:41.114Z",
-  "total": 283,
+  "generatedAt": "2026-10-23T09:46:43.865Z",
+  "total": 285,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 1756958266,
+      "externalId": "9cd51ead-92e9-4ce5-846a-1f3ba2a2277f",
+      "title": "Product Designer, AI-Native Products (Staff-Level / L6)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-10-23T08:58:19.370Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Compliance",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Lead end-to-end product design: Own major AI-native product initiatives, from identifying user problems and framing opportunities to prototyping, delivery, launch, and continuous improvement. Define design vision and strategy: Establish the design direction for conversational and AI-powered product experiences while ensuring consistency across related product areas. Shape product decisions: Partner with Product and Engineering leaders to define product principles, establish quality standards, prioritize opportunities, and align design decisions with business objectives and user needs. Design conversational AI experiences: Create engaging, natural interactions with real-time AI avatars that support employee learning, skills development, practice, and workplace conversations. Develop intuitive AI workflows: Design interaction patterns for AI-driven and agentic systems, balancing automation with appropriate levels of user control, transparency, and trust. Improve AI output quality: Build structured workflows, contextual guidance, and feedback mechanisms that help users understand AI behavior, identify issues early, and refine results confidently. Prototype and validate emerging concepts: Experiment with new interaction models, including conversational and agentic experiences, using rapid prototyping and user testing to validate ideas and reduce uncertainty. Raise the design craft standard: Champion excellence in interaction design, visual design, usability, systems thinking, and consistency across AI-powered experiences. Champion customer needs: Incorporate user research, customer feedback, and product insights into design decisions, particularly for enterprise environments where quality, compliance, and scalability are essential. Influence cross-functional teams: Communicate design rationale clearly, facilitate productive design reviews, and help stakeholders navigate complex decisions in fast-moving and ambiguous product environments. Requirements Staff-level product design experience: Significant experience designing and shipping complex, high-usage digital products, with a demonstrated ability to lead major initiatives and influence product direction as a senior individual contributor. AI-native product expertise: Experience designing AI-powered products, agentic capabilities, conversational interfaces, or systems in which AI takes meaningful autonomous action is highly valuable. Exceptional design craft: Strong interaction and visual design skills, supported by a portfolio demonstrating high-quality execution and measurable improvements to the user experience. Strategic problem-solving: Ability to translate ambiguous, rapidly evolving challenges into clear product direction, actionable design principles, and well-defined opportunities without waiting for perfect information. Systems thinking: Understanding of how AI capabilities, model limitations, technical architecture, and product constraints influence user experience and interaction design decisions. Trust-centered design: Experience creating workflows where transparency, user control, reliability, and confidence in AI-generated outputs are essential. End-to-end ownership: Proven ability to take innovative ideas from early-stage exploration through validation, execution, launch, and ongoing optimization. Prototyping and experimentation: Ability to test concepts quickly, explore alternative interaction models, and determine when high-fidelity prototypes are needed to validate complex experiences. Cross-functional communication: Excellent communication skills and confidence presenting design decisions, facilitating reviews, and influencing stakeholders across Product and Engineering. Customer-focused mindset: Experience using user research, customer feedback, and behavioral insights to deliver solutions that address real needs, including enterprise requirements around quality, compliance, and scale. Leadership through influence: Ability to raise the quali",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/9cd51ead-92e9-4ce5-846a-1f3ba2a2277f",
+      "isLive": true
+    },
     {
       "id": 530004476,
       "externalId": "6f536bdc-fd6b-4d81-9575-a63786cb7a07",
@@ -141,6 +169,37 @@
       "description": "Accountabilities:: Plan, implement, and optimize CRM campaigns using Braze, with a focus on advanced audience segmentation, targeting, and personalized customer engagement. Build dynamic, behavior-based campaigns and lifecycle journeys using Liquid logic to tailor content according to user attributes, preferences, and actions. Manage, maintain, and optimize custom attributes within Braze to improve audience targeting and campaign relevance. Collaborate with data analytics teams to integrate and leverage user data, translating behavioral insights into effective CRM strategies. Develop, test, and refine HTML modifications within Braze templates to ensure consistent layouts and functionality across devices and email clients. Design and execute A/B tests across CRM campaigns, analyze results, and use findings to continuously improve engagement, conversion, and retention metrics. Monitor campaign performance using mobile analytics platforms, identify optimization opportunities, and communicate actionable recommendations to stakeholders and clients. Provide technical guidance, knowledge sharing, and training to team members on Braze capabilities and its integration with other marketing tools and platforms. Apply user psychology and behavioral insights to develop compelling lifecycle communications that support sustainable mobile app growth. Requirements: At least 2 years of experience using Braze, Customer.io, Iterable, or a comparable CRM automation platform, with demonstrated proficiency in planning, building, and launching campaigns. Practical experience with A/B testing and experimentation across digital marketing channels, including the ability to interpret results and implement data-driven improvements. Proficiency in mobile analytics and reporting tools such as Amplitude, Mixpanel, Looker, or Periscope, with the ability to extract insights and build clear, informative visualizations. Strong analytical skills and a data-driven mindset, supported by an understanding of growth metrics, statistics, and performance measurement. Experience with campaign personalization, audience segmentation, customer attributes, and automated lifecycle communications. Familiarity with HTML and the ability to troubleshoot or optimize email templates and campaign content across different devices and email clients. A solid understanding of user psychology, customer motivations, and the factors influencing engagement and retention in mobile applications. A results-oriented approach, with a focus on measurable impact, continuous improvement, and translating insights into effective marketing actions. Strong communication and collaboration skills, with the ability to work effectively with clients, analysts, and cross-functional teams. Experience in mobile-focused startups, user acquisition, App Store Optimization (ASO), performance marketing, or marketing and sales copywriting would be an advantage. An inclusive, adaptable mindset and the ability to thrive in a diverse, international working environment. Benefits: The opportunity to work on mobile growth and CRM initiatives for a diverse portfolio of well-known digital products and applications. Exposure to advanced mobile marketing technologies, analytics platforms, and experimentation methodologies. A collaborative, international environment that encourages knowledge sharing, creativity, and continuous professional development. The opportunity to combine technical CRM expertise with strategic thinking, analytics, and customer experience optimization. Remote work within Europe. The chance to contribute directly to measurable improvements in customer engagement, retention, and business growth. A diverse and inclusive working environment where different backgrounds, perspectives, and skills are valued.",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/2e0a8f44-55e4-4fe5-bf45-f1c20e4bdf42",
+      "isLive": true
+    },
+    {
+      "id": 4280798198,
+      "externalId": "32c8c9c5-14af-4336-8399-207993071ff0",
+      "title": "Partner Engagement Specialist (6 months contract)",
+      "company": "Welo Data",
+      "country": "عُمان",
+      "region": "Cluj-Napoca, Romania",
+      "location": "Cluj-Napoca, Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "legal",
+      "age": "اليوم",
+      "publishedAt": "2026-10-22T15:56:24.443Z",
+      "skills": [
+        "Excel",
+        "Audit",
+        "Education",
+        "Content",
+        "Recruitment",
+        "Compliance",
+        "Operations"
+      ],
+      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. Welocalize’s Opal Platform comprises patented technology designed to automate multilingual content and improve workflow performance for enterprises. Opal functions as an agentic system that orchestrates AI, automation, and human expertise to coordinate content workflows across the lifecycle, improving speed, scalability, and operational control for global enterprises. These solutions operate within a secure and compliant environment supported by seven ISO certifications. Welocalize is headquartered in New York with offices worldwide. welocalize.com MAIN PURPOSE OF ROLE The Partner Engagement Team is responsible for measuring, monitoring, and optimizing performance of suppliers within a particular set of languages. Performance includes, but is not limited to, on-time delivery, adherence to all client and project specific requirements, and defect-free deliverables. This Team is responsible for understanding customer capacity requirements as communicated by the Program Squads and liaising with Talent Procurement to ensure such capacity requirements can be met. As part of ensuring capacity, the Partner Engagement Team will monitor supplier utilization and advise supplier selection to the Program Squads accordingly. MAIN DUTIES: The following is a non-exhaustive list of responsibilities and areas of ownership of Partner Engagement Specialist: Through engagement with Program Squad, make data-driven decisions regarding the most suitable suppliers for standard service offerings. Suitability may be based on quality, OTD, market / language strategy, capacity needs, content specialty, or client specific requirements. Lead communication and onboarding of suppliers to new client programs, ensuring availability and suitability for such work. Maintain supplier skilling as it pertains to clients / Pantheon (proprietary) programs. Monitor utilization to ensure supplier usage is in alignment with strategies as defined by Program Operations, Partner Success, and Language Operations. Engage with Program Squads should adjustment in resource usage be necessary. Communicate with and support Talent Procurement in the creation of new recruitment campaigns to identify and onboard new suppliers to Welocalize. Ensure regular quality measuring of suppliers in alignment with Welocalize LQA strategy. Monitor and flag suppliers performing beneath defined Welocalize thresholds. Supplier performance is inclusive of OTD, time-to-accept task, language quality, adherence to instructions, etc. Initiate Quality Improvement Plan (QIP), RCAs or CAPAs, as needed. If QIP is deemed unsuccessful, inform Talent Procurement. For existing service offerings, liaise with Program Squad to understand customer capacity requirements and take appropriate actions to ensure such requirements are consistently met. Responsible for overall performance (internal & external resources) of the languages, capacity planning, resource utilization, OTD, and quality. Hardware and logistics . Handle device assignment, shipment, return and reconciliation, plus security key issuance and revocation, with an accurate asset register. Incidents and compliance. Triage access and device issues, maintain runbooks and SOPs, and enforce GDPR/CCPA privacy controls. Produce audit-ready evidence for ISO 27001 and SOC 2, and carry out background and location-eligibility checks under the client’s vendor requirements. Reporting and improvement. Track SLAs such as time-to-provision, deprovisioning timeliness and MTTR, and look for automation to cut cycle time and errors. REQUIREMENTS: Education & Experience Minimum of a BA/BS degree or equivalent e",
+      "source": "Lever · Welo Data",
+      "externalUrl": "https://jobs.lever.co/weloglobal/32c8c9c5-14af-4336-8399-207993071ff0",
       "isLive": true
     },
     {
@@ -3529,7 +3588,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T09:43:46.213Z",
       "skills": [
         "SQL",
@@ -3557,7 +3616,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T09:43:16.438Z",
       "skills": [
         "SQL",
@@ -3585,7 +3644,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T09:41:57.849Z",
       "skills": [
         "SQL",
@@ -3613,7 +3672,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T09:32:13.951Z",
       "skills": [
         "Python",
@@ -3641,7 +3700,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T09:31:39.903Z",
       "skills": [
         "Python",
@@ -3669,7 +3728,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T09:30:23.493Z",
       "skills": [
         "Python",
@@ -5338,7 +5397,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 28 أيام",
+      "age": "منذ 29 أيام",
       "publishedAt": "2026-09-24T09:23:39.128Z",
       "skills": [
         "Content"
@@ -5363,7 +5422,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 28 أيام",
+      "age": "منذ 29 أيام",
       "publishedAt": "2026-09-24T09:19:29.053Z",
       "skills": [
         "Content"
@@ -5517,7 +5576,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "sales",
-      "age": "منذ 35 أيام",
+      "age": "منذ 36 أيام",
       "publishedAt": "2026-09-17T09:43:16.238Z",
       "skills": [
         "Sales",
@@ -6077,7 +6136,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "translation",
-      "age": "منذ 51 أيام",
+      "age": "منذ 52 أيام",
       "publishedAt": "2026-09-01T09:18:41.208Z",
       "skills": [
         "Excel",
@@ -6299,7 +6358,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 64 أيام",
+      "age": "منذ 65 أيام",
       "publishedAt": "2026-08-19T09:20:20.297Z",
       "skills": [
         "Excel",
@@ -6715,7 +6774,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 107 أيام",
+      "age": "منذ 108 أيام",
       "publishedAt": "2026-07-07T09:06:51.302Z",
       "skills": [
         "Content",
@@ -6964,7 +7023,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "realestate",
-      "age": "منذ 200 أيام",
+      "age": "منذ 201 أيام",
       "publishedAt": "2026-04-05T09:40:30.575Z",
       "skills": [
         "SAP",
@@ -7053,7 +7112,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 232 أيام",
+      "age": "منذ 233 أيام",
       "publishedAt": "2026-03-04T08:52:35.403Z",
       "skills": [
         "Excel",
@@ -7249,7 +7308,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 274 أيام",
+      "age": "منذ 275 أيام",
       "publishedAt": "2026-01-21T08:56:19.749Z",
       "skills": [
         "Excel",
@@ -7632,7 +7691,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 540 أيام",
+      "age": "منذ 541 أيام",
       "publishedAt": "2025-04-30T09:16:10.863Z",
       "skills": [
         "Excel",
