@@ -56,7 +56,7 @@
     </div>
   </section>
 
-  <div class="privacy-dialog" id="privacyDialog" aria-hidden="true"><div class="privacy-card"><button id="closePrivacy">×</button><span class="eyebrow">خصوصيتك أولًا</span><h2>سياسة الخصوصية والأمان</h2><ul><li>نستخدم بياناتك لمطابقة الوظائف وتجهيز طلبات التقديم فقط.</li><li>لن يتم إرسال طلب إلا وفق طريقة التقديم التي تختارها وبموافقتك المسبقة.</li><li>يمكنك إيقاف التقديم التلقائي أو حذف بياناتك وطلباتك في أي وقت.</li><li>هذه النسخة التجريبية تحفظ البيانات على جهازك ولا ترسل OTP أو طلبات فعلية.</li></ul></div></div>
+  <div class="privacy-dialog" id="privacyDialog" aria-hidden="true"><div class="privacy-card"><button class="privacy-back" id="closePrivacy">→ رجوع</button><span class="eyebrow">خصوصيتك أولًا</span><h2>سياسة الخصوصية والأمان</h2><ul><li>نستخدم بياناتك لمطابقة الوظائف وتجهيز طلبات التقديم فقط.</li><li>لن يتم إرسال طلب إلا وفق طريقة التقديم التي تختارها وبموافقتك المسبقة.</li><li>يمكنك إيقاف التقديم التلقائي أو حذف بياناتك وطلباتك في أي وقت.</li><li>هذه النسخة التجريبية تحفظ البيانات على جهازك ولا ترسل OTP أو طلبات فعلية.</li></ul></div></div>
 
   <div class="app-shell">
     <aside class="sidebar" aria-label="القائمة الرئيسية">
@@ -156,6 +156,7 @@
       </section>
 
       <section class="page" id="jobs">
+        <button class="section-back" type="button" data-page-back>→ العودة للخلف</button>
         <div class="section-title">
           <div><span class="eyebrow">محرك المطابقة</span><h2>الفرص المناسبة لك</h2><p>رتّبنا النتائج بحسب المهارات والخبرة والراتب والموقع.</p></div>
           <button class="outline" id="addJobBtn">＋ إضافة وظيفة</button>
@@ -180,6 +181,7 @@
       </section>
 
       <section class="page" id="applications">
+        <button class="section-back" type="button" data-page-back>→ العودة للخلف</button>
         <div class="section-title"><div><span class="eyebrow">متابعة منظمة</span><h2>طلبات التقديم</h2><p>كل خطوة محفوظة من لحظة العثور على الوظيفة حتى الرد.</p></div></div>
         <div class="panel table-panel">
           <table>
@@ -191,6 +193,7 @@
       </section>
 
       <section class="page" id="channels">
+        <button class="section-back" type="button" data-page-back>→ العودة للخلف</button>
         <div class="section-title"><div><span class="eyebrow">مصادر متعددة · مكان واحد</span><h2>قنوات الوظائف</h2><p>حدّد القنوات والدولة ونطاق العمل، وسيتولى مسار التنظيف وإزالة التكرار قبل المطابقة.</p></div><button class="primary" id="openSourceForm">＋ إضافة قناة</button></div>
         <div class="source-summary">
           <article><span>⌁</span><div><strong id="sourceCount">6</strong><small>مصادر مضافة</small></div></article>
@@ -203,6 +206,7 @@
       </section>
 
       <section class="page" id="library">
+        <button class="section-back" type="button" data-page-back>→ العودة للخلف</button>
         <div class="section-title"><div><span class="eyebrow">دليل البحث الموحد</span><h2>مكتبة المواقع والتخصصات</h2><p>اختر الدولة والتخصص، ثم افتح نفس البحث في المصادر المتاحة دون نسخ آلي مخالف.</p></div><span class="library-badge">18 مجالًا · أكثر من 150 كلمة</span></div>
         <div class="library-search panel">
           <label><span>الكلمة أو التخصص</span><input id="libraryQuery" placeholder="مثال: مهندس معماري أو تحليل بيانات" /></label>
@@ -223,6 +227,7 @@
       </section>
 
       <section class="page" id="salary">
+        <button class="section-back" type="button" data-page-back>→ العودة للخلف</button>
         <div class="section-title"><div><span class="eyebrow">تقدير سوقي ذكي</span><h2>راتبي كام؟</h2><p>قدّر نطاق راتبك بناءً على الدور والخبرة والموقع والمؤهل واللغات والبرامج المهنية.</p></div><span class="estimate-note">تقدير استرشادي وليس عرضًا وظيفيًا</span></div>
         <div class="salary-layout">
           <form class="panel salary-form" id="salaryForm">
@@ -248,6 +253,7 @@
       </section>
 
       <section class="page" id="profile">
+        <button class="section-back" type="button" data-page-back>→ العودة للخلف</button>
         <div class="section-title"><div><span class="eyebrow">أساس المطابقة</span><h2>ملفك المهني</h2><p>كلما كانت بياناتك أدق، كانت الوظائف والخطابات أفضل.</p></div><span class="autosave">● محفوظ محليًا على جهازك</span></div>
         <form id="profileForm" class="profile-grid">
           <div class="panel form-panel">
@@ -291,6 +297,7 @@
     <div class="modal-backdrop" data-close-details></div>
     <div class="modal-card job-details-card" role="dialog" aria-modal="true" aria-labelledby="jobDetailsTitle">
       <button class="modal-close" data-close-details aria-label="إغلاق">×</button>
+      <button class="modal-back-button" data-close-details>→ رجوع</button>
       <span class="eyebrow">تفاصيل الوظيفة</span>
       <div class="job-details-heading"><span class="company-logo" id="jobDetailsLogo"></span><div><h2 id="jobDetailsTitle"></h2><p id="jobDetailsCompany"></p></div></div>
       <div class="job-facts" id="jobDetailsFacts"></div>
@@ -298,7 +305,7 @@
       <section class="job-detail-section"><h3>الشروط والمتطلبات</h3><ul class="job-requirements" id="jobDetailsRequirements"></ul></section>
       <section class="job-detail-section"><h3>المهارات المطلوبة</h3><div class="job-detail-skills" id="jobDetailsSkills"></div></section>
       <div class="job-detail-match" id="jobDetailsMatch"></div>
-      <div class="job-detail-actions"><button class="outline" data-close-details>→ رجوع للوظائف</button><button class="outline save-job-btn" id="detailsSaveBtn">☆ حفظ الوظيفة</button><a class="outline hidden" id="detailsSourceLink" target="_blank" rel="noopener noreferrer">عرض الإعلان الأصلي ↗</a><button class="primary" id="detailsApplyBtn">التقديم على الوظيفة</button></div>
+      <div class="job-detail-actions"><button class="outline" data-close-details>→ رجوع للوظائف</button><button class="outline save-job-btn" id="detailsSaveBtn">☆ حفظ الوظيفة</button><button class="primary" id="detailsApplyBtn">التقديم على الوظيفة</button></div>
     </div>
   </div>
 
@@ -306,6 +313,7 @@
     <div class="modal-backdrop" data-close-modal></div>
     <div class="modal-card" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
       <button class="modal-close" data-close-modal aria-label="إغلاق">×</button>
+      <button class="modal-back-button" data-close-modal>→ رجوع</button>
       <span class="eyebrow">طلب تقديم ذكي</span>
       <h2 id="modalTitle">تجهيز طلب التقديم</h2>
       <div class="selected-job" id="selectedJob"></div>
@@ -324,8 +332,21 @@
       <div class="match-reasons" id="matchReasons"></div>
       <label class="submit-consent"><input id="submitConsent" type="checkbox" /><span>أؤكد أنني راجعت البيانات وأوافق على سياسة الخصوصية والأمان وإرسال الطلب لهذه الوظيفة.</span></label>
       <div class="modal-actions"><button class="outline" data-close-modal>حفظ كمسودة</button><button class="primary" id="approveApplication" disabled>موافقة وإرسال الطلب</button></div>
-      <p class="modal-disclaimer">يتم فتح صفحة التقديم الرسمية بعد موافقتك. الإرسال النهائي يخضع لخطوات منصة التوظيف أو جهة العمل.</p>
+      <p class="modal-disclaimer">بعد موافقتك يتم حفظ الطلب والخطاب في «طلباتي» دون فتح موقع خارجي تلقائيًا.</p>
       </div>
+    </div>
+  </div>
+
+  <div class="modal" id="applicationSuccessModal" aria-hidden="true">
+    <div class="modal-backdrop" data-close-success></div>
+    <div class="modal-card small success-card" role="dialog" aria-modal="true" aria-labelledby="applicationSuccessTitle">
+      <button class="modal-close" data-close-success aria-label="إغلاق">×</button>
+      <div class="success-icon">✓</div>
+      <span class="eyebrow">تم تسجيل الطلب</span>
+      <h2 id="applicationSuccessTitle">مبروك!</h2>
+      <p class="success-message" id="applicationSuccessMessage"></p>
+      <p class="success-note">تم حفظ الطلب وخطاب التقديم داخل مسار. الإرسال المباشر إلى جهة العمل سيتفعّل عند ربط قاعدة البيانات والتكامل الرسمي.</p>
+      <div class="success-actions"><button class="outline" data-close-success data-success-jobs>→ العودة للوظائف</button><button class="primary" id="successViewApplications">عرض طلباتي</button></div>
     </div>
   </div>
 
@@ -333,6 +354,7 @@
     <div class="modal-backdrop" data-close-job></div>
     <form class="modal-card small" id="jobForm">
       <button class="modal-close" type="button" data-close-job>×</button>
+      <button class="modal-back-button" type="button" data-close-job>→ رجوع</button>
       <span class="eyebrow">إضافة فرصة إلى مسار</span><h2>أضف وظيفة</h2>
       <div class="form-grid">
         <label>المسمى الوظيفي<input name="title" required placeholder="مثال: مدير عمليات" /></label>
@@ -350,6 +372,7 @@
     <div class="modal-backdrop" data-close-source></div>
     <form class="modal-card small" id="sourceForm">
       <button class="modal-close" type="button" data-close-source>×</button>
+      <button class="modal-back-button" type="button" data-close-source>→ رجوع</button>
       <span class="eyebrow">مصدر جديد</span><h2>إضافة قناة وظائف</h2>
       <div class="form-grid">
         <label>نوع المصدر<select name="type"><option value="telegram">Telegram</option><option value="facebook">Facebook</option><option value="linkedin">LinkedIn</option><option value="portal">موقع توظيف</option><option value="company">صفحة شركة</option><option value="email">تنبيه بريد</option></select></label>

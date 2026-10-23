@@ -147,7 +147,9 @@ function escapeHtml(value){return String(value).replace(/[&<>'"]/g,c=>({"&":"&am
 function switchSection(id,{fromBack=false}={}){if(id!==currentSection&&!fromBack)sectionHistory.push(currentSection);currentSection=id;$$('.page').forEach(p=>p.classList.toggle('active',p.id===id));$$('.nav-item,.mobile-nav-item').forEach(n=>n.classList.toggle('active',n.dataset.section===id));const titles={dashboard:`صباح الخير، ${profile.name.split(' ')[0]} <span>👋</span>`,jobs:"الفرص المناسبة",applications:"طلبات التقديم",channels:"قنوات الوظائف",library:"مكتبة البحث",salary:"راتبي كام؟",profile:"ملفي المهني"};$('#pageTitle').innerHTML=titles[id]||"مسار";$('#pageBackBtn').classList.toggle('hidden',id==='dashboard');$('.sidebar').classList.remove('open');window.scrollTo({top:0,behavior:'smooth'});}
 $$('[data-section]').forEach(btn=>btn.addEventListener('click',()=>switchSection(btn.dataset.section)));
 $('#menuBtn').addEventListener('click',()=>$('.sidebar').classList.toggle('open'));
-$('#pageBackBtn').addEventListener('click',()=>{const previous=sectionHistory.pop()||'dashboard';switchSection(previous,{fromBack:true})});
+function goToPreviousPage(){const previous=sectionHistory.pop()||'dashboard';switchSection(previous,{fromBack:true})}
+$('#pageBackBtn').addEventListener('click',goToPreviousPage);
+$$('[data-page-back]').forEach(button=>button.addEventListener('click',goToPreviousPage));
 
 function salaryText(job){return job.salaryDisclosed===false?'الراتب غير متاح':`${Number(job.minSalary).toLocaleString('ar-SA')}–${Number(job.maxSalary).toLocaleString('ar-SA')} ر.س`}
 function matchDetails(job){const exp=Number(profile.experience),target=Number(profile.salary),salaryLow=target-2000,salaryHigh=target+2000;const experience=exp>=job.minExp&&exp<=job.maxExp;const city=profile.cities.includes(job.location)||profile.region.includes(job.region)||job.mode.includes('بُعد');const country=profile.country===job.country;const salaryDisclosed=job.salaryDisclosed!==false;const salary=!salaryDisclosed||job.maxSalary>=salaryLow&&job.minSalary<=salaryHigh;const available=salaryDisclosed?3:2,matched=[experience,city&&country].filter(Boolean).length+(salaryDisclosed&&salary?1:0);return {experience,city:city&&country,salary,salaryDisclosed,score:Math.round(matched/available*100)}}
@@ -204,8 +206,7 @@ function openJobDetails(id){
  const requirements=jobRequirements(job);$('#jobDetailsRequirements').innerHTML=requirements.length?requirements.map(item=>`<li>${escapeHtml(item)}</li>`).join(''):'<li>لم يذكر صاحب العمل شروطًا إضافية في الإعلان.</li>';
  $('#jobDetailsSkills').innerHTML=job.skills.map(skill=>`<span>${escapeHtml(skill)}</span>`).join('');
  $('#jobDetailsMatch').innerHTML=`<span class="${match.experience?'good':'warn'}">${match.experience?'✓':'!'} الخبرة</span><span class="${match.city?'good':'warn'}">${match.city?'✓':'!'} الموقع</span><span class="${match.salary?'good':'warn'}">${match.salaryDisclosed?(match.salary?'✓ الراتب مناسب':'! الراتب خارج النطاق'):'◌ الراتب غير متاح'}</span><span class="good">التوافق ${match.score}%</span>`;
- const directUrl=specificJobUrl(job),sourceLink=$('#detailsSourceLink');sourceLink.classList.toggle('hidden',!directUrl);if(directUrl)sourceLink.href=directUrl;else sourceLink.removeAttribute('href');
- $('#detailsApplyBtn').textContent=directUrl?'التقديم على هذه الوظيفة':'جهّز طلب التقديم';
+ $('#detailsApplyBtn').textContent='التقديم على هذه الوظيفة';
  $('#detailsApplyBtn').dataset.applyJob=job.id;
  setSaveButton(job);
  $('#jobDetailsModal').classList.add('open');$('#jobDetailsModal').setAttribute('aria-hidden','false');
@@ -239,12 +240,12 @@ function addApplication(job,status,consent=true){
 function runAutoApply(){
  if(applicationMode!=='auto'||!autoApplyConsent)return 0;
  const eligible=jobs.filter(job=>matchDetails(job).score>50);let added=0;
- eligible.forEach(job=>{if(addApplication(job,specificJobUrl(job)?'جاهز للتقديم الرسمي — افتح الإعلان':'جاهز للمراجعة',true))added++});
+ eligible.forEach(job=>{if(addApplication(job,'تم تسجيل التقديم بنجاح',true))added++});
  renderApplications();return added;
 }
 function requestApplication(id){
  const job=jobs.find(item=>item.id===id);if(!job)return;
- if(applicationMode==='auto'&&autoApplyConsent){const directUrl=specificJobUrl(job),status=directUrl?'جاهز للتقديم الرسمي — افتح الإعلان':'جاهز للمراجعة',added=addApplication(job,status,true);renderApplications();switchSection('applications');toast(added?(directUrl?'تم تجهيز الطلب؛ التقديم النهائي عبر إعلان الوظيفة':'تم تجهيز الطلب للمراجعة'):'سبق تجهيز طلب لهذه الوظيفة');return}
+ if(applicationMode==='auto'&&autoApplyConsent){const added=addApplication(job,'تم تسجيل التقديم بنجاح',true);renderApplications();if(added)openApplicationSuccess(job);else toast('سبق تسجيل طلب لهذه الوظيفة');return}
  openApplication(id,applicationMode==='manual');
 }
 $$('input[name="applicationMode"]').forEach(input=>input.addEventListener('change',()=>{$('#autoConsentWrap').classList.toggle('hidden',input.value!=='auto')}));
@@ -271,7 +272,17 @@ function texts(){const first=profile.name,skills=selectedJob.skills.slice(0,3).j
  linkedin:`مرحبًا، أنا ${first}. لفتت انتباهي وظيفة «${selectedJob.title}» في ${selectedJob.company}. لدي خبرة في ${profileSkills().slice(0,3).join('، ')}، وأرى توافقًا جيدًا مع متطلبات الدور. تقدمت/أستعد للتقدم عبر القناة الرسمية، ويسعدني التواصل لمعرفة المزيد. شكرًا لوقتك.`};}
 function updateComposer(){if(!selectedJob)return;const labels={email:'مقدمة بريد جاهزة للمراجعة',letter:'خطاب تقديم مخصص',linkedin:'رسالة LinkedIn قصيرة — للنسخ والمراجعة فقط'},m=matchDetails(selectedJob);$('#composeLabel').textContent=labels[currentCompose];$('#generatedText').value=texts()[currentCompose];$('#matchReasons').innerHTML=`<span class="${m.experience?'':'warn'}">${m.experience?'✓':'!'} خبرتك ${profile.experience} سنوات / المطلوب ${selectedJob.minExp}–${selectedJob.maxExp}</span><span class="${m.city?'':'warn'}">${m.city?'✓':'!'} ${selectedJob.location}</span><span class="${m.salary?'':'warn'}">${m.salaryDisclosed?(m.salary?'✓ راتبك المستهدف ±2,000':'! الراتب خارج النطاق'):'◌ الراتب غير معلن — التقديم متاح'}</span>`}
 $('#copyText').addEventListener('click',async()=>{try{await navigator.clipboard.writeText($('#generatedText').value);toast('تم نسخ النص')}catch{toast('حدد النص وانسخه يدويًا')}});
-$('#approveApplication').addEventListener('click',()=>{if(!selectedJob||!$('#submitConsent').checked)return;const directUrl=specificJobUrl(selectedJob),official=Boolean(directUrl),status=official?'جاهز للتقديم الرسمي — تم فتح إعلان الوظيفة':'جاهز للمراجعة',added=addApplication(selectedJob,status,true);if(added)applications[0].draft=$('#generatedText').value;localStorage.setItem('masarApplications',JSON.stringify(applications));if(official)window.open(directUrl,'_blank','noopener,noreferrer');renderApplications();closeApplication();switchSection('applications');toast(added?(official?'تم حفظ الطلب وفتح إعلان الوظيفة نفسه':'تم حفظ الطلب للمراجعة'):'سبق تجهيز هذا الطلب')});
+function openApplicationSuccess(job){
+ const english=localStorage.getItem('masarUiLanguage')==='en',firstName=String(profile.name||'').trim().split(/\s+/)[0]||(english?'Applicant':'المتقدم');
+ $('#applicationSuccessTitle').textContent=english?`Congratulations, ${firstName}! 🎉`:`مبروك يا ${firstName} 🎉`;
+ $('#applicationSuccessMessage').textContent=english?`Your application for “${job.title}” at ${job.company} was recorded successfully.`:`تم التقديم على وظيفة «${job.title}» في ${job.company} بنجاح.`;
+ $('#applicationSuccessModal').classList.add('open');$('#applicationSuccessModal').setAttribute('aria-hidden','false');
+}
+function closeApplicationSuccess(){$('#applicationSuccessModal').classList.remove('open');$('#applicationSuccessModal').setAttribute('aria-hidden','true')}
+$$('[data-close-success]').forEach(button=>button.addEventListener('click',closeApplicationSuccess));
+$('[data-success-jobs]').addEventListener('click',()=>switchSection('jobs'));
+$('#successViewApplications').addEventListener('click',()=>{closeApplicationSuccess();switchSection('applications')});
+$('#approveApplication').addEventListener('click',()=>{if(!selectedJob||!$('#submitConsent').checked)return;const submittedJob=selectedJob,added=addApplication(submittedJob,'تم تسجيل التقديم بنجاح',true);if(!added){closeApplication();toast('سبق تسجيل طلب لهذه الوظيفة');return}applications[0].draft=$('#generatedText').value;localStorage.setItem('masarApplications',JSON.stringify(applications));renderApplications();closeApplication();openApplicationSuccess(submittedJob)});
 function renderApplications(){const body=$('#applicationsTable');body.innerHTML=applications.map(a=>`<tr><td><strong>${escapeHtml(a.title)}</strong></td><td>${escapeHtml(a.company)}</td><td>${a.score}%</td><td>${escapeHtml(a.date)}</td><td><span class="status-pill">${escapeHtml(a.status)}</span></td><td><button class="text-btn" data-review-app="${a.jobId}">مراجعة</button></td></tr>`).join('');$('#emptyApplications').classList.toggle('hidden',applications.length>0);$('#readyCount').textContent=applications.length;$('#mobileApplicationCount').textContent=applications.length;$$('[data-review-app]').forEach(b=>b.onclick=()=>openJobDetails(Number(b.dataset.reviewApp)))}
 
 function fillProfile(){Object.entries(profile).forEach(([k,v])=>{const el=$(`#profileForm [name="${k}"]`);if(el)el.value=v});$('#sidebarName').textContent=profile.name;$('#sidebarCountry').textContent=`باحث عن فرصة · ${profile.country}`}

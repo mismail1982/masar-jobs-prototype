@@ -42,6 +42,14 @@
     "وظائف الشرق الأوسط وشمال أفريقيا":"Jobs across the Middle East and North Africa","محرك بحث وظائف عربي":"Arabic job search engine","وظائف الخليج والشرق الأوسط":"Jobs across the Gulf and Middle East","الأربعاء، 21 أكتوبر":"Wednesday, 21 October","تم تفعيل الحساب بنجاح":"Account activated successfully","تم حفظ طريقة التقديم":"Application mode saved","سبق إرسال هذا الطلب":"This application was already submitted","تم إرسال الطلب تجريبيًا بعد موافقتك":"Demo application submitted after your approval"
   };
 
+  Object.assign(translations,{
+    "العودة للخلف":"Back","→ العودة للخلف":"← Back","→ رجوع":"← Back","→ رجوع للوظائف":"← Back to jobs",
+    "تم تسجيل الطلب":"Application recorded","مبروك!":"Congratulations!","العودة للوظائف":"Back to jobs","عرض طلباتي":"View my applications",
+    "بعد موافقتك يتم حفظ الطلب والخطاب في «طلباتي» دون فتح موقع خارجي تلقائيًا.":"After approval, the application and letter are saved in My Applications without opening an external site automatically.",
+    "تم حفظ الطلب وخطاب التقديم داخل مسار. الإرسال المباشر إلى جهة العمل سيتفعّل عند ربط قاعدة البيانات والتكامل الرسمي.":"Your application and cover letter were saved in Masar. Direct employer delivery will be enabled after the database and official integrations are connected.",
+    "تم تسجيل التقديم بنجاح":"Application recorded successfully","سبق تسجيل طلب لهذه الوظيفة":"An application for this job has already been recorded"
+  });
+
   const placeholderTranslations={
     "اكتب اسمك كما يظهر في السيرة":"Enter your name as shown on your CV","ابحث عن وظيفة أو شركة":"Search jobs or companies","اكتب المسمى أو التخصص":"Enter a role or specialty","مثال: مهندس معماري أو تحليل بيانات":"Example: Architect or Data Analysis","ابحث عن دولة أو موقع توظيف":"Search country or job site","ابحث عن تخصص أو مهارة أو برنامج":"Search specialty, skill or software","مثال: مدير عمليات":"Example: Operations Manager","اسم الشركة":"Company name","مثال: وظائف الهندسة — السعودية":"Example: Engineering Jobs — Saudi Arabia","مثال: هندسة وعمارة":"Example: Engineering and Architecture","اكتب المسمى كما يظهر في السوق":"Enter the market job title"
   };
