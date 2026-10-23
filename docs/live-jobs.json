@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-10-23T07:53:23.503Z",
-  "total": 281,
+  "generatedAt": "2026-10-23T08:48:41.114Z",
+  "total": 283,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 530004476,
+      "externalId": "6f536bdc-fd6b-4d81-9575-a63786cb7a07",
+      "title": "Copywriter - Kraken Pro",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "media",
+      "age": "اليوم",
+      "publishedAt": "2026-10-23T08:31:51.607Z",
+      "skills": [
+        "Excel",
+        "Marketing",
+        "Content",
+        "Recruitment",
+        "Compliance"
+      ],
+      "description": "Accountabilities: Create high-performing copy: Develop clear, compelling, and conversion-focused messaging for marketing campaigns, landing pages, emails, in-app experiences, paid advertising, and social media. Connect with the trading community: Write in a voice that resonates with crypto traders and online financial communities, balancing humor, directness, and technical precision. Support product launches: Turn complex product features, technical updates, and new releases into engaging narratives that communicate value and encourage adoption. Maintain brand consistency: Help define, evolve, and protect the brand's tone of voice across all customer touchpoints, from campaign headlines to push notifications. Collaborate cross-functionally: Partner with Design, Product, Growth, and Social teams to develop creative briefs, refine messaging, and deliver campaigns efficiently. Optimize content performance: Develop and test copy variations, analyze results, and continuously improve messaging based on performance data and audience insights. Ensure accuracy and compliance: Work with Legal and Communications teams to deliver accurate, responsible, and compliant messaging across different markets and platforms. Requirements Relevant experience: At least three years of experience in copywriting or content creation, ideally within fintech, cryptocurrency, trading, or a related industry. A strong portfolio: Demonstrated experience creating copy that captures attention, drives engagement, and inspires action. Practical results and creative work matter more than employer credentials. Exceptional writing skills: Ability to produce concise, persuasive, and engaging content across multiple formats, including headlines, long-form copy, microcopy, scripts, social media threads, email sequences, and taglines. Knowledge of crypto and trading culture: Familiarity with trading communities, industry terminology, market dynamics, and the language used by active traders. Adaptability and speed: Comfortable working in a fast-moving environment, managing competing priorities, and delivering high-quality copy under tight deadlines. AI proficiency: Strong ability to use AI-powered tools to accelerate workflows, improve productivity, and increase creative output while maintaining quality and originality. Creative judgment: Excellent editorial instincts, attention to detail, and the ability to simplify complex ideas without losing their meaning. Collaboration and communication: Strong interpersonal skills and the ability to work effectively with designers and cross-functional teams, including providing creative briefs, placing copy in Figma, and developing quick mockups when needed. Ownership and initiative: A proactive, self-directed approach, with the confidence to generate ideas, experiment with messaging, and continuously improve creative output. Candidates who do not meet every listed requirement but bring relevant skills, strong creative work, or a genuine passion for crypto and trading are encouraged to apply. The recruitment process may include job-related skills or work-style assessments, considered alongside professional experience and interviews. Benefits Flexible work environment: An opportunity to work remotely from Romania, subject to the partner company's employment and work-location arrangements. Meaningful impact: Help shape the messaging and community engagement of a product serving a global audience of active traders. Creative ownership: Contribute to brand voice development, campaign concepts, product storytelling, and experimentation across multiple channels. Cross-functional collaboration: Work alongside professionals across Design, Product, Growth, Social, Legal, and Communications. AI-enabled workflows: Apply modern AI tools to enhance productivity, streamline creative processes, and expand your impact. Professional development: Build expertise at the intersection of copywriting, financial technology, digital marketing, and trading c",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/6f536bdc-fd6b-4d81-9575-a63786cb7a07",
+      "isLive": true
+    },
+    {
+      "id": 1609433205,
+      "externalId": "bc26d338-15a5-49e3-9e67-a54d4fe58cea",
+      "title": "Engineering Tech Lead (Product Security)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "security",
+      "age": "اليوم",
+      "publishedAt": "2026-10-23T08:21:26.960Z",
+      "skills": [
+        "Insurance"
+      ],
+      "description": "Accountabilities: Penetration Testing and Security Assessments: Conduct hands-on penetration testing of products and infrastructure to identify and exploit vulnerabilities, with particular focus on Kubernetes environments, container isolation, and cloud-native systems. Vulnerability Management: Investigate, triage, prioritize, and remediate security vulnerabilities in application code and dependencies, taking ownership from discovery through patch development, release, and verification. Threat Modeling and Secure Design: Review new features and security-sensitive architectural designs early in the development lifecycle, identify potential attack paths, assess risks, and recommend practical mitigations. Kubernetes Security: Analyze Kubernetes attack surfaces, including container breakout risks, privilege escalation, role-based access control (RBAC), admission control, and security policy configurations. Kubernetes Internals and Infrastructure Security: Apply a strong understanding of Kubernetes components, including the API server, controllers, admission mechanisms, and kubelet, to identify weaknesses and strengthen system security. Code and Architecture Reviews: Participate in code reviews, design discussions, and technical reviews to identify security issues and promote robust engineering practices. Secure Engineering Practices: Work with engineers across the organization to embed secure defaults, security checks, and threat-aware development practices into the product lifecycle. Production Software Development: Build, maintain, and improve production-grade software using Go, contributing directly to secure and reliable infrastructure components. Security Communication and Collaboration: Explain vulnerabilities, attack scenarios, and remediation priorities clearly to engineering stakeholders, helping teams make informed security decisions. Continuous Security Improvement: Strengthen security processes, vulnerability handling practices, and engineering standards as the platform and its threat landscape evolve. Requirements Hands-on experience conducting penetration tests and identifying and exploiting vulnerabilities in production systems. Deep practical expertise in Kubernetes security, particularly container isolation, container breakout scenarios, privilege escalation, RBAC, and security policy best practices. Strong understanding of Kubernetes internals, including the API server, admission control, controllers, RBAC, and kubelet. Experience building Kubernetes controllers or operators using tools such as controller-runtime, Kubebuilder, or client-go is highly relevant. Demonstrated experience with threat modeling, secure system design, and reviewing production architectures for security risks. Proven ability to investigate and remediate vulnerabilities in software you work on, including familiarity with the CVE lifecycle, coordinated vulnerability disclosure, and security patch releases. Professional experience building and shipping production systems with Go as a primary programming language. Strong software engineering fundamentals, including code review, debugging, secure development practices, and practical risk assessment. Ability to communicate complex technical risks and security recommendations clearly to engineers and other stakeholders. A proactive, independent approach to problem-solving, with the ability to take ownership of security issues and drive them through to resolution. A collaborative mindset and commitment to improving security practices across engineering teams. Nice to have: Certified Kubernetes Security Specialist (CKS) certification. Experience working at an early-stage startup or in a rapidly growing organization where autonomy, adaptability, and initiative are essential. Familiarity with open-source development and cloud-native infrastructure projects. Benefits Competitive compensation: Annual salary for Canada-based candidates ranging from CA$140,000 to CA$200,000, depending on experience and l",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/bc26d338-15a5-49e3-9e67-a54d4fe58cea",
+      "isLive": true
+    },
     {
       "id": 2512915097,
       "externalId": "f4472ff1-7e5c-46ae-9f0a-01eb92d25925",
@@ -1382,7 +1436,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T08:34:10.734Z",
       "skills": [
         "Excel",
@@ -1410,7 +1464,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T08:29:01.755Z",
       "skills": [
         "Python",
@@ -1438,7 +1492,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T08:28:29.406Z",
       "skills": [
         "Python",
@@ -1466,7 +1520,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T08:27:10.272Z",
       "skills": [
         "Python",
@@ -1494,7 +1548,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T08:18:15.839Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -1519,7 +1573,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T08:17:37.169Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -1544,7 +1598,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T08:15:40.699Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -1569,7 +1623,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "customer",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T08:05:08.197Z",
       "skills": [
         "Excel",
@@ -1595,7 +1649,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "customer",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T08:04:30.432Z",
       "skills": [
         "Excel",
@@ -1621,7 +1675,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "customer",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-21T08:02:40.687Z",
       "skills": [
         "Excel",
@@ -3643,7 +3697,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "sales",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T08:30:57.992Z",
       "skills": [
         "SAP",
@@ -3672,7 +3726,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T08:22:24.994Z",
       "skills": [
         "Teaching",
@@ -3699,7 +3753,7 @@
       "minExp": 7,
       "maxExp": 10,
       "category": "research",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T08:14:15.100Z",
       "skills": [
         "Excel",
@@ -3725,7 +3779,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-19T08:13:09.641Z",
       "skills": [
         "Python",
@@ -4252,7 +4306,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-16T08:19:32.068Z",
       "skills": [
         "Excel",
@@ -4279,7 +4333,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-16T08:11:21.608Z",
       "skills": [
         "Excel",
@@ -4307,7 +4361,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-16T08:10:40.897Z",
       "skills": [
         "Excel",
@@ -4335,7 +4389,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-16T08:08:48.659Z",
       "skills": [
         "Excel",
@@ -4363,7 +4417,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-16T08:02:25.527Z",
       "skills": [
         "Excel",
@@ -5229,7 +5283,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "technology",
-      "age": "منذ 27 أيام",
+      "age": "منذ 28 أيام",
       "publishedAt": "2026-09-25T08:06:45.340Z",
       "skills": [
         "Python",
@@ -6051,7 +6105,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 51 أيام",
+      "age": "منذ 52 أيام",
       "publishedAt": "2026-09-01T08:15:05.603Z",
       "skills": [
         "Excel",
@@ -6275,7 +6329,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 64 أيام",
+      "age": "منذ 65 أيام",
       "publishedAt": "2026-08-19T08:03:16.333Z",
       "skills": [
         "Excel",
@@ -6687,7 +6741,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 135 أيام",
+      "age": "منذ 136 أيام",
       "publishedAt": "2026-06-09T08:03:12.091Z",
       "skills": [
         "JavaScript",
@@ -7553,7 +7607,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 533 أيام",
+      "age": "منذ 534 أيام",
       "publishedAt": "2025-05-07T08:19:01.580Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7661,7 +7715,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 640 أيام",
+      "age": "منذ 641 أيام",
       "publishedAt": "2025-01-20T08:12:44.468Z",
       "skills": [
         "Audit",
