@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T10:43:30.865Z",
+  "generatedAt": "2026-10-24T11:08:47.727Z",
   "total": 285,
   "feeds": 13,
   "jobs": [
@@ -873,7 +873,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T11:04:50.406Z",
       "skills": [
         "Excel",
@@ -1297,7 +1297,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T11:07:37.436Z",
       "skills": [
         "Excel",
@@ -1326,7 +1326,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T11:06:55.604Z",
       "skills": [
         "Excel",
@@ -5886,7 +5886,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 44 أيام",
+      "age": "منذ 45 أيام",
       "publishedAt": "2026-09-09T10:47:54.392Z",
       "skills": [
         "SAP"
@@ -7468,7 +7468,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "security",
-      "age": "منذ 389 أيام",
+      "age": "منذ 390 أيام",
       "publishedAt": "2025-09-29T10:53:59.334Z",
       "skills": [
         "Excel",
@@ -7654,7 +7654,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 528 أيام",
+      "age": "منذ 529 أيام",
       "publishedAt": "2025-05-13T10:50:29.522Z",
       "skills": [
         "Customer Service",
