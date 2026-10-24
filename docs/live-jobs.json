@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T14:06:46.394Z",
+  "generatedAt": "2026-10-24T14:42:40.861Z",
   "total": 285,
   "feeds": 13,
   "jobs": [
@@ -341,7 +341,7 @@
       "minExp": 15,
       "maxExp": 23,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T14:07:42.321Z",
       "skills": [
         "Sales",
@@ -5332,7 +5332,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 23 أيام",
+      "age": "منذ 24 أيام",
       "publishedAt": "2026-09-30T10:39:45-04:00",
       "skills": [
         "Excel",
@@ -6124,7 +6124,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 52 أيام",
+      "age": "منذ 53 أيام",
       "publishedAt": "2026-09-01T14:08:50.668Z",
       "skills": [
         "Research",
@@ -6240,7 +6240,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 57 أيام",
+      "age": "منذ 58 أيام",
       "publishedAt": "2026-08-27T14:27:29.778Z",
       "skills": [
         "Education",
@@ -6681,7 +6681,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 96 أيام",
+      "age": "منذ 97 أيام",
       "publishedAt": "2026-07-19T14:35:06.019Z",
       "skills": [
         "Finance",
@@ -7629,7 +7629,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 511 أيام",
+      "age": "منذ 512 أيام",
       "publishedAt": "2025-05-30T14:36:01.234Z",
       "skills": [
         "Content"
