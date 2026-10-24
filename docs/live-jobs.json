@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T01:02:37.985Z",
+  "generatedAt": "2026-10-24T01:50:26.106Z",
   "total": 285,
   "feeds": 13,
   "jobs": [
@@ -1909,7 +1909,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T01:41:49.482Z",
       "skills": [
         "Content",
@@ -1935,7 +1935,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T01:41:16.882Z",
       "skills": [
         "Content",
@@ -1961,7 +1961,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T01:39:51.650Z",
       "skills": [
         "Content",
