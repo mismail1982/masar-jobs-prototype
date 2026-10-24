@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T20:02:33.291Z",
-  "total": 285,
+  "generatedAt": "2026-10-24T20:40:02.689Z",
+  "total": 279,
   "feeds": 13,
   "jobs": [
     {
@@ -4028,32 +4028,6 @@
       "isLive": true
     },
     {
-      "id": 3149915199,
-      "externalId": "394afea4-a38c-4a3c-bfea-a20687107166",
-      "title": "Senior Backend Developer (Go)",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "technology",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-19T12:05:53.845Z",
-      "skills": [
-        "Excel",
-        "Compliance"
-      ],
-      "description": "Accountabilities: Design, build, and maintain scalable backend services, prioritizing performance, reliability, maintainability, and security. Use AI-assisted development tools such as Claude Code, Codex, and Gemini CLI to improve engineering productivity, accelerate implementation, and enhance code quality. Translate business requirements into precise technical specifications and actionable tasks that AI coding agents and developers can execute. Review and validate pull requests submitted by both human developers and AI agents, ensuring code quality, correctness, and alignment with architectural standards. Collaborate with product managers, frontend developers, and other stakeholders to design and deliver business-critical functionality. Promote test-driven development (TDD), maintain comprehensive automated test coverage, and integrate testing into continuous integration and delivery workflows. Design, develop, and optimize database schemas and data access patterns across relational, key-value, and time-series databases. Apply secure coding practices, address vulnerabilities, and ensure systems meet relevant security and compliance requirements. Monitor and optimize system latency, throughput, scalability, and resource utilization to support demanding workloads. Contribute to distributed system architecture and ensure backend services remain reliable under high data volumes. Mentor other developers, share engineering best practices, and support continuous improvement across the development team. Requirements: 10+ years of backend software development experience, including substantial responsibility for system architecture and technical design. Strong proficiency in Go, with the ability to design and implement production-grade backend services; experience with Rust is a plus. Demonstrated experience optimizing high-throughput, low-latency systems and diagnosing performance bottlenecks. Strong knowledge of database schema design, query optimization, and efficient data storage and retrieval. Solid understanding of distributed systems, concurrency, scalability, and high-volume data processing. Familiarity with AI-assisted software development tools and the ability to incorporate agentic coding workflows into everyday engineering practices. Practical experience with test-driven development, automated testing, and continuous integration and continuous delivery (CI/CD) pipelines. Knowledge of application security principles, including OWASP guidance, secure coding, vulnerability mitigation, and compliance considerations. Hands-on experience with cloud-native infrastructure and deployment technologies, including containers, Kubernetes, and service meshes. Strong analytical and problem-solving skills, with the ability to make sound architectural decisions and translate complex requirements into implementable solutions. Excellent communication and collaboration skills, including the ability to work effectively with cross-functional teams. Excellent written and spoken English. Ability to work independently and take ownership of technical decisions and delivery in a fully remote environment. Benefits: Fully remote work: Work remotely, with the position listed for candidates based in Poland. AI-first engineering environment: Use modern AI-assisted development tools, including agentic coding solutions, as part of the software development process. Technically challenging projects: Architect high-performance backend systems for an energy trading platform with demanding reliability and scalability requirements. Engineering ownership: Contribute to system architecture, technical specifications, code quality, security, and performance improvements. Collaborative team environment: Work alongside product managers, frontend developers, and other engineering professionals. Mentorship opportunities: Share expertise and help other developers strengthen their technical skills. Compensation and additional benefits: Salary, healthcare, retirement contr",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/394afea4-a38c-4a3c-bfea-a20687107166",
-      "isLive": true
-    },
-    {
       "id": 3627300560,
       "externalId": "7373c4e7-7d3a-4d06-b846-79267ac7dcdb",
       "title": "Senior Backend Developer (Go)",
@@ -4516,34 +4490,6 @@
       "isLive": true
     },
     {
-      "id": 2936574534,
-      "externalId": "73ce8daf-f3c4-4f6d-b0a7-d7cd1864f593",
-      "title": "Senior Business Analyst – Commercial P&C / MGA",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "sales",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-19T09:41:57.849Z",
-      "skills": [
-        "SQL",
-        "Accounting",
-        "Insurance",
-        "Operations"
-      ],
-      "description": "Accountabilities:: Business Requirements Analysis: Engage with MGA stakeholders, underwriters, and business teams to gather, analyze, validate, and document business requirements for commercial insurance platform implementation. Platform Configuration & Functional Design: Translate business needs into Sure Commercial configurations, user stories, functional specifications, workflows, business rules, and acceptance criteria. Fit-Gap Analysis: Assess existing business processes against platform capabilities, identify gaps, and recommend appropriate configuration, customization, or integration solutions. Commercial Insurance Lifecycle Support: Define and support requirements across commercial insurance products, underwriting, risk assessment, appetite and eligibility rules, rating, quoting, binding, policy issuance, endorsements, renewals, and cancellations. Broker Workflow Optimization: Design and document broker submission processes and submission-to-bind workflows to improve operational efficiency and ensure alignment with underwriting requirements. Systems Integration: Define and support integrations with rating engines, carriers, brokers, accounting platforms, and other downstream systems, collaborating with technical teams on data flows and functional requirements. Testing & Quality Assurance: Support System Integration Testing (SIT) and User Acceptance Testing (UAT), develop test scenarios, analyze defects, validate fixes, and coordinate business sign-off. Stakeholder Collaboration: Facilitate client workshops and work closely with product owners, solution architects, developers, and QA professionals to align business objectives with technical implementation. Agile Delivery & Documentation: Maintain clear and structured documentation throughout the project lifecycle, contribute to Agile/Scrum ceremonies, and ensure requirements remain traceable from initial analysis through implementation and validation. Requirements: Professional Experience: At least eight years of business analysis experience, including substantial hands-on experience in Commercial Property & Casualty (P&C) insurance. MGA Domain Expertise: Strong understanding of the MGA business model, delegated underwriting operations, and the complete commercial insurance lifecycle, including underwriting, risk appetite, eligibility, rating, quote-to-bind processes, and policy transactions. Insurance Industry Background: Experience working with Managing General Agents, specialty insurers, program administrators, or delegated underwriting organizations. Commercial insurance experience is strongly preferred. Insurance Platform Experience: Hands-on experience with at least one commercial insurance platform, ideally involving implementation, configuration, or business process transformation. Business Analysis Deliverables: Proven ability to produce high-quality user stories, acceptance criteria, functional specifications, process flows, business rules, and requirements documentation. Implementation & Testing: Experience supporting insurance platform implementations, configuration activities, fit-gap assessments, System Integration Testing (SIT), and User Acceptance Testing (UAT). Client-Facing & Communication Skills: Strong stakeholder management, workshop facilitation, analytical thinking, and communication skills, with the ability to translate complex insurance requirements into clear functional solutions. Agile Methodologies: Practical experience working in Agile/Scrum environments and collaborating with multidisciplinary teams throughout the software delivery lifecycle. Preferred Technical Knowledge: Familiarity with REST APIs, JSON/XML, data mapping, and system integration concepts. Additional Preferred Skills: Exposure to ISO/Verisk, RAS, external rating engines, insurance data services, and tools such as JIRA, Azure DevOps, Confluence, Postman, or SQL is an advantage. Personal Attributes: A structured, detail-oriented, and proactive approach to problem-solving, wit",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/73ce8daf-f3c4-4f6d-b0a7-d7cd1864f593",
-      "isLive": true
-    },
-    {
       "id": 3052706419,
       "externalId": "7b8c12aa-56ff-4645-8a47-b5e9c7e5171a",
       "title": "Data Scientist (Time Series Forecasting)",
@@ -4684,32 +4630,6 @@
       "isLive": true
     },
     {
-      "id": 1120593944,
-      "externalId": "f5fa2314-b252-42e1-8c77-529072a2c581",
-      "title": "Principal Scientific Research Expert - Computational Theory & Physics",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 7,
-      "maxExp": 10,
-      "category": "research",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-19T08:14:15.100Z",
-      "skills": [
-        "Excel",
-        "Research"
-      ],
-      "description": "Accountabilities: Identify and formulate foundational open research problems, theoretical limits, and computational challenges where meaningful progress can be rigorously measured. Guide advanced AI models and agents through complex, multi-stage research workflows involving mathematical proofs, algorithm design, numerical experiments, simulations, and high-performance computing. Validate scientific findings through proof verification, computational reproduction, formal methods, and other rigorous evaluation techniques. Assess the novelty, correctness, and scientific significance of research outputs by comparing them with established findings and current scientific literature. Produce concise, structured research memos documenting attempted solutions, partial progress, methodological limitations, recurring reasoning failures, and opportunities for improvement. Recommend promising research directions, specialized fields, and unresolved problems suitable for exploration with advanced AI models and computational tools. Apply independent scientific judgment when reviewing technical work, including research that extends beyond your immediate area of specialization. Help develop and refine evaluation frameworks that distinguish verifiable scientific advances from unsupported claims or superficially convincing results. Requirements Approximately 7–10+ years of active research experience in computer science, computational physics, mathematical physics, or a closely related theoretical or mathematical discipline. A strong record of scholarly contributions, including publications in leading academic conferences, peer-reviewed journals, or other recognized research venues. Extensive hands-on experience with computational research methodologies, including numerical analysis, simulation, algorithm implementation, and/or high-performance computing. Demonstrated ability to critically evaluate technical claims, verify theoretical and computational results, and identify gaps or inconsistencies in mathematical reasoning. Strong familiarity with relevant scientific literature, foundational theories, established results, and current research developments within your field. Excellent analytical thinking, problem-solving, scientific writing, and technical communication skills, with the ability to communicate complex findings clearly and concisely. Strong independent research capabilities, sound scientific judgment, and the ability to navigate ambiguous problems while identifying practical paths toward meaningful results. Excellent written English and the ability to document research findings, methodologies, limitations, and conclusions with precision. A principal-level research mindset, combining intellectual rigor, scientific curiosity, and the ability to assess work critically across interdisciplinary domains. Prior experience in the AI industry is not required; exceptional research expertise, methodological rigor, and scientific judgment are the primary priorities. Benefits Remote work: Work remotely from India, with the opportunity to contribute to an advanced research initiative without a location-bound office requirement. Research impact: Contribute to frontier AI research by helping evaluate scientific reasoning, computational discoveries, and emerging research capabilities. Intellectually challenging work: Investigate complex theoretical and computational questions at the intersection of computer science, physics, mathematics, and AI. Scientific autonomy: Apply your research expertise and independent judgment to open-ended problems, research evaluation, and the identification of promising scientific directions. Interdisciplinary collaboration: Engage with advanced AI models and agents across diverse research workflows, from mathematical proofs to numerical simulations. Opportunity for influence: Help shape rigorous evaluation standards and methodologies for measuring meaningful scientific progress. Flexible work environment: Benefit from a r",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/f5fa2314-b252-42e1-8c77-529072a2c581",
-      "isLive": true
-    },
-    {
       "id": 3901949270,
       "externalId": "a0d6e9c4-8791-4b6f-82cf-a52cbf29e2d0",
       "title": "Senior Software Quality Engineer",
@@ -4736,33 +4656,6 @@
       "description": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Software Quality Engineer based in Romania. The Senior Software Quality Engineer will take ownership of software quality strategy across a rapidly evolving cloud infrastructure platform, ensuring that reliability and testability are built into every stage of development. This role goes beyond writing test cases, combining hands-on automation engineering with architectural input and cross-functional leadership. The successful candidate will design scalable testing frameworks for backend services and user interfaces, integrate automated checks into CI/CD pipelines, and help engineering teams release changes with confidence. Working closely with engineering and product stakeholders, they will influence design decisions, identify risks early, and strengthen quality practices across multiple projects. The role also emphasizes practical use of AI-powered tools to improve testing workflows while maintaining strong technical judgment. It is an opportunity to make a significant impact in a remote-first, fast-moving technology environment focused on cloud infrastructure, Kubernetes, and AI workloads. Accountabilities: Lead the design, development, and maintenance of scalable automated testing frameworks covering backend services, user interfaces, and other critical product components. Define and own end-to-end test strategy across services and features, ensuring testing coverage aligns with product objectives, technical risks, and reliability expectations. Collaborate with engineering and product teams throughout the development lifecycle to establish quality standards, improve testability, and identify potential issues before implementation. Participate in architecture and design reviews, providing guidance on testability, system reliability, edge cases, and failure scenarios before code is written. Integrate automated test suites into CI/CD pipelines using tools such as GitHub Actions, Jenkins, or equivalent platforms to deliver fast and actionable feedback on code changes. Conduct exploratory testing to uncover usability problems, unexpected behaviors, edge cases, and regressions that automated tests may not detect. Apply AI-assisted workflows to review pull requests and design documents, develop test plans, generate test cases, and improve automation efficiency while independently validating results. Investigate complex backend, infrastructure, and distributed-system issues through systematic debugging, root-cause analysis, and collaboration with relevant engineering teams. Manage quality initiatives across multiple projects in a dynamic environment, balancing shifting priorities while maintaining rigorous testing standards. Advocate for continuous improvement in test automation, development workflows, and quality practices to support rapid delivery without compromising product reliability. Contribute to testing approaches for Kubernetes-based infrastructure and tenant-isolation environments as applicable. Help establish and scale QA practices that support product growth, operational resilience, and dependable customer experiences. Requirements: At least 7 years of professional experience in quality assurance, software testing, or test automation, including 2 or more years working at a senior or staff level. Strong hands-on programming skills in at least one of the following languages: Go, Python, or JavaScript, with experience building and maintaining automation frameworks and testing tools. Proven experience designing and owning test strategies across complex software systems, including automated testing for backend services and user interfaces. Strong understanding of CI/CD practices and practical experience integrating automated testing suites into pipelines using GitHub Actions, Jenkins, or comparable tools. Regular experience using AI-powered tools to support software quality activities, su",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/a0d6e9c4-8791-4b6f-82cf-a52cbf29e2d0",
-      "isLive": true
-    },
-    {
-      "id": 3097094383,
-      "externalId": "68b23dff-0928-4fbf-8bbb-ec4da7568b3b",
-      "title": "Senior Web Browser Researcher",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "research",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-19T07:03:25.886Z",
-      "skills": [
-        "JavaScript",
-        "Research",
-        "Leadership"
-      ],
-      "description": "Accountabilities:: You will lead independent technical research into browser behavior and identification techniques, ensuring that discoveries are validated, actionable, and translated into meaningful improvements across device intelligence and fraud detection. Research novel device-identification, visitor-identification, Smart Signals, and bot-detection techniques across modern web browsers, working effectively with ambiguous or evolving requirements. Evaluate research findings against real-world constraints, including performance budgets, execution contexts, same-site behavior, proxy implications, and interactions with existing signals. Design and conduct experiments, analyze supporting data, and deliver clear recommendations with estimated impact, false-positive and false-negative rates, limitations, and trade-offs. Stay involved throughout implementation by reviewing engineering changes, clarifying research objectives, answering technical questions, and advising on edge cases. Build and maintain automated research tooling, including observers, fuzzers, and scrapers, to discover new signals and detect browser platform changes. Monitor browser beta, canary, and developer channels, as well as technical specifications and RFC discussions, to anticipate changes and assess their potential product impact. Produce structured research outputs, including internal reports, technical articles, proofs of concept, experimental signal implementations, and supporting analyses. Collaborate with product and engineering partners to translate complex technical findings into actionable development priorities. Contribute to the research team's growth through mentorship, peer review, knowledge sharing, and public technical thought leadership. Requirements: You should have deep expertise in web technologies and browser behavior, combined with strong experimental skills and the ability to turn independent research into validated, measurable outcomes. You should be comfortable navigating undocumented technical behavior and communicating complex findings clearly to both technical and product stakeholders. Deep understanding of web platform fundamentals, browser internals, and web security concepts. Strong proficiency in JavaScript and the ability to read, understand, and navigate code written in multiple programming languages. Solid knowledge of web networking fundamentals. Demonstrated ability to uncover and explain undocumented behavior in web technologies, APIs, and protocols through testing, debugging, and reverse engineering. Experience independently driving research from an initial idea through experimentation, validation, and actionable recommendations. Ability to design and execute experiments using real-world traffic and analyze large-scale datasets to validate findings. Recognized depth in at least one relevant area, such as reverse engineering, network research, or device identification, alongside working knowledge of adjacent fields. Strong written and verbal communication skills, including the ability to explain research outcomes, expected impact, limitations, and trade-offs to engineering and product teams. Preferred Qualifications: Experience developing research and automation tools, such as scrapers, fuzzers, and observers. History of reporting bugs or submitting technical issues to Chromium, Firefox, or WebKit bug trackers. Experience or interest in backend development, particularly Go. Familiarity with anti-fingerprinting techniques and their implementation across browsers and browser extensions. A public research portfolio, such as conference presentations, technical blog posts, CVEs, or open-source contributions. Interest in mentoring colleagues, conducting peer reviews, and sharing research with the wider technical community. Benefits: Competitive salary: $174,000–$235,000 annually for US-based employees, depending on location, experience, and expertise. Location-based compensation: Example ranges include $204,000–$235,000 in Ne",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/68b23dff-0928-4fbf-8bbb-ec4da7568b3b",
       "isLive": true
     },
     {
@@ -4909,37 +4802,6 @@
       "isLive": true
     },
     {
-      "id": 3969174359,
-      "externalId": "c2d7d421-b824-422a-b57c-38c9e391021a",
-      "title": "Staff Application Security Engineer",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 8,
-      "maxExp": 16,
-      "category": "security",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-19T06:48:34.933Z",
-      "skills": [
-        "Python",
-        "JavaScript",
-        "Excel",
-        "Audit",
-        "Research",
-        "Compliance",
-        "Operations"
-      ],
-      "description": "Accountabilities:: As a Staff Application Security Engineer, you will serve as the technical foundation of the application security function, translating security strategy into effective engineering practices, tools, and measurable improvements. Your responsibilities will include: Design and implement a secure software development lifecycle (SDLC), incorporating security requirements, design-time threat modeling, secure code reviews, and pre-release testing into existing engineering workflows. Own and improve application security tooling, including static and dynamic application security testing (SAST/DAST), software composition analysis (SCA), dependency scanning, secrets detection, and container and infrastructure-as-code scanning. Integrate security tools into CI/CD pipelines, reduce false positives, establish clear vulnerability ownership and remediation service-level agreements (SLAs), and ensure findings lead to meaningful action. Develop an AI-first security engineering approach using AI-assisted vulnerability triage, automated remediation, security review agents, and AI-augmented testing, with evidence-based controls governing what these tools can flag, block, or fix. Build reusable security patterns, hardened libraries, and secure defaults for authentication, authorization, input validation, secrets management, and cryptographic operations. Contribute directly to production codebases by implementing security fixes, developing security libraries, and building automation and CI integrations. Lead threat modeling and architecture security reviews for new products, features, and significant technical changes across APIs, web and mobile SDKs, dashboards, and data pipelines. Manage vulnerability identification, risk assessment, prioritization, and remediation for findings from security scanners, penetration tests, bug bounty reports, and customer disclosures. Conduct hands-on security testing, including manual code review and exploitation testing for authentication and authorization weaknesses, API vulnerabilities, injection attacks, server-side request forgery (SSRF), business-logic flaws, and abuse scenarios. Pay particular attention to adversarial threats involving fraud detection and bot mitigation, identifying weaknesses that could allow attackers to bypass or undermine platform protections. Collaborate with penetration testing and compliance specialists to scope assessments, validate fixes, retest findings, and translate technical discoveries into actionable engineering work. Lead technical investigations of application-layer security incidents, coordinating containment, root-cause analysis, remediation, and collaboration with cloud infrastructure teams when necessary. Define application security logging and alerting requirements and partner with engineering and cloud platform teams to implement effective detection capabilities. Support engineering teams through security consultations, office hours, secure coding guidance, and a Security Champions program that expands security expertise across the organization. Develop practical secure coding training based on real application code, vulnerabilities, and lessons learned from security incidents. Mentor engineers through code reviews and architecture feedback, helping improve security awareness and engineering quality without relying solely on mandates. Partner with application security leadership to shape technical priorities, communicate findings and risk assessments, and execute initiatives that advance the broader security roadmap. Provide technical evidence for security controls, contribute to vendor security assessments, and support enterprise customer due diligence, security questionnaires, architecture discussions, and penetration testing summaries. Requirements: The ideal candidate is an accomplished security engineer who combines strong software development skills with extensive practical application security experience. You should be comfortable independently ",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/c2d7d421-b824-422a-b57c-38c9e391021a",
-      "isLive": true
-    },
-    {
       "id": 1449041940,
       "externalId": "4dc60e82-bd6b-47d6-ba8e-8f9c3d5dcd98",
       "title": "Senior Manager, Application Security",
@@ -4995,35 +4857,6 @@
       "description": "Accountabilities:: As Senior Manager, Application Security, you will establish and lead the application security strategy while providing direction across IT operations and compliance. You will remain technically engaged in security initiatives while building a scalable program that supports engineering excellence, customer confidence, and business growth. Define and own the application security roadmap, including vulnerability management, threat modeling, security reviews, and remediation processes for new features and architectural changes. Conduct hands-on security reviews, triage vulnerabilities, collaborate with engineers on remediation, and progressively develop processes that allow the application security program to scale. Embed security-by-default practices throughout the software development lifecycle, including secure development standards, dependency management, secrets hygiene, and automated security scanning integrated into CI/CD pipelines. Design and implement an AI-first application security strategy, evaluating AI-assisted code analysis, vulnerability triage, remediation agents, and automated testing while establishing appropriate validation and oversight. Partner with engineering teams to ensure security practices strengthen development capabilities rather than create unnecessary delivery bottlenecks. Oversee third-party and vendor security assessments, ensuring external providers meet appropriate security standards when handling sensitive customer information. Establish zero-trust security principles and collaborate with cloud platform leadership on network security, identity and access management, security logging, and alerting. Lead application-layer security incident response and coordinate with infrastructure teams on incidents involving cloud platforms or underlying systems. Manage and support the Compliance Lead and IT team, providing strategic direction, prioritization, organizational context, and professional development while respecting their operational expertise. Align application security, IT operations, and compliance under a unified strategy with shared standards, risk frameworks, and coordinated roadmaps. Oversee cross-functional priorities involving access reviews, identity governance, endpoint security, employee onboarding and offboarding, and the connection between application security controls and compliance evidence. Partner with compliance leadership to assess future frameworks and enterprise requirements, prioritize IT investments, and support continued compliance maturity beyond existing SOC 2 Type II certification. Represent security posture, compliance status, and IT health to engineering leadership, enterprise customers, prospects, and auditors. Own the security questionnaire and due diligence process, communicating technical controls, risk assessments, and remediation plans clearly to external stakeholders. Provide leadership with actionable recommendations on security risks, compliance priorities, and operational improvements rather than routine status updates. Requirements: The ideal candidate is an experienced application security practitioner who has successfully built or matured security programs and developed the leadership skills needed to guide experienced specialists. You should be comfortable working directly with engineers, making strategic decisions, and translating complex security topics into clear business priorities. At least 7 years of security experience, including substantial hands-on application security experience. Demonstrated success building or significantly maturing an application security program, including security reviews, threat modeling, vulnerability management, and penetration testing follow-up. Strong knowledge of secure software design, OWASP principles, common application vulnerabilities, and practical exploitation scenarios. Ability to read and understand application code, evaluate modern web and API architectures, and collaborate directly with e",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/e6af3eb2-9940-496f-a3a4-d22d2c45272b",
-      "isLive": true
-    },
-    {
-      "id": 1419617776,
-      "externalId": "9d4fcc9d-c817-440f-ac8b-8bb164384129",
-      "title": "Senior Manager, Application Security",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "security",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-19T06:37:07.360Z",
-      "skills": [
-        "Excel",
-        "Audit",
-        "Compliance",
-        "Operations",
-        "Leadership"
-      ],
-      "description": "Accountabilities:: As Senior Manager, Application Security, you will establish and lead the application security strategy while providing direction across IT operations and compliance. You will remain technically engaged in security initiatives while building a scalable program that supports engineering excellence, customer confidence, and business growth. Define and own the application security roadmap, including vulnerability management, threat modeling, security reviews, and remediation processes for new features and architectural changes. Conduct hands-on security reviews, triage vulnerabilities, collaborate with engineers on remediation, and progressively develop processes that allow the application security program to scale. Embed security-by-default practices throughout the software development lifecycle, including secure development standards, dependency management, secrets hygiene, and automated security scanning integrated into CI/CD pipelines. Design and implement an AI-first application security strategy, evaluating AI-assisted code analysis, vulnerability triage, remediation agents, and automated testing while establishing appropriate validation and oversight. Partner with engineering teams to ensure security practices strengthen development capabilities rather than create unnecessary delivery bottlenecks. Oversee third-party and vendor security assessments, ensuring external providers meet appropriate security standards when handling sensitive customer information. Establish zero-trust security principles and collaborate with cloud platform leadership on network security, identity and access management, security logging, and alerting. Lead application-layer security incident response and coordinate with infrastructure teams on incidents involving cloud platforms or underlying systems. Manage and support the Compliance Lead and IT team, providing strategic direction, prioritization, organizational context, and professional development while respecting their operational expertise. Align application security, IT operations, and compliance under a unified strategy with shared standards, risk frameworks, and coordinated roadmaps. Oversee cross-functional priorities involving access reviews, identity governance, endpoint security, employee onboarding and offboarding, and the connection between application security controls and compliance evidence. Partner with compliance leadership to assess future frameworks and enterprise requirements, prioritize IT investments, and support continued compliance maturity beyond existing SOC 2 Type II certification. Represent security posture, compliance status, and IT health to engineering leadership, enterprise customers, prospects, and auditors. Own the security questionnaire and due diligence process, communicating technical controls, risk assessments, and remediation plans clearly to external stakeholders. Provide leadership with actionable recommendations on security risks, compliance priorities, and operational improvements rather than routine status updates. Requirements: The ideal candidate is an experienced application security practitioner who has successfully built or matured security programs and developed the leadership skills needed to guide experienced specialists. You should be comfortable working directly with engineers, making strategic decisions, and translating complex security topics into clear business priorities. At least 7 years of security experience, including substantial hands-on application security experience. Demonstrated success building or significantly maturing an application security program, including security reviews, threat modeling, vulnerability management, and penetration testing follow-up. Strong knowledge of secure software design, OWASP principles, common application vulnerabilities, and practical exploitation scenarios. Ability to read and understand application code, evaluate modern web and API architectures, and collaborate directly with e",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/9d4fcc9d-c817-440f-ac8b-8bb164384129",
       "isLive": true
     },
     {
@@ -5778,7 +5611,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 39 أيام",
+      "age": "منذ 40 أيام",
       "publishedAt": "2026-09-14T20:16:03.084Z",
       "skills": [
         "Excel",
@@ -7737,7 +7570,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 583 أيام",
+      "age": "منذ 584 أيام",
       "publishedAt": "2025-03-19T20:33:36.186Z",
       "skills": [
         "Excel",
