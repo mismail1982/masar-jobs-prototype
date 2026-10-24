@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T04:15:07.078Z",
+  "generatedAt": "2026-10-24T04:48:29.890Z",
   "total": 285,
   "feeds": 13,
   "jobs": [
@@ -5988,7 +5988,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 45 أيام",
+      "age": "منذ 46 أيام",
       "publishedAt": "2026-09-08T04:40:50.396Z",
       "skills": [
         "Excel"
@@ -7379,7 +7379,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "projects",
-      "age": "منذ 337 أيام",
+      "age": "منذ 338 أيام",
       "publishedAt": "2025-11-20T04:47:02.192Z",
       "skills": [
         "Excel",
@@ -7763,7 +7763,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "projects",
-      "age": "منذ 624 أيام",
+      "age": "منذ 625 أيام",
       "publishedAt": "2025-02-06T04:32:02.400Z",
       "skills": [
         "Primavera P6",
