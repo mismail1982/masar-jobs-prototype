@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:11:44.697Z",
+  "generatedAt": "2026-10-24T09:44:20.317Z",
   "total": 285,
   "feeds": 13,
   "jobs": [
@@ -4474,7 +4474,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-19T09:43:46.213Z",
       "skills": [
         "SQL",
@@ -4502,7 +4502,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-19T09:43:16.438Z",
       "skills": [
         "SQL",
@@ -4530,7 +4530,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-19T09:41:57.849Z",
       "skills": [
         "SQL",
@@ -4558,7 +4558,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-19T09:32:13.951Z",
       "skills": [
         "Python",
@@ -4586,7 +4586,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-19T09:31:39.903Z",
       "skills": [
         "Python",
@@ -4614,7 +4614,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-19T09:30:23.493Z",
       "skills": [
         "Python",
@@ -5413,7 +5413,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 29 أيام",
+      "age": "منذ 30 أيام",
       "publishedAt": "2026-09-24T09:23:39.128Z",
       "skills": [
         "Content"
@@ -5438,7 +5438,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 29 أيام",
+      "age": "منذ 30 أيام",
       "publishedAt": "2026-09-24T09:19:29.053Z",
       "skills": [
         "Content"
@@ -5592,7 +5592,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "sales",
-      "age": "منذ 36 أيام",
+      "age": "منذ 37 أيام",
       "publishedAt": "2026-09-17T09:43:16.238Z",
       "skills": [
         "Sales",
@@ -6152,7 +6152,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "translation",
-      "age": "منذ 52 أيام",
+      "age": "منذ 53 أيام",
       "publishedAt": "2026-09-01T09:18:41.208Z",
       "skills": [
         "Excel",
@@ -6374,7 +6374,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 65 أيام",
+      "age": "منذ 66 أيام",
       "publishedAt": "2026-08-19T09:20:20.297Z",
       "skills": [
         "Excel",
@@ -7039,7 +7039,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "realestate",
-      "age": "منذ 201 أيام",
+      "age": "منذ 202 أيام",
       "publishedAt": "2026-04-05T09:40:30.575Z",
       "skills": [
         "SAP",
@@ -7707,7 +7707,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 541 أيام",
+      "age": "منذ 542 أيام",
       "publishedAt": "2025-04-30T09:16:10.863Z",
       "skills": [
         "Excel",
