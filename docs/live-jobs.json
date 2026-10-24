@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T01:50:26.106Z",
+  "generatedAt": "2026-10-24T02:44:08.042Z",
   "total": 285,
   "feeds": 13,
   "jobs": [
@@ -1696,7 +1696,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T02:08:43.700Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -1721,7 +1721,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T02:04:43.772Z",
       "skills": [
         "Excel",
@@ -1750,7 +1750,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T01:59:58.716Z",
       "skills": [
         "Marketing",
@@ -1776,7 +1776,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T01:59:24.141Z",
       "skills": [
         "Marketing",
@@ -1802,7 +1802,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T01:57:58.746Z",
       "skills": [
         "Marketing",
@@ -1828,7 +1828,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T01:53:12.914Z",
       "skills": [
         "JavaScript",
@@ -1855,7 +1855,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T01:52:36.155Z",
       "skills": [
         "JavaScript",
@@ -1882,7 +1882,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-22T01:51:13.027Z",
       "skills": [
         "JavaScript",
@@ -7352,7 +7352,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 276 أيام",
+      "age": "منذ 277 أيام",
       "publishedAt": "2026-01-20T02:21:02.643Z",
       "skills": [
         "Customer Service",
