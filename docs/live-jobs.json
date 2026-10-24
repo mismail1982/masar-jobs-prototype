@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:10:11.845Z",
+  "generatedAt": "2026-10-24T17:40:46.792Z",
   "total": 285,
   "feeds": 13,
   "jobs": [
@@ -18,7 +18,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T17:34:28.172Z",
       "skills": [
         "Excel",
@@ -47,7 +47,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T17:33:59.046Z",
       "skills": [
         "Excel",
@@ -76,7 +76,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T17:32:37.592Z",
       "skills": [
         "Excel",
@@ -105,7 +105,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T17:26:20.799Z",
       "skills": [
         "Excel",
@@ -135,7 +135,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T17:25:43.121Z",
       "skills": [
         "Excel",
@@ -165,7 +165,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T17:24:25.170Z",
       "skills": [
         "Excel",
@@ -195,7 +195,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T17:20:11.660Z",
       "skills": [
         "Excel",
@@ -226,7 +226,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T17:14:46.212Z",
       "skills": [
         "Python",
@@ -255,7 +255,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T17:13:53.895Z",
       "skills": [
         "Python",
@@ -284,7 +284,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T17:12:28.614Z",
       "skills": [
         "Python",
@@ -6736,7 +6736,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 101 أيام",
+      "age": "منذ 102 أيام",
       "publishedAt": "2026-07-14T17:21:56.371Z",
       "skills": [
         "Research",
