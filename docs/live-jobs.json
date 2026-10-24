@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T07:44:52.119Z",
+  "generatedAt": "2026-10-24T08:11:14.470Z",
   "total": 285,
   "feeds": 13,
   "jobs": [
@@ -2568,7 +2568,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "customer",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-21T08:05:08.197Z",
       "skills": [
         "Excel",
@@ -2594,7 +2594,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "customer",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-21T08:04:30.432Z",
       "skills": [
         "Excel",
@@ -2620,7 +2620,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "customer",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-21T08:02:40.687Z",
       "skills": [
         "Excel",
@@ -5358,7 +5358,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "technology",
-      "age": "منذ 28 أيام",
+      "age": "منذ 29 أيام",
       "publishedAt": "2026-09-25T08:06:45.340Z",
       "skills": [
         "Python",
@@ -6210,7 +6210,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "finance",
-      "age": "منذ 52 أيام",
+      "age": "منذ 53 أيام",
       "publishedAt": "2026-09-01T07:45:14.868Z",
       "skills": [
         "Excel",
@@ -6404,7 +6404,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 65 أيام",
+      "age": "منذ 66 أيام",
       "publishedAt": "2026-08-19T08:03:16.333Z",
       "skills": [
         "Excel",
@@ -6816,7 +6816,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 136 أيام",
+      "age": "منذ 137 أيام",
       "publishedAt": "2026-06-09T08:03:12.091Z",
       "skills": [
         "JavaScript",
