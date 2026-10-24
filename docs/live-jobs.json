@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:42:16.554Z",
+  "generatedAt": "2026-10-24T14:06:46.394Z",
   "total": 285,
   "feeds": 13,
   "jobs": [
@@ -367,7 +367,7 @@
       "minExp": 15,
       "maxExp": 23,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T14:05:24.839Z",
       "skills": [
         "Sales",
@@ -393,7 +393,7 @@
       "minExp": 15,
       "maxExp": 23,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T14:04:13.415Z",
       "skills": [
         "Sales",
@@ -419,7 +419,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "finance",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T14:02:56.459Z",
       "skills": [
         "Excel",
@@ -5132,7 +5132,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 15 أيام",
+      "age": "منذ 16 أيام",
       "publishedAt": "2026-10-08T13:52:32.927Z",
       "skills": [
         "SAP",
