@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T12:52:12.894Z",
+  "generatedAt": "2026-10-24T13:42:16.554Z",
   "total": 285,
   "feeds": 13,
   "jobs": [
@@ -450,7 +450,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T13:23:27.163Z",
       "skills": [
         "SAP",
@@ -477,7 +477,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T13:20:38.088Z",
       "skills": [
         "SAP",
@@ -504,7 +504,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-23T13:19:26.911Z",
       "skills": [
         "SAP",
@@ -5163,7 +5163,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 15 أيام",
+      "age": "منذ 16 أيام",
       "publishedAt": "2026-10-08T13:36:09.377Z",
       "skills": [
         "Audit",
@@ -5192,7 +5192,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 15 أيام",
+      "age": "منذ 16 أيام",
       "publishedAt": "2026-10-08T13:33:31.379Z",
       "skills": [
         "Audit",
@@ -5250,7 +5250,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "marketing",
-      "age": "منذ 16 أيام",
+      "age": "منذ 17 أيام",
       "publishedAt": "2026-10-07T13:32:46.237Z",
       "skills": [
         "Audit",
@@ -7069,7 +7069,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 205 أيام",
+      "age": "منذ 206 أيام",
       "publishedAt": "2026-04-01T13:34:53.536Z",
       "skills": [
         "Research",
