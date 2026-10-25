@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T12:51:57.838Z",
-  "total": 278,
+  "generatedAt": "2026-10-25T13:43:06.288Z",
+  "total": 277,
   "feeds": 13,
   "jobs": [
     {
@@ -450,7 +450,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-23T13:23:27.163Z",
       "skills": [
         "SAP",
@@ -477,7 +477,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-23T13:20:38.088Z",
       "skills": [
         "SAP",
@@ -504,7 +504,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-23T13:19:26.911Z",
       "skills": [
         "SAP",
@@ -4996,7 +4996,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 16 أيام",
+      "age": "منذ 17 أيام",
       "publishedAt": "2026-10-08T13:36:09.377Z",
       "skills": [
         "Audit",
@@ -5025,7 +5025,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 16 أيام",
+      "age": "منذ 17 أيام",
       "publishedAt": "2026-10-08T13:33:31.379Z",
       "skills": [
         "Audit",
@@ -5083,7 +5083,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "marketing",
-      "age": "منذ 17 أيام",
+      "age": "منذ 18 أيام",
       "publishedAt": "2026-10-07T13:32:46.237Z",
       "skills": [
         "Audit",
@@ -6858,36 +6858,6 @@
       "isLive": true
     },
     {
-      "id": 3850411018,
-      "externalId": "6a12366e-8fd2-4306-984e-eca733bd30bd",
-      "title": "Leasing Agent",
-      "company": "Flow",
-      "country": "السعودية",
-      "region": "Riyadh, Saudi Arabia",
-      "location": "الرياض",
-      "mode": "حضوري",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 3,
-      "maxExp": 11,
-      "category": "realestate",
-      "age": "منذ 203 أيام",
-      "publishedAt": "2026-04-05T09:40:30.575Z",
-      "skills": [
-        "SAP",
-        "Excel",
-        "Customer Service",
-        "Sales",
-        "Compliance",
-        "Operations"
-      ],
-      "description": "About the Company At Flow, we’re reimagining what it means to live, work, and connect. More than just a real estate company, Flow is a brand, a technology platform, and an operations ecosystem spanning condominiums, hotels, multifamily residences, and office spaces. We’re building a new kind of living experience: one that’s flexible, connected, and designed to create genuine community and real value for the people who call Flow home. Our mission is oneness: prioritizing our residents and their experiences, and fostering connection with ourselves, their neighbors, and the natural world. By putting people at the center of everything we do, we’re creating vibrant, human-centered communities where life, work, creativity, and play all come together in one place. About The Role: As a Leasing Agent at Flow Narjis, you will be the first point of contact for prospective neighbors, guiding them through the leasing process and ensuring they feel welcomed and connected even before they move in. This is not a typical 9-to-5 job—success in this role requires relentless drive, a passion for working with people, and the ability to thrive in a fast-paced, tech-driven environment. Responsibilities: Drive leasing efforts: Engage, qualify, and convert leads into signed leases, ensuring high occupancy rates. Work tirelessly: Be available evenings, weekends, and holidays to accommodate prospective residents' schedules. Be tech-savvy: Utilize CRMs, Excel, WhatsApp, Slack, VOIP systems, and email efficiently to manage leads and track leasing performance. Master the details: Capture and manage data under pressure, ensuring accurate and organized record-keeping. Deliver an outstanding experience: Provide best-in-class customer service to prospects and current residents from diverse cultural backgrounds. Be a brand ambassador: Represent Flow’s values by engaging with the community, attending events, and fostering a sense of belonging. Understand the legal side: Experience with EJAR is a plus, as you’ll be involved in the leasing process compliance. Ideal Background: Minimum 3 years of experience in sales or customer service. Experience leasing property is an advantage. Experience in Saudi Arabia is an advantage. Candidate must be physically located in Saudi Arabia. Hardworking & relentless: You thrive under pressure and are willing to put in the hours to get the job done. Tech-proficient: You have experience working with multiple systems, capturing data in CRMs, and using tools like WhatsApp, Slack, and VOIP systems to manage communications effectively. Sales-oriented: Background in software sales or a related high-touch sales role is a plus. Detail-driven: You can juggle multiple priorities without dropping the ball. Fluent in English: Exceptional spoken and written communication skills are a must. Charismatic & engaging: You have strong presentation skills and can connect with clients from all cultures and backgrounds. Active lifestyle enthusiast: Passion for sports, wellness, yoga, fitness, or similar interests is a strong cultural fit with Flow’s brand. Ability to drive: A valid driver's license is required. Ability to work across multiple sites: Flexibility to travel between different Flow locations as needed.",
-      "source": "Lever · Flow",
-      "externalUrl": "https://jobs.lever.co/flowlife/6a12366e-8fd2-4306-984e-eca733bd30bd",
-      "isLive": true
-    },
-    {
       "id": 3923310973,
       "externalId": "915725b3-22df-43ec-9a3e-5924e67d0a86",
       "title": "Kazakh Localization QA Tester / Proofreader",
@@ -6902,7 +6872,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 206 أيام",
+      "age": "منذ 207 أيام",
       "publishedAt": "2026-04-01T13:34:53.536Z",
       "skills": [
         "Research",
