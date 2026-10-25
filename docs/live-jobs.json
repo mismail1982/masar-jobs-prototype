@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T20:02:04.075Z",
-  "total": 276,
+  "generatedAt": "2026-10-25T20:40:59.993Z",
+  "total": 273,
   "feeds": 13,
   "jobs": [
     {
@@ -3302,64 +3302,6 @@
       "isLive": true
     },
     {
-      "id": 2133590744,
-      "externalId": "a452152b-d614-49f9-a7b4-464775a72623",
-      "title": "Webflow Systems Lead",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "general",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-20T07:08:15.699Z",
-      "skills": [
-        "JavaScript",
-        "React",
-        "SAP",
-        "Excel",
-        "Marketing",
-        "Content",
-        "Leadership"
-      ],
-      "description": "Accountabilities:: Architect and maintain a scalable Webflow system across three websites, including reusable components, properties, variants, slots, design tokens, variables, naming conventions, and clearly defined boundaries between native functionality and custom code. Collaborate with UI designers from the early stages of the design process, reviewing Figma components and variables to ensure technical feasibility and translating design systems into efficient Webflow structures. Design and implement a relational CMS architecture connecting products, ecosystems, integrations, use cases, personas, and resources, ensuring the content model works consistently across all three websites. Establish an AI-ready development environment by configuring Webflow's Model Context Protocol (MCP) server, developing agent instructions and reusable skills, and defining clear permissions and safeguards governing what AI agents can create or modify. Define technical requirements for integrations between the websites and client products, collaborating with client-side developers and reviewing implementations for performance, security, and reliability. Develop or oversee custom React components for interactive tools, including product finders and assessments, and implement a cross-site Algolia search solution with an appropriate indexing strategy, shared taxonomy, and relevance ranking. Establish governance and publishing workflows that define what marketing teams and AI agents can change, how updates are reviewed, and how changes are approved and released. Document the system architecture, workflows, and operating guidelines, and collaborate on training and handover to enable non-technical marketing teams to manage the websites independently. Review other developers' work, provide technical guidance and constructive feedback, and maintain consistent standards for code quality, accessibility, performance, and maintainability. Identify platform limitations and evolving Webflow capabilities, make informed architectural trade-offs, and continuously improve the system based on real-world usage and emerging requirements. Requirements: At least 5 years of professional web development experience, including 3 or more years of advanced Webflow experience focused on system architecture, reusable component libraries, and complex CMS implementations rather than individual page builds. Demonstrated experience architecting a component-based Webflow system and designing a relational content model for a large website or multi-site environment. Proven ability to hand over a structured website system to a non-technical marketing team that can operate and maintain it independently after implementation. Practical experience with the Model Context Protocol (MCP) and a production-deployed large language model (LLM) integration or AI-agent workflow, including the design of prompts, instructions, permissions, and safeguards. Strong working knowledge of Webflow and Figma, including the ability to interpret Figma components and variables and translate them into scalable, Webflow-native implementations. Proficiency in JavaScript and React for building custom code components, alongside familiarity with the Webflow Data API, webhooks, REST APIs, Git, and Node.js. Experience with Algolia or a comparable search platform, ideally involving multi-index or federated search architectures. Strong understanding of web performance, accessibility standards such as WCAG, security principles, API key management, authentication, and data privacy. The technical judgement to determine when native Webflow functionality is appropriate and when custom development is necessary, balancing flexibility, maintainability, performance, and security. A portfolio of live projects demonstrating substantial technical ownership, including system architecture, custom code, integrations, or AI-powered workflows. You should be able to explain your architectural decisions, collaboration process, and key tra",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/a452152b-d614-49f9-a7b4-464775a72623",
-      "isLive": true
-    },
-    {
-      "id": 3984212358,
-      "externalId": "8c14c1f1-1445-4dc2-a5ba-92261d4fc9e7",
-      "title": "Staff Software Engineer - Market Data",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "technology",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-20T07:04:45.960Z",
-      "skills": [
-        "Excel",
-        "Insurance",
-        "Leadership"
-      ],
-      "description": "Accountabilities:: Design, develop, and operate distributed backend systems for ingesting, normalising, processing, storing, and delivering real-time market data from blockchain networks and other relevant financial data sources. Build and maintain robust streaming infrastructure that handles event ordering, timestamps, duplicate records, replay, missing data, and recovery, including blockchain reorganisations and transaction finality where relevant. Develop reliable client-facing data feeds and APIs with clearly defined delivery guarantees, evolving schemas, appropriate access controls, and predictable performance under heavy workloads or when consumers fall behind. Collaborate with cross-functional engineering teams to define and improve reference data models, historical data capture, and the integration of new data sources and capabilities. Establish and continuously improve service-level objectives (SLOs) and data quality metrics, monitoring latency, freshness, completeness, and correctness across the platform. Independently investigate production issues, conduct thorough root cause analyses, and implement durable fixes that improve system resilience, recovery, and operational efficiency. Own services throughout their lifecycle, from technical design and implementation to deployment, monitoring, production support, and participation in the team's on-call rotation. Integrate AI-assisted development tools throughout the engineering workflow, using them to explore architectural options, implement changes, generate tests, investigate failures, and improve documentation while maintaining strong technical oversight. Develop repeatable AI-assisted engineering practices, share effective workflows with colleagues, and contribute to continuous improvements in development productivity and quality. Lead technical decisions across team boundaries, document architectural proposals clearly, and help translate ambiguous requirements into pragmatic designs and production-ready solutions. Mentor engineers through implementation, code reviews, and technical discussions, enabling the team to deliver complex projects with high standards of reliability and maintainability. Requirements: Extensive experience building and operating distributed backend systems or data services with demanding reliability, scalability, and performance requirements, including the ability to diagnose failures across service and data boundaries. Strong expertise in real-time streaming systems, including concurrency, state management, backpressure, event processing, and recovery mechanisms. A deep understanding of data correctness and integrity, including timestamp handling, numerical precision, schema evolution, data corrections, event ordering, and consistency across distributed systems. Strong computer science fundamentals and advanced backend engineering skills, with experience in languages such as Rust, Go, or comparable programming languages. Demonstrated ability to translate ambiguous technical and business requirements into clear architectural designs, deliverable work, and robust production services. Experience taking end-to-end ownership of software systems, including design, implementation, testing, deployment, monitoring, incident response, and ongoing operational improvements. Strong technical leadership skills, with the ability to influence architectural decisions across teams, mentor other engineers, and guide implementation without relying solely on formal management authority. Excellent written and verbal communication skills, including the ability to document complex technical concepts and collaborate effectively with colleagues in a distributed, remote-first environment. Experience working with financial or market data at a financial institution or in a comparable data-intensive environment is valuable. Familiarity with blockchain data and indexing, including EVM-compatible networks or Solana, is a plus. Experience with reference data systems, includi",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/8c14c1f1-1445-4dc2-a5ba-92261d4fc9e7",
-      "isLive": true
-    },
-    {
       "id": 632605257,
       "externalId": "546099e5-ee75-420f-9660-3dbe89c2e5d0",
       "title": "Senior Business Development Manager: new business",
@@ -3721,32 +3663,6 @@
       "description": "Accountabilities:: In this role, you will build and improve production-ready AI systems while helping nonprofit partners adopt effective, measurable, and responsible AI practices. Your work will combine hands-on engineering, applied research, experimentation, and collaboration with teams working directly in the field. Design, build, evaluate, deploy, and improve machine learning systems and AI-powered applications for real-world use cases. Contribute to open-source AI evaluation infrastructure and tools that help nonprofit organizations assess and improve their AI products. Work closely with behavioral scientists, researchers, and field teams to identify recurring challenges and translate findings into reusable tools, frameworks, playbooks, and technical publications. Develop rigorous evaluation methods for AI systems, including appropriate datasets, evaluation criteria, and measurable performance improvements. Build and iterate on production-grade LLM applications and agentic systems, improving their reliability, usefulness, and performance for intended users. Release meaningful technical innovations from partner projects as open-source contributions whenever appropriate. Deliver solutions through rapid development and deployment cycles, using experimentation and measurable feedback to guide improvements. Document technical decisions, maintain engineering standards, and ensure AI components remain reliable and maintainable. Monitor developments in applied AI research, assess relevant advances, and test promising approaches in practical settings. Advise and support nonprofit organizations developing generative AI products, helping them adopt effective engineering practices, tools, and workflows. Mentor partner organization staff and help strengthen their internal technical capabilities and responsible AI practices. Contribute to workshops, seminars, and knowledge-sharing initiatives that communicate lessons and best practices from ongoing projects. Conduct site visits to understand operational challenges, observe how AI tools are used, and recommend technical improvements based on direct user needs. Take initiative in identifying problems, defining solutions, and driving projects through implementation and deployment. Requirements: The ideal candidate combines strong machine learning fundamentals with substantial hands-on experience delivering end-user AI products. You should be comfortable moving between research, experimentation, production engineering, and collaboration with nontechnical stakeholders, while maintaining a strong focus on practical impact. Strong foundations in mathematics, deep learning, large language models (LLMs), and modern AI systems. At least 4 years of hands-on machine learning engineering experience, including building, evaluating, and systematically improving at least one end-user-facing product powered by deep learning. Experience limited to integrating model APIs, building internal dashboards, or contributing solely to ML infrastructure does not meet this requirement. At least 1–2 years of experience building LLM-powered applications, including at least one production-grade agent beyond a proof of concept. Practical experience evaluating AI systems, with a strong understanding of dataset design, evaluation methodology, and performance measurement. Proficiency in Python and a willingness to remain deeply involved in hands-on implementation. Fluency in prompting and context engineering for agentic systems, including the ability to determine whether a problem requires improved prompting, a different model, better tools, or changes to the overall pipeline. Experience using AI coding agents to produce high-quality work, with the judgment and accountability to validate outputs and take responsibility for what you ship. Ability to read research papers, assess new ideas, and quickly test relevant approaches through practical experimentation. An experimental mindset, with the ability to reason carefully ab",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/04a21f76-c418-4c54-ac1b-f9a781252620",
-      "isLive": true
-    },
-    {
-      "id": 1151719634,
-      "externalId": "b91fbeff-c68a-48eb-a164-17b1af6f15c2",
-      "title": "AI/ML Engineer",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 1,
-      "maxExp": 2,
-      "category": "general",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-20T06:09:07.785Z",
-      "skills": [
-        "Python",
-        "Research"
-      ],
-      "description": "Accountabilities:: In this role, you will build and improve production-ready AI systems while helping nonprofit partners adopt effective, measurable, and responsible AI practices. Your work will combine hands-on engineering, applied research, experimentation, and collaboration with teams working directly in the field. Design, build, evaluate, deploy, and improve machine learning systems and AI-powered applications for real-world use cases. Contribute to open-source AI evaluation infrastructure and tools that help nonprofit organizations assess and improve their AI products. Work closely with behavioral scientists, researchers, and field teams to identify recurring challenges and translate findings into reusable tools, frameworks, playbooks, and technical publications. Develop rigorous evaluation methods for AI systems, including appropriate datasets, evaluation criteria, and measurable performance improvements. Build and iterate on production-grade LLM applications and agentic systems, improving their reliability, usefulness, and performance for intended users. Release meaningful technical innovations from partner projects as open-source contributions whenever appropriate. Deliver solutions through rapid development and deployment cycles, using experimentation and measurable feedback to guide improvements. Document technical decisions, maintain engineering standards, and ensure AI components remain reliable and maintainable. Monitor developments in applied AI research, assess relevant advances, and test promising approaches in practical settings. Advise and support nonprofit organizations developing generative AI products, helping them adopt effective engineering practices, tools, and workflows. Mentor partner organization staff and help strengthen their internal technical capabilities and responsible AI practices. Contribute to workshops, seminars, and knowledge-sharing initiatives that communicate lessons and best practices from ongoing projects. Conduct site visits to understand operational challenges, observe how AI tools are used, and recommend technical improvements based on direct user needs. Take initiative in identifying problems, defining solutions, and driving projects through implementation and deployment. Requirements: The ideal candidate combines strong machine learning fundamentals with substantial hands-on experience delivering end-user AI products. You should be comfortable moving between research, experimentation, production engineering, and collaboration with nontechnical stakeholders, while maintaining a strong focus on practical impact. Strong foundations in mathematics, deep learning, large language models (LLMs), and modern AI systems. At least 4 years of hands-on machine learning engineering experience, including building, evaluating, and systematically improving at least one end-user-facing product powered by deep learning. Experience limited to integrating model APIs, building internal dashboards, or contributing solely to ML infrastructure does not meet this requirement. At least 1–2 years of experience building LLM-powered applications, including at least one production-grade agent beyond a proof of concept. Practical experience evaluating AI systems, with a strong understanding of dataset design, evaluation methodology, and performance measurement. Proficiency in Python and a willingness to remain deeply involved in hands-on implementation. Fluency in prompting and context engineering for agentic systems, including the ability to determine whether a problem requires improved prompting, a different model, better tools, or changes to the overall pipeline. Experience using AI coding agents to produce high-quality work, with the judgment and accountability to validate outputs and take responsibility for what you ship. Ability to read research papers, assess new ideas, and quickly test relevant approaches through practical experimentation. An experimental mindset, with the ability to reason carefully ab",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/b91fbeff-c68a-48eb-a164-17b1af6f15c2",
       "isLive": true
     },
     {
@@ -5584,7 +5500,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 40 أيام",
+      "age": "منذ 41 أيام",
       "publishedAt": "2026-09-14T20:16:03.084Z",
       "skills": [
         "Excel",
@@ -7485,7 +7401,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 584 أيام",
+      "age": "منذ 585 أيام",
       "publishedAt": "2025-03-19T20:33:36.186Z",
       "skills": [
         "Excel",
