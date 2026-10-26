@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T05:47:48.560Z",
-  "total": 276,
+  "generatedAt": "2026-10-26T07:02:39.072Z",
+  "total": 275,
   "feeds": 13,
   "jobs": [
     {
@@ -1704,7 +1704,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-22T07:02:09.060Z",
       "skills": [
         "Excel",
@@ -1730,7 +1730,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-22T07:00:47.138Z",
       "skills": [
         "Excel",
@@ -1756,7 +1756,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-22T06:05:40.595Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -2731,7 +2731,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-21T05:54:40.803Z",
       "skills": [
         "React",
@@ -2759,7 +2759,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-21T05:52:23.234Z",
       "skills": [
         "Research",
@@ -2785,7 +2785,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-21T05:49:53.799Z",
       "skills": [
         "Excel",
@@ -3401,7 +3401,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T07:02:00.607Z",
       "skills": [
         "Excel",
@@ -3428,7 +3428,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:54:39.602Z",
       "skills": [
         "Python",
@@ -3458,7 +3458,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:54:04.267Z",
       "skills": [
         "Python",
@@ -3488,7 +3488,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:52:52.883Z",
       "skills": [
         "Python",
@@ -3518,7 +3518,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:47:03.127Z",
       "skills": [
         "JavaScript",
@@ -3544,7 +3544,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:46:33.848Z",
       "skills": [
         "JavaScript",
@@ -3570,7 +3570,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:45:19.288Z",
       "skills": [
         "JavaScript",
@@ -3596,7 +3596,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:35:17.736Z",
       "skills": [
         "Excel",
@@ -3626,7 +3626,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:34:41.930Z",
       "skills": [
         "Excel",
@@ -3656,7 +3656,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:33:26.851Z",
       "skills": [
         "Excel",
@@ -3686,7 +3686,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:17:30.505Z",
       "skills": [
         "SQL",
@@ -3713,7 +3713,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:11:21.126Z",
       "skills": [
         "Python",
@@ -3739,7 +3739,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:10:32.365Z",
       "skills": [
         "Python",
@@ -3765,7 +3765,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:03:22.621Z",
       "skills": [
         "Python",
@@ -3794,7 +3794,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:02:40.973Z",
       "skills": [
         "Python",
@@ -3823,7 +3823,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T06:01:11.370Z",
       "skills": [
         "Python",
@@ -3852,7 +3852,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T05:50:51.734Z",
       "skills": [
         "Python",
@@ -3878,7 +3878,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T05:50:18.050Z",
       "skills": [
         "Python",
@@ -3904,7 +3904,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T05:48:46.919Z",
       "skills": [
         "Python",
@@ -4647,7 +4647,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-19T06:58:02.359Z",
       "skills": [
         "Excel",
@@ -4674,7 +4674,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-19T06:57:23.080Z",
       "skills": [
         "Excel",
@@ -4701,7 +4701,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-19T06:55:52.652Z",
       "skills": [
         "Excel",
@@ -4728,7 +4728,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "security",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-19T06:50:34.297Z",
       "skills": [
         "Python",
@@ -4759,7 +4759,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "security",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-19T06:49:55.458Z",
       "skills": [
         "Python",
@@ -4790,7 +4790,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-19T06:39:16.300Z",
       "skills": [
         "Excel",
@@ -4819,7 +4819,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-19T06:38:45.552Z",
       "skills": [
         "Excel",
@@ -4879,7 +4879,7 @@
       "minExp": 2,
       "maxExp": 4,
       "category": "technology",
-      "age": "منذ 11 أيام",
+      "age": "منذ 12 أيام",
       "publishedAt": "2026-10-14T06:30:36.925Z",
       "skills": [
         "SQL",
@@ -5426,7 +5426,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "general",
-      "age": "منذ 38 أيام",
+      "age": "منذ 39 أيام",
       "publishedAt": "2026-09-17T06:43:26.045Z",
       "skills": [
         "Excel",
@@ -5452,7 +5452,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "general",
-      "age": "منذ 38 أيام",
+      "age": "منذ 39 أيام",
       "publishedAt": "2026-09-17T06:29:45.774Z",
       "skills": [
         "Excel",
@@ -5479,7 +5479,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 38 أيام",
+      "age": "منذ 39 أيام",
       "publishedAt": "2026-09-17T05:54:05.061Z",
       "skills": [
         "Excel",
@@ -5558,7 +5558,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "manufacturing",
-      "age": "منذ 40 أيام",
+      "age": "منذ 41 أيام",
       "publishedAt": "2026-09-15T06:50:37.096Z",
       "skills": [
         "Excel",
@@ -6402,7 +6402,7 @@
       "minExp": 4,
       "maxExp": 6,
       "category": "sales",
-      "age": "منذ 86 أيام",
+      "age": "منذ 87 أيام",
       "publishedAt": "2026-07-31T05:49:03.529Z",
       "skills": [
         "Excel",
@@ -6762,7 +6762,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "finance",
-      "age": "منذ 180 أيام",
+      "age": "منذ 181 أيام",
       "publishedAt": "2026-04-28T06:37:56.728Z",
       "skills": [
         "Accounting",
@@ -6963,7 +6963,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 248 أيام",
+      "age": "منذ 249 أيام",
       "publishedAt": "2026-02-19T06:41:38.833Z",
       "skills": [
         "Python",
@@ -6990,7 +6990,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "civil",
-      "age": "منذ 248 أيام",
+      "age": "منذ 249 أيام",
       "publishedAt": "2026-02-19T06:23:32.551Z",
       "skills": [
         "AutoCAD",
@@ -7439,36 +7439,6 @@
       "description": "التفاصيل متاحة في الإعلان الأصلي.",
       "source": "Lever · Aldar Properties",
       "externalUrl": "https://jobs.lever.co/aldar/4d233360-098d-49b5-a351-e7b2b1d49999",
-      "isLive": true
-    },
-    {
-      "id": 1090132776,
-      "externalId": "73a6e166-eb27-4079-8780-a9bf2d211121",
-      "title": "Binance Accelerator Program -  Web3 Operations (for current university students)",
-      "company": "Binance",
-      "country": "الإمارات",
-      "region": "Asia / Taiwan, Taipei / UAE, Dubai / Middle East & North Africa",
-      "location": "دبي",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "operations",
-      "age": "منذ 543 أيام",
-      "publishedAt": "2025-04-30T09:16:10.863Z",
-      "skills": [
-        "Excel",
-        "Finance",
-        "Education",
-        "Research",
-        "Marketing",
-        "Operations"
-      ],
-      "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world. About the program Binance Accelerator Program is a concise fixed-term program designed for Early Career Talent to have an immersive experience in the rapidly expanding Web3 space. You will be given the opportunity to experience life at Binance and understand what goes on behind the scenes of the worlds’ leading blockchain ecosystem. Alongside your job, there will also be a focus on networking and development, which will expand your professional network and build transferable skills to propel you forward in your career. Learn about BAP Program HERE Who may apply Current university students and recent graduates About the team The Binance Wallet team is building a decentralized version of Binance, featuring on-chain infrastructure, self-custody wallets, a DEX, decentralized Earn, and more. We empower users with full control over their assets for seamless token trading across any blockchain. This Web3 initiative expands our strategic landscape and complements our CEX business, offering significant growth potential. Join us and be part of this exciting journey. Responsibilities: Collect and analyze community feedback to provide actionable insights to internal teams to help formulate product development and marketing strategies Assist the team lead to implement structured workflow, guidelines and improve team efficiency Monitor and control all stages of the project life cycle and ensure that team’s project targets are met within the project timeline Investigate business demands and provide overall solutions and implementation Requirements: Understand cryptocurrency related terminology and trends, and have a keen interest in cryptocurrency culture Good understanding of financial and blockchain trading platform, especially in on-chain trading platform of Web3 wallet Adapt to flexible and extended working hours to engage with KOLs and communities Excellent organizational and time management skills and ability to multitask Mature business experience, strong sense of ownership Strong passion for working in an entrepreneurial environment Ability to manage multiple projects and meet tight deadlines Proficiency in using analytics and reporting tools",
-      "source": "Lever · Binance",
-      "externalUrl": "https://jobs.lever.co/binance/73a6e166-eb27-4079-8780-a9bf2d211121",
       "isLive": true
     },
     {
