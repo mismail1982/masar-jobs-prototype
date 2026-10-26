@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T09:56:37.002Z",
+  "generatedAt": "2026-10-26T10:52:37.397Z",
   "total": 286,
   "feeds": 13,
   "jobs": [
@@ -3458,7 +3458,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "finance",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T10:26:38.623Z",
       "skills": [
         "Excel",
@@ -3485,7 +3485,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "finance",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T10:25:57.536Z",
       "skills": [
         "Excel",
@@ -3512,7 +3512,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T10:14:23.540Z",
       "skills": [
         "Insurance",
@@ -3540,7 +3540,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T10:12:42.840Z",
       "skills": [
         "Insurance",
@@ -3568,7 +3568,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-20T10:12:00.971Z",
       "skills": [
         "Insurance",
@@ -4554,7 +4554,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-19T10:01:18.198Z",
       "skills": [
         "Excel",
@@ -4585,7 +4585,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-19T09:58:43.518Z",
       "skills": [
         "Research",
@@ -6002,7 +6002,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 46 أيام",
+      "age": "منذ 47 أيام",
       "publishedAt": "2026-09-09T10:47:54.392Z",
       "skills": [
         "SAP"
@@ -6027,7 +6027,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 46 أيام",
+      "age": "منذ 47 أيام",
       "publishedAt": "2026-09-09T10:42:51.771Z",
       "skills": [
         "SAP"
@@ -7043,7 +7043,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 164 أيام",
+      "age": "منذ 165 أيام",
       "publishedAt": "2026-05-14T10:28:50.593Z",
       "skills": [
         "Finance",
@@ -7467,7 +7467,7 @@
       "minExp": 12,
       "maxExp": 15,
       "category": "finance",
-      "age": "منذ 349 أيام",
+      "age": "منذ 350 أيام",
       "publishedAt": "2025-11-10T10:03:47.159Z",
       "skills": [
         "IFRS",
@@ -7498,7 +7498,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 355 أيام",
+      "age": "منذ 356 أيام",
       "publishedAt": "2025-11-04T10:29:24.468Z",
       "skills": [
         "AutoCAD",
@@ -7712,7 +7712,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 530 أيام",
+      "age": "منذ 531 أيام",
       "publishedAt": "2025-05-13T10:50:29.522Z",
       "skills": [
         "Customer Service",
