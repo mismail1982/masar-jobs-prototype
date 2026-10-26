@@ -1,8 +1,37 @@
 {
-  "generatedAt": "2026-10-26T03:49:14.239Z",
-  "total": 275,
+  "generatedAt": "2026-10-26T04:47:58.882Z",
+  "total": 276,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 1481227789,
+      "externalId": "591e9510-2d82-4e9e-8a60-47aa7a4ae77b",
+      "title": "Revenue Operations Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 8,
+      "maxExp": 16,
+      "category": "finance",
+      "age": "اليوم",
+      "publishedAt": "2026-10-26T03:56:03.277Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing",
+        "Recruitment",
+        "Operations"
+      ],
+      "description": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Revenue Operations Manager based in Romania. Join a high-growth B2B technology environment and play a pivotal role in shaping revenue operations across the EMEA region. As a strategic partner to Marketing, Sales, Solution Engineering, and Customer Success leaders, you will drive operational excellence across the entire go-to-market (GTM) lifecycle. You will oversee forecasting, pipeline management, performance analysis, and business review processes to support predictable revenue growth. Working closely with regional stakeholders and a global operations team, you will translate business strategy into scalable processes and actionable insights. You will also help establish regional operating practices, improve cross-functional collaboration, and strengthen accountability across teams. This is an opportunity to make a measurable impact from your first 90 days while contributing to the evolution of a growing international organization. Accountabilities: Strategic Business Partnership: Act as the primary Revenue Operations partner for EMEA Marketing, Sales, and Customer Success leaders, providing proactive insights into pipeline performance, revenue forecasts, business priorities, and potential risks. Operational Support and Coordination: Manage incoming requests from regional teams, resolve operational questions, coordinate with relevant internal specialists, and escalate issues when necessary to ensure efficient support. Forecasting and Performance Management: Lead regional forecasting, pipeline reviews, and business review meetings. Maintain strong data hygiene, improve forecast reliability, and ensure discussions result in actionable, data-driven decisions. Process Optimization: Adapt global GTM processes, handoffs, and engagement guidelines to regional needs while documenting local variations and maintaining consistency across teams. Data Analysis and Insights: Analyze pipeline trends, conversion rates, sales performance, and customer lifecycle metrics to identify improvement opportunities and recommend initiatives that support revenue growth. Planning and Forecasting Inputs: Collaborate with Planning and Financial Planning & Analysis (FP&A) teams, providing insights into territory performance, sales ramp-up, pipeline coverage, and regional demand generation to support realistic business plans. Enablement and Adoption: Partner with Enablement teams to support the rollout of new sales motions, operational processes, and business initiatives. Monitor adoption and address implementation gaps. Regional Advocacy and Systems Collaboration: Represent EMEA business priorities in global operational planning and collaborate with business systems teams to translate stakeholder needs into clear technical requirements. Requirements Typically 8 years of experience, or equivalent expertise, in Revenue Operations, Sales Operations, Marketing Operations, or a related go-to-market operations function. Previous experience supporting EMEA go-to-market teams, ideally with responsibility for regional operations across multiple markets. Proven ability to manage forecasting, pipeline reviews, and business performance meetings with senior commercial stakeholders. Strong understanding of the complete GTM lifecycle, including lead management, pipeline generation, sales processes, customer handoffs, expansion, and renewals. Hands-on experience with Salesforce and the ability to translate business needs into clear requirements for technical teams, system owners, and developers. Strong analytical and problem-solving skills, with the ability to interpret performance data and turn findings into practical business recommendations. Experience in a B2B SaaS company or another high-growth technology environment. Excellent communication, relationship-building, and stakeholder management skills, including the ability to influence dec",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/591e9510-2d82-4e9e-8a60-47aa7a4ae77b",
+      "isLive": true
+    },
     {
       "id": 830199546,
       "externalId": "54f9e8e7-afe8-49c6-b08c-9de7ef0ea7a9",
@@ -5766,7 +5795,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 47 أيام",
+      "age": "منذ 48 أيام",
       "publishedAt": "2026-09-08T04:40:50.396Z",
       "skills": [
         "Excel"
@@ -7099,7 +7128,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "projects",
-      "age": "منذ 339 أيام",
+      "age": "منذ 340 أيام",
       "publishedAt": "2025-11-20T04:47:02.192Z",
       "skills": [
         "Excel",
@@ -7483,7 +7512,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "projects",
-      "age": "منذ 626 أيام",
+      "age": "منذ 627 أيام",
       "publishedAt": "2025-02-06T04:32:02.400Z",
       "skills": [
         "Primavera P6",
