@@ -1,8 +1,33 @@
 {
-  "generatedAt": "2026-10-27T11:47:53.899Z",
-  "total": 305,
+  "generatedAt": "2026-10-27T12:58:54.113Z",
+  "total": 307,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 2981876492,
+      "externalId": "9d2a4f66-1107-4fe1-9484-96a40e39c84c",
+      "title": "Director – Portfolio Management (Development to Hold)",
+      "company": "Aldar Properties",
+      "country": "الإمارات",
+      "region": "Abu Dhabi",
+      "location": "أبوظبي",
+      "mode": "حضوري",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-10-27T12:52:45.199Z",
+      "skills": [
+        "راجع الوصف الوظيفي"
+      ],
+      "description": "التفاصيل متاحة في الإعلان الأصلي.",
+      "source": "Lever · Aldar Properties",
+      "externalUrl": "https://jobs.lever.co/aldar/9d2a4f66-1107-4fe1-9484-96a40e39c84c",
+      "isLive": true
+    },
     {
       "id": 387175105,
       "externalId": "6f7ea1b3-2672-4b4c-9b97-c0a25bb75b6c",
@@ -1254,7 +1279,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "operations",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-26T11:55:17.407Z",
       "skills": [
         "Excel",
@@ -1283,7 +1308,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-26T11:49:09.349Z",
       "skills": [
         "Excel",
@@ -1311,7 +1336,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-26T11:48:22.673Z",
       "skills": [
         "Excel",
@@ -2451,7 +2476,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-23T12:39:53.886Z",
       "skills": [
         "Python",
@@ -2478,7 +2503,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-23T12:37:36.390Z",
       "skills": [
         "Python",
@@ -2505,7 +2530,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-23T12:36:37.266Z",
       "skills": [
         "Python",
@@ -3023,7 +3048,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-22T11:50:57.100Z",
       "skills": [
         "SQL",
@@ -3050,7 +3075,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-22T11:49:17.613Z",
       "skills": [
         "SQL",
@@ -3077,7 +3102,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-22T11:48:32.710Z",
       "skills": [
         "SQL",
@@ -3258,6 +3283,37 @@
       "description": "Accountabilities: Design and develop technical courses Collaborate with the curriculum team to define course structure, learning objectives, lesson sequences, and practical lab exercises focused on AI for DevOps. Develop content that demonstrates how engineers use AI agents, coding assistants, and LLM-based automation in real infrastructure environments. Ensure lessons are technically accurate, relevant, practical, and aligned with the needs of working engineers. Create engaging instructional content Write concise, story-driven video scripts designed to explain technical concepts clearly, with individual lessons typically lasting around six minutes. Use AI tools where helpful during drafting while ensuring the final scripts reflect your own voice, expertise, and teaching style. Narrate and present lessons confidently in English, making complex technical topics approachable for learners at different experience levels. Develop and validate hands-on labs Write detailed specifications for practical labs that demonstrate real-world DevOps and AI workflows. Collaborate with the dedicated labs team responsible for building the lab environments. Test completed labs, validate technical accuracy, and ensure exercises deliver the intended learning outcomes. Record demonstrations and walkthroughs explaining how to complete lab exercises and solve practical challenges. Collaborate on quality and editorial development Work closely with curriculum and production teams throughout the course development process. Incorporate structured editorial feedback, particularly during the initial course section, to align content with established teaching standards. Participate in regular team syncs and maintain communication through collaboration tools such as Slack. Focus on technical expertise, teaching, scripting, and recording while the production team manages video editing, animation, lab infrastructure, and publishing. Requirements: Hands-on DevOps and infrastructure experience Strong practical knowledge of Linux, containers, Kubernetes, at least one major cloud platform, CI/CD, and infrastructure as code (IaC). Experience building, operating, and maintaining infrastructure rather than relying solely on theoretical knowledge. The ability to demonstrate real engineering workflows and translate practical experience into effective learning materials. Current experience with AI technologies Practical experience using AI tools in engineering work, including AI agents, coding assistants, and LLM-based automation. Genuine curiosity about emerging AI capabilities and a commitment to staying current with new tools and techniques. The ability to explain how AI can support infrastructure engineering and DevOps workflows; deep specialization in AI research is not required. Teaching and communication skills A demonstrated passion for teaching, supported by experience creating courses, publishing tutorials, delivering talks or workshops, mentoring colleagues, or sharing technical knowledge with a community. Excellent written and spoken English, with the ability to communicate clearly, naturally, and confidently on camera. Strong storytelling skills and the ability to break down complex technical concepts into simple, structured explanations. Empathy for learners, particularly beginners, and an understanding of how to make technical material engaging and accessible. Collaboration and adaptability Willingness to follow an established teaching methodology and incorporate constructive editorial feedback. Ability to work independently, organize deliverables, and meet an agreed project schedule. Comfort working remotely with a distributed team, including participation in weekly syncs and some time-zone overlap with colleagues based in Europe and Asia. Additional qualifications considered an advantage Previously published online courses on platforms such as Udemy or Pluralsight, or experience authoring a technical book. Experience speaking at conferences or meetups, ma",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/393c550c-f13e-4f4e-963e-f677d9c25ec4",
+      "isLive": true
+    },
+    {
+      "id": 3855588981,
+      "externalId": "c49c1eb2-36f8-488d-ac27-cc920e6435a9",
+      "title": "Senior Crude Oil Analyst",
+      "company": "Kpler",
+      "country": "الإمارات",
+      "region": "Dubai",
+      "location": "دبي",
+      "mode": "هجين",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "energy",
+      "age": "منذ 5 أيام",
+      "publishedAt": "2026-10-22T09:11:56.331Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Finance",
+        "Research",
+        "Sales",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success. About the Role As a Senior Crude Oil Research Analyst based in Dubai, you will serve as Kpler’s regional market authority on Middle Eastern physical crude dynamics, focusing on refinery activity, product yields, and downstream trade flows. Operating at the crossroads of physical cargo tracking and fundamental market analysis, you will translate complex refinery runs and crude movements into clear, actionable intelligence. In this high-impact individual contributor role, your insights will directly empower global commodity traders and market participants to navigate physical trading, arbitrage, and downstream market shifts with confidence. Key Responsibilities:: Deliver in-depth market intelligence: Conduct rigorous research on Middle Eastern physical crude and refined product markets, focusing on refinery runs, crude throughput, planned maintenance, and physical trade flows . Advance supply, demand, and refinery modeling: Maintain and refine proprietary supply-demand and refinery activity models, ensuring high data integrity compared against international benchmarks such as JODI, EIA, and IEA . Strengthen OSP advisory capabilities: Spearhead analysis and client-facing insights around Middle Eastern Official Selling Prices (OSPs), pricing mechanisms, and crude grade differentials . Publish timely market commentary: Author high-quality research reports, concise market briefs, and ad-hoc commentary highlighting Kpler’s proprietary cargo and inventory data for global clients . Represent Kpler across the industry: Present regional market insights during client briefings, industry webinars, and specialist media engagements to expand Kpler’s thought leadership across the Middle East . Drive commercial and product innovation: Partner closely with Sales, Customer Success, and Product Engineering teams to support pre-sales discussions, demonstrate data value, and co-develop next-generation analytics offerings . Experience & Background:: 5+ years of prior professional experience analysing crude oil markets, with deep familiarity with refinery operations, trading dynamics, and physical trade flows . Bachelor's degree in a quantitative or technical discipline (Economics, Finance, Engineering, Statistics, or Energy Management) . Proven track record of independently researching, analysing, and writing clear, data-driven market commentary and insights . Strong data analytics and quantitative skills, with demonstrated experience manipulating complex datasets to assess supply, demand, and refinery margins . Exceptional verbal and written communication skills in English, with the ability to convey technical market context to clients, media, and cross-functional teams . Nice-to-haves: Practical experience using Kpler cargo-tracking data, AIS platforms, or similar energy intelligence tools . Working familiarity with data querying and analytical tools such as SQL, Python, or R . Direct familiarity with Middle Eastern crude pricing benchmarks, national oil company (NOC) pricing structures, and regional refinery configurations .",
+      "source": "Lever · Kpler",
+      "externalUrl": "https://jobs.lever.co/kpler/c49c1eb2-36f8-488d-ac27-cc920e6435a9",
       "isLive": true
     },
     {
@@ -3992,7 +4048,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-21T12:18:56.929Z",
       "skills": [
         "Excel",
@@ -4019,7 +4075,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-21T12:16:46.020Z",
       "skills": [
         "Excel",
@@ -4046,7 +4102,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-21T12:15:53.112Z",
       "skills": [
         "Excel",
@@ -4073,7 +4129,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-21T12:14:36.095Z",
       "skills": [
         "Excel",
@@ -4101,7 +4157,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "operations",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-21T11:59:47.757Z",
       "skills": [
         "Finance",
@@ -4131,7 +4187,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "operations",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-21T11:58:48.204Z",
       "skills": [
         "Finance",
@@ -5749,7 +5805,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 14 أيام",
+      "age": "منذ 15 أيام",
       "publishedAt": "2026-10-12T12:22:58.148Z",
       "skills": [
         "Excel",
@@ -5867,7 +5923,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 18 أيام",
+      "age": "منذ 19 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "Audit",
@@ -6032,7 +6088,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 32 أيام",
+      "age": "منذ 33 أيام",
       "publishedAt": "2026-09-24T12:03:40.894Z",
       "skills": [
         "Sales",
@@ -6185,7 +6241,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 35 أيام",
+      "age": "منذ 36 أيام",
       "publishedAt": "2026-09-21T12:10:38.082Z",
       "skills": [
         "Excel",
@@ -6344,7 +6400,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 40 أيام",
+      "age": "منذ 41 أيام",
       "publishedAt": "2026-09-16T12:38:30.005Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6369,7 +6425,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 40 أيام",
+      "age": "منذ 41 أيام",
       "publishedAt": "2026-09-16T12:18:06.725Z",
       "skills": [
         "Finance",
@@ -6451,7 +6507,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 47 أيام",
+      "age": "منذ 48 أيام",
       "publishedAt": "2026-09-09T12:47:08.145Z",
       "skills": [
         "SAP"
@@ -6476,7 +6532,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 47 أيام",
+      "age": "منذ 48 أيام",
       "publishedAt": "2026-09-09T12:45:38.447Z",
       "skills": [
         "SAP"
@@ -6689,7 +6745,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 54 أيام",
+      "age": "منذ 55 أيام",
       "publishedAt": "2026-09-02T12:36:44.958Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6714,7 +6770,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "finance",
-      "age": "منذ 54 أيام",
+      "age": "منذ 55 أيام",
       "publishedAt": "2026-09-02T11:56:38.924Z",
       "skills": [
         "Accounting",
@@ -6915,7 +6971,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 62 أيام",
+      "age": "منذ 63 أيام",
       "publishedAt": "2026-08-25T12:30:04.705Z",
       "skills": [
         "Sales",
@@ -6942,7 +6998,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 62 أيام",
+      "age": "منذ 63 أيام",
       "publishedAt": "2026-08-25T12:03:51.980Z",
       "skills": [
         "Excel",
@@ -7109,7 +7165,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 74 أيام",
+      "age": "منذ 75 أيام",
       "publishedAt": "2026-08-13T12:01:07.661Z",
       "skills": [
         "Operations"
@@ -7134,7 +7190,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 74 أيام",
+      "age": "منذ 75 أيام",
       "publishedAt": "2026-08-13T11:55:04.485Z",
       "skills": [
         "Operations",
@@ -7408,7 +7464,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "translation",
-      "age": "منذ 110 أيام",
+      "age": "منذ 111 أيام",
       "publishedAt": "2026-07-08T12:41:35.292Z",
       "skills": [
         "Excel",
@@ -7660,7 +7716,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 201 أيام",
+      "age": "منذ 202 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -8108,7 +8164,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 434 أيام",
+      "age": "منذ 435 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
@@ -8163,7 +8219,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 467 أيام",
+      "age": "منذ 468 أيام",
       "publishedAt": "2025-07-16T12:45:37.544Z",
       "skills": [
         "Excel",
@@ -8190,7 +8246,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 467 أيام",
+      "age": "منذ 468 أيام",
       "publishedAt": "2025-07-16T12:38:56.781Z",
       "skills": [
         "Excel",
@@ -8404,7 +8460,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 851 أيام",
+      "age": "منذ 852 أيام",
       "publishedAt": "2024-06-27T12:18:56.852Z",
       "skills": [
         "Finance",
@@ -8434,7 +8490,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 887 أيام",
+      "age": "منذ 888 أيام",
       "publishedAt": "2024-05-22T12:17:49.028Z",
       "skills": [
         "Excel",
