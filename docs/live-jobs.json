@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T15:57:00.150Z",
+  "generatedAt": "2026-10-27T16:57:34.958Z",
   "total": 306,
   "feeds": 13,
   "jobs": [
@@ -5743,7 +5743,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 12 أيام",
+      "age": "منذ 13 أيام",
       "publishedAt": "2026-10-14T16:15:47.910Z",
       "skills": [
         "Excel",
@@ -8161,7 +8161,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "security",
-      "age": "منذ 463 أيام",
+      "age": "منذ 464 أيام",
       "publishedAt": "2025-07-20T16:56:05.026Z",
       "skills": [
         "Audit",
