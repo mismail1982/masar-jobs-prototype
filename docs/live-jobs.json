@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-27T12:58:54.113Z",
-  "total": 307,
+  "generatedAt": "2026-10-27T14:01:22.826Z",
+  "total": 306,
   "feeds": 13,
   "jobs": [
     {
@@ -1108,7 +1108,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-26T14:00:22.263Z",
       "skills": [
         "SQL",
@@ -1135,7 +1135,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-26T13:59:21.149Z",
       "skills": [
         "SQL",
@@ -1162,7 +1162,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-26T13:55:54.559Z",
       "skills": [
         "MEP",
@@ -1189,7 +1189,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-26T13:44:51.291Z",
       "skills": [
         "React",
@@ -1219,7 +1219,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-26T13:42:23.929Z",
       "skills": [
         "React",
@@ -1249,7 +1249,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-26T13:41:09.450Z",
       "skills": [
         "React",
@@ -2395,7 +2395,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-23T13:23:27.163Z",
       "skills": [
         "SAP",
@@ -2422,7 +2422,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-23T13:20:38.088Z",
       "skills": [
         "SAP",
@@ -2449,7 +2449,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-23T13:19:26.911Z",
       "skills": [
         "SAP",
@@ -5834,7 +5834,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 18 أيام",
+      "age": "منذ 19 أيام",
       "publishedAt": "2026-10-08T13:52:32.927Z",
       "skills": [
         "SAP",
@@ -5865,7 +5865,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 18 أيام",
+      "age": "منذ 19 أيام",
       "publishedAt": "2026-10-08T13:36:09.377Z",
       "skills": [
         "Audit",
@@ -5894,7 +5894,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 18 أيام",
+      "age": "منذ 19 أيام",
       "publishedAt": "2026-10-08T13:33:31.379Z",
       "skills": [
         "Audit",
@@ -5952,7 +5952,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "marketing",
-      "age": "منذ 19 أيام",
+      "age": "منذ 20 أيام",
       "publishedAt": "2026-10-07T13:32:46.237Z",
       "skills": [
         "Audit",
@@ -7120,37 +7120,6 @@
       "isLive": true
     },
     {
-      "id": 1149013034,
-      "externalId": "09c7a385-beee-4e5b-9d92-8675802c155c",
-      "title": "Procurement Engineer",
-      "company": "Flow",
-      "country": "السعودية",
-      "region": "Riyadh, Saudi Arabia",
-      "location": "الرياض",
-      "mode": "حضوري",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 2,
-      "maxExp": 5,
-      "category": "operations",
-      "age": "منذ 71 أيام",
-      "publishedAt": "2026-08-17T07:04:56.483Z",
-      "skills": [
-        "Excel",
-        "Finance",
-        "Administration",
-        "Compliance",
-        "Operations",
-        "Procurement",
-        "Hospitality"
-      ],
-      "description": "About the Company At Flow, we’re reimagining what it means to live, work, and connect. More than just a real estate company, Flow is a brand, a technology platform, and an operations ecosystem spanning condominiums, hotels, multifamily residences, and office spaces. We’re building a new kind of living experience: one that’s flexible, connected, and designed to create genuine community and real value for the people who call Flow home. Our mission is oneness: prioritizing our residents and their experiences, and fostering connection with ourselves, their neighbors, and the natural world. By putting people at the center of everything we do, we’re creating vibrant, human-centered communities where life, work, creativity, and play all come together in one place. About The Role : The Procurement Engineer is an individual contributor who will own and build Flow's procurement function across our KSA portfolio, with an immediate focus on FF&E, facilities, and operational supplies for our residential communities in Riyadh. Reporting to the Head of Program Design & Development, MENA – Physical Delivery, this is a hands-on, KSA-based role combining strategic sourcing, vendor management, cost control, and execution. The Procurement Engineer is accountable for ensuring the right products are sourced at the right quality and cost — and delivered on time. Key Responsibilities : : Own end-to-end procurement across FF&E, facilities, and operational categories in KSA — ensuring quality, cost, and delivery requirements are consistently met. Build and manage a strong supplier network across KSA, negotiating pricing, contracts, commercial terms, and service levels. Lead RFQ and competitive bidding processes, evaluate suppliers, and conduct regular performance reviews with key partners. Maintain complete and accurate procurement documentation, including POs, contracts, invoices, vendor records, order acknowledgements, and freight documentation. Manage purchasing workflows from request through delivery, coordinating closely with Design & Development, Facilities, Operations, and Finance. Maintain accurate ERP records for orders, costs, receipts, inventory, and related procurement data. Monitor KSA market pricing, supply conditions, and vendor performance to identify cost savings and reduce supply risk. Ensure compliance with Saudi regulations including SASO standards, VAT documentation, Saudization (Nitaqat) obligations, and import requirements. Anticipate supply requirements, identify potential disruptions early, and develop alternative sourcing solutions. Continuously improve procurement processes, reporting, systems, and controls as Flow scales. Key Asks: Can-do, GTD mindset — you take initiative, solve problems, and drive outcomes without waiting to be told. Ownership — you anticipate needs and take full accountability from request through delivery. High standards — zero tolerance for incomplete records, inaccurate documentation, or unresolved purchase orders. Commercial instinct — you negotiate hard, spend wisely, and understand when quality matters more than the lowest price. Operational discipline — you create structure, maintain accurate data, and keep multiple procurement streams moving. Team enabler — you remove procurement friction so our development and operations teams can move quickly. What We are Look For : 1- Bachelor’s degree in Business Administration, Supply Chain Management, or related field. 2- 5+ years of procurement or purchasing experience, preferably in hospitality, real estate, luxury residential, or fit-out. 3- 5+ years of procurement or purchasing experience, preferably in construction, fit-out, hospitality, real estate, or luxury residential sectors. 4- Experience working in KSA or the broader GCC strongly preferred. 5- Full professional fluency in English is mandatory; Arabic is an advantage. 6- Proficiency with ERP/procurement systems, Excel or Google Sheets, inventory management tools, expense/invoice platforms, and ope",
-      "source": "Lever · Flow",
-      "externalUrl": "https://jobs.lever.co/flowlife/09c7a385-beee-4e5b-9d92-8675802c155c",
-      "isLive": true
-    },
-    {
       "id": 2083360663,
       "externalId": "f444d10c-4df3-406c-a62d-f38d1a7b3d9d",
       "title": "Car Inspector",
@@ -7741,7 +7710,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 208 أيام",
+      "age": "منذ 209 أيام",
       "publishedAt": "2026-04-01T13:34:53.536Z",
       "skills": [
         "Research",
