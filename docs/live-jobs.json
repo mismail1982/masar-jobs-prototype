@@ -1,8 +1,34 @@
 {
-  "generatedAt": "2026-10-27T09:52:47.138Z",
-  "total": 295,
+  "generatedAt": "2026-10-27T10:50:21.966Z",
+  "total": 296,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 703479372,
+      "externalId": "322818c1-c04f-4f59-9872-2cd691f155bb",
+      "title": "Litigation Paralegal",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "legal",
+      "age": "اليوم",
+      "publishedAt": "2026-10-27T10:14:39.988Z",
+      "skills": [
+        "Excel",
+        "Research"
+      ],
+      "description": "Accountabilities:: As a Litigation Paralegal, you will provide comprehensive support to attorneys throughout all stages of civil litigation, helping ensure cases progress efficiently and meet procedural requirements. Your responsibilities will include: Support attorneys with active civil litigation matters, from initial intake through trial preparation. Draft pleadings, motions, notices, discovery requests and responses, subpoenas, and legal correspondence. Prepare and organize exhibits, evidence, deposition materials, trial documents, chronologies, case summaries, and damages documentation. Manage discovery processes, including document collection, review, organization, and production. Assist with interrogatories, requests for production, requests for admission, and related responses. Coordinate depositions, hearings, mediations, conferences, and trials. Communicate professionally with clients, opposing counsel, courts, expert witnesses, vendors, and other relevant parties. Track statutes of limitation, court deadlines, discovery schedules, hearings, and key case milestones. Prepare and submit court filings using state and federal electronic filing systems. Maintain accurate, organized, and up-to-date digital case files. Conduct legal and factual research to support active litigation matters. Assist attorneys with deposition, mediation, hearing, and trial preparation. Use legal case management and document management systems to organize case information and workflows. Follow established procedures and quality standards to ensure accuracy and consistency across all work. Requirements: The ideal candidate has substantial experience supporting U.S. civil litigation, strong legal drafting capabilities, and the organizational skills required to manage complex cases and competing deadlines. Candidates should meet the following requirements: At least five years of professional experience as a paralegal, lawyer, or attorney. At least two years of experience working as a litigation paralegal for a law firm in the United States. Strong hands-on experience with U.S. civil litigation procedures and case management. Demonstrated experience drafting pleadings, motions, discovery documents, subpoenas, and litigation correspondence. Extensive experience managing discovery and document production. Experience preparing cases for depositions, mediations, hearings, and trials. Familiarity with state and/or federal court filing systems and procedural requirements. Strong understanding of litigation deadlines, court procedures, and case milestones. Experience working directly with U.S. attorneys and clients. Excellent legal writing, drafting, and document preparation skills. Experience using legal case management software. Advanced proficiency with Microsoft Office 365 or comparable cloud-based business tools. Excellent written and verbal English communication skills. Exceptional attention to detail, organization, and time management. A stable employment history, with at least two years of tenure in each previous role. Advanced hands-on experience with AI tools such as ChatGPT, Claude, and Gemini. Reliable high-speed internet, professional equipment, and a quiet home office. Availability during U.S. business hours and commitment to a long-term remote position with a U.S. law firm. Benefits: Fully remote work arrangement, open to candidates worldwide. Full-time or part-time work options. Compensation of $14 per hour. Opportunity to work closely with U.S. attorneys on active civil litigation matters. Long-term remote work opportunity.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/322818c1-c04f-4f59-9872-2cd691f155bb",
+      "isLive": true
+    },
     {
       "id": 4010630162,
       "externalId": "185e5f8f-b6e8-4797-a243-967bd4e901e1",
@@ -4545,7 +4571,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "finance",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-20T10:26:38.623Z",
       "skills": [
         "Excel",
@@ -4572,7 +4598,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "finance",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-20T10:25:57.536Z",
       "skills": [
         "Excel",
@@ -4599,7 +4625,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-20T10:14:23.540Z",
       "skills": [
         "Insurance",
@@ -4627,7 +4653,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-20T10:12:42.840Z",
       "skills": [
         "Insurance",
@@ -4655,7 +4681,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-20T10:12:00.971Z",
       "skills": [
         "Insurance",
@@ -4683,7 +4709,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-20T09:56:17.039Z",
       "skills": [
         "Excel",
@@ -4712,7 +4738,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-20T09:54:26.505Z",
       "skills": [
         "Excel",
@@ -4741,7 +4767,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-20T09:53:44.185Z",
       "skills": [
         "Excel",
@@ -6257,7 +6283,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 47 أيام",
+      "age": "منذ 48 أيام",
       "publishedAt": "2026-09-09T10:47:54.392Z",
       "skills": [
         "SAP"
@@ -6282,7 +6308,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 47 أيام",
+      "age": "منذ 48 أيام",
       "publishedAt": "2026-09-09T10:42:51.771Z",
       "skills": [
         "SAP"
@@ -7298,7 +7324,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 165 أيام",
+      "age": "منذ 166 أيام",
       "publishedAt": "2026-05-14T10:28:50.593Z",
       "skills": [
         "Finance",
@@ -7722,7 +7748,7 @@
       "minExp": 12,
       "maxExp": 15,
       "category": "finance",
-      "age": "منذ 350 أيام",
+      "age": "منذ 351 أيام",
       "publishedAt": "2025-11-10T10:03:47.159Z",
       "skills": [
         "IFRS",
@@ -7753,7 +7779,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 356 أيام",
+      "age": "منذ 357 أيام",
       "publishedAt": "2025-11-04T10:29:24.468Z",
       "skills": [
         "AutoCAD",
