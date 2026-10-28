@@ -1,8 +1,119 @@
 {
-  "generatedAt": "2026-10-28T10:57:01.283Z",
-  "total": 290,
+  "generatedAt": "2026-10-28T11:54:05.569Z",
+  "total": 294,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 4287242790,
+      "externalId": "19d710b1-2af9-4fc4-be56-ba639c69f2d8",
+      "title": "Senior FullStack Developer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-10-28T11:17:45.949Z",
+      "skills": [
+        "React",
+        "Excel",
+        "Finance",
+        "Research"
+      ],
+      "description": "Accountabilities: Lead end-to-end full stack development across React-based user interfaces, Node.js backend services, and Web3 integrations. Design, develop, and scale decentralized applications that integrate blockchain wallets, decentralized finance (DeFi) protocols, and on-chain data sources. Integrate Web3 libraries, software development kits, third-party packages, and APIs into robust, secure, and reliable product workflows. Architect and implement systems that meet demanding requirements for performance, scalability, security, and interoperability across decentralized ecosystems. Develop and optimize infrastructure capable of processing high volumes of real-time market information, blockchain activity, and other data streams. Take ownership of the entire software development lifecycle, from technical design and implementation through deployment, monitoring, and production support. Investigate complex production issues, identify root causes, and implement improvements that strengthen system reliability and operational performance. Collaborate with experienced engineers on architectural decisions, technical strategy, and research into emerging technologies relevant to Web3 and decentralized markets. Contribute to the development of advanced trading and market intelligence products, helping transform complex data into intuitive, high-performance user experiences. Maintain high engineering standards through thoughtful technical decisions, quality-focused implementation, and continuous improvement of development practices. Requirements: At least 10 years of professional software development experience, with a strong background in designing, building, and maintaining production-grade applications. A minimum of 3 years of full stack development experience with a substantial focus on Web3 technologies and blockchain-based applications. Strong proficiency in TypeScript, React, and Node.js, with the ability to develop and maintain complex frontend and backend systems. Demonstrated experience delivering Web3 applications or integrations to production environments. Hands-on experience integrating blockchain wallets, DeFi protocols, on-chain data sources, and third-party Web3 libraries, packages, or APIs. Proven experience designing and scaling data-intensive systems, particularly those involving real-time processing and high-volume information flows. Strong architectural judgment and a practical understanding of system performance, security, scalability, and reliability. Ability to troubleshoot complex technical issues, make independent engineering decisions, and take responsibility for production outcomes. Excellent problem-solving skills, with the ability to balance rapid delivery against long-term maintainability and technical quality. Fluent English communication skills, with the ability to collaborate effectively with experienced engineers in a distributed environment. A high degree of autonomy, accountability, and initiative, along with the ability to manage broad responsibilities in a fast-moving startup. Comfort working in a demanding, execution-focused environment where engineers are expected to take ownership and deliver results with limited supervision. Experience with multi-chain development, particularly across Ethereum and Solana, is an advantage. Familiarity with Prisma, Zod, tRPC, and Fastify is considered a plus. Benefits: Fully remote work: Work remotely from Poland with flexible working hours. Competitive compensation: Annual salary of up to USD 90,000, depending on experience and qualifications. Technical ownership: Significant autonomy in shaping architecture, making engineering decisions, and delivering core product capabilities. Experienced colleagues: Collaborate with a highly skilled, senior-level engineering team in a direct and execution-focused environment. Web3 innovation: Contribute to advanced decentralized applications, market intelligence infrastructure, and next-generation trading technologies. End",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/19d710b1-2af9-4fc4-be56-ba639c69f2d8",
+      "isLive": true
+    },
+    {
+      "id": 3680721035,
+      "externalId": "2eb0c13e-df66-4b71-9d65-733c156b74fb",
+      "title": "Senior FullStack Developer",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-10-28T11:15:01.852Z",
+      "skills": [
+        "React",
+        "Excel",
+        "Finance",
+        "Research"
+      ],
+      "description": "Accountabilities: Lead end-to-end full stack development across React-based user interfaces, Node.js backend services, and Web3 integrations. Design, develop, and scale decentralized applications that integrate blockchain wallets, decentralized finance (DeFi) protocols, and on-chain data sources. Integrate Web3 libraries, software development kits, third-party packages, and APIs into robust, secure, and reliable product workflows. Architect and implement systems that meet demanding requirements for performance, scalability, security, and interoperability across decentralized ecosystems. Develop and optimize infrastructure capable of processing high volumes of real-time market information, blockchain activity, and other data streams. Take ownership of the entire software development lifecycle, from technical design and implementation through deployment, monitoring, and production support. Investigate complex production issues, identify root causes, and implement improvements that strengthen system reliability and operational performance. Collaborate with experienced engineers on architectural decisions, technical strategy, and research into emerging technologies relevant to Web3 and decentralized markets. Contribute to the development of advanced trading and market intelligence products, helping transform complex data into intuitive, high-performance user experiences. Maintain high engineering standards through thoughtful technical decisions, quality-focused implementation, and continuous improvement of development practices. Requirements: At least 10 years of professional software development experience, with a strong background in designing, building, and maintaining production-grade applications. A minimum of 3 years of full stack development experience with a substantial focus on Web3 technologies and blockchain-based applications. Strong proficiency in TypeScript, React, and Node.js, with the ability to develop and maintain complex frontend and backend systems. Demonstrated experience delivering Web3 applications or integrations to production environments. Hands-on experience integrating blockchain wallets, DeFi protocols, on-chain data sources, and third-party Web3 libraries, packages, or APIs. Proven experience designing and scaling data-intensive systems, particularly those involving real-time processing and high-volume information flows. Strong architectural judgment and a practical understanding of system performance, security, scalability, and reliability. Ability to troubleshoot complex technical issues, make independent engineering decisions, and take responsibility for production outcomes. Excellent problem-solving skills, with the ability to balance rapid delivery against long-term maintainability and technical quality. Fluent English communication skills, with the ability to collaborate effectively with experienced engineers in a distributed environment. A high degree of autonomy, accountability, and initiative, along with the ability to manage broad responsibilities in a fast-moving startup. Comfort working in a demanding, execution-focused environment where engineers are expected to take ownership and deliver results with limited supervision. Experience with multi-chain development, particularly across Ethereum and Solana, is an advantage. Familiarity with Prisma, Zod, tRPC, and Fastify is considered a plus. Benefits: Fully remote work: Work remotely from Poland with flexible working hours. Competitive compensation: Annual salary of up to USD 90,000, depending on experience and qualifications. Technical ownership: Significant autonomy in shaping architecture, making engineering decisions, and delivering core product capabilities. Experienced colleagues: Collaborate with a highly skilled, senior-level engineering team in a direct and execution-focused environment. Web3 innovation: Contribute to advanced decentralized applications, market intelligence infrastructure, and next-generation trading technologies. End",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/2eb0c13e-df66-4b71-9d65-733c156b74fb",
+      "isLive": true
+    },
+    {
+      "id": 2779698188,
+      "externalId": "cd2ffb97-4e1f-4e57-a3a4-90f3962cec93",
+      "title": "Senior FullStack Developer",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-10-28T11:14:07.571Z",
+      "skills": [
+        "React",
+        "Excel",
+        "Finance",
+        "Research"
+      ],
+      "description": "Accountabilities: Lead end-to-end full stack development across React-based user interfaces, Node.js backend services, and Web3 integrations. Design, develop, and scale decentralized applications that integrate blockchain wallets, decentralized finance (DeFi) protocols, and on-chain data sources. Integrate Web3 libraries, software development kits, third-party packages, and APIs into robust, secure, and reliable product workflows. Architect and implement systems that meet demanding requirements for performance, scalability, security, and interoperability across decentralized ecosystems. Develop and optimize infrastructure capable of processing high volumes of real-time market information, blockchain activity, and other data streams. Take ownership of the entire software development lifecycle, from technical design and implementation through deployment, monitoring, and production support. Investigate complex production issues, identify root causes, and implement improvements that strengthen system reliability and operational performance. Collaborate with experienced engineers on architectural decisions, technical strategy, and research into emerging technologies relevant to Web3 and decentralized markets. Contribute to the development of advanced trading and market intelligence products, helping transform complex data into intuitive, high-performance user experiences. Maintain high engineering standards through thoughtful technical decisions, quality-focused implementation, and continuous improvement of development practices. Requirements: At least 10 years of professional software development experience, with a strong background in designing, building, and maintaining production-grade applications. A minimum of 3 years of full stack development experience with a substantial focus on Web3 technologies and blockchain-based applications. Strong proficiency in TypeScript, React, and Node.js, with the ability to develop and maintain complex frontend and backend systems. Demonstrated experience delivering Web3 applications or integrations to production environments. Hands-on experience integrating blockchain wallets, DeFi protocols, on-chain data sources, and third-party Web3 libraries, packages, or APIs. Proven experience designing and scaling data-intensive systems, particularly those involving real-time processing and high-volume information flows. Strong architectural judgment and a practical understanding of system performance, security, scalability, and reliability. Ability to troubleshoot complex technical issues, make independent engineering decisions, and take responsibility for production outcomes. Excellent problem-solving skills, with the ability to balance rapid delivery against long-term maintainability and technical quality. Fluent English communication skills, with the ability to collaborate effectively with experienced engineers in a distributed environment. A high degree of autonomy, accountability, and initiative, along with the ability to manage broad responsibilities in a fast-moving startup. Comfort working in a demanding, execution-focused environment where engineers are expected to take ownership and deliver results with limited supervision. Experience with multi-chain development, particularly across Ethereum and Solana, is an advantage. Familiarity with Prisma, Zod, tRPC, and Fastify is considered a plus. Benefits: Fully remote work: Work remotely from Poland with flexible working hours. Competitive compensation: Annual salary of up to USD 90,000, depending on experience and qualifications. Technical ownership: Significant autonomy in shaping architecture, making engineering decisions, and delivering core product capabilities. Experienced colleagues: Collaborate with a highly skilled, senior-level engineering team in a direct and execution-focused environment. Web3 innovation: Contribute to advanced decentralized applications, market intelligence infrastructure, and next-generation trading technologies. End",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/cd2ffb97-4e1f-4e57-a3a4-90f3962cec93",
+      "isLive": true
+    },
+    {
+      "id": 704154023,
+      "externalId": "1a347e2f-532e-423a-acb9-dd359d5bf29f",
+      "title": "Senior Engineer, Backend - Protection",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-10-28T10:58:36.986Z",
+      "skills": [
+        "Excel",
+        "Insurance",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Backend Engineering and Architecture: Design, build, deploy, and maintain robust backend systems, taking ownership of solutions throughout their entire lifecycle. Make architectural decisions regarding service boundaries, integration patterns, and data models to ensure scalability, reliability, and maintainability. Payment Dispute Automation: Develop automation capabilities that help merchants manage payment disputes at scale, including notifications, deadline tracking, evidence collection, and response workflows. Payment Service Provider Integrations: Expand dispute management coverage across the broader payment network by integrating additional payment service providers and ensuring consistent functionality across different platforms. Fraud Prevention Integrations: Collaborate with third-party fraud prevention providers, including Riskified, Forter, Signifyd, and Sift, to build a unified experience for comparing, managing, and switching between fraud solutions. Rules and Signals Engine: Design and implement native risk management capabilities, including velocity rules, blocklists, device fingerprinting, and configurable automation that enables merchants to manage fraud and disputes more effectively. Cross-Functional Collaboration: Work closely with Engineering Managers, Product Managers, and other stakeholders to translate merchant challenges into practical technical solutions, prioritizing delivery, customer value, and measurable outcomes. Product Development: Contribute to backend development as the primary focus, while supporting dashboard frontend development when needed to deliver complete product experiences. Quality, Reliability, and Monitoring: Establish and maintain high engineering standards through testing, code reviews, monitoring, and continuous improvement. Ensure that critical dispute and fraud workflows operate reliably, minimizing errors that could result in financial losses for customers. Technical Leadership and Mentoring: Share expertise, mentor colleagues, and raise the team's technical standards through sound engineering practices, thoughtful architectural decisions, and collaborative problem-solving. Engineering Foundations: Help establish team conventions, operational tooling, on-call processes, and development practices as the function grows, balancing foundational improvements with frequent, high-quality product delivery. Requirements: Proven experience owning backend systems end to end, from architecture and development through deployment, monitoring, and ongoing maintenance. Strong software engineering and system design skills, with the ability to design scalable backend architectures and make sound technical decisions in evolving environments. Experience building systems from scratch, defining technical approaches, and taking ownership of ambiguous problems without relying on fully established processes. High standards for code quality, testing, reliability, and operational excellence, particularly when developing systems where failures can have significant financial or operational consequences. A proactive, delivery-focused mindset, with a track record of shipping improvements frequently, gathering feedback, and translating ideas into reliable customer-facing functionality. Experience mentoring engineers, supporting colleagues' technical development, or helping establish engineering best practices. Strong problem-solving and analytical skills, with the ability to investigate complex issues and balance speed of delivery with long-term system quality. Excellent communication and collaboration skills, with the ability to work effectively with Engineering and Product stakeholders in a remote, distributed environment. Comfort working in a growing team where requirements, processes, tooling, and operational practices are still evolving. Experience in payments, fraud prevention, risk management, or another technically complex domain is advantageous. Familiarity with card scheme rules,",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/1a347e2f-532e-423a-acb9-dd359d5bf29f",
+      "isLive": true
+    },
     {
       "id": 1635014340,
       "externalId": "9ae28da9-aa49-40ae-b0ef-5fc551e06767",
@@ -645,7 +756,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T11:45:10.864Z",
       "skills": [
         "SQL",
@@ -673,7 +784,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T11:42:18.446Z",
       "skills": [
         "SQL",
@@ -701,7 +812,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T11:41:06.228Z",
       "skills": [
         "SQL",
@@ -729,7 +840,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T11:24:37.413Z",
       "skills": [
         "Audit",
@@ -757,7 +868,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T11:22:53.412Z",
       "skills": [
         "Audit",
@@ -785,7 +896,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T11:21:53.365Z",
       "skills": [
         "Audit",
@@ -813,7 +924,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T11:05:00.866Z",
       "skills": [
         "Insurance",
@@ -840,7 +951,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T11:02:27.860Z",
       "skills": [
         "Insurance",
@@ -867,7 +978,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T11:01:29.730Z",
       "skills": [
         "Insurance",
@@ -1910,7 +2021,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T11:49:09.349Z",
       "skills": [
         "Excel",
@@ -1938,7 +2049,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T11:48:22.673Z",
       "skills": [
         "Excel",
@@ -1966,7 +2077,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T11:46:43.927Z",
       "skills": [
         "Excel",
@@ -1994,7 +2105,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T11:38:48.651Z",
       "skills": [
         "Python",
@@ -2025,7 +2136,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T11:38:04.466Z",
       "skills": [
         "Python",
@@ -2056,7 +2167,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T11:36:15.129Z",
       "skills": [
         "Python",
@@ -2087,7 +2198,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T11:13:37.334Z",
       "skills": [
         "Python",
@@ -2115,7 +2226,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T11:12:57.342Z",
       "skills": [
         "Python",
@@ -2143,7 +2254,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T11:11:16.718Z",
       "skills": [
         "Python",
@@ -3159,7 +3270,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T11:44:27.564Z",
       "skills": [
         "Excel",
@@ -3187,7 +3298,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T11:37:33.066Z",
       "skills": [
         "Excel",
@@ -3217,7 +3328,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T11:36:41.164Z",
       "skills": [
         "Excel",
@@ -3247,7 +3358,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T11:35:00.145Z",
       "skills": [
         "Excel",
@@ -3277,7 +3388,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T11:29:04.013Z",
       "skills": [
         "Excel",
@@ -3304,7 +3415,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T11:28:28.608Z",
       "skills": [
         "Excel",
@@ -3331,7 +3442,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T11:26:58.402Z",
       "skills": [
         "Excel",
@@ -3358,7 +3469,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T11:15:32.144Z",
       "skills": [
         "Excel",
@@ -3389,7 +3500,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T11:14:35.814Z",
       "skills": [
         "Excel",
@@ -3420,7 +3531,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T11:04:50.406Z",
       "skills": [
         "Excel",
@@ -3650,7 +3761,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-22T11:50:57.100Z",
       "skills": [
         "SQL",
@@ -3677,7 +3788,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-22T11:49:17.613Z",
       "skills": [
         "SQL",
@@ -3704,7 +3815,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-22T11:48:32.710Z",
       "skills": [
         "SQL",
@@ -3731,7 +3842,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-22T11:36:19.093Z",
       "skills": [
         "Excel",
@@ -3759,7 +3870,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-22T11:35:35.298Z",
       "skills": [
         "Excel",
@@ -3787,7 +3898,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-22T11:07:37.436Z",
       "skills": [
         "Excel",
@@ -3816,7 +3927,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-22T11:06:55.604Z",
       "skills": [
         "Excel",
@@ -4682,7 +4793,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-21T11:41:51.288Z",
       "skills": [
         "Excel",
@@ -4709,7 +4820,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "customer",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-21T11:24:52.413Z",
       "skills": [
         "Power BI",
@@ -5521,7 +5632,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 19 أيام",
+      "age": "منذ 20 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "Audit",
@@ -5606,7 +5717,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 25 أيام",
+      "age": "منذ 26 أيام",
       "publishedAt": "2026-10-02T11:45:47.851Z",
       "skills": [
         "Excel",
@@ -5866,7 +5977,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 39 أيام",
+      "age": "منذ 40 أيام",
       "publishedAt": "2026-09-18T07:14:31-04:00",
       "skills": [
         "Excel",
@@ -6155,7 +6266,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "sales",
-      "age": "منذ 48 أيام",
+      "age": "منذ 49 أيام",
       "publishedAt": "2026-09-09T11:39:00.380Z",
       "skills": [
         "Excel",
@@ -6624,7 +6735,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 63 أيام",
+      "age": "منذ 64 أيام",
       "publishedAt": "2026-08-25T11:26:46.838Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6649,7 +6760,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 63 أيام",
+      "age": "منذ 64 أيام",
       "publishedAt": "2026-08-25T11:15:50.932Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6783,7 +6894,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 85 أيام",
+      "age": "منذ 86 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
         "Operations",
@@ -6809,7 +6920,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 85 أيام",
+      "age": "منذ 86 أيام",
       "publishedAt": "2026-08-03T11:24:13.619Z",
       "skills": [
         "React",
@@ -6892,7 +7003,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 92 أيام",
+      "age": "منذ 93 أيام",
       "publishedAt": "2026-07-27T11:44:58.735Z",
       "skills": [
         "Excel",
@@ -6922,7 +7033,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 99 أيام",
+      "age": "منذ 100 أيام",
       "publishedAt": "2026-07-20T11:17:12.203Z",
       "skills": [
         "Research",
@@ -7283,7 +7394,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 202 أيام",
+      "age": "منذ 203 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7706,7 +7817,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 435 أيام",
+      "age": "منذ 436 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
