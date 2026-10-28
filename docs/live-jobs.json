@@ -1,8 +1,69 @@
 {
-  "generatedAt": "2026-10-28T08:09:41.561Z",
-  "total": 282,
+  "generatedAt": "2026-10-28T09:01:48.566Z",
+  "total": 284,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3197650256,
+      "externalId": "a60523eb-bf23-4b4f-b999-9c32e8957088",
+      "title": "Sr Software Engineer - Storybook",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-10-28T08:41:17.350Z",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Excel",
+        "Education",
+        "Content",
+        "Recruitment"
+      ],
+      "description": "Accountabilities: Contribute to the Storybook codebase as a core maintainer, helping shape the direction, quality, and long-term sustainability of the platform. Design, develop, and refine APIs that serve end users, addon authors, and other core maintainers, with a strong focus on usability and developer experience. Participate in open-source collaboration by triaging issues, reviewing pull requests, supporting contributors, and writing or reviewing Request for Comments (RFCs). Understand developers’ workflows and challenges, creating or reviewing educational content that helps users adopt new features and get the most out of the platform. Engage with the broader developer community to exchange ideas, communicate technical decisions, and share product developments, with opportunities to speak at conferences if interested. Collaborate with other engineering teams to maintain feature consistency and continuity across the open-source platform and related products. Contribute to the engineering support rotation, which primarily operates during regular business hours. Help advance AI-driven development workflows, including tools and integrations that enable AI agents to reuse components, preview interfaces, run tests, and identify potential issues. Contribute to the ongoing expansion of frontend ecosystem support, helping ensure the platform works effectively across modern frameworks and development environments. Requirements At least 5 years of experience building web applications or developer-facing software using JavaScript, TypeScript, or other relevant programming languages. Experience developing tools, frameworks, libraries, or internal platforms for other developers. A strong understanding of the underlying systems that power modern frontend development, including web frameworks, build tools, and the broader frontend toolchain. Excellent written and verbal communication skills in English, with the ability to collaborate effectively in an asynchronous, distributed team. An interest in engaging with developer communities, understanding their needs, exchanging ideas, and sharing technical knowledge. The ability to form independent technical opinions, clearly explain reasoning, and remain open to alternative perspectives and new evidence. A genuine enthusiasm for improving developer productivity and helping shape the future of frontend development. Prior open-source maintainer experience is not required. Additional strengths include sharing knowledge through talks, articles, videos, or other public channels; expertise in frontend technologies beyond React, such as Web Components, Angular, or React Native; and a clear perspective on developer experience across different ecosystems. Experience experimenting with AI agents and agentic development workflows, or familiarity with Storybook or Chromatic, is an advantage. Experience working effectively in a distributed, remote-first environment is beneficial, as is a non-traditional path into software engineering that brings additional perspectives and insights. Benefits Annual salary range of US$161,900–$197,700 , plus equity, as stated in the original posting. The applicable compensation structure and currency for candidates based in Germany should be confirmed during recruitment. Fully remote working arrangement within Europe. Core collaboration hours aligned with Central European Time, with a specified 09:00–15:00 UTC overlap. The opportunity to contribute to a widely used open-source developer tool and influence frontend development practices across a global community. A collaborative engineering environment that emphasizes kindness, empathy, thoughtful communication, and continuous learning. Opportunities to participate in developer community activities and speak at conferences. Additional benefits are available, but the specific details are not itemized in the job description and should be confirmed during the hiring process.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/a60523eb-bf23-4b4f-b999-9c32e8957088",
+      "isLive": true
+    },
+    {
+      "id": 3636344853,
+      "externalId": "e232fe3b-df84-4ee5-97f4-3662ddec2439",
+      "title": "Senior Product Manager (Finance and Account Management)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "finance",
+      "age": "اليوم",
+      "publishedAt": "2026-10-28T08:20:55.920Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Accounting",
+        "Finance",
+        "Sales",
+        "Recruitment",
+        "Compliance"
+      ],
+      "description": "Accountabilities: Own the product strategy and roadmap for two areas: Finance, covering payments, billing, invoicing, fees, and reconciliation; and Account Management, covering account lifecycle, verification, fraud, and risk. Reduce payment processing costs by optimizing payment method selection, enabling multi-currency settlement, managing regional payment provider migrations, and addressing payment failures, disputes, and chargebacks. Drive revenue and financial accuracy through pricing and fee structures, processing fees, tax and duty adjustments, and compliant VAT/GST invoicing across multiple regions. Lead the end-to-end account lifecycle, including registration, verification, user roles, team permissions, account settings, and account closure, balancing a smooth customer experience with effective controls. Define and continuously improve fraud prevention and risk management measures across onboarding and payments, working closely with Finance, Customer Experience, and Compliance. Collaborate with Finance and Accounting, Customer Experience, Sales, Legal, and Engineering to deliver scalable solutions and serve as the primary product contact for initiatives involving payments and accounts. Establish and monitor performance metrics, including transaction costs as a percentage of gross merchandise value (GMV), payment success rates, dispute rates, revenue leakage, fraud losses, onboarding conversion, and account-related support volume. Prioritize opportunities across both squads, define minimum viable products (MVPs), deliver quickly, assess results, and iterate based on measurable outcomes. Write and review Product Requirements Documents (PRDs) and Opportunity Assessments, clearly documenting trade-offs, edge cases, compliance requirements, and data considerations before engineering implementation. Apply AI tools directly to product discovery, analysis, PRD creation, and data accuracy checks while encouraging effective AI adoption across the product team. Contribute senior product leadership by raising documentation and decision-making standards, sharing best practices, and mentoring less experienced product managers. Requirements At least 7 years of product management experience, including 3 or more years owning payments, billing, or fintech products in B2B SaaS, marketplace, or eCommerce environments. Hands-on experience with payment service providers such as Stripe or Adyen, local payment methods, multi-currency settlements, payment reconciliation, disputes, and chargebacks. Knowledge of account and identity management products, including KYC/KYB processes, role-based access control, fraud detection, and risk-scoring tools. Understanding of VAT/GST invoicing and revenue accounting fundamentals, with demonstrated experience partnering closely with Finance teams. A proven ability to improve business performance metrics related to costs, revenue, payment success, and financial losses, supported by quantifiable results. Experience managing multiple engineering squads or product roadmaps simultaneously while maintaining strategic focus and execution quality. Strong analytical skills and the ability to independently retrieve and interpret data using SQL or equivalent tools. Excellent written communication, structured problem-solving, and the confidence to challenge engineering teams, stakeholders, and leadership using evidence and data. Practical, demonstrable experience using AI tools in everyday product management workflows. A bachelor's degree in Computer Science, Engineering, Business, Finance, or a related field is preferred. The ability to collaborate effectively across functions, balance customer experience with financial and compliance requirements, and make sound decisions in complex environments. Benefits Competitive remuneration and stock units. Reimbursement for gym memberships and wellness-related expenses. The flexibility to work from anywhere for up to four weeks per year. A generous vacation policy, including ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/e232fe3b-df84-4ee5-97f4-3662ddec2439",
+      "isLive": true
+    },
     {
       "id": 1216613227,
       "externalId": "aac3ccb3-3a5c-4733-aa3c-dbcdb3a18f8f",
@@ -744,7 +805,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T08:26:46.850Z",
       "skills": [
         "Excel",
@@ -772,7 +833,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T08:25:54.447Z",
       "skills": [
         "Excel",
@@ -800,7 +861,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T08:23:12.724Z",
       "skills": [
         "Excel",
@@ -828,7 +889,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-27T08:17:19.659Z",
       "skills": [
         "Excel",
@@ -1911,7 +1972,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:48:34.345Z",
       "skills": [
         "SQL",
@@ -1940,7 +2001,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:45:54.161Z",
       "skills": [
         "Python",
@@ -1971,7 +2032,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:41:06.141Z",
       "skills": [
         "SAP",
@@ -1999,7 +2060,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:37:36.600Z",
       "skills": [
         "Marketing",
@@ -2025,7 +2086,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:37:05.253Z",
       "skills": [
         "Marketing",
@@ -2051,7 +2112,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:35:30.200Z",
       "skills": [
         "Marketing",
@@ -2077,7 +2138,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:30:31.672Z",
       "skills": [
         "Excel",
@@ -2106,7 +2167,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:29:57.791Z",
       "skills": [
         "Excel",
@@ -2135,7 +2196,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:28:37.225Z",
       "skills": [
         "Excel",
@@ -2164,7 +2225,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:17:53.806Z",
       "skills": [
         "Excel",
@@ -2193,7 +2254,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:17:24.439Z",
       "skills": [
         "Excel",
@@ -2222,7 +2283,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T08:16:07.658Z",
       "skills": [
         "Excel",
@@ -3191,7 +3252,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T08:58:19.370Z",
       "skills": [
         "Excel",
@@ -3219,7 +3280,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T08:31:51.607Z",
       "skills": [
         "Excel",
@@ -3248,7 +3309,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T08:21:26.960Z",
       "skills": [
         "Insurance"
@@ -4478,7 +4539,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-21T08:29:01.755Z",
       "skills": [
         "Python",
@@ -4506,7 +4567,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-21T08:28:29.406Z",
       "skills": [
         "Python",
@@ -4534,7 +4595,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-21T08:27:10.272Z",
       "skills": [
         "Python",
@@ -4562,7 +4623,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-21T08:18:15.839Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -4587,7 +4648,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-21T08:17:37.169Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6220,7 +6281,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 56 أيام",
+      "age": "منذ 57 أيام",
       "publishedAt": "2026-09-01T08:15:05.603Z",
       "skills": [
         "Excel",
@@ -7107,7 +7168,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 237 أيام",
+      "age": "منذ 238 أيام",
       "publishedAt": "2026-03-04T08:52:35.403Z",
       "skills": [
         "Excel",
@@ -7633,7 +7694,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 538 أيام",
+      "age": "منذ 539 أيام",
       "publishedAt": "2025-05-07T08:19:01.580Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7711,7 +7772,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 645 أيام",
+      "age": "منذ 646 أيام",
       "publishedAt": "2025-01-20T08:12:44.468Z",
       "skills": [
         "Audit",
