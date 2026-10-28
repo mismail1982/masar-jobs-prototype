@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T17:57:18.266Z",
+  "generatedAt": "2026-10-28T19:01:26.936Z",
   "total": 304,
   "feeds": 13,
   "jobs": [
@@ -6697,7 +6697,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "marketing",
-      "age": "منذ 50 أيام",
+      "age": "منذ 51 أيام",
       "publishedAt": "2026-09-07T18:12:54.180Z",
       "skills": [
         "Excel",
@@ -7525,7 +7525,7 @@
       "minExp": 0,
       "maxExp": 2,
       "category": "sales",
-      "age": "منذ 141 أيام",
+      "age": "منذ 142 أيام",
       "publishedAt": "2026-06-08T18:45:32.064Z",
       "skills": [
         "Customer Service",
@@ -7720,7 +7720,7 @@
       "minExp": 3,
       "maxExp": 6,
       "category": "architecture",
-      "age": "منذ 226 أيام",
+      "age": "منذ 227 أيام",
       "publishedAt": "2026-03-15T18:55:22.684Z",
       "skills": [
         "Revit",
