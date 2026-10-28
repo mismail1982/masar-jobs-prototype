@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T02:08:00.881Z",
+  "generatedAt": "2026-10-28T02:56:07.525Z",
   "total": 270,
   "feeds": 13,
   "jobs": [
@@ -2931,7 +2931,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T02:54:26.766Z",
       "skills": [
         "SQL",
@@ -2962,7 +2962,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T02:51:23.758Z",
       "skills": [
         "Excel",
@@ -2990,7 +2990,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "marketing",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T02:48:36.269Z",
       "skills": [
         "Sales",
@@ -3535,7 +3535,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-22T02:08:43.700Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6961,7 +6961,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 280 أيام",
+      "age": "منذ 281 أيام",
       "publishedAt": "2026-01-20T02:21:02.643Z",
       "skills": [
         "Customer Service",
