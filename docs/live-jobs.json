@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T02:56:07.525Z",
+  "generatedAt": "2026-10-28T03:55:57.013Z",
   "total": 270,
   "feeds": 13,
   "jobs": [
@@ -1938,7 +1938,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T03:35:09.946Z",
       "skills": [
         "Insurance",
@@ -1966,7 +1966,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T03:31:00.721Z",
       "skills": [
         "MEP",
