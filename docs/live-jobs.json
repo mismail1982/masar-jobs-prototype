@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T13:08:20.374Z",
-  "total": 294,
+  "generatedAt": "2026-10-28T14:10:24.462Z",
+  "total": 293,
   "feeds": 13,
   "jobs": [
     {
@@ -1794,7 +1794,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T14:03:42.901Z",
       "skills": [
         "SQL",
@@ -1821,7 +1821,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T14:00:22.263Z",
       "skills": [
         "SQL",
@@ -1848,7 +1848,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T13:59:21.149Z",
       "skills": [
         "SQL",
@@ -1875,7 +1875,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T13:55:54.559Z",
       "skills": [
         "MEP",
@@ -1902,7 +1902,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T13:44:51.291Z",
       "skills": [
         "React",
@@ -1932,7 +1932,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T13:42:23.929Z",
       "skills": [
         "React",
@@ -1962,7 +1962,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-26T13:41:09.450Z",
       "skills": [
         "React",
@@ -2999,7 +2999,7 @@
       "minExp": 15,
       "maxExp": 23,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T14:07:42.321Z",
       "skills": [
         "Sales",
@@ -3025,7 +3025,7 @@
       "minExp": 15,
       "maxExp": 23,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T14:05:24.839Z",
       "skills": [
         "Sales",
@@ -3051,7 +3051,7 @@
       "minExp": 15,
       "maxExp": 23,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T14:04:13.415Z",
       "skills": [
         "Sales",
@@ -3077,7 +3077,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "finance",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T14:02:56.459Z",
       "skills": [
         "Excel",
@@ -3108,7 +3108,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T13:23:27.163Z",
       "skills": [
         "SAP",
@@ -3135,7 +3135,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T13:20:38.088Z",
       "skills": [
         "SAP",
@@ -3162,7 +3162,7 @@
       "minExp": 4,
       "maxExp": 8,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-23T13:19:26.911Z",
       "skills": [
         "SAP",
@@ -5543,7 +5543,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 19 أيام",
+      "age": "منذ 20 أيام",
       "publishedAt": "2026-10-08T13:52:32.927Z",
       "skills": [
         "SAP",
@@ -5574,7 +5574,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 19 أيام",
+      "age": "منذ 20 أيام",
       "publishedAt": "2026-10-08T13:36:09.377Z",
       "skills": [
         "Audit",
@@ -5586,35 +5586,6 @@
       "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. Welo Global’s five brands—Welocalize (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services for law firms and corporate legal teams), Welo Life Sciences (regulated language and compliance-aligned content solutions for pharmaceutical, biotech, and medical device organizations), Adapt (multilingual performance-led digital marketing agency), and Welo Data (multilingual data generation, evaluation, and human data infrastructure for AI systems)—serve distinct customer segments with purpose-built expertise, fit-for-purpose solutions, and supporting technology. weloglobal.com The Role We are seeking an experienced English into Kyrgyz Review Lead to serve as the language quality owner and primary client-facing linguistic expert for a leading global technology client. You will own the locale’s interpretation of the client’s quality standards and make sure that the Post-Editing Lead, Post Editors, and Reviewers all work to the same shared understanding of “good”. You will be the main point of contact for the client’s Language Manager on quality discussions, arbitration, and escalations, and you will drive consistency, quality governance, and continuous improvement across UI, marketing, product, informational, legal, and support content. Project Details - Location: Remote (based in one of the approved countries below) - Expected volume: Approximately 24 hours per month - Employment type: Freelance / Independent Contract - Task type: Language Lead Support - Content types: UI, Marketing, Informational, Legal, Product, Support - Language pair: English into Kyrgyz What You Will Do -Analyse requirements: Review every style guide and glossary update, assess which quality categories and content types it affects, and record the changes. Track what the client’s Language Manager actually corrects and says in calibration and quality calls, not only what is written down. -Relay expectations: Run regular alignment roundtables with the language community and publish a structured monthly quality digest covering performance, priority improvement areas, style guide updates, and notable errors and arbitration outcomes. -Manage review quality actively: Coach Reviewers one-to-one using specific examples, run shadowing sessions, and deliver training built from real alignment data. -Improve the standard: Turn recurring justification patterns into well-reasoned style guide proposals, and share cross-locale patterns with the Welocalize Quality Manager. -Maintain alignment with the client: Treat Language Manager decisions as the standard, raise concerns with evidence at the right forum, and aim for fewer surprises over time. What You Will Own -The locale’s review service score, including RQE audit and alignment performance -The community’s shared understanding of quality -The integrity of the arbitration record, ensuring that every arbitration sent to the client is valid and well-evidenced -The working relationship with the client’s Language Manager, including clarifications, escalations, and expectation tracking Requirements - Experience: 3 to 5+ years in Localization Quality Assurance (LQA), Senior Language Lead, or Quality Governance roles - Client and stakeholder management: Direct experience as the primary point of contact for client Language Managers, managing formal arbitration or escalation processes, and facilitating conflict resolution - Quality audit frameworks: Deep, practical experience with localization evaluation frameworks, including RQE, LQE, error rubrics, and severity mapping - Style gui",
       "source": "Lever · Welo Data",
       "externalUrl": "https://jobs.lever.co/weloglobal/088ad3b5-4e2e-406d-b115-c4a6db6cbdf5",
-      "isLive": true
-    },
-    {
-      "id": 1596053898,
-      "externalId": "09e904a5-b2a4-4ae3-b5e7-c46151895ad2",
-      "title": "English to Kazakh Review Lead for UI, Marketing & Product Content",
-      "company": "Welo Data",
-      "country": "الإمارات",
-      "region": "Remote, Worldwide / Turkey / Germany / South Korea / Dubai, UAE",
-      "location": "دبي",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 3,
-      "maxExp": 5,
-      "category": "media",
-      "age": "منذ 19 أيام",
-      "publishedAt": "2026-10-08T13:33:31.379Z",
-      "skills": [
-        "Audit",
-        "Marketing",
-        "Content",
-        "Compliance",
-        "Translation"
-      ],
-      "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. Welo Global’s five brands—Welocalize (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services for law firms and corporate legal teams), Welo Life Sciences (regulated language and compliance-aligned content solutions for pharmaceutical, biotech, and medical device organizations), Adapt (multilingual performance-led digital marketing agency), and Welo Data (multilingual data generation, evaluation, and human data infrastructure for AI systems)—serve distinct customer segments with purpose-built expertise, fit-for-purpose solutions, and supporting technology. weloglobal.com The Role We are seeking an experienced English into Kazakh Review Lead to serve as the language quality owner and primary client-facing linguistic expert for a leading global technology client. You will own the locale’s interpretation of the client’s quality standards and make sure that the Post-Editing Lead, Post Editors, and Reviewers all work to the same shared understanding of “good”. You will be the main point of contact for the client’s Language Manager on quality discussions, arbitration, and escalations, and you will drive consistency, quality governance, and continuous improvement across UI, marketing, product, informational, legal, and support content. Project Details - Location: Remote (based in one of the approved countries below) - Expected volume: Approximately 24 hours per month - Employment type: Freelance / Independent Contract - Task type: Language Lead Support - Content types: UI, Marketing, Informational, Legal, Product, Support - Language pair: English into Kazakh What You Will Do -Analyse requirements: Review every style guide and glossary update, assess which quality categories and content types it affects, and record the changes. Track what the client’s Language Manager actually corrects and says in calibration and quality calls, not only what is written down. -Relay expectations: Run regular alignment roundtables with the language community and publish a structured monthly quality digest covering performance, priority improvement areas, style guide updates, and notable errors and arbitration outcomes. -Manage review quality actively: Coach Reviewers one-to-one using specific examples, run shadowing sessions, and deliver training built from real alignment data. -Improve the standard: Turn recurring justification patterns into well-reasoned style guide proposals, and share cross-locale patterns with the Welocalize Quality Manager. -Maintain alignment with the client: Treat Language Manager decisions as the standard, raise concerns with evidence at the right forum, and aim for fewer surprises over time. What You Will Own -The locale’s review service score, including RQE audit and alignment performance -The community’s shared understanding of quality -The integrity of the arbitration record, ensuring that every arbitration sent to the client is valid and well-evidenced -The working relationship with the client’s Language Manager, including clarifications, escalations, and expectation tracking Requirements - Experience: 3 to 5+ years in Localization Quality Assurance (LQA), Senior Language Lead, or Quality Governance roles - Client and stakeholder management: Direct experience as the primary point of contact for client Language Managers, managing formal arbitration or escalation processes, and facilitating conflict resolution - Quality audit frameworks: Deep, practical experience with localization evaluation frameworks, including RQE, LQE, error rubrics, and severity mapping - Style gui",
-      "source": "Lever · Welo Data",
-      "externalUrl": "https://jobs.lever.co/weloglobal/09e904a5-b2a4-4ae3-b5e7-c46151895ad2",
       "isLive": true
     },
     {
@@ -5661,7 +5632,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "marketing",
-      "age": "منذ 20 أيام",
+      "age": "منذ 21 أيام",
       "publishedAt": "2026-10-07T13:32:46.237Z",
       "skills": [
         "Audit",
@@ -6535,7 +6506,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 56 أيام",
+      "age": "منذ 57 أيام",
       "publishedAt": "2026-09-01T14:08:50.668Z",
       "skills": [
         "Research",
@@ -7419,7 +7390,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 209 أيام",
+      "age": "منذ 210 أيام",
       "publishedAt": "2026-04-01T13:34:53.536Z",
       "skills": [
         "Research",
