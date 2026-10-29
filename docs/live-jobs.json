@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T09:31:58.509Z",
-  "total": 295,
+  "generatedAt": "2026-10-29T10:28:43.912Z",
+  "total": 293,
   "feeds": 13,
   "jobs": [
     {
@@ -1261,7 +1261,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-28T10:00:42.776Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -1286,7 +1286,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-28T09:58:33.285Z",
       "skills": [
         "Excel",
@@ -1990,7 +1990,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-27T10:14:39.988Z",
       "skills": [
         "Excel",
@@ -2016,7 +2016,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-27T09:39:52.673Z",
       "skills": [
         "SAP",
@@ -2044,7 +2044,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-27T09:39:01.352Z",
       "skills": [
         "SAP",
@@ -2072,7 +2072,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-27T09:36:54.286Z",
       "skills": [
         "SAP",
@@ -5585,6 +5585,37 @@
       "isLive": true
     },
     {
+      "id": 2946614734,
+      "externalId": "82e197c4-7341-4cb6-a81f-183d77f0427a",
+      "title": "English to Uzbek (Cyrillic) Review Lead for UI, Marketing & Product Content",
+      "company": "Welo Data",
+      "country": "الإمارات",
+      "region": "Remote, Worldwide / Turkey / South Korea / Dubai, UAE / Berlin, Germany",
+      "location": "دبي",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 3,
+      "maxExp": 5,
+      "category": "media",
+      "age": "منذ 20 أيام",
+      "publishedAt": "2026-10-08T13:58:08.204Z",
+      "skills": [
+        "SAP",
+        "Audit",
+        "Marketing",
+        "Content",
+        "Recruitment",
+        "Compliance",
+        "Translation"
+      ],
+      "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. Welo Global’s five brands—Welocalize (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services for law firms and corporate legal teams), Welo Life Sciences (regulated language and compliance-aligned content solutions for pharmaceutical, biotech, and medical device organizations), Adapt (multilingual performance-led digital marketing agency), and Welo Data (multilingual data generation, evaluation, and human data infrastructure for AI systems)—serve distinct customer segments with purpose-built expertise, fit-for-purpose solutions, and supporting technology. weloglobal.com The Role We are seeking an experienced English into Uzbek (Cyrillic) Review Lead to serve as the language quality owner and primary client-facing linguistic expert for a leading global technology client. You will own the locale’s interpretation of the client’s quality standards and make sure that the Post-Editing Lead, Post Editors, and Reviewers all work to the same shared understanding of “good”. You will be the main point of contact for the client’s Language Manager on quality discussions, arbitration, and escalations, and you will drive consistency, quality governance, and continuous improvement across UI, marketing, product, informational, legal, and support content. Project Details - Location: Remote (based in one of the approved countries below) - Expected volume: Approximately 24 hours per month - Employment type: Freelance / Independent Contract - Task type: Language Lead Support - Content types: UI, Marketing, Informational, Legal, Product, Support - Language pair: English into Uzbek (Cyrillic) What You Will Do -Analyse requirements: Review every style guide and glossary update, assess which quality categories and content types it affects, and record the changes. Track what the client’s Language Manager actually corrects and says in calibration and quality calls, not only what is written down. -Relay expectations: Run regular alignment roundtables with the language community and publish a structured monthly quality digest covering performance, priority improvement areas, style guide updates, and notable errors and arbitration outcomes. -Manage review quality actively: Coach Reviewers one-to-one using specific examples, run shadowing sessions from real alignment data. -Improve the standard: Turn recurring justification patterns into well-reasoned style guide proposals, and share cross-locale patterns with the Welocalize Quality Manager. -Maintain alignment with the client: Treat Language Manager decisions as the standard, raise concerns with evidence at the right forum, and aim for fewer surprises over time. What You Will Own -The locale’s review service score, including RQE audit and alignment performance -The community’s shared understanding of quality -The integrity of the arbitration record, ensuring that every arbitration sent to the client is valid and well-evidenced -The working relationship with the client’s Language Manager, including clarifications, escalations, and expectation tracking Requirements - Experience: 3 to 5+ years in Localization Quality Assurance (LQA), Senior Language Lead, or Quality Governance roles - Client and stakeholder management: Direct experience as the primary point of contact for client Language Managers, managing formal arbitration or escalation processes, and facilitating conflict resolution - Quality audit frameworks: Deep, practical experience with localization evaluation frameworks, including RQE, LQE, error rubrics, and severity mapping - Style guide and e",
+      "source": "Lever · Welo Data",
+      "externalUrl": "https://jobs.lever.co/weloglobal/82e197c4-7341-4cb6-a81f-183d77f0427a",
+      "isLive": true
+    },
+    {
       "id": 896768927,
       "externalId": "88806f02-9476-45f3-afab-ff77491b6b82",
       "title": "English to Serbian (Cyrillic) Review Lead for UI, Marketing & Product Content",
@@ -6030,7 +6061,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "sales",
-      "age": "منذ 41 أيام",
+      "age": "منذ 42 أيام",
       "publishedAt": "2026-09-17T09:43:16.238Z",
       "skills": [
         "Sales",
@@ -6661,35 +6692,6 @@
       "description": "JOB PURPOSE Support the timely and accurate financial close, consolidation and reporting of multiple entities and ledgers in accordance with IFRS and Group requirements Assist in maintaining financial data and general ledger integrity, including reconciliations, financial statements and audit requirements Support the use of AI-enabled and digital finance tools to improve reporting efficiency, accuracy and financial analysis ROLES AND RESPONSIBILITIES Group Consolidation & Financial Reporting Support monthly, quarterly and annual Group consolidation and financial reporting Assist with reporting submissions, account mapping, intercompany eliminations and Group-level adjustments Prepare consolidation schedules, reconciliations and supporting documentation Coordinate with subsidiaries and finance teams for accurate, timely information Financial Close & General Ledger Support monthly, quarterly and annual close across assigned entities and ledgers Prepare journals, accruals, provisions, reclassifications and period-end adjustments Assist in reviewing trial balances and identifying accounting or reporting discrepancies Support accurate account mapping and financial reporting classifications Reconciliations & Financial Controls Prepare and review general ledger, balance sheet and intercompany reconciliations Follow up on outstanding reconciliation items and support timely resolution Assist in maintaining accurate financial records and supporting documentation Support compliance with Group policies, internal controls and reporting procedures Audit & Compliance Support internal and external audits with schedules, reconciliations, financial statements and documentation Assist in responding to audit queries and coordinating required information Support compliance with IFRS, statutory requirements and Group financial policies Financial Analysis & Management Reporting Assist in preparing variance analysis, financial analysis and management reports Support analysis of performance against budget, forecast and prior periods Prepare supporting analysis and commentary on key financial movements Assist with budget, forecast and cash-flow reporting requirements AI, Digital & Process Improvement Use approved AI-enabled, analytics and digital tools to support reconciliations, financial reporting and analysis Assist in identifying opportunities to automate repetitive finance activities Support improvements to reporting processes, controls and ERP workflows Apply appropriate validation and review to AI-generated outputs and insights RELATED YEAR OF EXPERIENCE Min of 6+ years of experience of financial accounting and management accounting experience FIELD OF EXPERIENCE Experience of accounting within real estate or related industry is preferred Experience in complex Group-wide accounting and reporting, preferably in a public company TECHNICAL AND INTERPERSONAL SKILLS Good knowledge of financial accounting, IFRS and financial reporting principles. Good understanding of general ledger, reconciliations and consolidation processes. Proficiency in ERP systems, Excel and financial reporting tools; Oracle experience preferred. Strong analytical and problem-solving skills, with accuracy and attention to detail. Working knowledge of AI-enabled and digital finance tools for analysis, reporting and process efficiency Good communication, stakeholder coordination and time-management skills. QUALIFICATION Bachelor’s degree in accounting Professional accounting qualification e.g., CPA, CIMA, CA, ACCA is preferred",
       "source": "Lever · Aldar Properties",
       "externalUrl": "https://jobs.lever.co/aldar/cde758c6-7342-4ea8-8d67-c27f297d3f1b",
-      "isLive": true
-    },
-    {
-      "id": 2861589251,
-      "externalId": "3e22b9af-8031-452c-9b28-a200eb9857e9",
-      "title": "Wordpress Backend Developer",
-      "company": "Welo Data",
-      "country": "عُمان",
-      "region": "Cluj-Napoca, Romania",
-      "location": "Cluj-Napoca, Romania",
-      "mode": "هجين",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "technology",
-      "age": "منذ 62 أيام",
-      "publishedAt": "2026-08-27T14:27:29.778Z",
-      "skills": [
-        "Education",
-        "Marketing",
-        "Content",
-        "Compliance",
-        "Translation"
-      ],
-      "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. Welo Global’s five brands—Welocalize (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services for law firms and corporate legal teams), Welo Life Sciences (regulated language and compliance-aligned content solutions for pharmaceutical, biotech, and medical device organizations), Adapt (multilingual performance-led digital marketing agency), and Welo Data (multilingual data generation, evaluation, and human data infrastructure for AI systems)—serve distinct customer segments with purpose-built expertise, fit-for-purpose solutions, and supporting technology. weloglobal.com Overview Welocalize is looking for a WordPress Developer to bring website maintenance and backend development in-house across our six brand sites: welocalize.com, welodata.ai, parkip.com, adaptworldwide.com, welolifesciences.com, and weloglobal.com. This work currently sits with an outside agency and we're looking for someone who can own it internally — with faster turnaround, better institutional knowledge, and closer collaboration with our Marketing and front-end teams. The platform is a WordPress Multisite environment. You'll work alongside an internal front-end developer who handles content management, page building, and UX — your focus is the backend: keeping the platform healthy, building custom functionality, and managing deployments. Job Reference: #LI-JC1 Key Responsibilities: Keep all six brand sites up to date — security patches, plugin updates, and core updates on a routine and emergency basis. Monitor site health, uptime, and performance; coordinate with our hosting provider (Pantheon) on backups, restores, and incident response. Serve as the internal point of contact for WordPress-related technical requests, triaging and prioritising work coming from Marketing and other teams. Handle day-to-day development requests: bug fixes, small feature builds, and plugin configuration. Build and maintain custom Gutenberg blocks (PHP + JS) and handle PHP theme modifications as needed. Manage the Webpack-based build process and SCSS structure for the shared theme. Own the deployment pipeline — Git-based deployments across Dev, Test, and Live on Pantheon — and review front-end changes before they go live. Set up and configure hosting environments, domain onboarding, and SSL on Pantheon. Maintain third-party integrations — forms, GTM, translation connectors, and APIs. Respond to critical incidents: site down, data loss, or security breach across any brand site. Conduct accessibility technical reviews (axe DevTools, screen reader testing) and implement approved fixes. Build and maintain internal technical documentation — this role replaces an outside agency, so knowledge retention matters from day one. Requirements: Education/Experience 3+ years of WordPress development experience, ideally including Multisite environments. Solid PHP skills and hands-on experience with Gutenberg block development (PHP + JS). Comfortable with SCSS/CSS, BEM methodology, and a build tool such as Webpack. Familiar with WordPress security fundamentals — patching, hardening, vulnerability response. Experience with Git and staging/production deployment workflows. Good communicator — you'll work closely with Marketing, front-end, and IT and need to translate technical issues clearly. Additional Qualifications Experience with Pantheon or a comparable managed WordPress hosting platform. Familiarity with multilingual WordPress setups (MultilingualPress, WPML, or similar). Experience with Composer for PHP dependency management. Working kn",
-      "source": "Lever · Welo Data",
-      "externalUrl": "https://jobs.lever.co/weloglobal/3e22b9af-8031-452c-9b28-a200eb9857e9",
       "isLive": true
     },
     {
@@ -7634,33 +7636,6 @@
       "isLive": true
     },
     {
-      "id": 4265844240,
-      "externalId": "4c775e12-fcd2-4977-acb9-567f09676420",
-      "title": "Alpheratz Project - Arabic (UAE) Translation Quality Rater",
-      "company": "Welo Data",
-      "country": "الإمارات",
-      "region": "Dubai, UAE",
-      "location": "دبي",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "translation",
-      "age": "منذ 278 أيام",
-      "publishedAt": "2026-01-23T19:38:53.947Z",
-      "skills": [
-        "Customer Service",
-        "Content",
-        "Translation"
-      ],
-      "description": "We are looking for experienced language professionals to support an ongoing project focused on reviewing and refining Arabic (UAE) customer service content. This role involves improving machine-translated materials to ensure accuracy, natural language, and alignment with project guidelines. What you’ll do Edit and review machine-translated customer service content with a high level of accuracy and consistency. Evaluate MT output quality and apply severity ratings when required, following project guidelines. Produce high-quality human translations as reference data for model training and quality evaluation. Follow provided style guides, tone rules, and terminology requirements. Identify and report recurring MT quality issues and batch-level trends. Project details Language: Arabic (UAE) Content type: Customer service content (general) Project duration: Ongoing This role involves intermittent work, with tasks assigned on an ad hoc basis throughout the year depending on client needs. Volumes and timing may vary. Hourly rate: $22.69 Requirements: Native proficiency in Arabic (UAE) and strong English skills Experience in translation, localization, or translation quality review Strong attention to detail and a quality-focused mindset Ability to work independently in an online environment Previous experience working in a TMS is a plus Successful completion of required assessments",
-      "source": "Lever · Welo Data",
-      "externalUrl": "https://jobs.lever.co/weloglobal/4c775e12-fcd2-4977-acb9-567f09676420",
-      "isLive": true
-    },
-    {
       "id": 3256933550,
       "externalId": "6492152a-9aea-4dcf-8c11-23343914ffae",
       "title": "Senior Associate – Government Relations",
@@ -7684,33 +7659,6 @@
       "description": "JOB PURPOSE •Assist in establishing relationship with Government authorities to ensure that all necessary permits and licenses for the development’s projects are obtained in a timely manner. •Assist the PM team to the successful delivery of a major Infrastructure, Housing and Development projects. ROLES AND RESPONSIBILITIES §Assist processing of all required project developments and construction permits through external government agencies, and follow-up on the reviews and comments of approving agencies. §Ensure close coordination with project teams as required to secure permits from relevant external/internal entities such as Government Authorities across Abu Dhabi Emirate §Coordinate with project teams as necessary to assure that all ongoing project development and construction projects are conducted in line with the licenses and permits obtained. §Monitor related government laws and regulations affecting the development of the different projects and highlight any changes or amendments that might affect it §Ensure that all required permits are obtained in a timely manner to prevent any delays in the project delivery schedule •Assist the validation of prepared documents by the consultant and contractors for Assets handing over. •Learn and maintain assets handing over tracker and plan for each project to ensure and maintain the implementation of assets handing over plan. •Coordinate and under supervision, take a lead in communication/ negotiation with local authorities for assets handing over process till signing Assets handing over agreements. •Report any potential that could affect the schedule of assets handing over ALDAR •Develop technical understanding of infrastructure sub-disciplines (roads, wet utilities, dry utilities) •Support the collection, assimilation and communication of government in a timely and efficient manner; •Attend to all critical issues to ensure that services are delivered in the most effective manner •Build strong stakeholder relations with the focal persons in the services provided to which will enable PM to avoid any delay related to authorities' approvals. •Learn and process coordinate tracking, managing and storing documents relevant to assets handing over for each project FIELD OF EXPERIENCE •Strong knowledge of construction-related policies and permits application processes •Strong network of key Government entities representatives TECHNICAL AND INTERPERSONAL SKILLS •Excellent communication and inter-personal skills •Excellent oral and written English and Arabic •Excellent problem solving and decision-making skills •Excellent planning and organization skills KEY RESULT AREAS •Timeliness of permits applications •Effectiveness in permit/NOC approvals •Development & Portfolio Management Satisfaction •Timeliness in generating Infrastructure designs •Number of design defects recorded post-delivery QUALIFICATION Bachelor degree, preferably in public policy, government, public administration",
       "source": "Lever · Aldar Properties",
       "externalUrl": "https://jobs.lever.co/aldar/6492152a-9aea-4dcf-8c11-23343914ffae",
-      "isLive": true
-    },
-    {
-      "id": 764656383,
-      "externalId": "f1044b3d-c369-4a28-b7a6-9dc6efe22de7",
-      "title": "Alpheratz Project - Arabic (UAE) Translation Quality Reviewer",
-      "company": "Welo Data",
-      "country": "الإمارات",
-      "region": "Dubai, UAE",
-      "location": "دبي",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "translation",
-      "age": "منذ 282 أيام",
-      "publishedAt": "2026-01-20T02:21:02.643Z",
-      "skills": [
-        "Customer Service",
-        "Content",
-        "Translation"
-      ],
-      "description": "We are looking for experienced language professionals to support an ongoing project focused on reviewing and refining Arabic (UAE) customer service content. This role involves improving machine-translated materials to ensure accuracy, natural language, and alignment with project guidelines. What you’ll do Review and refine machine-translated customer service content (help articles, UI strings, internal support documentation) Ensure accuracy, clarity, tone, and contextual appropriateness in Arabic (UAE) Maintain consistency across terminology, style, and meaning Apply feedback to support continuous quality improvement Complete tasks within a Translation Management System (TMS) Communicate with Project Managers as needed to clarify expectations Project details Language: Arabic (UAE) Content type: Customer service content (general) Project duration: Ongoing This role involves intermittent work, with tasks assigned on an ad hoc basis throughout the year depending on client needs. Volumes and timing may vary. Hourly rate: $28.36 Requirements: Native proficiency in Arabic (UAE) and strong English skills Experience in translation, localization, or translation quality review Strong attention to detail and a quality-focused mindset Ability to work independently in an online environment Previous experience working in a TMS is a plus Successful completion of required assessments",
-      "source": "Lever · Welo Data",
-      "externalUrl": "https://jobs.lever.co/weloglobal/f1044b3d-c369-4a28-b7a6-9dc6efe22de7",
       "isLive": true
     },
     {
@@ -7758,7 +7706,7 @@
       "minExp": 12,
       "maxExp": 15,
       "category": "finance",
-      "age": "منذ 352 أيام",
+      "age": "منذ 353 أيام",
       "publishedAt": "2025-11-10T10:03:47.159Z",
       "skills": [
         "IFRS",
