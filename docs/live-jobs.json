@@ -1,8 +1,33 @@
 {
-  "generatedAt": "2026-10-29T17:31:16.151Z",
-  "total": 306,
+  "generatedAt": "2026-10-29T18:26:54.727Z",
+  "total": 307,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3849922362,
+      "externalId": "5905d439-7c46-47a0-94f2-0c681210d9ab",
+      "title": "Senior Russian Legal Linguist",
+      "company": "Welo Data",
+      "country": "عُمان",
+      "region": "Spain / Italy / France / Greece / Romania",
+      "location": "Spain / Italy / France / Greece / Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "legal",
+      "age": "اليوم",
+      "publishedAt": "2026-10-29T18:19:21.691Z",
+      "skills": [
+        "Compliance"
+      ],
+      "description": "Park IP, a Welo Global brand, is a global IP solutions partner built for modern intellectual property work. The company enables legal teams to protect intellectual assets with accuracy, clarity, and confidence across jurisdictions. Trusted by Am Law 200 firms and Fortune 500 corporate legal departments, Park IP combines deep IP expertise with AI-powered workflows that reduce risk, improve predictability, and deliver greater visibility and control across the IP lifecycle, from prosecution to litigation and compliance. Its Legal Studio platform strengthens portfolio management through jurisdiction-specific coordination and real-time oversight, while experienced IP professionals remain accountable for quality and judgment. Operating under ISO-aligned quality and security standards, Park IP advances a disciplined and transparent approach to managing intellectual property worldwide. parkip.com",
+      "source": "Lever · Welo Data",
+      "externalUrl": "https://jobs.lever.co/weloglobal/5905d439-7c46-47a0-94f2-0c681210d9ab",
+      "isLive": true
+    },
     {
       "id": 4127200878,
       "externalId": "4b587864-111c-44fc-b7c6-643eaac66abe",
@@ -4038,7 +4063,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T17:34:28.172Z",
       "skills": [
         "Excel",
@@ -4067,7 +4092,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T17:33:59.046Z",
       "skills": [
         "Excel",
@@ -4096,7 +4121,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T17:32:37.592Z",
       "skills": [
         "Excel",
@@ -6278,7 +6303,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 35 أيام",
+      "age": "منذ 36 أيام",
       "publishedAt": "2026-09-23T17:48:28.416Z",
       "skills": [
         "Content"
@@ -6828,7 +6853,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "marketing",
-      "age": "منذ 51 أيام",
+      "age": "منذ 52 أيام",
       "publishedAt": "2026-09-07T18:12:54.180Z",
       "skills": [
         "Excel",
