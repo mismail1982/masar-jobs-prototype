@@ -1,8 +1,97 @@
 {
-  "generatedAt": "2026-10-29T05:25:27.780Z",
-  "total": 279,
+  "generatedAt": "2026-10-29T06:22:02.618Z",
+  "total": 282,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3815553587,
+      "externalId": "463dadc7-1718-4381-83f6-1a78b34e06ba",
+      "title": "Solutions Engineering Lead",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-10-29T06:32:58.989Z",
+      "skills": [
+        "Insurance",
+        "Education",
+        "Sales",
+        "Content",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: Lead the Solutions Engineering function: Define the team's direction, establish priorities, and develop a scalable operating model that supports business growth and increasingly complex customer needs. Drive technical pre-sales: Guide complex technical opportunities from initial discovery through solution design, proof of concept, integration, and deal closure. Design customer solutions: Help customers identify the right architectures and technologies to address infrastructure, performance, security, and scalability challenges. Partner with Sales: Collaborate on deal strategy, technical positioning, pricing, packaging, usage models, and margin considerations to deliver customer value while supporting commercial objectives. Manage and develop talent: Lead, mentor, and coach the existing Solutions Engineer while building the team as business requirements evolve. Build scalable processes: Develop playbooks, technical documentation, workflows, and best practices that improve efficiency, consistency, and the quality of technical pre-sales engagements. Improve onboarding and integrations: Streamline customer and partner onboarding, technical integrations, and handovers to Customer Success to ensure a smooth transition from sales to implementation and ongoing support. Enable commercial teams: Help Sales understand new product capabilities, translate technical knowledge into compelling value propositions, and identify opportunities based on customer needs and market insights. Strengthen partner collaboration: Support partners in applying their technical expertise to customer challenges and developing successful commercial opportunities. Drive continuous improvement: Identify operational bottlenecks, assess customer feedback, and implement practical improvements that enhance team performance and customer experience. Requirements: Technical pre-sales experience: Proven experience managing complex technical sales opportunities from initial discovery through solution design, proof of concept, and closing. Infrastructure and networking expertise: Strong knowledge of content delivery networks (CDNs), networking, and internet infrastructure, with the ability to assess customer requirements and recommend appropriate technical solutions. Security knowledge: Experience with technologies such as Web Application Firewalls (WAF), DDoS protection, bot mitigation, and API security. Compute and cloud technologies: Familiarity with containerization, serverless computing, databases, and related cloud or infrastructure technologies. Leadership experience: Demonstrated experience managing technical professionals, providing coaching and mentorship, and helping team members develop their capabilities. Solutions Engineering strategy: Experience leading technical pre-sales activities and building processes, methodologies, or teams that can scale with business growth. Commercial acumen: A strong understanding of pricing, packaging, consumption-based models, and profit margins, with the ability to balance customer requirements and commercial objectives. Process improvement mindset: A track record of identifying inefficiencies and implementing practical solutions that improve productivity and consistency. Communication skills: The ability to explain complex technical concepts clearly to both technical audiences, such as developers and engineers, and non-technical stakeholders, including business leaders. Autonomy and initiative: A proactive, resourceful approach, with the confidence to make decisions, solve problems independently, and move initiatives forward in a fast-paced environment. Customer and partner focus: Strong interpersonal skills and the ability to build trusted relationships, understand customer challenges, and collaborate effectively across teams. Preferred experience: Previous experience scaling a Solutions Engineering function within a growing cloud, infrastructure, or SaaS company, as well as helping partners turn technical ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/463dadc7-1718-4381-83f6-1a78b34e06ba",
+      "isLive": true
+    },
+    {
+      "id": 253109461,
+      "externalId": "73b2decc-c8dd-4c14-ace6-aafcfaefac7e",
+      "title": "Lead Teacher – Software Development & AI (Full-Stack)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "education",
+      "age": "اليوم",
+      "publishedAt": "2026-10-29T06:30:24.949Z",
+      "skills": [
+        "JavaScript",
+        "React",
+        "SQL",
+        "Excel",
+        "Teaching",
+        "Education",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: Academic delivery and instruction: Deliver live lectures, interactive demonstrations, and coding sessions covering full-stack software development and AI-enabled engineering practices. Lead approximately two hours of daily theory and demonstrations, followed by two hours of guided laboratory and practical sessions. Lesson planning and curriculum implementation: Prepare structured daily lesson plans tailored to students' needs and progress. Adapt teaching materials and instructional pacing while following the established programme syllabus. Hands-on project supervision: Guide student teams through major collaborative assignments, including the mid-bootcamp project and final capstone, helping learners apply technical concepts to practical software development challenges. AI integration and responsible development: Teach students how to incorporate AI coding assistants into professional workflows, including code generation, debugging, refactoring, testing, documentation, and AI-powered feature development. Emphasize security, privacy, code quality, and critical evaluation of AI-generated output. Student assessment and mentoring: Review assignments and project submissions, administer assessments, and provide timely, constructive technical feedback. Lead Q&A sessions and support students with varying levels of technical knowledge. Classroom and community leadership: Coordinate daily with the Teaching Assistant to manage practical sessions, monitor student progress, and address learning challenges. Cross-functional collaboration: Work closely with programme managers, project managers, and client representatives to maintain alignment on learning objectives, programme milestones, and student outcomes. Inclusive learning environment: Foster an engaging, supportive, and collaborative classroom culture that encourages critical thinking, peer learning, experimentation, and continuous improvement. Programme preparation and delivery: Review and adapt learning materials during the preparation phase, support programme delivery from the start of classes, and contribute to the successful completion of final projects and graduation activities. Requirements: Professional experience: At least three years of professional experience in full-stack web development or software engineering, with a strong understanding of modern development practices. Teaching and mentoring experience: Previous experience teaching or mentoring students in full-stack development bootcamps, university programmes, or comparable technical training environments. Backend development expertise: Strong knowledge of Java fundamentals, including object-oriented programming, collections, and testing; Spring Boot, REST APIs, dependency injection, and controllers; SQL databases such as MySQL or PostgreSQL; JPA/Hibernate; Spring Security and JWT authentication; and microservices or messaging technologies such as RabbitMQ or Kafka. Frontend development expertise: Proficiency in JavaScript (ES6+), TypeScript, React, Next.js, HTML5, and CSS3, with the ability to teach modern frontend development concepts and practices. DevOps and development tooling: Familiarity with Git and GitHub workflows, Docker and Docker Compose, CI/CD pipelines such as GitHub Actions, and REST or GraphQL API integration. AI-assisted development: Practical experience using AI coding assistants such as GitHub Copilot, ChatGPT, Claude, or Codeium, with the ability to demonstrate their effective application in real-world engineering workflows. Responsible AI practices: A strong understanding of the limitations and risks of AI-generated code, including security vulnerabilities, data privacy, maintainability, testing, and the importance of human review. Communication skills: Fluent English at C1 level or above, as all teaching sessions and instructional materials will be delivered exclusively in English. Excellent communication skills and the ability to explain complex technical concepts clearly to le",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/73b2decc-c8dd-4c14-ace6-aafcfaefac7e",
+      "isLive": true
+    },
+    {
+      "id": 794123855,
+      "externalId": "d960b7f9-6101-4119-bc2d-fe1aec025832",
+      "title": "Procurement Legal Cousel",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-10-29T06:26:23.531Z",
+      "skills": [
+        "Insurance",
+        "Administration",
+        "Operations",
+        "Procurement",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Drafting and negotiating contracts: Prepare, review, and negotiate mutual and unilateral non-disclosure agreements (NDAs) with suppliers, contractors, consultants, and prospective business partners, ensuring timely turnaround to support sourcing activities. Commercial agreement management: Draft and negotiate Master Services Agreements (MSAs), supply agreements, order forms, statements of work, purchase order terms, and related commercial documentation using approved templates. Framework agreements: Support regional procurement leaders in negotiating framework agreements, including pricing schedules, call-off mechanisms, service-level agreements, and supplier performance provisions. Construction and project contracts: Collaborate with delivery contracts specialists to prepare and manage construction and project agreements, including standard-form contracts such as NEC, JCT, FIDIC, and AIA. Contract review and negotiation support: Assess supplier and contractor amendments against established negotiation playbooks, prepare clear issue lists, recommend positions within approved fallback parameters, and coordinate negotiation discussions. Legal risk identification and escalation: Identify non-standard or higher-risk contractual provisions involving liability caps, indemnities, liquidated damages, intellectual property, and other commercial risks, escalating them to the Legal team or external counsel with clear recommendations and supporting context. Contract execution and approvals: Manage the complete contract execution process, including internal approvals under the delegation of authority, signature routing, document version control, and final recordkeeping. Contract lifecycle administration: Maintain the procurement contract repository, monitor renewals, expirations, insurance certificates, contractual obligations, and key milestones, and proactively alert category managers to upcoming actions. Templates and playbooks: Develop, maintain, and improve procurement contract templates, clause libraries, and negotiation playbooks, incorporating lessons learned and helping procurement colleagues apply them consistently. Technology and process improvement: Collaborate with global procurement operations to shape the technology strategy supporting contract management, streamline workflows, and improve operational efficiency. Reporting and stakeholder communication: Provide accurate contract pipeline and status reports to procurement leadership, maintaining visibility into agreement progress, outstanding actions, and potential delivery bottlenecks. Requirements Relevant legal or contractual qualifications: A paralegal, Chartered Legal Executive, or contracts-related qualification, such as a law degree, CILEx qualification, or SQE/LPC studies, or equivalent practical experience in commercial contracts. Professional experience: At least four years of experience drafting, reviewing, and negotiating commercial contracts, ideally within procurement, data centers, technology infrastructure, or large-scale infrastructure projects. Commercial contract expertise: Hands-on experience with NDAs, MSAs, framework agreements, and supply contracts, along with a working knowledge of standard-form construction contracts such as NEC, JCT, FIDIC, or AIA. Commercial risk awareness: A solid understanding of contractual risk areas, including liability, indemnities, insurance, warranties, payment terms, termination rights, and intellectual property, with sound judgment about when legal escalation is necessary. Contract lifecycle management: Experience managing high volumes of agreements against tight deadlines under the supervision of in-house lawyers or external counsel, preferably using contract lifecycle management (CLM) platforms and electronic signature tools. Drafting and analytical skills: Exceptional attention to detail, precise drafting, strong document management capabilities, and the ability to assess contractual amendments against",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/d960b7f9-6101-4119-bc2d-fe1aec025832",
+      "isLive": true
+    },
     {
       "id": 1567469054,
       "externalId": "6c2563c7-96f4-4782-94af-d04254ce82f7",
@@ -1183,7 +1272,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-28T06:21:25.621Z",
       "skills": [
         "SQL",
@@ -1213,7 +1302,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-28T06:16:21.438Z",
       "skills": [
         "SQL",
@@ -1243,7 +1332,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-28T06:15:01.972Z",
       "skills": [
         "SQL",
@@ -4632,7 +4721,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-22T06:05:40.595Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5663,7 +5752,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 41 أيام",
+      "age": "منذ 42 أيام",
       "publishedAt": "2026-09-17T05:54:05.061Z",
       "skills": [
         "Excel",
@@ -5927,7 +6016,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 49 أيام",
+      "age": "منذ 50 أيام",
       "publishedAt": "2026-09-09T05:44:32.524Z",
       "skills": [
         "Excel",
@@ -5954,7 +6043,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 49 أيام",
+      "age": "منذ 50 أيام",
       "publishedAt": "2026-09-09T05:31:11.945Z",
       "skills": [
         "Sales"
@@ -6090,7 +6179,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 56 أيام",
+      "age": "منذ 57 أيام",
       "publishedAt": "2026-09-02T05:40:58.164Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6555,7 +6644,7 @@
       "minExp": 4,
       "maxExp": 6,
       "category": "sales",
-      "age": "منذ 89 أيام",
+      "age": "منذ 90 أيام",
       "publishedAt": "2026-07-31T05:49:03.529Z",
       "skills": [
         "Excel",
