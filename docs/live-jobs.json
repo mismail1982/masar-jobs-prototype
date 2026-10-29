@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T18:26:54.727Z",
+  "generatedAt": "2026-10-29T19:31:54.826Z",
   "total": 307,
   "feeds": 13,
   "jobs": [
@@ -7656,7 +7656,7 @@
       "minExp": 4,
       "maxExp": 6,
       "category": "legal",
-      "age": "منذ 142 أيام",
+      "age": "منذ 143 أيام",
       "publishedAt": "2026-06-08T19:19:15.340Z",
       "skills": [
         "Compliance"
@@ -7681,7 +7681,7 @@
       "minExp": 0,
       "maxExp": 2,
       "category": "sales",
-      "age": "منذ 142 أيام",
+      "age": "منذ 143 أيام",
       "publishedAt": "2026-06-08T18:45:32.064Z",
       "skills": [
         "Customer Service",
@@ -7850,7 +7850,7 @@
       "minExp": 3,
       "maxExp": 6,
       "category": "architecture",
-      "age": "منذ 227 أيام",
+      "age": "منذ 228 أيام",
       "publishedAt": "2026-03-15T18:55:22.684Z",
       "skills": [
         "Revit",
