@@ -1,8 +1,95 @@
 {
-  "generatedAt": "2026-10-29T13:42:47.253Z",
-  "total": 302,
+  "generatedAt": "2026-10-29T14:36:03.787Z",
+  "total": 305,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 4261956016,
+      "externalId": "f486bab8-3f37-4765-91d7-dc04fcf1164f",
+      "title": "Finance & Accounting Expert",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "finance",
+      "age": "اليوم",
+      "publishedAt": "2026-10-29T13:49:59.877Z",
+      "skills": [
+        "Excel",
+        "Accounting",
+        "Audit",
+        "Finance",
+        "Operations"
+      ],
+      "description": "Accountabilities: Design realistic, multi-step finance and accounting tasks based on practical workflows, including FP&A analysis, financial reporting, audit procedures, and account reconciliations. Develop clear task instructions and objective grading rubrics that allow qualified reviewers to evaluate submissions consistently. Create challenging scenarios that require professional judgment, careful interpretation of source materials, and sound financial reasoning. Prepare or source relevant supporting materials, including spreadsheets, general ledger extracts, financial statements, and policy documents. Review tasks for clarity, accuracy, and gradability, identifying and flagging ambiguous scenarios or tasks that cannot be assessed reliably. Deliver approved tasks on schedule while maintaining the required standards of quality and consistency. Requirements: At least 5 years of hands-on professional experience in FP&A, financial reporting, auditing, reconciliations, accounting, or a closely related field, with direct responsibility for the work rather than supervisory or adjacent exposure alone. Experience developing or applying structured review standards, such as audit programs, review checklists, month-end close checklists, grading rubrics, or training assessments. Strong Excel skills and the ability to analyze information across multiple financial documents and data sources. Excellent analytical thinking, attention to detail, and the ability to translate professional judgment into clear, objective evaluation criteria. Strong written English skills, with the ability to produce precise instructions and well-structured documentation. A CPA, CA, ACCA, CMA, or equivalent professional qualification is an advantage but is not required. Ability to work independently, manage deadlines, and deliver high-quality work in a remote contractor environment. Benefits: Competitive hourly compensation: $40–$90 per hour, depending on the engagement and relevant expertise. Remote flexibility: Work remotely from anywhere worldwide, subject to the engagement's requirements. Independent contractor arrangement: A freelance opportunity suited to professionals seeking flexible project-based work. Defined engagement: An initial 12-month contract, with an expected commitment of approximately 15 hours per week. Professional impact: Apply your finance and accounting expertise to develop challenging, real-world benchmark tasks and structured assessments. Streamlined onboarding: A selection process that includes application screening, an AI interview, profile review, and onboarding support from the Talent Operations team. Prompt start: The engagement is expected to begin as soon as possible.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/f486bab8-3f37-4765-91d7-dc04fcf1164f",
+      "isLive": true
+    },
+    {
+      "id": 4361126107,
+      "externalId": "16005f3c-f289-4280-adf5-071541a145a9",
+      "title": "Finance & Accounting Expert",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "finance",
+      "age": "اليوم",
+      "publishedAt": "2026-10-29T13:47:41.233Z",
+      "skills": [
+        "Excel",
+        "Accounting",
+        "Audit",
+        "Finance",
+        "Operations"
+      ],
+      "description": "Accountabilities: Design realistic, multi-step finance and accounting tasks based on practical workflows, including FP&A analysis, financial reporting, audit procedures, and account reconciliations. Develop clear task instructions and objective grading rubrics that allow qualified reviewers to evaluate submissions consistently. Create challenging scenarios that require professional judgment, careful interpretation of source materials, and sound financial reasoning. Prepare or source relevant supporting materials, including spreadsheets, general ledger extracts, financial statements, and policy documents. Review tasks for clarity, accuracy, and gradability, identifying and flagging ambiguous scenarios or tasks that cannot be assessed reliably. Deliver approved tasks on schedule while maintaining the required standards of quality and consistency. Requirements: At least 5 years of hands-on professional experience in FP&A, financial reporting, auditing, reconciliations, accounting, or a closely related field, with direct responsibility for the work rather than supervisory or adjacent exposure alone. Experience developing or applying structured review standards, such as audit programs, review checklists, month-end close checklists, grading rubrics, or training assessments. Strong Excel skills and the ability to analyze information across multiple financial documents and data sources. Excellent analytical thinking, attention to detail, and the ability to translate professional judgment into clear, objective evaluation criteria. Strong written English skills, with the ability to produce precise instructions and well-structured documentation. A CPA, CA, ACCA, CMA, or equivalent professional qualification is an advantage but is not required. Ability to work independently, manage deadlines, and deliver high-quality work in a remote contractor environment. Benefits: Competitive hourly compensation: $40–$90 per hour, depending on the engagement and relevant expertise. Remote flexibility: Work remotely from anywhere worldwide, subject to the engagement's requirements. Independent contractor arrangement: A freelance opportunity suited to professionals seeking flexible project-based work. Defined engagement: An initial 12-month contract, with an expected commitment of approximately 15 hours per week. Professional impact: Apply your finance and accounting expertise to develop challenging, real-world benchmark tasks and structured assessments. Streamlined onboarding: A selection process that includes application screening, an AI interview, profile review, and onboarding support from the Talent Operations team. Prompt start: The engagement is expected to begin as soon as possible.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/16005f3c-f289-4280-adf5-071541a145a9",
+      "isLive": true
+    },
+    {
+      "id": 2232358933,
+      "externalId": "2296975f-e59b-488f-b123-d6e1094cc5dc",
+      "title": "Finance & Accounting Expert",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "finance",
+      "age": "اليوم",
+      "publishedAt": "2026-10-29T13:46:41.836Z",
+      "skills": [
+        "Excel",
+        "Accounting",
+        "Audit",
+        "Finance",
+        "Operations"
+      ],
+      "description": "Accountabilities: Design realistic, multi-step finance and accounting tasks based on practical workflows, including FP&A analysis, financial reporting, audit procedures, and account reconciliations. Develop clear task instructions and objective grading rubrics that allow qualified reviewers to evaluate submissions consistently. Create challenging scenarios that require professional judgment, careful interpretation of source materials, and sound financial reasoning. Prepare or source relevant supporting materials, including spreadsheets, general ledger extracts, financial statements, and policy documents. Review tasks for clarity, accuracy, and gradability, identifying and flagging ambiguous scenarios or tasks that cannot be assessed reliably. Deliver approved tasks on schedule while maintaining the required standards of quality and consistency. Requirements: At least 5 years of hands-on professional experience in FP&A, financial reporting, auditing, reconciliations, accounting, or a closely related field, with direct responsibility for the work rather than supervisory or adjacent exposure alone. Experience developing or applying structured review standards, such as audit programs, review checklists, month-end close checklists, grading rubrics, or training assessments. Strong Excel skills and the ability to analyze information across multiple financial documents and data sources. Excellent analytical thinking, attention to detail, and the ability to translate professional judgment into clear, objective evaluation criteria. Strong written English skills, with the ability to produce precise instructions and well-structured documentation. A CPA, CA, ACCA, CMA, or equivalent professional qualification is an advantage but is not required. Ability to work independently, manage deadlines, and deliver high-quality work in a remote contractor environment. Benefits: Competitive hourly compensation: $40–$90 per hour, depending on the engagement and relevant expertise. Remote flexibility: Work remotely from anywhere worldwide, subject to the engagement's requirements. Independent contractor arrangement: A freelance opportunity suited to professionals seeking flexible project-based work. Defined engagement: An initial 12-month contract, with an expected commitment of approximately 15 hours per week. Professional impact: Apply your finance and accounting expertise to develop challenging, real-world benchmark tasks and structured assessments. Streamlined onboarding: A selection process that includes application screening, an AI interview, profile review, and onboarding support from the Talent Operations team. Prompt start: The engagement is expected to begin as soon as possible.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/2296975f-e59b-488f-b123-d6e1094cc5dc",
+      "isLive": true
+    },
     {
       "id": 3641562831,
       "externalId": "1afcdd4b-3e3d-4263-b04c-8a13e461f5df",
@@ -1098,7 +1185,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-28T14:33:28.003Z",
       "skills": [
         "Excel",
@@ -1126,7 +1213,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-28T14:33:05.416Z",
       "skills": [
         "Excel",
@@ -1154,7 +1241,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-28T14:14:46.529Z",
       "skills": [
         "Excel",
@@ -1180,7 +1267,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-28T14:11:54.544Z",
       "skills": [
         "Excel",
@@ -1206,7 +1293,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-28T14:10:46.826Z",
       "skills": [
         "Excel",
@@ -2915,7 +3002,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "security",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T14:21:40.776Z",
       "skills": [
         "Python",
@@ -2946,7 +3033,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "security",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T14:19:16.271Z",
       "skills": [
         "Python",
@@ -2977,7 +3064,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "security",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T14:18:28.257Z",
       "skills": [
         "Python",
@@ -3008,7 +3095,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T14:03:42.901Z",
       "skills": [
         "SQL",
@@ -3035,7 +3122,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T14:00:22.263Z",
       "skills": [
         "SQL",
@@ -3062,7 +3149,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T13:59:21.149Z",
       "skills": [
         "SQL",
@@ -3089,7 +3176,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T13:55:54.559Z",
       "skills": [
         "MEP",
@@ -3116,7 +3203,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T13:44:51.291Z",
       "skills": [
         "React",
@@ -4185,7 +4272,7 @@
       "minExp": 15,
       "maxExp": 23,
       "category": "sales",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T14:05:24.839Z",
       "skills": [
         "Sales",
@@ -4211,7 +4298,7 @@
       "minExp": 15,
       "maxExp": 23,
       "category": "sales",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T14:04:13.415Z",
       "skills": [
         "Sales",
@@ -4237,7 +4324,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "finance",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T14:02:56.459Z",
       "skills": [
         "Excel",
@@ -5828,7 +5915,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 20 أيام",
+      "age": "منذ 21 أيام",
       "publishedAt": "2026-10-08T13:58:08.204Z",
       "skills": [
         "SAP",
@@ -5859,7 +5946,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 20 أيام",
+      "age": "منذ 21 أيام",
       "publishedAt": "2026-10-08T13:52:32.927Z",
       "skills": [
         "SAP",
@@ -6822,7 +6909,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 57 أيام",
+      "age": "منذ 58 أيام",
       "publishedAt": "2026-09-01T14:08:50.668Z",
       "skills": [
         "Research",
@@ -7319,7 +7406,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 101 أيام",
+      "age": "منذ 102 أيام",
       "publishedAt": "2026-07-19T14:35:06.019Z",
       "skills": [
         "Finance",
@@ -8133,7 +8220,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 516 أيام",
+      "age": "منذ 517 أيام",
       "publishedAt": "2025-05-30T14:36:01.234Z",
       "skills": [
         "Content"
