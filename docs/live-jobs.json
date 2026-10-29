@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T16:34:33.192Z",
+  "generatedAt": "2026-10-29T17:31:16.151Z",
   "total": 306,
   "feeds": 13,
   "jobs": [
@@ -4125,7 +4125,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T17:26:20.799Z",
       "skills": [
         "Excel",
@@ -4155,7 +4155,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T17:25:43.121Z",
       "skills": [
         "Excel",
@@ -4185,7 +4185,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T17:24:25.170Z",
       "skills": [
         "Excel",
@@ -4215,7 +4215,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T17:14:46.212Z",
       "skills": [
         "Python",
@@ -4244,7 +4244,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T17:13:53.895Z",
       "skills": [
         "Python",
@@ -4273,7 +4273,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-23T17:12:28.614Z",
       "skills": [
         "Python",
@@ -7491,7 +7491,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 106 أيام",
+      "age": "منذ 107 أيام",
       "publishedAt": "2026-07-14T17:21:56.371Z",
       "skills": [
         "Research",
@@ -8169,7 +8169,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "security",
-      "age": "منذ 465 أيام",
+      "age": "منذ 466 أيام",
       "publishedAt": "2025-07-20T16:56:05.026Z",
       "skills": [
         "Audit",
