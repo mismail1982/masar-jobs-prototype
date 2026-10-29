@@ -1,8 +1,34 @@
 {
-  "generatedAt": "2026-10-29T07:42:53.053Z",
-  "total": 294,
+  "generatedAt": "2026-10-29T08:31:20.980Z",
+  "total": 295,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 1571667860,
+      "externalId": "000dab3a-6c3d-4526-b27d-cc9bf3b9d351",
+      "title": "AI Research Scientist – Scientific Evaluation (ML/AI)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "research",
+      "age": "اليوم",
+      "publishedAt": "2026-10-29T07:54:22.328Z",
+      "skills": [
+        "Excel",
+        "Research"
+      ],
+      "description": "Accountabilities:: As an AI Research Scientist specializing in scientific evaluation, you will critically examine AI-generated research outputs and determine whether they demonstrate the scientific rigor and originality expected at top-tier machine learning and AI conferences. Your responsibilities will include: Evaluate AI-generated ML/AI research papers for scientific contributions, technical correctness, methodology, experimental design, and the validity of their conclusions. Assess the novelty and significance of proposed approaches by comparing them with existing research and state-of-the-art methods. Examine experimental rigor, including baseline comparisons, benchmark selection, evaluation metrics, statistical evidence, and ablation studies. Identify methodological flaws, unsupported claims, inconsistencies, misleading results, and other issues that could compromise scientific validity. Assess reproducibility and technical soundness by reviewing experimental evidence, implementation details, and accompanying code when available. Verify relevant academic literature, identify overlooked prior work, check citation accuracy, and challenge unsupported novelty claims. Determine whether research outputs meet the scientific standards associated with leading ML/AI conferences, including NeurIPS, ICML, and ICLR. Produce structured, evidence-based evaluations outlining research strengths, weaknesses, critical technical concerns, and overall scientific merit. Apply detailed assessment rubrics consistently while providing clear, concise, and well-reasoned justifications for your evaluations. Exercise independent expert judgment when determining whether AI-generated research represents a genuine scientific contribution and is supported by sufficient evidence. Requirements: The ideal candidate is an accomplished ML/AI researcher with a strong publication record, deep familiarity with current research, and the ability to critically evaluate complex scientific contributions. Candidates must demonstrate the following qualifications: A PhD in Machine Learning, Artificial Intelligence, Computer Science, Statistics, or a closely related technical discipline, or equivalent demonstrated research expertise. At least three peer-reviewed research publications at NeurIPS, ICML, and/or ICLR. This is a mandatory requirement. Ideally, first-author publications or other significant research contributions demonstrating substantial scientific involvement. Extensive hands-on ML/AI research experience, including developing novel methods, designing experiments, analyzing results, and publishing original research. Strong knowledge of scientific methodology and experimental rigor, including baseline selection, statistical validity, benchmark design, ablation studies, and reproducibility. Ability to independently assess the novelty, significance, technical soundness, and scientific validity of advanced ML/AI research. Familiarity with state-of-the-art research and the ability to evaluate new approaches against established literature and benchmarks. Experience reviewing research papers for leading ML/AI conferences or journals, particularly NeurIPS, ICML, or ICLR; this is strongly preferred. Ability to verify technical arguments, experimental evidence, scientific claims, citations, and code implementations where relevant. Excellent analytical skills and scientific writing abilities, with the capacity to communicate nuanced technical judgments through clear, concise, evidence-based feedback. Ability to apply detailed evaluation guidelines and scoring rubrics consistently while maintaining independent scientific judgment. Exceptional attention to detail, particularly when identifying subtle methodological weaknesses, unsupported conclusions, and discrepancies between claims and evidence. Willingness to provide a CV, a brief overview of your research background and areas of expertise, and links to at least three qualifying peer-reviewed publications. Relevant ac",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/000dab3a-6c3d-4526-b27d-cc9bf3b9d351",
+      "isLive": true
+    },
     {
       "id": 4251383793,
       "externalId": "b005c5ca-2a4c-4907-b1ee-51793183bd5f",
@@ -1317,7 +1343,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-28T08:20:55.920Z",
       "skills": [
         "SQL",
@@ -2074,7 +2100,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-27T08:26:46.850Z",
       "skills": [
         "Excel",
@@ -2102,7 +2128,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-27T08:25:54.447Z",
       "skills": [
         "Excel",
@@ -2130,7 +2156,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-27T08:23:12.724Z",
       "skills": [
         "Excel",
@@ -2158,7 +2184,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-27T08:17:19.659Z",
       "skills": [
         "Excel",
@@ -2186,7 +2212,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-27T08:02:27.393Z",
       "skills": [
         "SQL",
@@ -2214,7 +2240,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-27T07:51:51.613Z",
       "skills": [
         "JavaScript",
@@ -3407,7 +3433,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T08:30:31.672Z",
       "skills": [
         "Excel",
@@ -3436,7 +3462,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T08:29:57.791Z",
       "skills": [
         "Excel",
@@ -3465,7 +3491,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T08:28:37.225Z",
       "skills": [
         "Excel",
@@ -3494,7 +3520,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T08:17:53.806Z",
       "skills": [
         "Excel",
@@ -3523,7 +3549,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T08:17:24.439Z",
       "skills": [
         "Excel",
@@ -3552,7 +3578,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-26T08:16:07.658Z",
       "skills": [
         "Excel",
@@ -5770,7 +5796,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "technology",
-      "age": "منذ 33 أيام",
+      "age": "منذ 34 أيام",
       "publishedAt": "2026-09-25T08:06:45.340Z",
       "skills": [
         "Python",
@@ -6592,7 +6618,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 57 أيام",
+      "age": "منذ 58 أيام",
       "publishedAt": "2026-09-01T08:15:05.603Z",
       "skills": [
         "Excel",
@@ -6622,7 +6648,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "finance",
-      "age": "منذ 57 أيام",
+      "age": "منذ 58 أيام",
       "publishedAt": "2026-09-01T07:45:14.868Z",
       "skills": [
         "Excel",
@@ -6816,7 +6842,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 70 أيام",
+      "age": "منذ 71 أيام",
       "publishedAt": "2026-08-19T08:03:16.333Z",
       "skills": [
         "Excel",
@@ -7197,7 +7223,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 141 أيام",
+      "age": "منذ 142 أيام",
       "publishedAt": "2026-06-09T08:03:12.091Z",
       "skills": [
         "JavaScript",
@@ -7980,7 +8006,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 539 أيام",
+      "age": "منذ 540 أيام",
       "publishedAt": "2025-05-07T08:19:01.580Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -8058,7 +8084,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 646 أيام",
+      "age": "منذ 647 أيام",
       "publishedAt": "2025-01-20T08:12:44.468Z",
       "skills": [
         "Audit",
@@ -8085,7 +8111,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 847 أيام",
+      "age": "منذ 848 أيام",
       "publishedAt": "2024-07-03T07:43:10.387Z",
       "skills": [
         "Excel",
