@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T17:25:36.252Z",
+  "generatedAt": "2026-10-30T18:20:47.347Z",
   "total": 312,
   "feeds": 13,
   "jobs": [
@@ -960,7 +960,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-29T18:19:21.691Z",
       "skills": [
         "Compliance"
@@ -5005,7 +5005,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T17:34:28.172Z",
       "skills": [
         "Excel",
@@ -5034,7 +5034,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T17:33:59.046Z",
       "skills": [
         "Excel",
@@ -5063,7 +5063,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T17:32:37.592Z",
       "skills": [
         "Excel",
@@ -5092,7 +5092,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T17:26:20.799Z",
       "skills": [
         "Excel",
@@ -5122,7 +5122,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T17:25:43.121Z",
       "skills": [
         "Excel",
@@ -6438,7 +6438,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 36 أيام",
+      "age": "منذ 37 أيام",
       "publishedAt": "2026-09-23T17:48:28.416Z",
       "skills": [
         "Content"
@@ -6988,7 +6988,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "marketing",
-      "age": "منذ 52 أيام",
+      "age": "منذ 53 أيام",
       "publishedAt": "2026-09-07T18:12:54.180Z",
       "skills": [
         "Excel",
