@@ -1,8 +1,37 @@
 {
-  "generatedAt": "2026-10-30T10:29:21.096Z",
-  "total": 311,
+  "generatedAt": "2026-10-30T11:19:40.631Z",
+  "total": 312,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 2720819092,
+      "externalId": "df7c45d4-5bd3-4db9-ba41-aaf3776bbb93",
+      "title": "Middle/Senior Sales Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "sales",
+      "age": "اليوم",
+      "publishedAt": "2026-10-30T10:50:15.136Z",
+      "skills": [
+        "Excel",
+        "Insurance",
+        "Research",
+        "Sales",
+        "Marketing"
+      ],
+      "description": "Accountabilities: You will lead sales activities from initial prospecting through deal closure and account development, taking ownership of pipeline performance and revenue growth. Manage the complete sales cycle, including prospecting, lead qualification, discovery, negotiations, and closing. Identify, research, and engage potential clients through relevant outreach channels. Attend industry conferences, trade shows, and networking events to generate opportunities and strengthen market presence, including approximately 2–3 events per month during peak season. Build, maintain, and leverage a professional network to generate referrals, establish partnerships, nurture relationships, and identify new business opportunities. Develop and manage a healthy sales pipeline, ensuring consistent progress toward revenue targets. Conduct discovery calls to understand customer needs, business challenges, and decision-making processes. Prepare tailored sales proposals and clearly communicate the value of the services offered. Lead commercial negotiations, address objections, and establish agreements that balance customer needs with business objectives. Develop strong client relationships and identify opportunities for account growth, retention, and long-term partnerships. Monitor sales performance, maintain accurate CRM records, and provide reliable pipeline forecasts. Analyze performance data and market feedback to continuously improve sales processes, messaging, and outreach strategies. Proactively identify challenges, take ownership of individual performance, and implement actions that support business objectives. Requirements The ideal candidate is an experienced, commercially minded sales professional with strong consultative selling skills, an established business network, and the confidence to develop relationships across different industries. Demonstrated experience in consultative and value-based selling. Strong prospecting and lead-generation capabilities. Ability to define ideal customer profiles (ICPs), qualify leads, and identify promising business opportunities. Experience with outbound sales strategies, communication development, and personalized outreach. Strong pipeline management skills and commercial acumen. Proven negotiation and deal-closing abilities. English proficiency at B2 level or higher. Excellent relationship-building skills, including the ability to develop existing accounts and identify expansion opportunities. An established and verifiable professional network across multiple business verticals. Experience attending industry events and conferences, with a willingness to participate regularly, including 2–3 events per month during peak season. Initiative, resilience, organization, and the ability to work independently while remaining focused on measurable results. Nice to have: Understanding of SEO, link building, and related digital marketing services. Knowledge of customer segmentation, ICP development, and market positioning. Experience conducting market research and detailed account research. Benefits Fully remote work with a flexible schedule, allowing you to organize your day around team collaboration hours. Option to work from the Kyiv office or use coworking spaces in Lviv and Warsaw. Supportive team environment with established processes and opportunities to learn from experienced professionals. Vertical and horizontal career development opportunities. Exposure to different industries and the opportunity to build a diverse portfolio of projects. 28 working days of paid annual vacation. Up to 30 days of sick leave with medical confirmation, in addition to all observed public holidays. Medical insurance and access to a Mental Health program. Compensation for therapy sessions. English lessons with a tutor and access to a speaking club. Financial support for external courses and conferences, as well as access to a corporate learning library. Gifts to celebrate important personal and professional milestones",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/df7c45d4-5bd3-4db9-ba41-aaf3776bbb93",
+      "isLive": true
+    },
     {
       "id": 547292290,
       "externalId": "fdd1f0fb-99b3-4b21-95ee-3e8495e74c8a",
@@ -1163,7 +1192,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-29T10:56:13.461Z",
       "skills": [
         "Excel",
@@ -1191,7 +1220,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-29T10:52:51.085Z",
       "skills": [
         "Excel",
@@ -1219,7 +1248,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-29T10:52:00.909Z",
       "skills": [
         "Excel",
@@ -1247,7 +1276,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-10-29T10:50:46.515Z",
       "skills": [
         "Sales",
@@ -2287,7 +2316,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-28T11:17:45.949Z",
       "skills": [
         "React",
@@ -2315,7 +2344,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-28T11:15:01.852Z",
       "skills": [
         "React",
@@ -2343,7 +2372,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-28T11:14:07.571Z",
       "skills": [
         "React",
@@ -2371,7 +2400,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-28T10:58:36.986Z",
       "skills": [
         "Excel",
@@ -2398,7 +2427,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-28T10:56:15.007Z",
       "skills": [
         "Excel",
@@ -2425,7 +2454,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-28T10:55:11.425Z",
       "skills": [
         "Excel",
@@ -2452,7 +2481,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-28T10:41:18.608Z",
       "skills": [
         "Excel",
@@ -2483,7 +2512,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-28T10:38:56.694Z",
       "skills": [
         "Excel",
@@ -2514,7 +2543,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-28T10:38:04.959Z",
       "skills": [
         "Excel",
@@ -3193,7 +3222,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-27T11:05:00.866Z",
       "skills": [
         "Insurance",
@@ -3220,7 +3249,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-27T11:02:27.860Z",
       "skills": [
         "Insurance",
@@ -3247,7 +3276,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-27T11:01:29.730Z",
       "skills": [
         "Insurance",
@@ -4467,7 +4496,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T11:13:37.334Z",
       "skills": [
         "Python",
@@ -4495,7 +4524,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T11:12:57.342Z",
       "skills": [
         "Python",
@@ -4523,7 +4552,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T11:11:16.718Z",
       "skills": [
         "Python",
@@ -5657,7 +5686,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T11:15:32.144Z",
       "skills": [
         "Excel",
@@ -5688,7 +5717,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T11:14:35.814Z",
       "skills": [
         "Excel",
@@ -5719,7 +5748,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T11:04:50.406Z",
       "skills": [
         "Excel",
@@ -6512,7 +6541,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 41 أيام",
+      "age": "منذ 42 أيام",
       "publishedAt": "2026-09-18T07:14:31-04:00",
       "skills": [
         "Excel",
@@ -6832,7 +6861,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 50 أيام",
+      "age": "منذ 51 أيام",
       "publishedAt": "2026-09-09T10:47:54.392Z",
       "skills": [
         "SAP"
@@ -6857,7 +6886,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 50 أيام",
+      "age": "منذ 51 أيام",
       "publishedAt": "2026-09-09T10:42:51.771Z",
       "skills": [
         "SAP"
@@ -7266,7 +7295,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 65 أيام",
+      "age": "منذ 66 أيام",
       "publishedAt": "2026-08-25T11:15:50.932Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7539,7 +7568,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 101 أيام",
+      "age": "منذ 102 أيام",
       "publishedAt": "2026-07-20T11:17:12.203Z",
       "skills": [
         "Research",
@@ -8217,7 +8246,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 359 أيام",
+      "age": "منذ 360 أيام",
       "publishedAt": "2025-11-04T10:29:24.468Z",
       "skills": [
         "AutoCAD",
@@ -8245,7 +8274,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "security",
-      "age": "منذ 395 أيام",
+      "age": "منذ 396 أيام",
       "publishedAt": "2025-09-29T10:53:59.334Z",
       "skills": [
         "Excel",
@@ -8406,7 +8435,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 534 أيام",
+      "age": "منذ 535 أيام",
       "publishedAt": "2025-05-13T10:50:29.522Z",
       "skills": [
         "Customer Service",
