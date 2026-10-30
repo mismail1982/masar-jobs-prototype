@@ -1,8 +1,39 @@
 {
-  "generatedAt": "2026-10-30T08:33:20.656Z",
-  "total": 301,
+  "generatedAt": "2026-10-30T09:32:51.826Z",
+  "total": 302,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3778570373,
+      "externalId": "48d5e61c-f7a8-44fd-80c5-fed200049bf6",
+      "title": "Product Marketing Manager - GraphAware Solutions",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-10-30T08:48:15.821Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Sales",
+        "Marketing",
+        "Content",
+        "Compliance",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Customer and market research: Develop a deep understanding of target industries, customer needs, market dynamics, and purchasing behaviors. Identify key market segments, ideal customer profiles, and buyer personas to inform positioning and go-to-market strategies. Product positioning and messaging: Own the positioning and messaging strategy for industry solutions, translating complex technical capabilities into clear, differentiated value propositions. Develop messaging frameworks, use-case narratives, customer proof points, and persona-specific communication materials. Sales enablement: Equip commercial teams with the resources and knowledge needed to engage prospects and generate business opportunities. Create pitch decks, solution overviews, discovery guides, qualification materials, objection-handling resources, competitive battlecards, and demonstration narratives. Competitive intelligence: Collaborate with competitive intelligence specialists to identify market differentiators, assess competitor offerings, and provide actionable insights and guidance to sales teams. Customer advocacy and success stories: Work with Sales, Customer Advocacy, and Content teams to identify customer achievements and develop compelling case studies, testimonials, and proof points demonstrating the value of the solutions. Go-to-market strategy and campaigns: Support solution launches and integrated marketing campaigns by defining target audiences, customer challenges, messaging, value propositions, and content requirements. Partner with Demand Generation, Content, and Regional Marketing teams to maximize commercial impact. Thought leadership and content development: Research industry challenges, emerging technologies, and market trends to develop compelling perspectives that establish market expertise and strengthen differentiation. Digital messaging and content: Contribute to the development and optimization of solution landing pages, positioning materials, articles, and other marketing assets in collaboration with content specialists. Cross-functional collaboration: Build strong relationships across Product, Sales, Marketing, and technical teams, ensuring consistent messaging and alignment between customer needs, product capabilities, and commercial objectives. Requirements: At least 5 years of experience in B2B technology marketing , including a minimum of 3 years in product marketing, solutions marketing, or a closely related position. Previous experience marketing enterprise software, financial services technology, data platforms, analytics solutions, or other complex technology offerings. Demonstrated ability to translate sophisticated technical concepts and customer challenges into clear, compelling, and differentiated value propositions. Proven experience developing sales enablement materials and resources that support commercial teams throughout the enterprise sales cycle. Strong understanding of enterprise sales processes, buying groups, customer decision-making, and the relationship between marketing activities, pipeline generation, and revenue growth. Experience conducting market, customer, industry, and competitive research, with the ability to turn findings into actionable commercial and marketing strategies. Excellent written and verbal communication skills, including the ability to simplify complex topics and adapt messaging to different audiences. Strong strategic thinking combined with a hands-on approach to execution, from developing positioning strategies to creating practical marketing materials. High levels of curiosity, adaptability, and willingness to explore unfamiliar industries, technologies, and customer environments. Confidence using AI tools and automation to improve individual productivity and contribute to more effective marketing workflows. Excellent organizational and project management skills, with the ability to manage competing priorities and work independently. Strong interpersonal and col",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/48d5e61c-f7a8-44fd-80c5-fed200049bf6",
+      "isLive": true
+    },
     {
       "id": 2986542585,
       "externalId": "44d96a19-65a7-4700-af5e-6a8a6dcc478f",
@@ -2335,7 +2366,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-10-28T08:41:17.350Z",
       "skills": [
         "JavaScript",
@@ -4289,7 +4320,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T08:48:34.345Z",
       "skills": [
         "SQL",
@@ -4318,7 +4349,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T08:45:54.161Z",
       "skills": [
         "Python",
@@ -4349,7 +4380,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T08:41:06.141Z",
       "skills": [
         "SAP",
@@ -4377,7 +4408,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T08:37:36.600Z",
       "skills": [
         "Marketing",
@@ -4403,7 +4434,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T08:37:05.253Z",
       "skills": [
         "Marketing",
@@ -4429,7 +4460,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T08:35:30.200Z",
       "skills": [
         "Marketing",
@@ -5488,7 +5519,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T08:58:19.370Z",
       "skills": [
         "Excel",
@@ -5635,7 +5666,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "energy",
-      "age": "منذ 7 أيام",
+      "age": "منذ 8 أيام",
       "publishedAt": "2026-10-22T09:11:56.331Z",
       "skills": [
         "Python",
@@ -6097,7 +6128,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 35 أيام",
+      "age": "منذ 36 أيام",
       "publishedAt": "2026-09-24T09:23:39.128Z",
       "skills": [
         "Content"
@@ -6122,7 +6153,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 35 أيام",
+      "age": "منذ 36 أيام",
       "publishedAt": "2026-09-24T09:19:29.053Z",
       "skills": [
         "Content"
@@ -6836,7 +6867,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "translation",
-      "age": "منذ 58 أيام",
+      "age": "منذ 59 أيام",
       "publishedAt": "2026-09-01T09:18:41.208Z",
       "skills": [
         "Excel",
@@ -7029,7 +7060,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 71 أيام",
+      "age": "منذ 72 أيام",
       "publishedAt": "2026-08-19T09:20:20.297Z",
       "skills": [
         "Excel",
@@ -7443,7 +7474,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 114 أيام",
+      "age": "منذ 115 أيام",
       "publishedAt": "2026-07-07T09:06:51.302Z",
       "skills": [
         "Content",
@@ -7725,7 +7756,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 239 أيام",
+      "age": "منذ 240 أيام",
       "publishedAt": "2026-03-04T08:52:35.403Z",
       "skills": [
         "Excel",
