@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-30T11:19:40.631Z",
-  "total": 312,
+  "generatedAt": "2026-10-30T12:20:37.596Z",
+  "total": 313,
   "feeds": 13,
   "jobs": [
     {
@@ -3054,7 +3054,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-27T11:45:10.864Z",
       "skills": [
         "SQL",
@@ -3082,7 +3082,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-27T11:42:18.446Z",
       "skills": [
         "SQL",
@@ -3110,7 +3110,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-27T11:41:06.228Z",
       "skills": [
         "SQL",
@@ -3138,7 +3138,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-27T11:24:37.413Z",
       "skills": [
         "Audit",
@@ -3166,7 +3166,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-27T11:22:53.412Z",
       "skills": [
         "Audit",
@@ -3194,7 +3194,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-27T11:21:53.365Z",
       "skills": [
         "Audit",
@@ -4290,7 +4290,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "operations",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T11:55:17.407Z",
       "skills": [
         "Excel",
@@ -4319,7 +4319,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T11:49:09.349Z",
       "skills": [
         "Excel",
@@ -4347,7 +4347,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T11:48:22.673Z",
       "skills": [
         "Excel",
@@ -4375,7 +4375,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T11:46:43.927Z",
       "skills": [
         "Excel",
@@ -4403,7 +4403,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T11:38:48.651Z",
       "skills": [
         "Python",
@@ -4434,7 +4434,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T11:38:04.466Z",
       "skills": [
         "Python",
@@ -4465,7 +4465,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-26T11:36:15.129Z",
       "skills": [
         "Python",
@@ -5487,7 +5487,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T11:44:27.564Z",
       "skills": [
         "Excel",
@@ -5515,7 +5515,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T11:37:33.066Z",
       "skills": [
         "Excel",
@@ -5545,7 +5545,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T11:36:41.164Z",
       "skills": [
         "Excel",
@@ -5575,7 +5575,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T11:35:00.145Z",
       "skills": [
         "Excel",
@@ -5605,7 +5605,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T11:29:04.013Z",
       "skills": [
         "Excel",
@@ -5632,7 +5632,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T11:28:28.608Z",
       "skills": [
         "Excel",
@@ -5659,7 +5659,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T11:26:58.402Z",
       "skills": [
         "Excel",
@@ -5986,7 +5986,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 8 أيام",
+      "age": "منذ 9 أيام",
       "publishedAt": "2026-10-21T12:14:36.095Z",
       "skills": [
         "Excel",
@@ -6196,7 +6196,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 21 أيام",
+      "age": "منذ 22 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "Audit",
@@ -6281,7 +6281,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 27 أيام",
+      "age": "منذ 28 أيام",
       "publishedAt": "2026-10-02T11:45:47.851Z",
       "skills": [
         "Excel",
@@ -6361,7 +6361,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 35 أيام",
+      "age": "منذ 36 أيام",
       "publishedAt": "2026-09-24T12:03:40.894Z",
       "skills": [
         "Sales",
@@ -6514,7 +6514,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 38 أيام",
+      "age": "منذ 39 أيام",
       "publishedAt": "2026-09-21T12:10:38.082Z",
       "skills": [
         "Excel",
@@ -6698,7 +6698,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 43 أيام",
+      "age": "منذ 44 أيام",
       "publishedAt": "2026-09-16T12:18:06.725Z",
       "skills": [
         "Finance",
@@ -6830,7 +6830,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "sales",
-      "age": "منذ 50 أيام",
+      "age": "منذ 51 أيام",
       "publishedAt": "2026-09-09T11:39:00.380Z",
       "skills": [
         "Excel",
@@ -7043,7 +7043,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "finance",
-      "age": "منذ 57 أيام",
+      "age": "منذ 58 أيام",
       "publishedAt": "2026-09-02T11:56:38.924Z",
       "skills": [
         "Accounting",
@@ -7242,7 +7242,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 65 أيام",
+      "age": "منذ 66 أيام",
       "publishedAt": "2026-08-25T12:03:51.980Z",
       "skills": [
         "Excel",
@@ -7270,7 +7270,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 65 أيام",
+      "age": "منذ 66 أيام",
       "publishedAt": "2026-08-25T11:26:46.838Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7378,7 +7378,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 77 أيام",
+      "age": "منذ 78 أيام",
       "publishedAt": "2026-08-13T12:01:07.661Z",
       "skills": [
         "Operations"
@@ -7403,7 +7403,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 77 أيام",
+      "age": "منذ 78 أيام",
       "publishedAt": "2026-08-13T11:55:04.485Z",
       "skills": [
         "Operations",
@@ -7429,7 +7429,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 87 أيام",
+      "age": "منذ 88 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
         "Operations",
@@ -7455,7 +7455,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 87 أيام",
+      "age": "منذ 88 أيام",
       "publishedAt": "2026-08-03T11:24:13.619Z",
       "skills": [
         "React",
@@ -7538,7 +7538,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 94 أيام",
+      "age": "منذ 95 أيام",
       "publishedAt": "2026-07-27T11:44:58.735Z",
       "skills": [
         "Excel",
@@ -7932,7 +7932,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 204 أيام",
+      "age": "منذ 205 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7940,6 +7940,37 @@
       "description": "التفاصيل متاحة في الإعلان الأصلي.",
       "source": "Lever · Aldar Properties",
       "externalUrl": "https://jobs.lever.co/aldar/774dabcc-e3f8-4b7d-95d0-72f5e1a801da",
+      "isLive": true
+    },
+    {
+      "id": 1221127722,
+      "externalId": "42cd2886-d3ea-4618-bf19-af01777316cf",
+      "title": "Life Sciences Localization Quality Manager",
+      "company": "Welo Data",
+      "country": "عُمان",
+      "region": "Barcelona, Spain / Romania / Thessaloniki, Greece / Italy",
+      "location": "Barcelona, Spain / Romania / Thessaloniki, Greece / Italy",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "research",
+      "age": "منذ 207 أيام",
+      "publishedAt": "2026-04-06T09:05:43.236Z",
+      "skills": [
+        "Audit",
+        "Clinical",
+        "Education",
+        "Content",
+        "Compliance",
+        "Operations",
+        "Translation"
+      ],
+      "description": "About Welo Life Sciences Welo Life Sciences, a Welo Global brand, is a specialized language and technology partner serving pharmaceutical, CRO, and medical device organizations operating in regulated global markets. We deliver regulator-ready translation, linguistic validation, and localization solutions that support clinical trials, pharmacovigilance, regulatory affairs, labeling, and global commercialization. Our approach combines subject matter expertise with ISO-certified quality processes and technology-enabled workflows designed to integrate seamlessly into life sciences operations. With extensive experience supporting global product development and post-market requirements, Welo Life Sciences helps organizations accelerate timelines, protect data integrity, and maintain compliance across languages and regions. All solutions are delivered within a secure, audit-ready framework supported by seven ISO certifications. welolifesciences.com Overview The Quality Manager is the squad team member on a squad (s) responsible for supplier alignment and supplier performance on accounts owned by that squad. Performance includes, but is not limited to, on-time delivery, adherence to all client and project specific requirements, and defect-free deliverables. The role is managing service delivery quality to the client or managing tasks or initiatives. This role is responsible for engaging with the customer to understand capacity requirements and quality expectations and liaising with Language Services to ensure such requirements can be met. As part of ensuring adequate performance, the Quality Manager will monitor customer Objectives & Key Results (OKRs) and take necessary actions to ensure quality and on-time delivery targets are met. Main Duties: Strategic Alignment: Partner with Engagement Managers to ensure supplier alignment and coordinate with the Language Services Team on resource recommendations and capacity planning. Client Relationship Management: Serve as the primary point of contact for language quality, leading client conversations, managing documentation, and presenting regular quality reports. Performance Monitoring: Track supplier KPIs—including OTD, task acceptance, and linguistic accuracy—flagging and escalating any performance that falls beneath defined client thresholds. Quality Framework & Asset Management: Design and maintain quality frameworks, ensuring all language assets (glossaries, style guides, and TMs) are updated and optimized. Corrective Action & Escalation: Act as the escalation point for PMs on missed deliverables; lead Root Cause Analysis (RCA) and oversee Quality Improvement Plans (QIP) or CAPAs in collaboration with Language Services. SLA Compliance: Execute regular quality measuring and Content Type Analysis to ensure all internal and client-facing LQA SLAs are consistently met. Process Improvement: Support the development of new internal and customer initiatives by assessing and optimizing current processes to drive efficiency. Experience: Industry Expertise: Proven track record in Localization Vendor, Language, or Quality Management within fast-paced, client-centric environments. Experience in CRO-Pharma or Medical Devices would be a plus. Quality Methodology: Deep understanding of quality principles and practices; experience with Agile or Lean Six Sigma methodologies is preferred. Technical Proficiency: Expert knowledge of Translation Management Systems (TMS), TM tools, and MTPE workflows, with a keen interest in emerging industry trends. Data-Driven Problem Solving: Strong data literacy with the ability to leverage analytics for decision-making, risk mitigation, and proactive process improvement. Communication & Influence: Exceptional verbal and written communication skills in English (multilingualism preferred) with the ability to present structured arguments and influence diverse stakeholders. Operational Agility: High capacity to manage and prioritize multiple time-sensitive projects independe",
+      "source": "Lever · Welo Data",
+      "externalUrl": "https://jobs.lever.co/weloglobal/42cd2886-d3ea-4618-bf19-af01777316cf",
       "isLive": true
     },
     {
@@ -8301,7 +8332,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 437 أيام",
+      "age": "منذ 438 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
@@ -8568,7 +8599,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "customer",
-      "age": "منذ 728 أيام",
+      "age": "منذ 729 أيام",
       "publishedAt": "2024-10-31T12:09:49.201Z",
       "skills": [
         "Excel",
@@ -8625,7 +8656,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 854 أيام",
+      "age": "منذ 855 أيام",
       "publishedAt": "2024-06-27T12:18:56.852Z",
       "skills": [
         "Finance",
@@ -8655,7 +8686,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 890 أيام",
+      "age": "منذ 891 أيام",
       "publishedAt": "2024-05-22T12:17:49.028Z",
       "skills": [
         "Excel",
