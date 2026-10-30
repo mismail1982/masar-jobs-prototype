@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T16:30:08.570Z",
+  "generatedAt": "2026-10-30T17:25:36.252Z",
   "total": 312,
   "feeds": 13,
   "jobs": [
@@ -5152,7 +5152,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T17:24:25.170Z",
       "skills": [
         "Excel",
@@ -5182,7 +5182,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T17:14:46.212Z",
       "skills": [
         "Python",
@@ -5211,7 +5211,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T17:13:53.895Z",
       "skills": [
         "Python",
@@ -5240,7 +5240,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-23T17:12:28.614Z",
       "skills": [
         "Python",
@@ -7651,7 +7651,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 107 أيام",
+      "age": "منذ 108 أيام",
       "publishedAt": "2026-07-14T17:21:56.371Z",
       "skills": [
         "Research",
@@ -8329,7 +8329,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "security",
-      "age": "منذ 466 أيام",
+      "age": "منذ 467 أيام",
       "publishedAt": "2025-07-20T16:56:05.026Z",
       "skills": [
         "Audit",
