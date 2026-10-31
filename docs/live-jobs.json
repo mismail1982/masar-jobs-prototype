@@ -1,8 +1,64 @@
 {
-  "generatedAt": "2026-10-31T04:54:54.595Z",
-  "total": 282,
+  "generatedAt": "2026-10-31T05:51:42.504Z",
+  "total": 284,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 1538686718,
+      "externalId": "da96ef61-c252-4c7f-8971-bca3c3d27752",
+      "title": "Product Owner (Customer Experience)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "customer",
+      "age": "اليوم",
+      "publishedAt": "2026-10-31T05:28:06.204Z",
+      "skills": [
+        "Excel",
+        "Insurance",
+        "Recruitment"
+      ],
+      "description": "Accountabilities: You will own customer experience improvements across the entire product journey, balancing user needs with business performance. Your main responsibilities will include: Own the customer journey end-to-end, from initial registration to meaningful long-term user interactions. Identify friction points, user pain points, and growth opportunities across the customer funnel. Independently explore product analytics using AI-powered tools, including querying BigQuery through MCP, to uncover insights and validate assumptions. Translate analytical findings into clear, evidence-based product hypotheses and actionable opportunities. Write concise product briefs and drive initiatives through specifications, prototyping, development, and release. Collaborate with developers, analysts, and designers to deliver product improvements effectively. Build, maintain, and prioritize the product backlog according to the value each initiative creates for users and the business. Connect product initiatives to measurable business outcomes, including revenue, turnover, and net profit, rather than focusing exclusively on conversion rates. Monitor product performance and assess the impact of implemented changes. Identify successful experiments and scale effective solutions across the broader product portfolio. Take ownership of challenging product problems and drive initiatives through to measurable results. Requirements The ideal candidate combines strong product management capabilities with hands-on analytical skills, commercial awareness, and a results-driven mindset. The following qualifications are expected: Experience as a Product Owner, Product Manager, Project Manager, or Team Lead within B2C products. Startup experience is welcome. A hands-on approach to product ownership, including conducting analysis, preparing product briefs, and driving initiatives independently from idea to execution. Practical experience using AI-powered tools for product analytics and documentation. Strong understanding of product metrics, conversion funnels, and user journey analytics. Solid knowledge of unit economics and the relationship between product performance and business profitability. Demonstrated experience owning business metrics such as revenue, turnover, or net profit, rather than focusing solely on conversion rates. Strong prioritization and decision-making skills, with the ability to manage a broad scope of responsibilities. Persistence, initiative, and a strong drive to achieve results in challenging environments. Excellent collaboration and communication skills to work effectively with cross-functional teams. A technical degree or previous software development experience is a strong advantage. Benefits Fully remote, full-time work arrangement. 28 calendar days of paid vacation per year. 7 additional wellness days annually to manage personal or household matters, rest, and recover without using sick leave. Referral bonuses of up to $5,000 for recommending successful candidates. 50% reimbursement for professional training, international conferences, and professional meetings. Corporate discounts on English language lessons. Health benefits: employees who are not eligible for corporate medical insurance may receive compensation of up to $1,000 gross per year to purchase health insurance or cover medical expenses for themselves and close relatives, including spouses and children. Workplace equipment and infrastructure, including access to equipped offices or coworking spaces where available. For employees working from other locations, reimbursement of up to $1,000 gross every three years for home-office setup or coworking expenses, subject to the applicable payment terms. Internal gamified recognition program, allowing employees to earn colleague-awarded bonuses and exchange them for merchandise, team-building activities, massage certificates, and other rewards. Compensation details, including the initial salary level or range, shared with ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/da96ef61-c252-4c7f-8971-bca3c3d27752",
+      "isLive": true
+    },
+    {
+      "id": 2938508069,
+      "externalId": "6a55d1c9-7a3e-4fe7-956f-1f40fd5138c5",
+      "title": "Senior .NET Developer (Fintech)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-10-31T05:15:55.256Z",
+      "skills": [
+        "SQL",
+        "Education",
+        "Recruitment",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities: You will take responsibility for developing and improving backend services across payment processing and financial operations, ensuring reliability, scalability, and maintainability. Your main responsibilities will include: Develop and maintain backend services supporting payment processing and back-office operations, including reconciliation, payouts, fee calculations, settlements, and B2B client dashboards. Design and implement resilient integrations and asynchronous workflows using patterns such as idempotency, outbox/inbox, sagas, retries, and deduplication. Build and optimize microservices to meet performance and reliability objectives, including p95/p99 latency targets and SLA/SLO requirements. Implement monitoring, alerting, and operational practices to maintain service availability and quickly identify potential issues. Use AI-powered development tools and agents throughout the software delivery process, from task definition to implementation. Thoroughly review and validate AI-generated code, ensuring correctness, maintainability, security, and appropriate test coverage. Write clean, well-structured code and develop automated tests to support software quality and long-term maintainability. Participate in code reviews, maintain up-to-date technical specifications, and share knowledge and best practices with the engineering team. Take ownership of assigned deliverables, communicate openly about challenges, and proactively address defects or implementation issues. Requirements The ideal candidate is an experienced .NET developer with strong backend engineering skills, practical cloud experience, and the ability to deliver production-ready software using modern AI-assisted development workflows. The following qualifications are expected: At least 5 years of commercial software development experience with C# and ASP.NET Core. Proven experience designing and developing microservices architectures. Hands-on experience with Microsoft Azure, Docker, and Azure Kubernetes Service (AKS). Practical experience with Microsoft SQL Server, MongoDB, and Cosmos DB. Demonstrated experience using AI-powered development tools or agents to deliver tasks from initial definition through to working implementation. Ability to understand, validate, explain, and take responsibility for every line of code delivered, including AI-generated code. Strong commitment to clean, maintainable code and automated testing. A strong sense of ownership, accountability, and reliability when managing technical responsibilities. Clear and open communication skills, particularly when addressing challenges, defects, or unexpected outcomes. Additional experience that would be advantageous: Background in payment processing, financial technology, or banking systems. Familiarity with specification-driven development practices. Experience working in product-oriented organizations or startup environments. Previous experience mentoring developers or providing technical leadership. Benefits Fully remote, full-time work arrangement, with the flexibility to work from different locations worldwide. 27 paid vacation days per year from the first day of employment. Paid sick leave. Performance-related referral bonuses for recommending successful candidates. Learning and development support, including access to language lessons through Preply and educational courses on Coursera and other platforms. Wellbeing Wallet of up to €2,800 per year after the integration period, available for medical expenses, therapy, dental care, pharmacy costs, fitness, sports activities, and emotional wellbeing. Necessary technical equipment provided, plus a €1,000 budget for setting up a home office or renting a coworking space. Family support, including €1,000 gross for childbirth, marriage, or bereavement. Annual Child Support Benefit of up to €1,000 gross per child. Long-term recognition bonus after three years of continuous service. Compensation details, including the initial sala",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/6a55d1c9-7a3e-4fe7-956f-1f40fd5138c5",
+      "isLive": true
+    },
     {
       "id": 2720819092,
       "externalId": "df7c45d4-5bd3-4db9-ba41-aaf3776bbb93",
@@ -5604,7 +5660,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 37 أيام",
+      "age": "منذ 38 أيام",
       "publishedAt": "2026-09-23T05:18:15.252Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5629,7 +5685,7 @@
       "minExp": 10,
       "maxExp": 12,
       "category": "technology",
-      "age": "منذ 37 أيام",
+      "age": "منذ 38 أيام",
       "publishedAt": "2026-09-23T05:08:30.489Z",
       "skills": [
         "Operations",
@@ -6052,7 +6108,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 51 أيام",
+      "age": "منذ 52 أيام",
       "publishedAt": "2026-09-09T05:44:32.524Z",
       "skills": [
         "Excel",
@@ -6079,7 +6135,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 51 أيام",
+      "age": "منذ 52 أيام",
       "publishedAt": "2026-09-09T05:31:11.945Z",
       "skills": [
         "Sales"
@@ -6215,7 +6271,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 58 أيام",
+      "age": "منذ 59 أيام",
       "publishedAt": "2026-09-02T05:40:58.164Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6651,7 +6707,7 @@
       "minExp": 4,
       "maxExp": 6,
       "category": "sales",
-      "age": "منذ 91 أيام",
+      "age": "منذ 92 أيام",
       "publishedAt": "2026-07-31T05:49:03.529Z",
       "skills": [
         "Excel",
@@ -7300,7 +7356,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 281 أيام",
+      "age": "منذ 282 أيام",
       "publishedAt": "2026-01-22T05:22:02.669Z",
       "skills": [
         "Excel",
