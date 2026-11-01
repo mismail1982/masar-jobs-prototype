@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T13:54:20.224Z",
+  "generatedAt": "2026-11-01T14:49:06.877Z",
   "total": 278,
   "feeds": 13,
   "jobs": [
@@ -2210,7 +2210,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "sales",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-28T14:41:41.002Z",
       "skills": [
         "Excel",
@@ -2238,7 +2238,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "sales",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-28T14:33:28.003Z",
       "skills": [
         "Excel",
@@ -2266,7 +2266,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "sales",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-28T14:33:05.416Z",
       "skills": [
         "Excel",
@@ -2294,7 +2294,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-28T14:14:46.529Z",
       "skills": [
         "Excel",
@@ -2320,7 +2320,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-28T14:11:54.544Z",
       "skills": [
         "Excel",
@@ -2346,7 +2346,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-28T14:10:46.826Z",
       "skills": [
         "Excel",
@@ -4055,7 +4055,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "security",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-26T14:19:16.271Z",
       "skills": [
         "Python",
@@ -4086,7 +4086,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "security",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-26T14:18:28.257Z",
       "skills": [
         "Python",
@@ -4117,7 +4117,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-26T14:03:42.901Z",
       "skills": [
         "SQL",
@@ -4144,7 +4144,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-26T14:00:22.263Z",
       "skills": [
         "SQL",
@@ -4171,7 +4171,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-26T13:59:21.149Z",
       "skills": [
         "SQL",
@@ -4888,7 +4888,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "finance",
-      "age": "منذ 8 أيام",
+      "age": "منذ 9 أيام",
       "publishedAt": "2026-10-23T14:02:56.459Z",
       "skills": [
         "Excel",
@@ -5129,7 +5129,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 23 أيام",
+      "age": "منذ 24 أيام",
       "publishedAt": "2026-10-08T13:58:08.204Z",
       "skills": [
         "SAP",
@@ -5331,7 +5331,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 31 أيام",
+      "age": "منذ 32 أيام",
       "publishedAt": "2026-09-30T10:39:45-04:00",
       "skills": [
         "Excel",
@@ -6123,7 +6123,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 60 أيام",
+      "age": "منذ 61 أيام",
       "publishedAt": "2026-09-01T14:08:50.668Z",
       "skills": [
         "Research",
@@ -6620,7 +6620,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 104 أيام",
+      "age": "منذ 105 أيام",
       "publishedAt": "2026-07-19T14:35:06.019Z",
       "skills": [
         "Finance",
@@ -7434,7 +7434,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 519 أيام",
+      "age": "منذ 520 أيام",
       "publishedAt": "2025-05-30T14:36:01.234Z",
       "skills": [
         "Content"
