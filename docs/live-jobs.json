@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-01T19:48:13.413Z",
-  "total": 277,
+  "generatedAt": "2026-11-01T20:47:28.030Z",
+  "total": 271,
   "feeds": 13,
   "jobs": [
     {
@@ -3096,34 +3096,6 @@
       "isLive": true
     },
     {
-      "id": 387175105,
-      "externalId": "6f7ea1b3-2672-4b4c-9b97-c0a25bb75b6c",
-      "title": "Container Engineer",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "general",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-27T11:45:10.864Z",
-      "skills": [
-        "SQL",
-        "Excel",
-        "Insurance",
-        "Operations"
-      ],
-      "description": "Accountabilities: Platform reliability and operations: Define and maintain service-level indicators (SLIs), service-level objectives (SLOs), and error budgets for the container platform. Develop policies that connect reliability targets to platform changes and deployment decisions. Operational readiness and observability: Lead Operational Readiness Reviews (ORRs) for new capabilities and significant changes. Establish meaningful uptime metrics and improve visibility through comprehensive metrics, logs, and distributed traces across platform components. Incident management and continuous improvement: Participate in the team's on-call rotation, respond to platform incidents, and drive issues through resolution and follow-up. Facilitate blameless postmortems, identify recurring failure patterns, and implement lasting improvements that reduce detection and recovery times. Platform software engineering: Build, maintain, and deploy production-grade automation, controllers, operators, internal tools, and platform APIs. Develop custom solutions when existing tools do not adequately address the underlying technical challenges. Deployment automation and release management: Design and improve platform CI/CD pipelines, rollout mechanisms, and release processes that enable safe, efficient, and predictable deployments. Security and operational automation: Implement security automation covering intrusion detection, automated remediation, and patch management. Identify repetitive operational tasks and eliminate toil through reliable automation. Testing and quality assurance: Develop and maintain automated testing suites and pipelines that validate platform releases before they reach production workloads. Architecture and ecosystem development: Evaluate and evolve the container technology stack, including orchestration, runtimes, networking, workload isolation, and observability tools. Conduct failure-mode analysis, map dependencies, and design resilient architectures for multi-tenant environments. Infrastructure efficiency: Improve platform architecture to optimize infrastructure costs while maintaining appropriate standards for security, reliability, and performance across tenants. Engineering enablement: Help product teams adopt sustainable operational practices, including effective alerting, escalation procedures, runbook coverage, and reduced notification noise. Requirements: Professional experience: At least five years of experience in platform engineering, Kubernetes or container platform operations, Site Reliability Engineering (SRE), or production infrastructure, including operating production systems at scale and participating in on-call rotations. Deep technical expertise: Strong expertise in at least one of the following areas, ideally with experience across two: Container tooling and ecosystem: In-depth knowledge of Kubernetes, containerd, OCI/CRI standards, and the broader Cloud Native Computing Foundation (CNCF) ecosystem. Familiarity with technologies such as Argo CD, Argo Rollouts, Cilium, eBPF, Gateway API, Karpenter, KEDA, gVisor, or Kata Containers is valuable. Software engineering: Ability to write production-quality code in Go or a comparable systems programming language, build controllers and operators, and design platform APIs and custom automation solutions. Operational excellence and SRE: Strong understanding of SLOs, error budgets, operational KPIs, incident response, blameless postmortems, and strategies for reducing mean time to detect (MTTD) and mean time to recover (MTTR). Multi-tenant infrastructure: Experience with large-scale, multi-tenant systems and an understanding of workload isolation mechanisms, including namespaces, role-based access control (RBAC), network policies, resource quotas, virtual clusters, and stronger isolation models such as VM-based runtimes. Cloud infrastructure: Confident working with AWS environments, including multiple accounts, IAM, and VPC networking. Infrastructure as code: Experie",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/6f7ea1b3-2672-4b4c-9b97-c0a25bb75b6c",
-      "isLive": true
-    },
-    {
       "id": 693010285,
       "externalId": "d9d81cf4-c40e-4ae5-8a5e-2b2ed9c2eee1",
       "title": "Container Engineer",
@@ -3177,62 +3149,6 @@
       "description": "Accountabilities: Platform reliability and operations: Define and maintain service-level indicators (SLIs), service-level objectives (SLOs), and error budgets for the container platform. Develop policies that connect reliability targets to platform changes and deployment decisions. Operational readiness and observability: Lead Operational Readiness Reviews (ORRs) for new capabilities and significant changes. Establish meaningful uptime metrics and improve visibility through comprehensive metrics, logs, and distributed traces across platform components. Incident management and continuous improvement: Participate in the team's on-call rotation, respond to platform incidents, and drive issues through resolution and follow-up. Facilitate blameless postmortems, identify recurring failure patterns, and implement lasting improvements that reduce detection and recovery times. Platform software engineering: Build, maintain, and deploy production-grade automation, controllers, operators, internal tools, and platform APIs. Develop custom solutions when existing tools do not adequately address the underlying technical challenges. Deployment automation and release management: Design and improve platform CI/CD pipelines, rollout mechanisms, and release processes that enable safe, efficient, and predictable deployments. Security and operational automation: Implement security automation covering intrusion detection, automated remediation, and patch management. Identify repetitive operational tasks and eliminate toil through reliable automation. Testing and quality assurance: Develop and maintain automated testing suites and pipelines that validate platform releases before they reach production workloads. Architecture and ecosystem development: Evaluate and evolve the container technology stack, including orchestration, runtimes, networking, workload isolation, and observability tools. Conduct failure-mode analysis, map dependencies, and design resilient architectures for multi-tenant environments. Infrastructure efficiency: Improve platform architecture to optimize infrastructure costs while maintaining appropriate standards for security, reliability, and performance across tenants. Engineering enablement: Help product teams adopt sustainable operational practices, including effective alerting, escalation procedures, runbook coverage, and reduced notification noise. Requirements: Professional experience: At least five years of experience in platform engineering, Kubernetes or container platform operations, Site Reliability Engineering (SRE), or production infrastructure, including operating production systems at scale and participating in on-call rotations. Deep technical expertise: Strong expertise in at least one of the following areas, ideally with experience across two: Container tooling and ecosystem: In-depth knowledge of Kubernetes, containerd, OCI/CRI standards, and the broader Cloud Native Computing Foundation (CNCF) ecosystem. Familiarity with technologies such as Argo CD, Argo Rollouts, Cilium, eBPF, Gateway API, Karpenter, KEDA, gVisor, or Kata Containers is valuable. Software engineering: Ability to write production-quality code in Go or a comparable systems programming language, build controllers and operators, and design platform APIs and custom automation solutions. Operational excellence and SRE: Strong understanding of SLOs, error budgets, operational KPIs, incident response, blameless postmortems, and strategies for reducing mean time to detect (MTTD) and mean time to recover (MTTR). Multi-tenant infrastructure: Experience with large-scale, multi-tenant systems and an understanding of workload isolation mechanisms, including namespaces, role-based access control (RBAC), network policies, resource quotas, virtual clusters, and stronger isolation models such as VM-based runtimes. Cloud infrastructure: Confident working with AWS environments, including multiple accounts, IAM, and VPC networking. Infrastructure as code: Experie",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/37dda0de-e34e-4755-91b6-a04b49595d14",
-      "isLive": true
-    },
-    {
-      "id": 1994054734,
-      "externalId": "7b89993c-8b32-488f-b37d-cb891e533e0b",
-      "title": "Business Owners - Freelance AI Trainer Project",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "education",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-27T11:24:37.413Z",
-      "skills": [
-        "Audit",
-        "Insurance",
-        "Operations",
-        "Hospitality"
-      ],
-      "description": "Accountabilities: Test digital merchant tools: Independently evaluate new platform features, digital storefront solutions, and AI-powered recommendations designed to support local business management and customer engagement. Audit business profiles and search results: Review AI-generated business descriptions, local search results, and mapping integrations to verify their accuracy against actual business operations. Provide structured feedback: Document detailed, actionable observations about usability, relevance, and the practical value of digital tools for local businesses. Identify inaccuracies and anomalies: Detect and report cases where AI systems misrepresent business categories, services, opening hours, or local market characteristics. Evaluate user experience: Assess digital workflows from a merchant's perspective, highlighting usability issues, friction points, and opportunities for improvement. Contribute industry expertise: Apply firsthand knowledge of business operations to benchmark AI performance and help improve the accuracy and reliability of digital commerce systems. Deliver independent assessments: Complete evaluations autonomously and provide clear, evidence-based feedback in accordance with project guidelines and deliverable requirements. Requirements: Business ownership or management experience: Demonstrable professional experience as an active owner, operator, or primary manager of a business in the food and beverage, hospitality and lodging, local services, or retail sectors. Verified Google Business Profile: Current ownership or active management of a verified Google Business Profile associated with your business is mandatory. Operational business knowledge: A strong understanding of day-to-day business activities, customer engagement, local search visibility, and digital storefront management. Analytical and communication skills: Ability to identify technical inaccuracies, explain user experience issues, and provide clear, structured, and actionable feedback. Attention to detail: A meticulous approach to reviewing business information, digital workflows, search results, and consumer-facing representations. Independent working style: Ability to manage assignments autonomously, follow evaluation guidelines, and deliver consistent, high-quality results remotely. Digital proficiency: Comfort using online platforms, business listings, mapping tools, and digital commerce technologies. Local market expertise: Familiarity with the specific needs, practices, and nuances of your business sector and geographic market. Equipment and connectivity: Access to a secure computer and reliable, high-speed internet connection to complete project assignments. Benefits: Competitive hourly compensation: Earn between $25 and $100 USD per hour , depending on your experience, expertise, and geographic location. The final rate may vary from the advertised range. Flexible freelance engagement: Work as an independent contractor, with flexibility to manage assignments alongside your existing business responsibilities. Fully remote work: Complete project tasks remotely without the need to commute to a physical office. Real-world impact: Help improve AI accuracy, local search representation, and digital tools used by merchants and consumers. Leverage your expertise: Apply your practical business knowledge to emerging AI technologies without needing to transition into a traditional technology role. Independent working environment: Evaluate tools and provide feedback autonomously, using your firsthand experience as a business owner or operator. Contractor arrangement: This is a freelance engagement. Company-sponsored benefits, including health insurance and paid time off, are not provided. Contractors are responsible for supplying their own equipment and internet connection.",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/7b89993c-8b32-488f-b37d-cb891e533e0b",
-      "isLive": true
-    },
-    {
-      "id": 1940166319,
-      "externalId": "88fa9afc-4350-4e56-a1dc-caa8ba81e173",
-      "title": "Business Owners - Freelance AI Trainer Project",
-      "company": "Jobgether Partners",
-      "country": "الإمارات",
-      "region": "United Arab Emirates",
-      "location": "United Arab Emirates",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "education",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-27T11:22:53.412Z",
-      "skills": [
-        "Audit",
-        "Insurance",
-        "Operations",
-        "Hospitality"
-      ],
-      "description": "Accountabilities: Test digital merchant tools: Independently evaluate new platform features, digital storefront solutions, and AI-powered recommendations designed to support local business management and customer engagement. Audit business profiles and search results: Review AI-generated business descriptions, local search results, and mapping integrations to verify their accuracy against actual business operations. Provide structured feedback: Document detailed, actionable observations about usability, relevance, and the practical value of digital tools for local businesses. Identify inaccuracies and anomalies: Detect and report cases where AI systems misrepresent business categories, services, opening hours, or local market characteristics. Evaluate user experience: Assess digital workflows from a merchant's perspective, highlighting usability issues, friction points, and opportunities for improvement. Contribute industry expertise: Apply firsthand knowledge of business operations to benchmark AI performance and help improve the accuracy and reliability of digital commerce systems. Deliver independent assessments: Complete evaluations autonomously and provide clear, evidence-based feedback in accordance with project guidelines and deliverable requirements. Requirements: Business ownership or management experience: Demonstrable professional experience as an active owner, operator, or primary manager of a business in the food and beverage, hospitality and lodging, local services, or retail sectors. Verified Google Business Profile: Current ownership or active management of a verified Google Business Profile associated with your business is mandatory. Operational business knowledge: A strong understanding of day-to-day business activities, customer engagement, local search visibility, and digital storefront management. Analytical and communication skills: Ability to identify technical inaccuracies, explain user experience issues, and provide clear, structured, and actionable feedback. Attention to detail: A meticulous approach to reviewing business information, digital workflows, search results, and consumer-facing representations. Independent working style: Ability to manage assignments autonomously, follow evaluation guidelines, and deliver consistent, high-quality results remotely. Digital proficiency: Comfort using online platforms, business listings, mapping tools, and digital commerce technologies. Local market expertise: Familiarity with the specific needs, practices, and nuances of your business sector and geographic market. Equipment and connectivity: Access to a secure computer and reliable, high-speed internet connection to complete project assignments. Benefits: Competitive hourly compensation: Earn between $25 and $100 USD per hour , depending on your experience, expertise, and geographic location. The final rate may vary from the advertised range. Flexible freelance engagement: Work as an independent contractor, with flexibility to manage assignments alongside your existing business responsibilities. Fully remote work: Complete project tasks remotely without the need to commute to a physical office. Real-world impact: Help improve AI accuracy, local search representation, and digital tools used by merchants and consumers. Leverage your expertise: Apply your practical business knowledge to emerging AI technologies without needing to transition into a traditional technology role. Independent working environment: Evaluate tools and provide feedback autonomously, using your firsthand experience as a business owner or operator. Contractor arrangement: This is a freelance engagement. Company-sponsored benefits, including health insurance and paid time off, are not provided. Contractors are responsible for supplying their own equipment and internet connection.",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/88fa9afc-4350-4e56-a1dc-caa8ba81e173",
       "isLive": true
     },
     {
@@ -3342,32 +3258,6 @@
       "description": "Accountabilities: Lead global securities law compliance and provide strategic guidance on corporate governance matters relevant to a late-stage private company. Manage the international subsidiary structure, including board meetings, corporate records, entity reorganizations, intercompany agreements, and local compliance requirements. Support board governance by preparing agendas and materials, documenting meetings, and maintaining accurate records of corporate decisions and actions. Oversee employee equity programs and structure, negotiate, and execute employee stock sale transactions. Lead the legal execution of fundraising, M&A, financing, and other strategic transactions, ensuring appropriate risk management and regulatory compliance. Manage the investment portfolio and oversee transaction execution for venture capital investments and related activities. Develop and implement efficient legal and business processes that enable international operations to scale sustainably. Advise cross-functional teams on software integrations, intellectual property, licensing, and open-source licensing considerations. Translate complex legal matters into clear, practical recommendations that support business objectives and enable informed decision-making. Requirements: Juris Doctor (JD) degree from a US-accredited law school, admission to practice in a US state, and at least five years of legal practice experience. Strong expertise in securities law compliance, corporate governance, and legal matters affecting private or late-stage companies. Proven experience managing international subsidiaries and handling complex corporate transactions, including financing rounds, M&A, equity transactions, and strategic investments. Experience overseeing employee equity programs, stock plans, and related transactions; familiarity with tender offers, fund formations, public offerings, or comparable complex transactions is an advantage. Knowledge of intellectual property, software integrations, licensing, and open-source licensing, with an understanding of the legal considerations associated with global technology operations. International legal experience and familiarity with cross-border regulatory environments are highly desirable. Ability to manage multiple complex matters simultaneously, prioritize effectively, and operate independently in a fast-paced, globally distributed organization. Strong analytical, negotiation, communication, and problem-solving skills, with the ability to explain complex legal concepts clearly and concisely. A pragmatic, commercially minded approach to legal work, with a focus on finding efficient solutions and enabling business outcomes rather than relying solely on formal documentation. An adaptable, curious, and collaborative mindset, with the confidence to ask questions, learn from mistakes, and work constructively with diverse teams. Genuine enthusiasm for open-source principles and the open web, alongside a commitment to making technology accessible and useful to people worldwide. Benefits: Competitive compensation: Annual salary range of USD 180,000–300,000, with compensation paid in local currency regardless of location. Final pay reflects experience, skills, and expected contribution, and may exceed the stated range for exceptional candidates. Fully remote work: Opportunity to work remotely within a globally distributed organization. Flexible time off: Open vacation policy designed to support work-life balance and personal flexibility. Country-specific benefits: Access to benefits packages tailored to the employee's country of residence. Specific healthcare, insurance, and other benefits depend on local arrangements. International collaboration: Work alongside colleagues across numerous countries and cultural backgrounds, contributing to a global technology environment. Meaningful impact: Help shape the legal foundations of products and services that support publishing, commerce, messaging, and the open web. Inclusi",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/7a254261-3942-49ad-a3d6-582c78f6461a",
-      "isLive": true
-    },
-    {
-      "id": 703479372,
-      "externalId": "322818c1-c04f-4f59-9872-2cd691f155bb",
-      "title": "Litigation Paralegal",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "legal",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-27T10:14:39.988Z",
-      "skills": [
-        "Excel",
-        "Research"
-      ],
-      "description": "Accountabilities:: As a Litigation Paralegal, you will provide comprehensive support to attorneys throughout all stages of civil litigation, helping ensure cases progress efficiently and meet procedural requirements. Your responsibilities will include: Support attorneys with active civil litigation matters, from initial intake through trial preparation. Draft pleadings, motions, notices, discovery requests and responses, subpoenas, and legal correspondence. Prepare and organize exhibits, evidence, deposition materials, trial documents, chronologies, case summaries, and damages documentation. Manage discovery processes, including document collection, review, organization, and production. Assist with interrogatories, requests for production, requests for admission, and related responses. Coordinate depositions, hearings, mediations, conferences, and trials. Communicate professionally with clients, opposing counsel, courts, expert witnesses, vendors, and other relevant parties. Track statutes of limitation, court deadlines, discovery schedules, hearings, and key case milestones. Prepare and submit court filings using state and federal electronic filing systems. Maintain accurate, organized, and up-to-date digital case files. Conduct legal and factual research to support active litigation matters. Assist attorneys with deposition, mediation, hearing, and trial preparation. Use legal case management and document management systems to organize case information and workflows. Follow established procedures and quality standards to ensure accuracy and consistency across all work. Requirements: The ideal candidate has substantial experience supporting U.S. civil litigation, strong legal drafting capabilities, and the organizational skills required to manage complex cases and competing deadlines. Candidates should meet the following requirements: At least five years of professional experience as a paralegal, lawyer, or attorney. At least two years of experience working as a litigation paralegal for a law firm in the United States. Strong hands-on experience with U.S. civil litigation procedures and case management. Demonstrated experience drafting pleadings, motions, discovery documents, subpoenas, and litigation correspondence. Extensive experience managing discovery and document production. Experience preparing cases for depositions, mediations, hearings, and trials. Familiarity with state and/or federal court filing systems and procedural requirements. Strong understanding of litigation deadlines, court procedures, and case milestones. Experience working directly with U.S. attorneys and clients. Excellent legal writing, drafting, and document preparation skills. Experience using legal case management software. Advanced proficiency with Microsoft Office 365 or comparable cloud-based business tools. Excellent written and verbal English communication skills. Exceptional attention to detail, organization, and time management. A stable employment history, with at least two years of tenure in each previous role. Advanced hands-on experience with AI tools such as ChatGPT, Claude, and Gemini. Reliable high-speed internet, professional equipment, and a quiet home office. Availability during U.S. business hours and commitment to a long-term remote position with a U.S. law firm. Benefits: Fully remote work arrangement, open to candidates worldwide. Full-time or part-time work options. Compensation of $14 per hour. Opportunity to work closely with U.S. attorneys on active civil litigation matters. Long-term remote work opportunity.",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/322818c1-c04f-4f59-9872-2cd691f155bb",
       "isLive": true
     },
     {
@@ -3511,62 +3401,6 @@
       "isLive": true
     },
     {
-      "id": 1676680223,
-      "externalId": "77d2e06d-a0b9-450e-9dbc-da01537bd67e",
-      "title": "Estate Planning & Probate Paralegal",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "legal",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-27T08:23:12.724Z",
-      "skills": [
-        "Excel",
-        "Accounting",
-        "Research",
-        "Administration"
-      ],
-      "description": "Accountabilities:: As an Estate Planning & Probate Paralegal, you will provide comprehensive legal and administrative support across estate planning, probate, and trust administration matters. Your responsibilities will include: Prepare, draft, and organize estate planning documents, including wills, trusts, powers of attorney, healthcare directives, and related legal paperwork. Draft probate petitions, pleadings, notices, inventories, accountings, court filings, and supporting documentation. Assist attorneys with probate proceedings, trust administration, and estate administration. Gather and organize information about estate assets, liabilities, beneficiaries, heirs, and distributions. Communicate with clients, beneficiaries, financial institutions, and other relevant parties to obtain information and provide case updates. Prepare correspondence, legal forms, filing packages, and other case-related documentation. Monitor deadlines, court dates, filing requirements, and key case milestones to ensure timely completion of tasks. Maintain accurate, well-organized digital case files and records. Coordinate document execution, notarization, and estate planning signing procedures. Conduct legal research related to estate planning, probate, trusts, and estate administration. Use legal case management and document management systems while following established procedures and quality standards. Requirements: The ideal candidate is an experienced legal professional with strong knowledge of U.S. estate planning and probate practices, excellent drafting abilities, and the organizational skills needed to manage multiple cases and deadlines. Candidates should meet the following requirements: At least five years of professional experience as a paralegal, lawyer, or attorney. At least two years of experience working with a U.S. estate planning and/or probate law firm. Practical experience in estate planning, probate, trust administration, or estate administration. Demonstrated ability to draft wills, trusts, powers of attorney, healthcare directives, probate pleadings, and court filings. Experience working directly with U.S. attorneys and clients. Familiarity with U.S. probate procedures and court filing requirements. Strong legal writing, document preparation, case management, and deadline-tracking skills. Experience using legal case management software. Advanced proficiency in Microsoft Office 365 or comparable cloud-based business tools. Excellent written and verbal English communication skills. Strong attention to detail, organization, and professional reliability. A stable employment history, ideally with at least two years in each previous role. Advanced practical experience using AI tools such as ChatGPT, Claude, and Gemini. Reliable high-speed internet, professional equipment, and a quiet home office. Availability during U.S. business hours and a commitment to a long-term remote position with a U.S. law firm. Benefits: Fully remote work arrangement. Full-time or part-time opportunity. Compensation of $14 per hour. Opportunity to support U.S. legal professionals across estate planning, probate, and trust administration matters.",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/77d2e06d-a0b9-450e-9dbc-da01537bd67e",
-      "isLive": true
-    },
-    {
-      "id": 529958249,
-      "externalId": "8b3d7882-b6a5-4298-9a77-4c6f6060a2af",
-      "title": "Engineering Manager, Pricing & Revenue",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "finance",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-27T08:17:19.659Z",
-      "skills": [
-        "Excel",
-        "Recruitment",
-        "Operations",
-        "Leadership"
-      ],
-      "description": "Accountabilities: Lead the technical direction, architecture, reliability, and delivery of the Pricing & Revenue engineering domain. Design and develop a sophisticated pricing engine that balances supplier availability, demand, competitiveness, distribution, and profit margins. Build and improve high-performance hotel search systems capable of handling synchronous queries across approximately 200 suppliers while maintaining predictable latency and reliability. Develop new trading capabilities, including automated rebooking workflows, initially supporting internal operations and potentially evolving into customer-facing products. Improve hotel search availability and booking fulfilment, ensuring customers can successfully complete the reservations they initiate. Remain hands-on with architecture, code, system design, and production troubleshooting while guiding the team's technical execution. Lead, mentor, and grow a small engineering team, supporting recruitment, technical development, and high-quality delivery. Collaborate closely with Product and Trading to translate complex commercial challenges into technical solutions with measurable business outcomes. Take ownership of engineering decisions and production systems, continuously improving scalability, performance, reliability, and operational efficiency. Identify opportunities to simplify processes, move quickly, and deliver improvements with minimal organizational overhead. Requirements Proven experience leading, mentoring, and developing engineering teams while remaining actively involved in architecture, coding, and production systems. Strong backend engineering expertise, including substantial experience with Go. Deep knowledge of distributed systems, high-volume APIs, latency optimization, concurrency, and reliability engineering. Experience designing, building, or improving marketplace, trading, pricing, or optimization systems involving both supply and demand. Understanding of how pricing, inventory, distribution, and fulfilment interact within a marketplace environment. Ability to translate complex commercial objectives into robust technical architectures and engineering initiatives that deliver measurable results. Experience working with systems that manage real-world inventory, such as travel, mobility, delivery, or e-commerce platforms, is particularly valuable. Strong technical judgment and the ability to make architectural decisions independently while balancing immediate business needs with long-term scalability. Excellent leadership and communication skills, with the ability to align engineering work with product and commercial priorities. Comfort operating in fast-moving environments with ambiguity, limited processes, and a high degree of individual accountability. A hands-on, problem-solving mindset and a genuine interest in tackling technically challenging systems with direct commercial impact. Benefits Remote and hybrid flexibility: Work remotely from within Europe or choose a hybrid arrangement in Barcelona, Dublin, London, or Palma de Mallorca. Specific arrangements for Romania should be confirmed during the recruitment process. Meaningful equity opportunity: Participate in the company's growth through equity, with potential upside as future milestones are achieved. Significant technical ownership: Shape architecture, define the evolution of a core revenue-generating platform, and influence important engineering decisions. High autonomy: Work in a fast-moving environment with small teams, limited bureaucracy, and the freedom to make decisions and implement improvements. Hands-on leadership: Continue developing your engineering expertise while mentoring and growing a team. Direct business impact: See how technical decisions influence pricing competitiveness, platform performance, revenue, and customer outcomes. Global collaboration: Work on infrastructure serving an international travel ecosystem and supporting major travel, technology, and fintech part",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/8b3d7882-b6a5-4298-9a77-4c6f6060a2af",
-      "isLive": true
-    },
-    {
       "id": 1235245317,
       "externalId": "9010ab47-cedd-49d6-9461-8c6b4dfd563d",
       "title": "Staff Backend Software Engineer",
@@ -3618,33 +3452,6 @@
       "description": "Accountabilities: Support customer onboarding by understanding technical requirements and guiding e-commerce businesses through the integration process. Provide technical guidance on REST APIs, web services, integration best practices, and the use of open-source libraries. Troubleshoot technical integration issues in collaboration with customers and Customer Success teams, helping identify root causes and implement effective solutions. Assist customers with product catalog configuration, including catalog data uploads, facet configuration, searchable attributes, sort orders, and search result retrieval. Serve as a key communication link between customers and internal technical resources, responding promptly to inquiries with clear, practical explanations. Explain technical concepts and implementation requirements in a way that is accessible to both technical and non-technical stakeholders. Document customer interactions, recurring technical issues, and their resolutions to improve support consistency and knowledge sharing. Contribute to the development and refinement of integration documentation, onboarding materials, and troubleshooting guidance. Identify recurring challenges and recommend improvements to integration processes and the overall customer experience. Support customers in achieving reliable integrations that improve search relevance and product discovery across their e-commerce websites and mobile applications. Requirements Proven experience in customer support or technical support roles. Knowledge of REST-based web services, APIs, and integration best practices. Excellent communication and interpersonal skills, with the ability to explain technical concepts clearly to non-technical audiences. Strong attention to detail and a commitment to providing high-quality customer support. Excellent problem-solving skills and a proactive approach to troubleshooting and issue resolution. Ability to work collaboratively with customers and cross-functional teams while managing technical inquiries effectively. Preferred: Familiarity with structured data formats such as JSON and CSV, as well as basic search and indexing concepts. Preferred: Experience with debugging tools, including browser developer tools, API clients such as Postman, and application logs. Preferred: Familiarity with A/B testing, client-side and server-side contexts, network request routing, and HTTP. Preferred: Experience with open-source libraries, JavaScript web application development, and common integration patterns. Strong interest in helping customers navigate technical challenges and improve their implementation outcomes. Benefits Salary: Competitive base salary ranging from $70,000 to $90,000 USD , depending on knowledge, skills, experience, and interview results. Remote flexibility: Fully remote working arrangement, with flexibility to choose where you live. Vacation: Unlimited vacation policy, with employees strongly encouraged to take at least three weeks off annually. Home office support: Work-from-home stipend to help create a comfortable and productive workspace. Equipment: Apple laptop provided to new employees. Professional development: Annual training and development budget to support continuous learning and career growth. Family support: Maternity and paternity leave for eligible employees. Team connection: Regular team offsites that encourage collaboration, relationship-building, and shared learning. Collaborative culture: Work alongside knowledgeable, supportive, and empathetic colleagues who encourage professional development and meaningful contributions. Inclusive workplace: Commitment to diversity, equity, and inclusion, with equal employment opportunities for candidates from all backgrounds.",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/009ba2f1-76cd-4dff-b833-7efadc3c1275",
-      "isLive": true
-    },
-    {
-      "id": 2864191160,
-      "externalId": "ab2d33d4-402b-41c9-be25-0b17b14b7a35",
-      "title": "SAP S/4HANA Developer (ABAP / Accounts Payable Integration)",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "technology",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-10-27T07:27:58.064Z",
-      "skills": [
-        "SAP",
-        "Finance",
-        "Operations"
-      ],
-      "description": "Accountabilities:: SAP S/4HANA Development: Design, develop, test, and maintain custom SAP applications and enhancements using ABAP to support Accounts Payable integration and automation requirements. System Integration: Build and maintain reliable interfaces between SAP S/4HANA and external platforms, ensuring seamless data exchange and consistent communication across systems. Accounts Payable Integration: Develop technical solutions that enable the automation platform to access and process financial data, including invoices, vendor records, payment information, and related business objects. Data Flow Design and Implementation: Architect and implement secure, scalable, and reliable data flows that support high-volume transactions and accurate information exchange between SAP and external applications. Custom Development and Enhancements: Translate business and technical requirements into effective SAP developments, adapting existing functionality and creating new components where necessary. Integration Reliability and Performance: Ensure integrations operate efficiently and consistently, identifying and resolving technical issues related to data accuracy, processing, connectivity, and performance. Cross-Functional Collaboration: Work closely with engineering and product teams, as well as the end client's SAP specialists, to align integration architecture, technical requirements, and implementation priorities. Testing and Quality Assurance: Conduct unit testing, integration testing, debugging, and troubleshooting to ensure the quality, stability, and reliability of delivered solutions. Technical Documentation: Document integration designs, custom developments, data structures, and technical processes to support maintainability and knowledge sharing. Continuous Improvement: Identify opportunities to improve SAP integration architecture, development practices, and automation workflows as the solution evolves and scales. Requirements: Professional Experience: At least four years of hands-on SAP development experience, including practical experience with SAP S/4HANA. ABAP Expertise: Strong ABAP development skills, with the ability to design, implement, debug, and maintain custom SAP developments. SAP Integration Experience: Proven experience building and maintaining integrations between SAP systems and external applications or platforms. Accounts Payable Knowledge: Good technical understanding of SAP Accounts Payable processes and associated data structures, including invoices, vendor master data, and payments. Technical Problem-Solving: Ability to analyze complex integration requirements, troubleshoot technical issues, and develop reliable solutions for enterprise-scale environments. Data and Interface Management: Understanding of data exchange, interface design, and the technical considerations involved in maintaining accurate and consistent information across connected systems. Autonomy and Ownership: Ability to manage development tasks independently, prioritize work effectively, and deliver high-quality results in a fully remote environment. Communication Skills: Fluent written and spoken English, with the ability to communicate technical concepts clearly and collaborate effectively with international engineering and client teams. Location: Must be based in Europe and able to work effectively with distributed teams across relevant time zones. Nice to have: Modern ABAP Development: Experience with modern SAP development technologies, including Core Data Services (CDS) Views, the RESTful ABAP Programming Model (RAP), and OData services. SAP Integration Technologies: Familiarity with APIs, IDocs, BAPIs, SAP Business Technology Platform (SAP BTP), or SAP Integration Suite. Telecommunications Experience: Previous involvement in SAP implementation or integration projects within the telecommunications industry. Finance Automation and AI: Exposure to robotic process automation (RPA), finance process automation, or AI-driven enterprise",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/ab2d33d4-402b-41c9-be25-0b17b14b7a35",
       "isLive": true
     },
     {
@@ -5777,7 +5584,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 47 أيام",
+      "age": "منذ 48 أيام",
       "publishedAt": "2026-09-14T20:16:03.084Z",
       "skills": [
         "Excel",
@@ -6648,7 +6455,7 @@
       "minExp": 4,
       "maxExp": 5,
       "category": "operations",
-      "age": "منذ 108 أيام",
+      "age": "منذ 109 أيام",
       "publishedAt": "2026-07-15T20:43:54.041Z",
       "skills": [
         "Operations",
@@ -6767,6 +6574,31 @@
       "description": "As a trusted global transformation partner, Welo Global accelerates the global business journey by enabling brands and companies to reach, engage, and grow international audiences. Welo Global delivers multilingual content transformation services in translation, localization, and adaptation for over 250 languages with a growing network of over 400,000 in-country linguistic resources. Driving innovation in language services, Welo Global delivers high-quality training data transformation solutions for NLP-enabled machine learning by blending technology and human intelligence to collect, annotate, and evaluate all content types. Our team works across locations in North America, Europe, and Asia serving our global clients in the markets that matter to them. To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Welo Global | Enterprise Localization, AI & Multilingual Solutions Platform OVERVIEW At Park IP, Welo Global’s Legal Service Line, we are currently seeking experienced patent translators to support our growing portfolio of patent translation projects. We are looking for linguists with proven experience translating patents from English US (en-US) into Romanian (ro-RO): The ideal candidate will have strong experience in translating and proofreading patents, specifically in the field of Biology. Project Details Job Title: English US into Romanian (ro-RO) Patent Translator Location: Remote Content Type: Biology Expected Weighted Volume Per Week: 2,000 to 5,000 CAT Tool: JIRA, XTM Employment Type: Freelance Main Duties: Translate patent-related content from English US (en-US) into Romanian (ro-RO) , with original meaning conveyed in a manner that is readable and understandable to target audience. The Style adequacy is a key aspect for our client; Follow instructions, for example Translation process, CAT tool usage, etc. Communicate effectively and response promptly in English. Requirements: Minimum two years' experience translating and reviewing content in the patent field of Biology; Native fluency in target language; Degree in linguistics, translation or equivalent experience.",
       "source": "Lever · Welo Data",
       "externalUrl": "https://jobs.lever.co/weloglobal/7b14d503-e5e0-4c1d-ab94-73ea769c8bc4",
+      "isLive": true
+    },
+    {
+      "id": 3248200620,
+      "externalId": "89142c08-de82-4305-810b-711190e0fdf8",
+      "title": "Compliance Officer / MLRO- Saudi Arabia",
+      "company": "dLocal",
+      "country": "السعودية",
+      "region": "Riyadh",
+      "location": "الرياض",
+      "mode": "هجين",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 4,
+      "maxExp": 6,
+      "category": "legal",
+      "age": "منذ 146 أيام",
+      "publishedAt": "2026-06-08T19:19:15.340Z",
+      "skills": [
+        "Compliance"
+      ],
+      "description": "Why Join dLocal?dLocal is the financial infrastructure powering global commerce in the world's fastest-growing markets. The biggest companies in the world trust us to unlock growth in 60+ countries across emerging markets—moving money where others see complexity. We don't just process payments; we are architects of payment ecosystems and partners in our customers' expansion. You'll work alongside 1,300+ teammates from 40+ nationalities and tackle global challenges from day one. We are looking for a Compliance Officer in Saudi Arabia to join our global team. This role will play a crucial role in banking relationships as well as with internal reports. What I will be doing ?: KYC Onboarding: Oversee and manage the Know Your Customer (KYC) onboarding process for new customers and update existing ones in Saudi Arabia Ensure compliance with local and international regulatory requirements related to customer identification and verification. Transaction Monitoring: Implement and enhance transaction monitoring systems to detect and report suspicious activities within the Saudi Arabian context. Conduct periodic reviews and assessments to ensure the effectiveness of transaction monitoring processes. AML/CFT Compliance: Serve as the primary point of contact for AML/CFT matters in Saudi Arabia Possess in-depth knowledge of Anti-Money Laundering (AML) and Counter-Terrorism Financing (CFT) regulations in Saudi Arabia Develop and enforce AML/CFT policies and procedures tailored to the Saudi Arabian regulatory environment. Regulatory Compliance: Stay abreast of the regulatory landscape governing the payments industry in Saudi Arabia Interpret and communicate regulatory changes, especially those related to AML/CFT requirements, to relevant stakeholders within the organisation. Establish and maintain strong relationships with regulators in Saudi Arabia Remittance Compliance: Develop and implement compliance procedures specific to remittances and cross-border payments in Saudi Arabia. Ensure adherence to regulatory requirements governing remittance services in the Saudi Arabian market. Risk Assessments: Conduct regular risk assessments to identify and mitigate potential compliance risks within the Saudi Arabian context. Collaborate with other departments to implement risk mitigation strategies. Reporting: Report findings and other compliance matters related to AML/CFT to different stakeholders in Saudi Arabia in a clear and understandable manner. Ensure timely and accurate reporting to internal and external stakeholders as required by Saudi Arabia regulations. Training and Awareness: Provide training to staff on compliance policies, procedures, and regulatory requirements, with a specific focus on AML/CFT in the Saudi Arabia market. Foster a culture of compliance awareness within the organisation. What skills and qualifications do I need?: Bachelor's degree in a relevant field; additional certifications (e.g., CAMS, ACAMS, ICA) are a must. 4-6 years of legal experience in consultancy firms, AML, Transaction Monitoring, and KYC within the banking or fintech sector Proven experience in a compliance role within the financial services industry, with a focus on payments and remittances. Hands-on experience in building or implementing compliance-related automations (e.g., workflows, alerts, reporting systems) In-depth knowledge of KYC processes, transaction monitoring, and AML/CFT regulations in Saudi Arabia Familiarity with Saudi Arabian regulatory frameworks for the payments industry. Experience in engaging with regulators in Saudi Arabia and maintaining positive relationships. Strong analytical and problem-solving skills.",
+      "source": "Lever · dLocal",
+      "externalUrl": "https://jobs.lever.co/dlocal/89142c08-de82-4305-810b-711190e0fdf8",
       "isLive": true
     },
     {
@@ -7487,7 +7319,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 591 أيام",
+      "age": "منذ 592 أيام",
       "publishedAt": "2025-03-19T20:33:36.186Z",
       "skills": [
         "Excel",
