@@ -1,8 +1,176 @@
 {
-  "generatedAt": "2026-11-02T10:38:32.603Z",
-  "total": 297,
+  "generatedAt": "2026-11-02T11:34:03.249Z",
+  "total": 303,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3045814268,
+      "externalId": "9ef3c645-85ff-4ee3-bc11-75faa81df6a9",
+      "title": "Product Manager - Spark",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-02T11:29:28.815Z",
+      "skills": [
+        "Excel",
+        "Finance",
+        "Insurance",
+        "Education",
+        "Research"
+      ],
+      "description": "Accountabilities: Own the product strategy and roadmap for Spark projects, guiding development from the initial MVP through general availability. Make Spark seamless for AI agents and the platforms they run on, ensuring backend infrastructure is available as soon as an idea or application is created. Define the user journey from experimentation to production, including how projects are claimed, upgraded, and expanded across the broader platform. Collaborate with Engineering, Growth, and Finance to develop packaging and pricing strategies that remain sustainable and economical at significant scale. Work closely with platform customers to understand their requirements, validate opportunities, and introduce Spark to relevant use cases. Establish clear success metrics, implement end-to-end product instrumentation, and use data and insights to guide prioritization and future development. Continuously evaluate product performance and user feedback to identify opportunities for improvement and growth. Requirements: At least 5 years of Product Management experience in developer tools or infrastructure, or previous founder experience demonstrating strong product judgment and execution. A clear understanding of agent-driven development and how AI agents are changing the infrastructure and backend needs of developers and software platforms. Familiarity with AI evaluations, controlled experimentation, and data analysis, with the ability to use evidence to inform product decisions. A strong bias toward action, with a preference for shipping, learning, and iterating quickly rather than over-investing in detailed specifications. A hands-on approach to product development, including actively using the tools and products you manage to build informed opinions. Experience using AI tools to accelerate research, drafting, and feedback synthesis, while maintaining strong independent judgment. Excellent written communication and decision-making skills, with the ability to work asynchronously and document decisions clearly in a fully remote environment. Comfort operating in a fast-moving, evolving product environment that requires autonomy, adaptability, and close cross-functional collaboration. Benefits: Fully remote work: Work from anywhere, with no requirement to attend a company office. Co-working support: Access to a WeWork membership or co-working allowance to support your preferred working environment. Equity ownership: Employee Stock Option Plan (ESOP), giving every team member an opportunity to share in the company's growth. Technology allowance: Budget to equip your workspace with the technology and tools you need, such as a laptop, monitor, or headphones. Health coverage: 100% of employee health insurance costs covered, along with 80% coverage for dependents, wherever you are. Annual team off-sites: Opportunities to meet colleagues in person through a week-long company gathering in a different city each year. Flexible working arrangements: An asynchronous work culture that gives you autonomy to manage your schedule and priorities. Professional development: Annual education allowance for courses, books, conferences, and other learning opportunities.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/9ef3c645-85ff-4ee3-bc11-75faa81df6a9",
+      "isLive": true
+    },
+    {
+      "id": 2395126963,
+      "externalId": "2a2dbed9-6184-4626-bdfc-7bb5866a4767",
+      "title": "Product Manager - Spark",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-02T11:26:29.143Z",
+      "skills": [
+        "Excel",
+        "Finance",
+        "Insurance",
+        "Education",
+        "Research"
+      ],
+      "description": "Accountabilities: Own the product strategy and roadmap for Spark projects, guiding development from the initial MVP through general availability. Make Spark seamless for AI agents and the platforms they run on, ensuring backend infrastructure is available as soon as an idea or application is created. Define the user journey from experimentation to production, including how projects are claimed, upgraded, and expanded across the broader platform. Collaborate with Engineering, Growth, and Finance to develop packaging and pricing strategies that remain sustainable and economical at significant scale. Work closely with platform customers to understand their requirements, validate opportunities, and introduce Spark to relevant use cases. Establish clear success metrics, implement end-to-end product instrumentation, and use data and insights to guide prioritization and future development. Continuously evaluate product performance and user feedback to identify opportunities for improvement and growth. Requirements: At least 5 years of Product Management experience in developer tools or infrastructure, or previous founder experience demonstrating strong product judgment and execution. A clear understanding of agent-driven development and how AI agents are changing the infrastructure and backend needs of developers and software platforms. Familiarity with AI evaluations, controlled experimentation, and data analysis, with the ability to use evidence to inform product decisions. A strong bias toward action, with a preference for shipping, learning, and iterating quickly rather than over-investing in detailed specifications. A hands-on approach to product development, including actively using the tools and products you manage to build informed opinions. Experience using AI tools to accelerate research, drafting, and feedback synthesis, while maintaining strong independent judgment. Excellent written communication and decision-making skills, with the ability to work asynchronously and document decisions clearly in a fully remote environment. Comfort operating in a fast-moving, evolving product environment that requires autonomy, adaptability, and close cross-functional collaboration. Benefits: Fully remote work: Work from anywhere, with no requirement to attend a company office. Co-working support: Access to a WeWork membership or co-working allowance to support your preferred working environment. Equity ownership: Employee Stock Option Plan (ESOP), giving every team member an opportunity to share in the company's growth. Technology allowance: Budget to equip your workspace with the technology and tools you need, such as a laptop, monitor, or headphones. Health coverage: 100% of employee health insurance costs covered, along with 80% coverage for dependents, wherever you are. Annual team off-sites: Opportunities to meet colleagues in person through a week-long company gathering in a different city each year. Flexible working arrangements: An asynchronous work culture that gives you autonomy to manage your schedule and priorities. Professional development: Annual education allowance for courses, books, conferences, and other learning opportunities.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/2a2dbed9-6184-4626-bdfc-7bb5866a4767",
+      "isLive": true
+    },
+    {
+      "id": 1792618669,
+      "externalId": "f45f594c-48b3-4278-b5eb-9dda8012c2dd",
+      "title": "Product Manager - Spark",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-02T11:25:42.225Z",
+      "skills": [
+        "Excel",
+        "Finance",
+        "Insurance",
+        "Education",
+        "Research"
+      ],
+      "description": "Accountabilities: Own the product strategy and roadmap for Spark projects, guiding development from the initial MVP through general availability. Make Spark seamless for AI agents and the platforms they run on, ensuring backend infrastructure is available as soon as an idea or application is created. Define the user journey from experimentation to production, including how projects are claimed, upgraded, and expanded across the broader platform. Collaborate with Engineering, Growth, and Finance to develop packaging and pricing strategies that remain sustainable and economical at significant scale. Work closely with platform customers to understand their requirements, validate opportunities, and introduce Spark to relevant use cases. Establish clear success metrics, implement end-to-end product instrumentation, and use data and insights to guide prioritization and future development. Continuously evaluate product performance and user feedback to identify opportunities for improvement and growth. Requirements: At least 5 years of Product Management experience in developer tools or infrastructure, or previous founder experience demonstrating strong product judgment and execution. A clear understanding of agent-driven development and how AI agents are changing the infrastructure and backend needs of developers and software platforms. Familiarity with AI evaluations, controlled experimentation, and data analysis, with the ability to use evidence to inform product decisions. A strong bias toward action, with a preference for shipping, learning, and iterating quickly rather than over-investing in detailed specifications. A hands-on approach to product development, including actively using the tools and products you manage to build informed opinions. Experience using AI tools to accelerate research, drafting, and feedback synthesis, while maintaining strong independent judgment. Excellent written communication and decision-making skills, with the ability to work asynchronously and document decisions clearly in a fully remote environment. Comfort operating in a fast-moving, evolving product environment that requires autonomy, adaptability, and close cross-functional collaboration. Benefits: Fully remote work: Work from anywhere, with no requirement to attend a company office. Co-working support: Access to a WeWork membership or co-working allowance to support your preferred working environment. Equity ownership: Employee Stock Option Plan (ESOP), giving every team member an opportunity to share in the company's growth. Technology allowance: Budget to equip your workspace with the technology and tools you need, such as a laptop, monitor, or headphones. Health coverage: 100% of employee health insurance costs covered, along with 80% coverage for dependents, wherever you are. Annual team off-sites: Opportunities to meet colleagues in person through a week-long company gathering in a different city each year. Flexible working arrangements: An asynchronous work culture that gives you autonomy to manage your schedule and priorities. Professional development: Annual education allowance for courses, books, conferences, and other learning opportunities.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/f45f594c-48b3-4278-b5eb-9dda8012c2dd",
+      "isLive": true
+    },
+    {
+      "id": 1694688072,
+      "externalId": "c8c814b9-1fe6-49b9-bafc-06b72517005d",
+      "title": "Content Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "media",
+      "age": "اليوم",
+      "publishedAt": "2026-11-02T11:13:34.022Z",
+      "skills": [
+        "Research",
+        "Content",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Define and lead the content direction, setting editorial priorities and identifying topics and formats with the greatest potential value. Edit and improve new and existing content to ensure clarity, accuracy, relevance, and a consistently high editorial standard. Use AI tools to support content research, drafting, and editing while applying strong editorial judgment and maintaining quality. Lead and support a small team of writers, providing constructive feedback and helping them develop their skills. Take ownership of content performance, tracking results and using data to guide improvements. Improve content visibility through SEO and optimization for AI-powered search, including GEO and AEO strategies. Experiment with new topics, formats, and approaches, evaluating performance and scaling successful initiatives. Collaborate with senior leadership, developers, and product teams to translate technical expertise and product knowledge into engaging, reader-friendly content. Requirements: Several years of experience creating, writing, and editing high-quality content, supported by strong writing skills and sound editorial judgment. Previous experience leading a small team of writers and helping team members improve through clear, constructive feedback. A quality-first mindset, with a focus on content value and impact rather than publication volume. Demonstrated ownership of content performance, with the ability to explain achievements and their contribution to business results. Hands-on experience with SEO and optimization for AI-driven search, rather than experience limited to managing others. Strong practical knowledge of AI writing and editing tools, including the ability to recognize when human expertise and judgment are essential. Experience creating content for software, SaaS, or other technical products, with the ability to explain complex concepts in simple, engaging language. Confidence working independently in a fast-paced environment, making decisions, setting priorities, and evaluating outcomes without requiring detailed instructions. Benefits: Remote working flexibility. The opportunity to own and shape the editorial direction of an established software product business. Freedom to experiment with AI tools and new content approaches. The ability to measure the impact of your decisions through real performance data. A supportive working environment that values its people and aims to provide benefits beyond day-to-day work. The opportunity to contribute to products used by more than 1.5 million websites worldwide.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/c8c814b9-1fe6-49b9-bafc-06b72517005d",
+      "isLive": true
+    },
+    {
+      "id": 2811072891,
+      "externalId": "3b8e3324-502c-41ae-bb44-38011e04dec7",
+      "title": "Content Manager",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "media",
+      "age": "اليوم",
+      "publishedAt": "2026-11-02T11:08:48.628Z",
+      "skills": [
+        "Research",
+        "Content",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Define and lead the content direction, setting editorial priorities and identifying topics and formats with the greatest potential value. Edit and improve new and existing content to ensure clarity, accuracy, relevance, and a consistently high editorial standard. Use AI tools to support content research, drafting, and editing while applying strong editorial judgment and maintaining quality. Lead and support a small team of writers, providing constructive feedback and helping them develop their skills. Take ownership of content performance, tracking results and using data to guide improvements. Improve content visibility through SEO and optimization for AI-powered search, including GEO and AEO strategies. Experiment with new topics, formats, and approaches, evaluating performance and scaling successful initiatives. Collaborate with senior leadership, developers, and product teams to translate technical expertise and product knowledge into engaging, reader-friendly content. Requirements: Several years of experience creating, writing, and editing high-quality content, supported by strong writing skills and sound editorial judgment. Previous experience leading a small team of writers and helping team members improve through clear, constructive feedback. A quality-first mindset, with a focus on content value and impact rather than publication volume. Demonstrated ownership of content performance, with the ability to explain achievements and their contribution to business results. Hands-on experience with SEO and optimization for AI-driven search, rather than experience limited to managing others. Strong practical knowledge of AI writing and editing tools, including the ability to recognize when human expertise and judgment are essential. Experience creating content for software, SaaS, or other technical products, with the ability to explain complex concepts in simple, engaging language. Confidence working independently in a fast-paced environment, making decisions, setting priorities, and evaluating outcomes without requiring detailed instructions. Benefits: Remote working flexibility. The opportunity to own and shape the editorial direction of an established software product business. Freedom to experiment with AI tools and new content approaches. The ability to measure the impact of your decisions through real performance data. A supportive working environment that values its people and aims to provide benefits beyond day-to-day work. The opportunity to contribute to products used by more than 1.5 million websites worldwide.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/3b8e3324-502c-41ae-bb44-38011e04dec7",
+      "isLive": true
+    },
+    {
+      "id": 811543568,
+      "externalId": "7164d074-fed2-49b0-bdbf-5f51b5e55b89",
+      "title": "Content Manager",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "media",
+      "age": "اليوم",
+      "publishedAt": "2026-11-02T11:07:33.572Z",
+      "skills": [
+        "Research",
+        "Content",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Define and lead the content direction, setting editorial priorities and identifying topics and formats with the greatest potential value. Edit and improve new and existing content to ensure clarity, accuracy, relevance, and a consistently high editorial standard. Use AI tools to support content research, drafting, and editing while applying strong editorial judgment and maintaining quality. Lead and support a small team of writers, providing constructive feedback and helping them develop their skills. Take ownership of content performance, tracking results and using data to guide improvements. Improve content visibility through SEO and optimization for AI-powered search, including GEO and AEO strategies. Experiment with new topics, formats, and approaches, evaluating performance and scaling successful initiatives. Collaborate with senior leadership, developers, and product teams to translate technical expertise and product knowledge into engaging, reader-friendly content. Requirements: Several years of experience creating, writing, and editing high-quality content, supported by strong writing skills and sound editorial judgment. Previous experience leading a small team of writers and helping team members improve through clear, constructive feedback. A quality-first mindset, with a focus on content value and impact rather than publication volume. Demonstrated ownership of content performance, with the ability to explain achievements and their contribution to business results. Hands-on experience with SEO and optimization for AI-driven search, rather than experience limited to managing others. Strong practical knowledge of AI writing and editing tools, including the ability to recognize when human expertise and judgment are essential. Experience creating content for software, SaaS, or other technical products, with the ability to explain complex concepts in simple, engaging language. Confidence working independently in a fast-paced environment, making decisions, setting priorities, and evaluating outcomes without requiring detailed instructions. Benefits: Remote working flexibility. The opportunity to own and shape the editorial direction of an established software product business. Freedom to experiment with AI tools and new content approaches. The ability to measure the impact of your decisions through real performance data. A supportive working environment that values its people and aims to provide benefits beyond day-to-day work. The opportunity to contribute to products used by more than 1.5 million websites worldwide.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/7164d074-fed2-49b0-bdbf-5f51b5e55b89",
+      "isLive": true
+    },
     {
       "id": 1096364897,
       "externalId": "6dd4cbb4-3092-47dc-8d10-a5f866c8df27",
@@ -828,7 +996,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-10-30T10:50:15.136Z",
       "skills": [
         "Excel",
@@ -2002,7 +2170,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-29T10:56:13.461Z",
       "skills": [
         "Excel",
@@ -2030,7 +2198,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-29T10:52:51.085Z",
       "skills": [
         "Excel",
@@ -2058,7 +2226,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-29T10:52:00.909Z",
       "skills": [
         "Excel",
@@ -2086,7 +2254,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-29T10:50:46.515Z",
       "skills": [
         "Sales",
@@ -3126,7 +3294,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-28T11:17:45.949Z",
       "skills": [
         "React",
@@ -3154,7 +3322,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-28T11:15:01.852Z",
       "skills": [
         "React",
@@ -3182,7 +3350,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-28T11:14:07.571Z",
       "skills": [
         "React",
@@ -3210,7 +3378,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-28T10:58:36.986Z",
       "skills": [
         "Excel",
@@ -3237,7 +3405,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-28T10:56:15.007Z",
       "skills": [
         "Excel",
@@ -3264,7 +3432,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-28T10:55:11.425Z",
       "skills": [
         "Excel",
@@ -3291,7 +3459,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-28T10:41:18.608Z",
       "skills": [
         "Excel",
@@ -3322,7 +3490,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-28T10:38:56.694Z",
       "skills": [
         "Excel",
@@ -3920,7 +4088,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-27T11:21:53.365Z",
       "skills": [
         "Audit",
@@ -3948,7 +4116,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-27T11:05:00.866Z",
       "skills": [
         "Insurance",
@@ -3975,7 +4143,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-27T11:02:27.860Z",
       "skills": [
         "Insurance",
@@ -4002,7 +4170,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-27T11:01:29.730Z",
       "skills": [
         "Insurance",
@@ -5024,7 +5192,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-26T11:13:37.334Z",
       "skills": [
         "Python",
@@ -5052,7 +5220,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-26T11:12:57.342Z",
       "skills": [
         "Python",
@@ -6126,7 +6294,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 44 أيام",
+      "age": "منذ 45 أيام",
       "publishedAt": "2026-09-18T07:14:31-04:00",
       "skills": [
         "Excel",
@@ -6446,7 +6614,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 53 أيام",
+      "age": "منذ 54 أيام",
       "publishedAt": "2026-09-09T10:47:54.392Z",
       "skills": [
         "SAP"
@@ -6471,7 +6639,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 53 أيام",
+      "age": "منذ 54 أيام",
       "publishedAt": "2026-09-09T10:42:51.771Z",
       "skills": [
         "SAP"
@@ -6855,7 +7023,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 68 أيام",
+      "age": "منذ 69 أيام",
       "publishedAt": "2026-08-25T11:26:46.838Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6880,7 +7048,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 68 أيام",
+      "age": "منذ 69 أيام",
       "publishedAt": "2026-08-25T11:15:50.932Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7014,7 +7182,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 90 أيام",
+      "age": "منذ 91 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
         "Operations",
@@ -7040,7 +7208,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 90 أيام",
+      "age": "منذ 91 أيام",
       "publishedAt": "2026-08-03T11:24:13.619Z",
       "skills": [
         "React",
@@ -7153,7 +7321,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 104 أيام",
+      "age": "منذ 105 أيام",
       "publishedAt": "2026-07-20T11:17:12.203Z",
       "skills": [
         "Research",
@@ -7828,7 +7996,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "security",
-      "age": "منذ 398 أيام",
+      "age": "منذ 399 أيام",
       "publishedAt": "2025-09-29T10:53:59.334Z",
       "skills": [
         "Excel",
@@ -7989,7 +8157,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 537 أيام",
+      "age": "منذ 538 أيام",
       "publishedAt": "2025-05-13T10:50:29.522Z",
       "skills": [
         "Customer Service",
