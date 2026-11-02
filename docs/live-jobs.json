@@ -1,8 +1,101 @@
 {
-  "generatedAt": "2026-11-02T11:34:03.249Z",
-  "total": 303,
+  "generatedAt": "2026-11-02T12:37:06.880Z",
+  "total": 306,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 311885676,
+      "externalId": "621cbc60-5850-470f-a141-7b8185402333",
+      "title": "Product Manager - Administration & Governance",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "administration",
+      "age": "اليوم",
+      "publishedAt": "2026-11-02T11:48:16.065Z",
+      "skills": [
+        "Audit",
+        "Finance",
+        "Insurance",
+        "Education",
+        "Research",
+        "Sales",
+        "Administration"
+      ],
+      "description": "Accountabilities: Own the product strategy and roadmap for internal innovation and enterprise adoption, guiding organizations from their first IT-approved rollout to broader use across teams and business units. Make project creation and onboarding self-service, enabling employees to get the access and infrastructure they need through the platform, internal developer portals, or AI agents without relying on manual requests for every project. Develop a unified company-wide administration experience that gives organizations visibility into all their projects, usage, and resources. Define how project ownership, delegated access, organizational boundaries, and team permissions should work, allowing teams to operate independently while maintaining appropriate oversight. Collaborate with platform, IT, security, and finance stakeholders to understand enterprise requirements and translate them into practical identity, policy, audit, and spending controls without creating unnecessary friction for developers. Establish the path from experimentation to production, defining how project ownership, access rights, and governance requirements evolve as applications become more important to the business. Partner with Engineering, Design, Sales, and Customer Success to transform early customer implementations into repeatable, scalable product experiences rather than one-off integrations. Define success metrics and implement end-to-end product measurement, using insights such as time to first project, self-service adoption, production usage, and company-wide expansion to guide product decisions. Requirements: At least 7 years of Product Management experience in developer tools, infrastructure, or internal developer platforms. Demonstrated experience building self-service products that deliver a strong developer experience while meeting the governance and operational needs of platform and IT teams. A solid understanding of both software builders’ needs and the responsibilities of teams managing enterprise infrastructure. Ability to reason about identity management, permissions, organizational boundaries, and usage attribution, translating complex systems into clear and intuitive user workflows. A strong perspective on how AI agents are changing software development within organizations and what internal development platforms need to support this shift. Experience with controlled experimentation and data analysis, including the ability to connect easier onboarding and adoption with sustained product engagement. A bias toward action and iterative development, with a preference for shipping, learning from feedback, and improving continuously rather than over-engineering specifications. A hands-on approach to product management, including direct experience using the products you own, from creating projects to configuring policies and governance settings. Practical experience using AI tools to accelerate research, drafting, and feedback synthesis while maintaining sound independent judgment. Strong written communication and decision-making skills, with the ability to work asynchronously and document decisions effectively in a fully remote team. Benefits: Fully remote work: Work from anywhere, with no requirement to attend a company office. Co-working support: Access to a WeWork membership or co-working allowance to support your preferred working environment. Equity ownership: Employee Stock Option Plan (ESOP), giving every team member an opportunity to share in the company's growth. Technology allowance: Budget to equip your workspace with the tools you need, such as a laptop, monitor, or headphones. Health coverage: 100% of employee health insurance costs covered, along with 80% coverage for dependents, wherever you are. Annual team off-sites: A week-long company gathering in a different city each year, offering opportunities for connection and collaboration. Flexible working arrangements: An asynchronous work culture that gives you autonomy to manage",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/621cbc60-5850-470f-a141-7b8185402333",
+      "isLive": true
+    },
+    {
+      "id": 3528015630,
+      "externalId": "3b49de50-319c-410b-ba86-86f4529ebba9",
+      "title": "Product Manager - Administration & Governance",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "administration",
+      "age": "اليوم",
+      "publishedAt": "2026-11-02T11:45:58.272Z",
+      "skills": [
+        "Audit",
+        "Finance",
+        "Insurance",
+        "Education",
+        "Research",
+        "Sales",
+        "Administration"
+      ],
+      "description": "Accountabilities: Own the product strategy and roadmap for internal innovation and enterprise adoption, guiding organizations from their first IT-approved rollout to broader use across teams and business units. Make project creation and onboarding self-service, enabling employees to get the access and infrastructure they need through the platform, internal developer portals, or AI agents without relying on manual requests for every project. Develop a unified company-wide administration experience that gives organizations visibility into all their projects, usage, and resources. Define how project ownership, delegated access, organizational boundaries, and team permissions should work, allowing teams to operate independently while maintaining appropriate oversight. Collaborate with platform, IT, security, and finance stakeholders to understand enterprise requirements and translate them into practical identity, policy, audit, and spending controls without creating unnecessary friction for developers. Establish the path from experimentation to production, defining how project ownership, access rights, and governance requirements evolve as applications become more important to the business. Partner with Engineering, Design, Sales, and Customer Success to transform early customer implementations into repeatable, scalable product experiences rather than one-off integrations. Define success metrics and implement end-to-end product measurement, using insights such as time to first project, self-service adoption, production usage, and company-wide expansion to guide product decisions. Requirements: At least 7 years of Product Management experience in developer tools, infrastructure, or internal developer platforms. Demonstrated experience building self-service products that deliver a strong developer experience while meeting the governance and operational needs of platform and IT teams. A solid understanding of both software builders’ needs and the responsibilities of teams managing enterprise infrastructure. Ability to reason about identity management, permissions, organizational boundaries, and usage attribution, translating complex systems into clear and intuitive user workflows. A strong perspective on how AI agents are changing software development within organizations and what internal development platforms need to support this shift. Experience with controlled experimentation and data analysis, including the ability to connect easier onboarding and adoption with sustained product engagement. A bias toward action and iterative development, with a preference for shipping, learning from feedback, and improving continuously rather than over-engineering specifications. A hands-on approach to product management, including direct experience using the products you own, from creating projects to configuring policies and governance settings. Practical experience using AI tools to accelerate research, drafting, and feedback synthesis while maintaining sound independent judgment. Strong written communication and decision-making skills, with the ability to work asynchronously and document decisions effectively in a fully remote team. Benefits: Fully remote work: Work from anywhere, with no requirement to attend a company office. Co-working support: Access to a WeWork membership or co-working allowance to support your preferred working environment. Equity ownership: Employee Stock Option Plan (ESOP), giving every team member an opportunity to share in the company's growth. Technology allowance: Budget to equip your workspace with the tools you need, such as a laptop, monitor, or headphones. Health coverage: 100% of employee health insurance costs covered, along with 80% coverage for dependents, wherever you are. Annual team off-sites: A week-long company gathering in a different city each year, offering opportunities for connection and collaboration. Flexible working arrangements: An asynchronous work culture that gives you autonomy to manage",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/3b49de50-319c-410b-ba86-86f4529ebba9",
+      "isLive": true
+    },
+    {
+      "id": 3153422013,
+      "externalId": "44efea3b-7a59-4f63-9c4f-8c2c8b443051",
+      "title": "Product Manager - Administration & Governance",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "administration",
+      "age": "اليوم",
+      "publishedAt": "2026-11-02T11:44:43.644Z",
+      "skills": [
+        "Audit",
+        "Finance",
+        "Insurance",
+        "Education",
+        "Research",
+        "Sales",
+        "Administration"
+      ],
+      "description": "Accountabilities: Own the product strategy and roadmap for internal innovation and enterprise adoption, guiding organizations from their first IT-approved rollout to broader use across teams and business units. Make project creation and onboarding self-service, enabling employees to get the access and infrastructure they need through the platform, internal developer portals, or AI agents without relying on manual requests for every project. Develop a unified company-wide administration experience that gives organizations visibility into all their projects, usage, and resources. Define how project ownership, delegated access, organizational boundaries, and team permissions should work, allowing teams to operate independently while maintaining appropriate oversight. Collaborate with platform, IT, security, and finance stakeholders to understand enterprise requirements and translate them into practical identity, policy, audit, and spending controls without creating unnecessary friction for developers. Establish the path from experimentation to production, defining how project ownership, access rights, and governance requirements evolve as applications become more important to the business. Partner with Engineering, Design, Sales, and Customer Success to transform early customer implementations into repeatable, scalable product experiences rather than one-off integrations. Define success metrics and implement end-to-end product measurement, using insights such as time to first project, self-service adoption, production usage, and company-wide expansion to guide product decisions. Requirements: At least 7 years of Product Management experience in developer tools, infrastructure, or internal developer platforms. Demonstrated experience building self-service products that deliver a strong developer experience while meeting the governance and operational needs of platform and IT teams. A solid understanding of both software builders’ needs and the responsibilities of teams managing enterprise infrastructure. Ability to reason about identity management, permissions, organizational boundaries, and usage attribution, translating complex systems into clear and intuitive user workflows. A strong perspective on how AI agents are changing software development within organizations and what internal development platforms need to support this shift. Experience with controlled experimentation and data analysis, including the ability to connect easier onboarding and adoption with sustained product engagement. A bias toward action and iterative development, with a preference for shipping, learning from feedback, and improving continuously rather than over-engineering specifications. A hands-on approach to product management, including direct experience using the products you own, from creating projects to configuring policies and governance settings. Practical experience using AI tools to accelerate research, drafting, and feedback synthesis while maintaining sound independent judgment. Strong written communication and decision-making skills, with the ability to work asynchronously and document decisions effectively in a fully remote team. Benefits: Fully remote work: Work from anywhere, with no requirement to attend a company office. Co-working support: Access to a WeWork membership or co-working allowance to support your preferred working environment. Equity ownership: Employee Stock Option Plan (ESOP), giving every team member an opportunity to share in the company's growth. Technology allowance: Budget to equip your workspace with the tools you need, such as a laptop, monitor, or headphones. Health coverage: 100% of employee health insurance costs covered, along with 80% coverage for dependents, wherever you are. Annual team off-sites: A week-long company gathering in a different city each year, offering opportunities for connection and collaboration. Flexible working arrangements: An asynchronous work culture that gives you autonomy to manage",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/44efea3b-7a59-4f63-9c4f-8c2c8b443051",
+      "isLive": true
+    },
     {
       "id": 3045814268,
       "externalId": "9ef3c645-85ff-4ee3-bc11-75faa81df6a9",
@@ -4032,7 +4125,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-27T11:42:18.446Z",
       "skills": [
         "SQL",
@@ -4060,7 +4153,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-27T11:41:06.228Z",
       "skills": [
         "SQL",
@@ -5017,7 +5110,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-26T11:55:17.407Z",
       "skills": [
         "Excel",
@@ -5046,7 +5139,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-26T11:49:09.349Z",
       "skills": [
         "Excel",
@@ -5074,7 +5167,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-26T11:48:22.673Z",
       "skills": [
         "Excel",
@@ -5102,7 +5195,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-26T11:46:43.927Z",
       "skills": [
         "Excel",
@@ -5130,7 +5223,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-26T11:38:48.651Z",
       "skills": [
         "Python",
@@ -5161,7 +5254,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-26T11:38:04.466Z",
       "skills": [
         "Python",
@@ -5739,7 +5832,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 11 أيام",
+      "age": "منذ 12 أيام",
       "publishedAt": "2026-10-21T12:14:36.095Z",
       "skills": [
         "Excel",
@@ -5829,7 +5922,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 20 أيام",
+      "age": "منذ 21 أيام",
       "publishedAt": "2026-10-12T12:22:58.148Z",
       "skills": [
         "Excel",
@@ -5949,7 +6042,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 24 أيام",
+      "age": "منذ 25 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "Audit",
@@ -6034,7 +6127,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 30 أيام",
+      "age": "منذ 31 أيام",
       "publishedAt": "2026-10-02T11:45:47.851Z",
       "skills": [
         "Excel",
@@ -6114,7 +6207,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 38 أيام",
+      "age": "منذ 39 أيام",
       "publishedAt": "2026-09-24T12:03:40.894Z",
       "skills": [
         "Sales",
@@ -6267,7 +6360,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 41 أيام",
+      "age": "منذ 42 أيام",
       "publishedAt": "2026-09-21T12:10:38.082Z",
       "skills": [
         "Excel",
@@ -6451,7 +6544,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 46 أيام",
+      "age": "منذ 47 أيام",
       "publishedAt": "2026-09-16T12:18:06.725Z",
       "skills": [
         "Finance",
@@ -6583,7 +6676,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "sales",
-      "age": "منذ 53 أيام",
+      "age": "منذ 54 أيام",
       "publishedAt": "2026-09-09T11:39:00.380Z",
       "skills": [
         "Excel",
@@ -6771,7 +6864,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 60 أيام",
+      "age": "منذ 61 أيام",
       "publishedAt": "2026-09-02T12:36:44.958Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6796,7 +6889,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "finance",
-      "age": "منذ 60 أيام",
+      "age": "منذ 61 أيام",
       "publishedAt": "2026-09-02T11:56:38.924Z",
       "skills": [
         "Accounting",
@@ -6968,7 +7061,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 68 أيام",
+      "age": "منذ 69 أيام",
       "publishedAt": "2026-08-25T12:30:04.705Z",
       "skills": [
         "Sales",
@@ -6995,7 +7088,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 68 أيام",
+      "age": "منذ 69 أيام",
       "publishedAt": "2026-08-25T12:03:51.980Z",
       "skills": [
         "Excel",
@@ -7131,7 +7224,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 80 أيام",
+      "age": "منذ 81 أيام",
       "publishedAt": "2026-08-13T12:01:07.661Z",
       "skills": [
         "Operations"
@@ -7156,7 +7249,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 80 أيام",
+      "age": "منذ 81 أيام",
       "publishedAt": "2026-08-13T11:55:04.485Z",
       "skills": [
         "Operations",
@@ -7291,7 +7384,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 97 أيام",
+      "age": "منذ 98 أيام",
       "publishedAt": "2026-07-27T11:44:58.735Z",
       "skills": [
         "Excel",
@@ -7654,7 +7747,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 207 أيام",
+      "age": "منذ 208 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -8023,7 +8116,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 440 أيام",
+      "age": "منذ 441 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
@@ -8290,7 +8383,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "customer",
-      "age": "منذ 731 أيام",
+      "age": "منذ 732 أيام",
       "publishedAt": "2024-10-31T12:09:49.201Z",
       "skills": [
         "Excel",
@@ -8347,7 +8440,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 857 أيام",
+      "age": "منذ 858 أيام",
       "publishedAt": "2024-06-27T12:18:56.852Z",
       "skills": [
         "Finance",
@@ -8377,7 +8470,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 893 أيام",
+      "age": "منذ 894 أيام",
       "publishedAt": "2024-05-22T12:17:49.028Z",
       "skills": [
         "Excel",
