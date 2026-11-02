@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T16:12:04.985Z",
-  "total": 306,
+  "generatedAt": "2026-11-02T17:15:37.952Z",
+  "total": 305,
   "feeds": 13,
   "jobs": [
     {
@@ -3089,7 +3089,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-28T16:14:46.191Z",
       "skills": [
         "Excel",
@@ -5731,37 +5731,6 @@
       "isLive": true
     },
     {
-      "id": 4280798198,
-      "externalId": "32c8c9c5-14af-4336-8399-207993071ff0",
-      "title": "Partner Engagement Specialist (6 months contract)",
-      "company": "Welo Data",
-      "country": "عُمان",
-      "region": "Cluj-Napoca, Romania",
-      "location": "Cluj-Napoca, Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "legal",
-      "age": "منذ 11 أيام",
-      "publishedAt": "2026-10-22T15:56:24.443Z",
-      "skills": [
-        "Excel",
-        "Audit",
-        "Education",
-        "Content",
-        "Recruitment",
-        "Compliance",
-        "Operations"
-      ],
-      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. Welocalize’s Opal Platform comprises patented technology designed to automate multilingual content and improve workflow performance for enterprises. Opal functions as an agentic system that orchestrates AI, automation, and human expertise to coordinate content workflows across the lifecycle, improving speed, scalability, and operational control for global enterprises. These solutions operate within a secure and compliant environment supported by seven ISO certifications. Welocalize is headquartered in New York with offices worldwide. welocalize.com MAIN PURPOSE OF ROLE The Partner Engagement Team is responsible for measuring, monitoring, and optimizing performance of suppliers within a particular set of languages. Performance includes, but is not limited to, on-time delivery, adherence to all client and project specific requirements, and defect-free deliverables. This Team is responsible for understanding customer capacity requirements as communicated by the Program Squads and liaising with Talent Procurement to ensure such capacity requirements can be met. As part of ensuring capacity, the Partner Engagement Team will monitor supplier utilization and advise supplier selection to the Program Squads accordingly. MAIN DUTIES: The following is a non-exhaustive list of responsibilities and areas of ownership of Partner Engagement Specialist: Through engagement with Program Squad, make data-driven decisions regarding the most suitable suppliers for standard service offerings. Suitability may be based on quality, OTD, market / language strategy, capacity needs, content specialty, or client specific requirements. Lead communication and onboarding of suppliers to new client programs, ensuring availability and suitability for such work. Maintain supplier skilling as it pertains to clients / Pantheon (proprietary) programs. Monitor utilization to ensure supplier usage is in alignment with strategies as defined by Program Operations, Partner Success, and Language Operations. Engage with Program Squads should adjustment in resource usage be necessary. Communicate with and support Talent Procurement in the creation of new recruitment campaigns to identify and onboard new suppliers to Welocalize. Ensure regular quality measuring of suppliers in alignment with Welocalize LQA strategy. Monitor and flag suppliers performing beneath defined Welocalize thresholds. Supplier performance is inclusive of OTD, time-to-accept task, language quality, adherence to instructions, etc. Initiate Quality Improvement Plan (QIP), RCAs or CAPAs, as needed. If QIP is deemed unsuccessful, inform Talent Procurement. For existing service offerings, liaise with Program Squad to understand customer capacity requirements and take appropriate actions to ensure such requirements are consistently met. Responsible for overall performance (internal & external resources) of the languages, capacity planning, resource utilization, OTD, and quality. Hardware and logistics . Handle device assignment, shipment, return and reconciliation, plus security key issuance and revocation, with an accurate asset register. Incidents and compliance. Triage access and device issues, maintain runbooks and SOPs, and enforce GDPR/CCPA privacy controls. Produce audit-ready evidence for ISO 27001 and SOC 2, and carry out background and location-eligibility checks under the client’s vendor requirements. Reporting and improvement. Track SLAs such as time-to-provision, deprovisioning timeliness and MTTR, and look for automation to cut cycle time and errors. REQUIREMENTS: Education & Experience Minimum of a BA/BS degree or equivalent e",
-      "source": "Lever · Welo Data",
-      "externalUrl": "https://jobs.lever.co/weloglobal/32c8c9c5-14af-4336-8399-207993071ff0",
-      "isLive": true
-    },
-    {
       "id": 3855588981,
       "externalId": "c49c1eb2-36f8-488d-ac27-cc920e6435a9",
       "title": "Senior Crude Oil Analyst",
@@ -5864,7 +5833,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 18 أيام",
+      "age": "منذ 19 أيام",
       "publishedAt": "2026-10-14T16:15:47.910Z",
       "skills": [
         "Excel",
@@ -8148,7 +8117,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "security",
-      "age": "منذ 469 أيام",
+      "age": "منذ 470 أيام",
       "publishedAt": "2025-07-20T16:56:05.026Z",
       "skills": [
         "Audit",
