@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T12:37:06.880Z",
+  "generatedAt": "2026-11-02T13:52:59.138Z",
   "total": 306,
   "feeds": 13,
   "jobs": [
@@ -2028,15 +2028,19 @@
       "minSalary": 0,
       "maxSalary": 0,
       "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
+      "minExp": 5,
+      "maxExp": 13,
       "category": "legal",
       "age": "منذ 3 أيام",
       "publishedAt": "2026-10-29T18:19:21.691Z",
       "skills": [
-        "Compliance"
+        "Excel",
+        "Education",
+        "Content",
+        "Compliance",
+        "Translation"
       ],
-      "description": "Park IP, a Welo Global brand, is a global IP solutions partner built for modern intellectual property work. The company enables legal teams to protect intellectual assets with accuracy, clarity, and confidence across jurisdictions. Trusted by Am Law 200 firms and Fortune 500 corporate legal departments, Park IP combines deep IP expertise with AI-powered workflows that reduce risk, improve predictability, and deliver greater visibility and control across the IP lifecycle, from prosecution to litigation and compliance. Its Legal Studio platform strengthens portfolio management through jurisdiction-specific coordination and real-time oversight, while experienced IP professionals remain accountable for quality and judgment. Operating under ISO-aligned quality and security standards, Park IP advances a disciplined and transparent approach to managing intellectual property worldwide. parkip.com",
+      "description": "Park IP, a Welo Global brand, is a global IP solutions partner built for modern intellectual property work. The company enables legal teams to protect intellectual assets with accuracy, clarity, and confidence across jurisdictions. Trusted by Am Law 200 firms and Fortune 500 corporate legal departments, Park IP combines deep IP expertise with AI-powered workflows that reduce risk, improve predictability, and deliver greater visibility and control across the IP lifecycle, from prosecution to litigation and compliance. Its Legal Studio platform strengthens portfolio management through jurisdiction-specific coordination and real-time oversight, while experienced IP professionals remain accountable for quality and judgment. Operating under ISO-aligned quality and security standards, Park IP advances a disciplined and transparent approach to managing intellectual property worldwide. parkip.com Role Overview The Senior Russian Legal Linguist ensures high-quality Russian-language deliverables by managing translation and copy-editing tasks, coordinating with freelancers and agencies, and maintaining key language resources. They handle terminology and style queries, collaborate with clients and internal teams to improve workflows, and support overall quality efforts through editing and error arbitration. Main Responsibilities - Performing copy-editing tasks on assigned projects or accounts - Performing on-demand translation tasks - Performing lead linguist role on assigned accounts - Taking ownership of deliveries that were translated internally or by external partners for one or more accounts into their target language - Preparing, managing, and maintaining language materials—such as glossaries, style guides, and work instructions—to ensure they remain high-quality, accurate, and up to date for each account or project - Managing project-related queries - Ensuring good interaction among team members and resolving questions on terminology and language matters - Coordinating with freelancers, agencies and internal linguists on assigned projects or accounts - Testing and qualifying new freelancers and vendors as required - Developing and training internal linguists, as well as new and existing freelancers, in alignment with account requirements and Welo Global's standards - Interacting with clients on linguistic matters as required - Participating in the development of new and improved working processes. -Propose process improvements. - Meeting or exceeding key performance metrics related to productivity, on-time delivery, and quality - Achieving the goals set by the Team Manager Requirements - Education Level: University degree in Translation, Applied Languages, Linguistics, or a related field — or an equivalent combination of education and experience - Native-level proficiency in Russian - Fluent in English, both written and spoken - 8+ years of relevant experience in translation, localization, editing, or content writing - 5+ years of experience in linguistic review and copy-editing - Thorough understanding of the localization process - Excellent knowledge of terminology used in legal materials (intellectual property, patents, agreements, trademarks, copyright, IP litigation, among others) - Experience serving as a subject-matter expert for assigned content specialties, service lines, and processes - Excellent user experience with standard CAT tools (e.g., XTM, SDL Trados Studio) and with issue-tracking and query-management tools (e.g., JIRA) - Excellent user experience of standard software, such as Windows and Office applications - Ability to learn new localization tools and applications quickly - Ability to give clear, concise and constructive feedback - Ability to coordinate internal and external translators - Excellent interpersonal, written and verbal communication skills - Ability and willingness to train/teach others and pass on knowledge - Ability to work with tight deadlines - Excellent problem solving skills - Ability to effe",
       "source": "Lever · Welo Data",
       "externalUrl": "https://jobs.lever.co/weloglobal/5905d439-7c46-47a0-94f2-0c681210d9ab",
       "isLive": true
@@ -2086,7 +2090,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-29T13:49:59.877Z",
       "skills": [
         "Excel",
@@ -2115,7 +2119,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-29T13:47:41.233Z",
       "skills": [
         "Excel",
@@ -2144,7 +2148,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-29T13:46:41.836Z",
       "skills": [
         "Excel",
@@ -2173,7 +2177,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-29T13:29:38.124Z",
       "skills": [
         "Excel",
@@ -2203,7 +2207,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-29T13:25:55.732Z",
       "skills": [
         "Excel",
@@ -2233,7 +2237,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-29T13:24:38.130Z",
       "skills": [
         "Excel",
@@ -4100,7 +4104,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-27T12:52:45.199Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5020,7 +5024,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-26T13:44:51.291Z",
       "skills": [
         "React",
@@ -5050,7 +5054,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-26T13:42:23.929Z",
       "skills": [
         "React",
@@ -5080,7 +5084,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-26T13:41:09.450Z",
       "skills": [
         "React",
@@ -5982,7 +5986,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 24 أيام",
+      "age": "منذ 25 أيام",
       "publishedAt": "2026-10-08T13:52:32.927Z",
       "skills": [
         "SAP",
@@ -6013,7 +6017,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 24 أيام",
+      "age": "منذ 25 أيام",
       "publishedAt": "2026-10-08T13:36:09.377Z",
       "skills": [
         "Audit",
@@ -6071,7 +6075,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "marketing",
-      "age": "منذ 25 أيام",
+      "age": "منذ 26 أيام",
       "publishedAt": "2026-10-07T13:32:46.237Z",
       "skills": [
         "Audit",
@@ -6519,7 +6523,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 46 أيام",
+      "age": "منذ 47 أيام",
       "publishedAt": "2026-09-16T12:38:30.005Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6626,7 +6630,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 53 أيام",
+      "age": "منذ 54 أيام",
       "publishedAt": "2026-09-09T12:47:08.145Z",
       "skills": [
         "SAP"
@@ -6651,7 +6655,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 53 أيام",
+      "age": "منذ 54 أيام",
       "publishedAt": "2026-09-09T12:45:38.447Z",
       "skills": [
         "SAP"
@@ -7523,7 +7527,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "translation",
-      "age": "منذ 116 أيام",
+      "age": "منذ 117 أيام",
       "publishedAt": "2026-07-08T12:41:35.292Z",
       "skills": [
         "Excel",
@@ -7803,7 +7807,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 214 أيام",
+      "age": "منذ 215 أيام",
       "publishedAt": "2026-04-01T13:34:53.536Z",
       "skills": [
         "Research",
@@ -8171,7 +8175,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 473 أيام",
+      "age": "منذ 474 أيام",
       "publishedAt": "2025-07-16T12:45:37.544Z",
       "skills": [
         "Excel",
@@ -8198,7 +8202,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 473 أيام",
+      "age": "منذ 474 أيام",
       "publishedAt": "2025-07-16T12:38:56.781Z",
       "skills": [
         "Excel",
