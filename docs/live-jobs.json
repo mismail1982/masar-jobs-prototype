@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-03T10:04:12.996Z",
-  "total": 296,
+  "generatedAt": "2026-11-03T11:05:00.957Z",
+  "total": 295,
   "feeds": 13,
   "jobs": [
     {
@@ -1092,7 +1092,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:31:42.273Z",
       "skills": [
         "Python",
@@ -1123,7 +1123,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:29:07.006Z",
       "skills": [
         "Insurance",
@@ -1151,7 +1151,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:26:31.313Z",
       "skills": [
         "Excel",
@@ -1181,7 +1181,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:22:48.259Z",
       "skills": [
         "Excel",
@@ -1209,7 +1209,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:22:17.294Z",
       "skills": [
         "Excel",
@@ -1237,7 +1237,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:20:55.471Z",
       "skills": [
         "Excel",
@@ -1265,7 +1265,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:16:09.067Z",
       "skills": [
         "Excel",
@@ -1291,7 +1291,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:15:35.091Z",
       "skills": [
         "Excel",
@@ -1317,7 +1317,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:14:19.580Z",
       "skills": [
         "Excel",
@@ -1343,7 +1343,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:06:59.030Z",
       "skills": [
         "SQL",
@@ -1371,7 +1371,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:06:28.343Z",
       "skills": [
         "SQL",
@@ -1399,7 +1399,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T10:05:05.417Z",
       "skills": [
         "SQL",
@@ -1902,7 +1902,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T10:50:15.136Z",
       "skills": [
         "Excel",
@@ -1931,7 +1931,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T10:12:00.542Z",
       "skills": [
         "Excel",
@@ -1957,7 +1957,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T10:09:16.120Z",
       "skills": [
         "Excel",
@@ -1983,7 +1983,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T10:08:32.503Z",
       "skills": [
         "Excel",
@@ -3080,7 +3080,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T10:56:13.461Z",
       "skills": [
         "Excel",
@@ -3108,7 +3108,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T10:52:51.085Z",
       "skills": [
         "Excel",
@@ -3136,7 +3136,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T10:52:00.909Z",
       "skills": [
         "Excel",
@@ -3164,7 +3164,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T10:50:46.515Z",
       "skills": [
         "Sales",
@@ -3190,7 +3190,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T10:29:06.956Z",
       "skills": [
         "Excel",
@@ -4179,7 +4179,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T10:56:15.007Z",
       "skills": [
         "Excel",
@@ -4206,7 +4206,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T10:55:11.425Z",
       "skills": [
         "Excel",
@@ -4233,7 +4233,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T10:41:18.608Z",
       "skills": [
         "Excel",
@@ -4264,7 +4264,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T10:38:56.694Z",
       "skills": [
         "Excel",
@@ -4295,7 +4295,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T10:38:04.959Z",
       "skills": [
         "Excel",
@@ -4837,7 +4837,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T11:05:00.866Z",
       "skills": [
         "Insurance",
@@ -4864,7 +4864,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T11:02:27.860Z",
       "skills": [
         "Insurance",
@@ -4891,7 +4891,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T11:01:29.730Z",
       "skills": [
         "Insurance",
@@ -6471,7 +6471,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 54 أيام",
+      "age": "منذ 55 أيام",
       "publishedAt": "2026-09-09T10:47:54.392Z",
       "skills": [
         "SAP"
@@ -6496,7 +6496,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 54 أيام",
+      "age": "منذ 55 أيام",
       "publishedAt": "2026-09-09T10:42:51.771Z",
       "skills": [
         "SAP"
@@ -7245,35 +7245,6 @@
       "isLive": true
     },
     {
-      "id": 3200664310,
-      "externalId": "25bca37d-e73b-4899-8148-c2c2f3b11a92",
-      "title": "General Accountant",
-      "company": "Flow",
-      "country": "السعودية",
-      "region": "Riyadh, Saudi Arabia",
-      "location": "الرياض",
-      "mode": "حضوري",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 1,
-      "maxExp": 3,
-      "category": "finance",
-      "age": "منذ 119 أيام",
-      "publishedAt": "2026-07-07T09:48:44.621Z",
-      "skills": [
-        "Excel",
-        "IFRS",
-        "Accounting",
-        "Finance",
-        "Operations"
-      ],
-      "description": "About the Company At Flow, we’re reimagining what it means to live, work, and connect. More than just a real estate company, Flow is a brand, a technology platform, and an operations ecosystem spanning condominiums, hotels, multifamily residences, and office spaces. We’re building a new kind of living experience: one that’s flexible, connected, and designed to create genuine community and real value for the people who call Flow home. Our mission is oneness: prioritizing our residents and their experiences, and fostering connection with ourselves, their neighbors, and the natural world. By putting people at the center of everything we do, we’re creating vibrant, human-centered communities where life, work, creativity, and play all come together in one place. Role Summary: The General Accountant is responsible for processing daily accounting transactions, maintaining accurate financial records, and supporting routine reconciliation activities across Flow's KSA property portfolio. This role assists the Senior Accountant and Financial Controller in ensuring timely and accurate financial reporting. Key Responsibilities: Process vendor invoices with appropriate supporting documentation. Ensure all vendor invoices comply with ZATCA e-invoicing requirements before posting. prepare weekly payment runs. Reconcile the AP sub-ledger to the general ledger monthly and maintain accurate, up-to-date vendor records. Issue tenant and customer invoices accurately and on time, with complete supporting documentation. Record and apply incoming payments to the appropriate customer accounts. Coordinate with the Leasing, Operations, and Legal teams to support collection efforts and facilitate the resolution of overdue balances. Reconcile the AR sub-ledger to the general ledger on a monthly basis and resolve any discrepancies. Record daily journal entries, bank transactions, and month-end accruals. Perform bank reconciliations and assist with monthly balance sheet account reconciliations. Support the month-end close by ensuring all transactions are accurately recorded and the financial records are complete. Requirements: Bachelor's degree in Accounting, Finance, or a related field. 1–3 years of general accounting experience; experience in real estate or property management is a plus. Basic knowledge of IFRS principles and Saudi Arabian VAT and ZATCA regulations. Proficient in Excel, with experience in data entry, reconciliations, and basic financial reporting. Strong communication skills in both English and Arabic.",
-      "source": "Lever · Flow",
-      "externalUrl": "https://jobs.lever.co/flowlife/25bca37d-e73b-4899-8148-c2c2f3b11a92",
-      "isLive": true
-    },
-    {
       "id": 1894443824,
       "externalId": "7b14d503-e5e0-4c1d-ab94-73ea769c8bc4",
       "title": "Freelance Patent Linguists | English into Romanian - Biology",
@@ -7368,7 +7339,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 172 أيام",
+      "age": "منذ 173 أيام",
       "publishedAt": "2026-05-14T10:28:50.593Z",
       "skills": [
         "Finance",
@@ -7769,7 +7740,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 363 أيام",
+      "age": "منذ 364 أيام",
       "publishedAt": "2025-11-04T10:29:24.468Z",
       "skills": [
         "AutoCAD",
@@ -7797,7 +7768,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "security",
-      "age": "منذ 399 أيام",
+      "age": "منذ 400 أيام",
       "publishedAt": "2025-09-29T10:53:59.334Z",
       "skills": [
         "Excel",
@@ -7958,7 +7929,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 538 أيام",
+      "age": "منذ 539 أيام",
       "publishedAt": "2025-05-13T10:50:29.522Z",
       "skills": [
         "Customer Service",
