@@ -1,12 +1,90 @@
 {
-  "generatedAt": "2026-11-03T09:02:23.044Z",
-  "total": 295,
+  "generatedAt": "2026-11-03T10:04:12.996Z",
+  "total": 296,
   "feeds": 13,
   "jobs": [
     {
+      "id": 1709751622,
+      "externalId": "e4dff00f-e7e2-4a0e-ac62-6784ffb65395",
+      "title": "Technical Lead (Ruby on Rails, AI-Native)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T09:48:50.814Z",
+      "skills": [
+        "Excel",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Establish and maintain a strong engineering culture, defining how the development team collaborates, communicates, and approaches technical challenges. Set and uphold technical standards for code quality, maintainability, reliability, and consistency across the development environment. Champion AI-native software development practices, ensuring developers use tools such as Cursor and Claude Code effectively and responsibly throughout the engineering lifecycle. Provide technical leadership and mentorship to a team of four developers, supporting their professional growth, problem-solving abilities, and engineering performance. Guide architectural and technical decisions, applying sound engineering judgment to ensure solutions are scalable, maintainable, and aligned with business objectives. Review AI-assisted development workflows and outputs, maintaining high standards for code quality, testing, security, and production readiness. Establish clear development processes, coding conventions, review practices, and collaboration standards to ensure consistency across a distributed team. Support knowledge sharing and communication across developers working in different countries and time zones, fostering accountability and team cohesion. Work closely with company leadership to take ownership of engineering culture and technical team development, allowing leadership to focus on broader business priorities. Promote continuous improvement by identifying opportunities to strengthen engineering workflows, developer productivity, and the effective adoption of emerging AI technologies. Requirements: At least 8 years of professional experience building, maintaining, and delivering production software systems. Strong professional experience with Ruby on Rails, including at least 6 years of production-level experience. Previous experience leading or mentoring a small engineering team, with the ability to establish standards, guide developers, and encourage strong technical practices. Excellent technical judgment and deep code-review capabilities, with the ability to assess architectural decisions, identify weaknesses, and maintain high engineering standards. Daily hands-on experience with AI-native development tools, particularly Cursor and Claude Code, including familiarity with plan mode and AI-assisted coding workflows. Strong understanding of how to integrate AI-powered tools into software development while maintaining code quality, reliability, maintainability, and appropriate engineering oversight. Ability to define and implement technical standards, development processes, and collaborative practices that improve consistency and team performance. Experience working in remote-first, geographically distributed teams, with the ability to coordinate effectively across multiple countries and time zones. Strong communication, mentoring, and interpersonal skills, with the ability to provide constructive feedback and build trust within a distributed engineering team. A proactive, ownership-oriented mindset, with the confidence to make technical decisions, resolve challenges, and establish a cohesive engineering culture. Ability to work independently and effectively within a part-time arrangement of approximately 4–5 hours per day, Monday through Friday. Excellent internet connectivity and flexibility to attend occasional meetings aligned with UK business needs. Working UK hours is not required. Legal authorization to work in your current country of residence. Benefits: Competitive part-time compensation (50% time commitment): UK-based candidates: £42,500–£57,500 per year. Poland-based candidates: €52,000–€71,000 per year. LATAM-based candidates (Colombia, Argentina, Brazil): $43,000–$57,000 USD per year. Candidates based in other locations: Compensation open to discussion. Fully remote, globally distributed working environment. Flexible part-time schedule of approximately 4–5 hours per day, Monday through Friday. Opportunity to",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/e4dff00f-e7e2-4a0e-ac62-6784ffb65395",
+      "isLive": true
+    },
+    {
+      "id": 1271073790,
+      "externalId": "3af3bbb2-3646-4a73-9d9f-bf2c0b8fb89f",
+      "title": "Technical Lead (Ruby on Rails, AI-Native)",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T09:46:31.479Z",
+      "skills": [
+        "Excel",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Establish and maintain a strong engineering culture, defining how the development team collaborates, communicates, and approaches technical challenges. Set and uphold technical standards for code quality, maintainability, reliability, and consistency across the development environment. Champion AI-native software development practices, ensuring developers use tools such as Cursor and Claude Code effectively and responsibly throughout the engineering lifecycle. Provide technical leadership and mentorship to a team of four developers, supporting their professional growth, problem-solving abilities, and engineering performance. Guide architectural and technical decisions, applying sound engineering judgment to ensure solutions are scalable, maintainable, and aligned with business objectives. Review AI-assisted development workflows and outputs, maintaining high standards for code quality, testing, security, and production readiness. Establish clear development processes, coding conventions, review practices, and collaboration standards to ensure consistency across a distributed team. Support knowledge sharing and communication across developers working in different countries and time zones, fostering accountability and team cohesion. Work closely with company leadership to take ownership of engineering culture and technical team development, allowing leadership to focus on broader business priorities. Promote continuous improvement by identifying opportunities to strengthen engineering workflows, developer productivity, and the effective adoption of emerging AI technologies. Requirements: At least 8 years of professional experience building, maintaining, and delivering production software systems. Strong professional experience with Ruby on Rails, including at least 6 years of production-level experience. Previous experience leading or mentoring a small engineering team, with the ability to establish standards, guide developers, and encourage strong technical practices. Excellent technical judgment and deep code-review capabilities, with the ability to assess architectural decisions, identify weaknesses, and maintain high engineering standards. Daily hands-on experience with AI-native development tools, particularly Cursor and Claude Code, including familiarity with plan mode and AI-assisted coding workflows. Strong understanding of how to integrate AI-powered tools into software development while maintaining code quality, reliability, maintainability, and appropriate engineering oversight. Ability to define and implement technical standards, development processes, and collaborative practices that improve consistency and team performance. Experience working in remote-first, geographically distributed teams, with the ability to coordinate effectively across multiple countries and time zones. Strong communication, mentoring, and interpersonal skills, with the ability to provide constructive feedback and build trust within a distributed engineering team. A proactive, ownership-oriented mindset, with the confidence to make technical decisions, resolve challenges, and establish a cohesive engineering culture. Ability to work independently and effectively within a part-time arrangement of approximately 4–5 hours per day, Monday through Friday. Excellent internet connectivity and flexibility to attend occasional meetings aligned with UK business needs. Working UK hours is not required. Legal authorization to work in your current country of residence. Benefits: Competitive part-time compensation (50% time commitment): UK-based candidates: £42,500–£57,500 per year. Poland-based candidates: €52,000–€71,000 per year. LATAM-based candidates (Colombia, Argentina, Brazil): $43,000–$57,000 USD per year. Candidates based in other locations: Compensation open to discussion. Fully remote, globally distributed working environment. Flexible part-time schedule of approximately 4–5 hours per day, Monday through Friday. Opportunity to",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/3af3bbb2-3646-4a73-9d9f-bf2c0b8fb89f",
+      "isLive": true
+    },
+    {
+      "id": 1123996051,
+      "externalId": "03d5b48c-370d-45fb-bbab-7310537eaa4b",
+      "title": "Technical Lead (Ruby on Rails, AI-Native)",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T09:45:20.375Z",
+      "skills": [
+        "Excel",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Establish and maintain a strong engineering culture, defining how the development team collaborates, communicates, and approaches technical challenges. Set and uphold technical standards for code quality, maintainability, reliability, and consistency across the development environment. Champion AI-native software development practices, ensuring developers use tools such as Cursor and Claude Code effectively and responsibly throughout the engineering lifecycle. Provide technical leadership and mentorship to a team of four developers, supporting their professional growth, problem-solving abilities, and engineering performance. Guide architectural and technical decisions, applying sound engineering judgment to ensure solutions are scalable, maintainable, and aligned with business objectives. Review AI-assisted development workflows and outputs, maintaining high standards for code quality, testing, security, and production readiness. Establish clear development processes, coding conventions, review practices, and collaboration standards to ensure consistency across a distributed team. Support knowledge sharing and communication across developers working in different countries and time zones, fostering accountability and team cohesion. Work closely with company leadership to take ownership of engineering culture and technical team development, allowing leadership to focus on broader business priorities. Promote continuous improvement by identifying opportunities to strengthen engineering workflows, developer productivity, and the effective adoption of emerging AI technologies. Requirements: At least 8 years of professional experience building, maintaining, and delivering production software systems. Strong professional experience with Ruby on Rails, including at least 6 years of production-level experience. Previous experience leading or mentoring a small engineering team, with the ability to establish standards, guide developers, and encourage strong technical practices. Excellent technical judgment and deep code-review capabilities, with the ability to assess architectural decisions, identify weaknesses, and maintain high engineering standards. Daily hands-on experience with AI-native development tools, particularly Cursor and Claude Code, including familiarity with plan mode and AI-assisted coding workflows. Strong understanding of how to integrate AI-powered tools into software development while maintaining code quality, reliability, maintainability, and appropriate engineering oversight. Ability to define and implement technical standards, development processes, and collaborative practices that improve consistency and team performance. Experience working in remote-first, geographically distributed teams, with the ability to coordinate effectively across multiple countries and time zones. Strong communication, mentoring, and interpersonal skills, with the ability to provide constructive feedback and build trust within a distributed engineering team. A proactive, ownership-oriented mindset, with the confidence to make technical decisions, resolve challenges, and establish a cohesive engineering culture. Ability to work independently and effectively within a part-time arrangement of approximately 4–5 hours per day, Monday through Friday. Excellent internet connectivity and flexibility to attend occasional meetings aligned with UK business needs. Working UK hours is not required. Legal authorization to work in your current country of residence. Benefits: Competitive part-time compensation (50% time commitment): UK-based candidates: £42,500–£57,500 per year. Poland-based candidates: €52,000–€71,000 per year. LATAM-based candidates (Colombia, Argentina, Brazil): $43,000–$57,000 USD per year. Candidates based in other locations: Compensation open to discussion. Fully remote, globally distributed working environment. Flexible part-time schedule of approximately 4–5 hours per day, Monday through Friday. Opportunity to",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/03d5b48c-370d-45fb-bbab-7310537eaa4b",
+      "isLive": true
+    },
+    {
       "id": 2002923274,
       "externalId": "e2cfd8d9-43e5-4448-8732-01c7f98dade1",
-      "title": "Senior Product Manager, Core Product (Remote from Romania)",
+      "title": "Senior Product Manager, Core Product",
       "company": "Jobgether Partners",
       "country": "عُمان",
       "region": "Romania",
@@ -29,7 +107,7 @@
         "Operations",
         "Hospitality"
       ],
-      "description": "Accountabilities: Define and drive the product vision, strategy, and roadmap for the core product domain, with primary ownership of pricing and availability and responsibility for the related listing management experience. Lead product development across interconnected workflows that enable professional property managers to manage rates, availability, booking restrictions, stay rules, and listing content. Prioritize product initiatives based on customer needs, business objectives, market opportunities, and measurable impact on customer performance and revenue. Simplify complex product experiences and workflows, ensuring customers can manage their properties and distribution channels confidently and efficiently. Collaborate closely with Engineering, Design, Data, and channel integration teams to translate product opportunities into clear requirements, prototypes, and successful product releases. Drive continuous product discovery through customer research, stakeholder interviews, data analysis, and experimentation to identify opportunities and validate solutions. Use AI-powered tools and coding assistants to accelerate product development, moving ideas from initial concepts and prototypes to functional solutions and shipped features. Work alongside engineers throughout implementation, providing product direction, validating technical approaches, and ensuring solutions meet customer and business expectations. Navigate complex technical dependencies and differences between external booking platforms, ensuring consistent and reliable product behavior across integrations. Make informed product trade-offs, address long-standing customer challenges, and continuously improve the usability, reliability, and performance of the core platform. Monitor product performance and customer feedback to identify improvement opportunities and ensure delivered solutions create meaningful business value. Requirements: At least 5 years of product management experience in B2B software or SaaS environments, preferably working on products used daily by professional customers. Demonstrated experience owning and developing a broad product area involving multiple interconnected features, workflows, and technical dependencies rather than managing isolated features. Proven ability to simplify complex systems and deliver intuitive, reliable user experiences, particularly in environments involving third-party platforms, integrations, and varying external requirements. Practical experience using AI as part of everyday product development, including familiarity with AI coding tools and the ability to transform ideas into clickable or functional prototypes. A hands-on product mindset, with enthusiasm for taking ownership beyond traditional product specifications and actively contributing to the development and delivery process. Strong technical understanding and the ability to collaborate effectively with engineering teams on APIs, integrations, system architecture, and technical constraints, without necessarily building these systems independently. Experience conducting continuous product discovery, including customer research, problem validation, opportunity assessment, and iterative solution development. Strong commercial awareness and the ability to connect product decisions with customer outcomes, business performance, and strategic priorities. Excellent analytical and problem-solving skills, with sound judgment when evaluating competing priorities, managing trade-offs, and making decisions in complex product environments. Resilience and ownership, particularly when addressing long-standing product challenges and improving systems that customers rely on for their daily operations. Strong communication and collaboration skills, with the ability to align cross-functional stakeholders and influence product decisions across distributed teams. Physical presence within the EMEA region is required to ensure effective collaboration with colleagues, peers, and intern",
+      "description": "This position is listed on behalf of a partner company, which manages all applications and next steps. Our partner is looking for a Senior Product Manager, Core Product based in Romania. We are looking for a commercially minded and technically skilled Senior Product Manager to lead the strategy and development of a core product domain within a fast-growing, AI-powered SaaS environment. In this role, you will own the vision, roadmap, and execution of essential product experiences covering pricing, availability, and listing management. Your work will directly influence how professional property managers optimize their revenue, manage reservations, and distribute their listings across multiple booking channels. Working closely with Engineering, Design, Data, and integration teams, you will simplify complex workflows and deliver reliable, intuitive solutions. You will also embrace AI-powered development tools to take ideas from discovery and prototyping through to product delivery. This is an exciting opportunity to shape a business-critical platform while working remotely within a diverse, international team across the EMEA region. Accountabilities: Define and drive the product vision, strategy, and roadmap for the core product domain, with primary ownership of pricing and availability and responsibility for the related listing management experience. Lead product development across interconnected workflows that enable professional property managers to manage rates, availability, booking restrictions, stay rules, and listing content. Prioritize product initiatives based on customer needs, business objectives, market opportunities, and measurable impact on customer performance and revenue. Simplify complex product experiences and workflows, ensuring customers can manage their properties and distribution channels confidently and efficiently. Collaborate closely with Engineering, Design, Data, and channel integration teams to translate product opportunities into clear requirements, prototypes, and successful product releases. Drive continuous product discovery through customer research, stakeholder interviews, data analysis, and experimentation to identify opportunities and validate solutions. Use AI-powered tools and coding assistants to accelerate product development, moving ideas from initial concepts and prototypes to functional solutions and shipped features. Work alongside engineers throughout implementation, providing product direction, validating technical approaches, and ensuring solutions meet customer and business expectations. Navigate complex technical dependencies and differences between external booking platforms, ensuring consistent and reliable product behavior across integrations. Make informed product trade-offs, address long-standing customer challenges, and continuously improve the usability, reliability, and performance of the core platform. Monitor product performance and customer feedback to identify improvement opportunities and ensure delivered solutions create meaningful business value. Requirements: At least 5 years of product management experience in B2B software or SaaS environments, preferably working on products used daily by professional customers. Demonstrated experience owning and developing a broad product area involving multiple interconnected features, workflows, and technical dependencies rather than managing isolated features. Proven ability to simplify complex systems and deliver intuitive, reliable user experiences, particularly in environments involving third-party platforms, integrations, and varying external requirements. Practical experience using AI as part of everyday product development, including familiarity with AI coding tools and the ability to transform ideas into clickable or functional prototypes. A hands-on product mindset, with enthusiasm for taking ownership beyond traditional product specifications and actively contributing to the development and delivery process. Strong tec",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/e2cfd8d9-43e5-4448-8732-01c7f98dade1",
       "isLive": true
@@ -1931,7 +2009,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T09:55:15.360Z",
       "skills": [
         "Excel",
@@ -1957,7 +2035,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T09:52:36.335Z",
       "skills": [
         "Excel",
@@ -1983,7 +2061,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T09:51:28.047Z",
       "skills": [
         "Excel",
@@ -2009,7 +2087,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T09:40:14.326Z",
       "skills": [
         "Marketing"
@@ -2034,7 +2112,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T09:38:32.858Z",
       "skills": [
         "Marketing"
@@ -2059,7 +2137,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T09:37:38.406Z",
       "skills": [
         "Marketing"
@@ -4248,7 +4326,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T10:00:42.776Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -4273,7 +4351,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T09:58:33.285Z",
       "skills": [
         "Excel",
@@ -4840,7 +4918,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T09:39:52.673Z",
       "skills": [
         "SAP",
@@ -4868,7 +4946,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T09:39:01.352Z",
       "skills": [
         "SAP",
@@ -4896,7 +4974,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T09:36:54.286Z",
       "skills": [
         "SAP",
@@ -5458,7 +5536,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "energy",
-      "age": "منذ 11 أيام",
+      "age": "منذ 12 أيام",
       "publishedAt": "2026-10-22T09:11:56.331Z",
       "skills": [
         "Python",
@@ -5920,7 +5998,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 39 أيام",
+      "age": "منذ 40 أيام",
       "publishedAt": "2026-09-24T09:23:39.128Z",
       "skills": [
         "Content"
@@ -5945,7 +6023,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 39 أيام",
+      "age": "منذ 40 أيام",
       "publishedAt": "2026-09-24T09:19:29.053Z",
       "skills": [
         "Content"
@@ -6099,7 +6177,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "sales",
-      "age": "منذ 46 أيام",
+      "age": "منذ 47 أيام",
       "publishedAt": "2026-09-17T09:43:16.238Z",
       "skills": [
         "Sales",
@@ -6645,34 +6723,6 @@
       "isLive": true
     },
     {
-      "id": 4241441557,
-      "externalId": "a5108693-144a-40b6-96cc-a8ce159592df",
-      "title": "Korean Linguist - English to Korean",
-      "company": "Welo Data",
-      "country": "عُمان",
-      "region": "Japan / Spain / Romania",
-      "location": "Japan / Spain / Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 4,
-      "maxExp": 12,
-      "category": "translation",
-      "age": "منذ 62 أيام",
-      "publishedAt": "2026-09-01T09:18:41.208Z",
-      "skills": [
-        "Excel",
-        "Education",
-        "Content",
-        "Translation"
-      ],
-      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. Welocalize’s Opal Platform comprises patented technology designed to automate multilingual content and improve workflow performance for enterprises. Opal functions as an agentic system that orchestrates AI, automation, and human expertise to coordinate content workflows across the lifecycle, improving speed, scalability, and operational control for global enterprises. These solutions operate within a secure and compliant environment supported by seven ISO certifications. Welocalize is headquartered in New York with offices worldwide. welocalize.com Job Description Summary This role involves managing translation and copy-editing tasks, ensuring high-quality linguistic deliverables for assigned projects or accounts. Responsibilities include coordinating with freelancers and agencies, maintaining language resources, resolving terminology queries, and collaborating with clients and internal teams to enhance workflow efficiency.Job Reference: #LI-JC1 The following is a non-exhaustive list of responsibilities and areas of ownership for this role: Performing copy-edit tasks on assigned projects or accounts Performing on-demand translation tasks Performing lead support on assigned projects or accounts Managing and maintaining the language materials (including glossaries, Style Guides, work instruction) up to the quality standards and up to date as required by the account or project Managing project-related queries Ensuring good interaction among team members and resolving questions on terminology and language matters Testing and qualifying new freelancers and vendors as required Developing and training of internal linguists and external partners according to the accounts’ and Welocalize’s needs Interacting with clients on linguistic matters as required Participating in the development of new and improved working processes Meet or exceed the KPIs in terms of productivity, on time delivery, quality Achieving the goals set by the team manager Additional Job Details: REQUIREMENTS Education Level University degree in Translation/Applied Languages/Linguistic Studies or equivalent combination of education and experience (University degree in other fields plus 2 years of full time experience in translation; OR 5 years of full time professional experience in translating) Experience and Skills Native fluency in Korean language Fluency in English, both written and spoken, in a variety of registers 4+ years of experience in translation/localization/editing or content writing 2+ years of review experience Thorough understanding of the localization process Good user experience of standard software, such as Windows and Office applications Good user experience of standard CAT tools, e.g. XTM, SDL Studio and issue tracking and query management tools, e.g. JIRA Ability to learn new localization tools and applications quickly Excellent interpersonal, written and verbal communication skills Excellent knowledge of terminology used in two or more subject matters Ability to work with tight deadlines Ability to give clear, concise and constructive feedback Ability to effectively present information and respond to questions from groups of managers, clients, customers, linguists Ability to solve practical problems and deal with a variety of concrete variables in situations where only limited standardization exists. Ability to interpret a variety of instructions furnished in written, oral, diagram, or schedule form. Ability and willingness to train/teach others and pass on knowledge Ability, willingness and experience in communicating positively with customers at various levels Ability to work wi",
-      "source": "Lever · Welo Data",
-      "externalUrl": "https://jobs.lever.co/weloglobal/a5108693-144a-40b6-96cc-a8ce159592df",
-      "isLive": true
-    },
-    {
       "id": 2624699007,
       "externalId": "e0c82338-d639-4023-be3b-b18756449ba6",
       "title": "Vice President - Organization Development",
@@ -6852,7 +6902,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 75 أيام",
+      "age": "منذ 76 أيام",
       "publishedAt": "2026-08-19T09:20:20.297Z",
       "skills": [
         "Excel",
@@ -6865,34 +6915,6 @@
       "description": "Binance is a leading global blockchain ecosystem behind the world’s largest cryptocurrency exchange by trading volume and registered users. We are trusted by 300+ million people in 100+ countries for our industry-leading security, user fund transparency, trading engine speed, deep liquidity, and an unmatched portfolio of digital-asset products. Binance offerings range from trading and finance to education, research, payments, institutional services, Web3 features, and more. We leverage the power of digital assets and blockchain to build an inclusive financial ecosystem to advance the freedom of money and improve financial access for people around the world. Responsibilities : Act as a key point of contact for law enforcement agencies and relevant government authorities across the UAE, including Dubai Police and other local law enforcement bodies. Receive, assess and coordinate responses to requests for user, transaction and other information from authorised law enforcement agencies, ensuring requests are handled in accordance with applicable legal and regulatory requirements. Establish and maintain strong, professional relationships with UAE law enforcement agencies, regulators and government stakeholders. Work closely with internal Legal, Compliance, Investigations, Security, Risk and Operations teams to assess requests, obtain relevant information and coordinate timely responses. Review and validate law enforcement requests to ensure they contain the appropriate information and legal basis required for Binance to respond. Coordinate the collection, preservation and secure disclosure of relevant information and data in response to valid requests. Maintain accurate records of law enforcement requests, responses, correspondence and relevant case information. Support investigations involving fraud, financial crime, money laundering, sanctions, cybercrime and other illicit activity where Binance's assistance is requested by authorised authorities. Identify trends, recurring issues and emerging risks from law enforcement requests and share relevant insights with internal stakeholders. Support the development and improvement of processes, procedures and guidance for managing law enforcement requests in the UAE. Help educate and advise internal teams on UAE law enforcement engagement, information requests and appropriate response processes. Ensure all interactions and disclosures are handled with a high degree of confidentiality, professionalism and discretion. Stay up to date with relevant UAE laws, regulations, law enforcement practices and developments affecting digital assets and cryptocurrency. Requirements: Experience working with UAE law enforcement agencies, regulators or government authorities, ideally in a role involving information requests, investigations or financial crime. Strong understanding of the UAE law enforcement and regulatory environment, with existing relationships or experience engaging with Dubai Police and/or other UAE authorities highly desirable. Experience handling requests for information, subpoenas, production orders, court orders or similar legal/government requests. Background in law enforcement, government, financial crime, compliance, investigations, legal or a related field. Strong understanding of AML, financial crime, fraud, cybercrime or cryptocurrency-related investigations is highly desirable. Experience working with sensitive, confidential and potentially high-risk information. Strong stakeholder management and communication skills, with the ability to work effectively with both government authorities and internal cross-functional teams. Excellent organisational skills and the ability to manage multiple requests and cases simultaneously while working to tight deadlines. Strong attention to detail and sound judgement when assessing sensitive requests and information. Fluency in English and Arabic is required. Experience in the cryptocurrency, digital asset, fintech or financial services indu",
       "source": "Lever · Binance",
       "externalUrl": "https://jobs.lever.co/binance/bf012429-3399-482d-80ad-0fb398575510",
-      "isLive": true
-    },
-    {
-      "id": 832273169,
-      "externalId": "19cc1244-6409-4fb8-b83a-2ac41ba0d526",
-      "title": "Senior Analyst, Real Estate",
-      "company": "Flow",
-      "country": "الإمارات",
-      "region": "Dubai",
-      "location": "دبي",
-      "mode": "حضوري",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 5,
-      "maxExp": 13,
-      "category": "realestate",
-      "age": "منذ 76 أيام",
-      "publishedAt": "2026-08-19T08:03:16.333Z",
-      "skills": [
-        "Excel",
-        "Finance",
-        "Operations",
-        "Hospitality"
-      ],
-      "description": "About the Company At Flow, we’re reimagining what it means to live, work, and connect. More than just a real estate company, Flow is a brand, a technology platform, and an operations ecosystem spanning condominiums, hotels, multifamily residences, and office spaces. We’re building a new kind of living experience: one that’s flexible, connected, and designed to create genuine community and real value for the people who call Flow home. Our mission is oneness: prioritizing our residents and their experiences, and fostering connection with ourselves, their neighbors, and the natural world. By putting people at the center of everything we do, we’re creating vibrant, human-centered communities where life, work, creativity, and play all come together in one place. About the Role: The Senior Analyst, Real Estate will support the origination, underwriting, structuring, and execution of third-party management agreements and acquisitions. The role will evaluate owner and asset opportunities where Flow can operate under its brand and platform, similar to a hotel flag or management model, with a focus on financial analysis, feasibility, commercial terms, due diligence, and deal execution across multifamily and hospitality-led opportunities. Key Responsibilities : Underwriting: Build and maintain financial models for prospective management agreements, including property performance, management fee streams, ramp-up assumptions, and Flow-level economics. Conduct sensitivities to assess risk and commercial attractiveness. Asset & Owner Opportunity Evaluation: Underwrite prospective assets and owner partnerships for operational fit, financial viability, brand suitability, and value creation potential. Analyze operating statements, unit mix, occupancy, pricing, and historical performance where available. Market & Feasibility Analysis: Assess supply and demand, rental or room rates, competitive positioning, development pipelines, customer segments, and operating benchmarks. Translate findings into clear recommendations on whether and how Flow should pursue an opportunity. Management Agreement Structuring: Support the structuring and negotiation of management agreements, including base and incentive fees, pre-opening or technical service fees, term, performance tests, owner obligations, termination rights, exclusivity, and brand standards. Deal Materials & Approvals: Prepare deal summaries, financial analyses, presentations, and approval memoranda for senior management, clearly articulating the strategic rationale, economics, key risks, negotiation points, and recommended position. Due Diligence & Deal Execution: Coordinate financial, operational, legal, technical, and commercial diligence with internal teams, owners, advisors, and counterparties. Support opportunities from initial assessment through term sheet, contract execution, and handover to pre-opening or operations. Pipeline & Performance Support: Track the management agreement pipeline, including deal status, expected openings, fee potential, and key milestones. Review signed and operating deals against underwriting to improve future assumptions. Background & Experience : Bachelor’s degree in Finance, Real Estate, Economics, or a related field. Minimum 5 years of experience in real estate, hospitality, development, investment, strategy, or related roles, with strong financial analysis and underwriting experience. Strong proficiency in Excel, particularly in building complex financial models. Strong understanding of real estate and operating metrics, including NOI, margins, occupancy, ADR/rental rates, RevPAR where relevant, and management fee economics. Knowledge of third-party operating models, hospitality-style management agreements, and owner-operator commercial structures. Experience evaluating, structuring, or negotiating management agreements, franchise or flag arrangements, operating partnerships, or similar transactions is strongly preferred. Experience in multifamily, hospitality",
-      "source": "Lever · Flow",
-      "externalUrl": "https://jobs.lever.co/flowlife/19cc1244-6409-4fb8-b83a-2ac41ba0d526",
       "isLive": true
     },
     {
@@ -7237,7 +7259,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "finance",
-      "age": "منذ 118 أيام",
+      "age": "منذ 119 أيام",
       "publishedAt": "2026-07-07T09:48:44.621Z",
       "skills": [
         "Excel",
@@ -7266,7 +7288,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 118 أيام",
+      "age": "منذ 119 أيام",
       "publishedAt": "2026-07-07T09:06:51.302Z",
       "skills": [
         "Content",
@@ -7458,7 +7480,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 210 أيام",
+      "age": "منذ 211 أيام",
       "publishedAt": "2026-04-06T09:05:43.236Z",
       "skills": [
         "Audit",
