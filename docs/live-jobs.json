@@ -1,8 +1,90 @@
 {
-  "generatedAt": "2026-11-03T07:55:01.969Z",
-  "total": 292,
+  "generatedAt": "2026-11-03T09:02:23.044Z",
+  "total": 295,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 2002923274,
+      "externalId": "e2cfd8d9-43e5-4448-8732-01c7f98dade1",
+      "title": "Senior Product Manager, Core Product (Remote from Romania)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T08:52:49.924Z",
+      "skills": [
+        "Excel",
+        "Insurance",
+        "Research",
+        "Sales",
+        "Content",
+        "Operations",
+        "Hospitality"
+      ],
+      "description": "Accountabilities: Define and drive the product vision, strategy, and roadmap for the core product domain, with primary ownership of pricing and availability and responsibility for the related listing management experience. Lead product development across interconnected workflows that enable professional property managers to manage rates, availability, booking restrictions, stay rules, and listing content. Prioritize product initiatives based on customer needs, business objectives, market opportunities, and measurable impact on customer performance and revenue. Simplify complex product experiences and workflows, ensuring customers can manage their properties and distribution channels confidently and efficiently. Collaborate closely with Engineering, Design, Data, and channel integration teams to translate product opportunities into clear requirements, prototypes, and successful product releases. Drive continuous product discovery through customer research, stakeholder interviews, data analysis, and experimentation to identify opportunities and validate solutions. Use AI-powered tools and coding assistants to accelerate product development, moving ideas from initial concepts and prototypes to functional solutions and shipped features. Work alongside engineers throughout implementation, providing product direction, validating technical approaches, and ensuring solutions meet customer and business expectations. Navigate complex technical dependencies and differences between external booking platforms, ensuring consistent and reliable product behavior across integrations. Make informed product trade-offs, address long-standing customer challenges, and continuously improve the usability, reliability, and performance of the core platform. Monitor product performance and customer feedback to identify improvement opportunities and ensure delivered solutions create meaningful business value. Requirements: At least 5 years of product management experience in B2B software or SaaS environments, preferably working on products used daily by professional customers. Demonstrated experience owning and developing a broad product area involving multiple interconnected features, workflows, and technical dependencies rather than managing isolated features. Proven ability to simplify complex systems and deliver intuitive, reliable user experiences, particularly in environments involving third-party platforms, integrations, and varying external requirements. Practical experience using AI as part of everyday product development, including familiarity with AI coding tools and the ability to transform ideas into clickable or functional prototypes. A hands-on product mindset, with enthusiasm for taking ownership beyond traditional product specifications and actively contributing to the development and delivery process. Strong technical understanding and the ability to collaborate effectively with engineering teams on APIs, integrations, system architecture, and technical constraints, without necessarily building these systems independently. Experience conducting continuous product discovery, including customer research, problem validation, opportunity assessment, and iterative solution development. Strong commercial awareness and the ability to connect product decisions with customer outcomes, business performance, and strategic priorities. Excellent analytical and problem-solving skills, with sound judgment when evaluating competing priorities, managing trade-offs, and making decisions in complex product environments. Resilience and ownership, particularly when addressing long-standing product challenges and improving systems that customers rely on for their daily operations. Strong communication and collaboration skills, with the ability to align cross-functional stakeholders and influence product decisions across distributed teams. Physical presence within the EMEA region is required to ensure effective collaboration with colleagues, peers, and intern",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/e2cfd8d9-43e5-4448-8732-01c7f98dade1",
+      "isLive": true
+    },
+    {
+      "id": 481234455,
+      "externalId": "807bc6d7-964e-4282-8068-7c9ad174d15e",
+      "title": "Sr. Desktop .NET Engineer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T08:13:21.912Z",
+      "skills": [
+        "راجع الوصف الوظيفي"
+      ],
+      "description": "Accountabilities:: Design, develop, and maintain desktop applications using C# and .NET. Build modern user interfaces using WPF, WinUI, or MAUI, following MVVM architecture principles. Develop custom UI controls and 2D/3D data visualization components. Integrate desktop software with hardware devices, sensors, and robotics systems. Implement high-performance, multithreaded, and asynchronous solutions. Work with communication protocols and APIs, including TCP/UDP, WebSocket, gRPC, and REST. Collaborate with teams developing native C++ modules and SDK integrations. Contribute to system architecture, optimization, scalability, and technical delivery. Requirements: Strong professional experience with C# and .NET/.NET Core. Solid experience developing desktop applications using WPF, WinUI, or MAUI. Good understanding of the MVVM architecture pattern. Experience with multithreading, async/await, and performance optimization. Familiarity with network protocols and API integration. B2-level German proficiency , required for communication with the client. Experience with hardware integrations, sensor data, or similar systems is a plus. Exposure to C++ or native modules such as DLLs is advantageous. Ability to collaborate effectively within a distributed, international engineering team. Benefits: Monthly contract rate of $6,000–$6,500 USD , depending on experience. Full-time B2B contract. Initial contract duration of 2 years, with a likely extension to 3 years. Fully remote work within Europe. Long-term project engagement and expected stability. Opportunity to build a greenfield IoT platform from concept through delivery. Exposure to advanced hardware, robotics, real-time data processing, and performance-critical systems. Opportunity to influence system architecture and technical direction. International collaboration with a German enterprise client.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/807bc6d7-964e-4282-8068-7c9ad174d15e",
+      "isLive": true
+    },
+    {
+      "id": 1230391808,
+      "externalId": "a2fd7fc9-79cb-4edc-b336-0e361730e0cc",
+      "title": "Technical Lead (DeFi)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 2,
+      "maxExp": 10,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T08:07:35.335Z",
+      "skills": [
+        "Excel",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Lead, mentor, and support a team of software engineers and a Technical Product Manager. Guide the design, implementation, and optimization of MEV services and Ethereum mempool transaction workflows. Define and deliver product offerings designed to maximize validator gains and profitability. Collaborate with DeFi searchers to develop tools and services that improve trading execution. Contribute hands-on code to the Blockchain Distribution Network (BDN) and related services. Ensure backend systems deliver high performance, scalability, and reliability. Promote strong engineering practices, including code quality, automated testing, and continuous improvement. Requirements: At least 2 years of experience managing an engineering team, including mentoring developers and building high-performing teams. 5+ years of experience designing, building, testing, and deploying scalable distributed backend systems. 3+ years of professional experience in blockchain engineering. Deep proficiency in Go (Golang) for backend development. Strong analytical and problem-solving abilities, with the capacity to break down complex technical challenges. Excellent communication skills and the ability to work effectively with both technical and non-technical stakeholders. A combination of technical leadership experience and hands-on engineering expertise. Benefits: Competitive salary and stock options. Company-paid healthcare. 401(k) plan. Unlimited paid time off. Fully remote work environment. Opportunities for career growth. Collaboration with a highly skilled business and engineering team.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/a2fd7fc9-79cb-4edc-b336-0e361730e0cc",
+      "isLive": true
+    },
     {
       "id": 558552234,
       "externalId": "4aba96fc-25a2-4e3b-b256-9abe03e565d3",
@@ -1267,7 +1349,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T08:29:02.953Z",
       "skills": [
         "Python",
@@ -1294,7 +1376,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T08:18:37.720Z",
       "skills": [
         "Excel",
@@ -1324,7 +1406,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T08:07:33.533Z",
       "skills": [
         "SQL",
@@ -1352,7 +1434,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "projects",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T08:07:27.556Z",
       "skills": [
         "Insurance",
@@ -1378,7 +1460,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T08:02:47.002Z",
       "skills": [
         "Excel",
@@ -2002,7 +2084,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T08:48:15.821Z",
       "skills": [
         "Excel",
@@ -2033,7 +2115,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T08:19:34.783Z",
       "skills": [
         "Insurance",
@@ -2060,7 +2142,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T08:15:37.137Z",
       "skills": [
         "Excel",
@@ -2087,7 +2169,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:58:00.166Z",
       "skills": [
         "Excel",
@@ -4218,7 +4300,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T08:41:17.350Z",
       "skills": [
         "JavaScript",
@@ -4248,7 +4330,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T08:20:55.920Z",
       "skills": [
         "SQL",
@@ -4842,7 +4924,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T08:26:46.850Z",
       "skills": [
         "Excel",
@@ -4870,7 +4952,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T08:25:54.447Z",
       "skills": [
         "Excel",
@@ -4898,7 +4980,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T08:02:27.393Z",
       "skills": [
         "SQL",
@@ -5783,7 +5865,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "technology",
-      "age": "منذ 38 أيام",
+      "age": "منذ 39 أيام",
       "publishedAt": "2026-09-25T08:06:45.340Z",
       "skills": [
         "Python",
@@ -6605,7 +6687,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 62 أيام",
+      "age": "منذ 63 أيام",
       "publishedAt": "2026-09-01T08:15:05.603Z",
       "skills": [
         "Excel",
@@ -6800,7 +6882,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 75 أيام",
+      "age": "منذ 76 أيام",
       "publishedAt": "2026-08-19T08:03:16.333Z",
       "skills": [
         "Excel",
@@ -7466,7 +7548,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 243 أيام",
+      "age": "منذ 244 أيام",
       "publishedAt": "2026-03-04T08:52:35.403Z",
       "skills": [
         "Excel",
@@ -7882,7 +7964,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 544 أيام",
+      "age": "منذ 545 أيام",
       "publishedAt": "2025-05-07T08:19:01.580Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7960,7 +8042,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 651 أيام",
+      "age": "منذ 652 أيام",
       "publishedAt": "2025-01-20T08:12:44.468Z",
       "skills": [
         "Audit",
