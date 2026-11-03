@@ -1,8 +1,234 @@
 {
-  "generatedAt": "2026-11-03T06:38:43.037Z",
-  "total": 284,
+  "generatedAt": "2026-11-03T07:55:01.969Z",
+  "total": 292,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 558552234,
+      "externalId": "4aba96fc-25a2-4e3b-b256-9abe03e565d3",
+      "title": "Staff Backend Engineer, Operations",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T07:28:41.573Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Insurance",
+        "Education",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities: You will take ownership of critical backend initiatives and help define how reliable, scalable AI-powered systems are designed, evaluated, and operated. Your responsibilities will include: Lead the technical design and delivery of major backend initiatives, including services, data models, asynchronous pipelines, and evaluation frameworks using Python and AWS. Define technical direction for large-scale LLM systems, balancing reliability, cost, latency, evaluation, and explainability. Drive architectural discussions and make high-impact systems design decisions across the product. Deliver significant product improvements and innovations while helping scope new features and technical initiatives. Manage technical debt strategically, determining when to prioritize rapid delivery and when to invest in long-term improvements. Collaborate with product and business stakeholders to guide organization-wide decisions, balancing data, resources, and technical trade-offs. Establish and promote best practices across development, testing, deployment, and code review processes. Identify opportunities to improve product quality and testing across services, modules, and products. Mentor and support colleagues while representing the engineering organization in recruiting, training, and external interactions. Use AI-powered development tools thoughtfully to increase individual productivity and strengthen team execution. Requirements The ideal candidate is an experienced backend engineer with strong technical judgment, a track record of leading complex initiatives, and practical experience deploying AI systems in production. You should be comfortable operating independently, influencing technical decisions, and working through ambiguity. Key qualifications include: 8+ years of software engineering experience building and operating backend systems at scale. Demonstrated experience serving as the technical lead for at least one significant project or initiative. Hands-on experience working with LLMs in production and understanding the challenges of deploying and operating them at scale. Strong proficiency in Python, the primary language used across the technology stack; candidates with substantial experience in other object-oriented languages are also welcome. Experience with AWS, serverless technologies such as Lambda and Step Functions, asynchronous workflows, and cloud-based environments. Strong understanding of relational databases and performance optimization, ideally with PostgreSQL. A proven ability to serve as a trusted technical resource for engineering, product, and business stakeholders. Strong ownership and execution skills, with the ability to drive projects through completion with minimal supervision. Excellent communication skills and the ability to explain and advocate for technical decisions with engineers, product teams, and leadership. A proactive, experimental mindset and enthusiasm for solving complex, previously unsolved problems. Additional experience that would be advantageous: Building document-processing pipelines and handling large-scale data workloads. Designing and operating distributed systems. Developing external-facing APIs or integrating with third-party platforms. Working in insurance, fintech, or other data-intensive and regulated industries. Benefits Competitive annual salary based on experience and location: Zone 1 – New York and San Francisco: $246,000–$314,000. Zone 2 – All other locations in the United States and Canada: $222,000–$314,000. Significant equity options package. 20 days of paid time off annually. Global team offsites and opportunities to connect with colleagues across locations. Healthy living and gym stipend. Mobile phone bill stipend. Continuing education credits. For US employees: 100% employer-covered medical, vision, and dental insurance for individuals and families. 401(k) plan with an employer contribution, regardless of employee contributions. Remote-first working enviro",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/4aba96fc-25a2-4e3b-b256-9abe03e565d3",
+      "isLive": true
+    },
+    {
+      "id": 357572870,
+      "externalId": "0d74420b-dce0-4739-b16c-a031df4ee5ad",
+      "title": "Senior Engineering Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T07:04:19.077Z",
+      "skills": [
+        "Python",
+        "Recruitment",
+        "Leadership"
+      ],
+      "description": "Accountabilities: You will lead the Platform and Integrations engineering teams, ensuring their technical roadmaps align with organizational priorities while maintaining high standards of software quality, delivery, and team development. Execution & Delivery Act as product owner for Platform and Integrations initiatives, gathering requirements from product teams and external partners. Prioritize requests, define objectives, and translate business and technical needs into clear roadmaps. Break down requirements into well-scoped, sequenced tasks and establish delivery milestones for both teams. Monitor progress and team health throughout the software development lifecycle, identifying bottlenecks and improving delivery processes. Coordinate with other engineering squads to ensure alignment and effective collaboration. Communicate roadmaps, priorities, trade-offs, dependencies, and risks clearly to Product, Engineering, and other stakeholders. Technical Leadership Define and drive the technical vision for both teams in alignment with broader business objectives and long-term scalability needs. Own technical roadmaps, including strategic technical debt, evaluating its impact, cost, and benefits to guide prioritization. Remain hands-on by writing and reviewing code in Java, Python, or Go when required. Contribute to system design, API contracts, architectural decisions, and scalability trade-offs. Collaborate closely with Infrastructure and DevOps teams on cloud environments, Kubernetes, CI/CD pipelines, monitoring, and reliability. Participate in production incident reviews and root cause analyses, helping prevent recurring issues. Establish and maintain engineering quality standards, including pull request reviews, test coverage, deployment rollback plans, monitoring, and alerting. Balance development speed with long-term maintainability, reliability, and code quality. People Management & Team Development Lead and develop two engineering teams, providing regular one-on-one meetings, coaching, feedback, and performance reviews. Support career progression through clear expectations, development plans, and appropriate delegation of ownership. Manage headcount planning, recruitment, interviewing, and onboarding. Monitor and improve engineering productivity, delivery velocity, and software quality. Build a collaborative environment that encourages accountability, continuous learning, and constructive feedback. Introduce and improve management and engineering practices to support team growth and effective execution. Requirements The ideal candidate combines substantial software engineering experience with proven people management, product ownership, and infrastructure expertise. You should be comfortable making decisions in ambiguous environments, managing multiple teams, and remaining technically engaged while supporting engineers' professional growth. Technical & Professional Experience At least 5 years of experience developing software as an individual contributor. Strong hands-on programming experience in Java, Python, or Go, with a continued interest in coding. At least 3 years of experience managing engineering teams of approximately 10–15 people. Experience managing two teams simultaneously is a strong advantage. Demonstrated product management experience, including roadmap ownership, stakeholder prioritization, and scope trade-offs. Practical experience with DevOps and infrastructure technologies, including cloud platforms, Kubernetes, CI/CD, and monitoring. Experience collaborating closely with DevOps engineers is also relevant. Proven experience applying Lean and Agile management practices. Track record of successfully delivering several large-scale projects within the past three years. Advanced English proficiency, particularly in written and spoken communication. Leadership & Management Skills Ability to manage engineers with different technical specializations and levels of experience. Strong communication skills, includin",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/0d74420b-dce0-4739-b16c-a031df4ee5ad",
+      "isLive": true
+    },
+    {
+      "id": 2247604531,
+      "externalId": "929d1214-a2c3-4e32-8fed-ef9024933573",
+      "title": "Data & Systems Specialist",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T06:52:21.984Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Education",
+        "Sales",
+        "Marketing",
+        "Administration",
+        "Operations"
+      ],
+      "description": "Accountabilities: You will support the organization's data infrastructure and digital operations by maintaining system reliability, improving data quality, developing integrations, and delivering actionable insights to internal teams. Data Management & Quality Maintain data quality, consistency, completeness, and reliability across organizational systems. Perform data cleaning, validation, transformation, deduplication, and reconciliation. Manage data imports, exports, migrations, and bulk updates. Identify data quality issues and collaborate with relevant stakeholders to resolve root causes. Support the implementation of data standards, structures, and governance practices. Handle confidential and sensitive information in accordance with security requirements and organizational policies. Data Systems & CRM Administration Support the administration and effective use of key platforms, including Salesforce CRM, Mailchimp, registration and selection systems, and related tools. Configure and maintain system fields, forms, workflows, reports, and user views. Assist internal users with data-related questions, troubleshooting, and platform adoption. Investigate system issues, identify root causes, and implement appropriate solutions. Conduct testing and quality assurance when systems, workflows, or integrations are introduced or updated. Maintain technical documentation and contribute to internal user training. Integrations & Automation Build, maintain, monitor, and troubleshoot integrations and automated workflows between platforms. Work with REST APIs, webhooks, automation platforms, and related integration technologies. Map, transform, and synchronize data across different systems and structures. Monitor automated processes and investigate failures, inconsistencies, or unexpected results. Identify repetitive processes that could be simplified or improved through automation. Collaborate with technical leadership to implement scalable, maintainable solutions. Reporting & Business Intelligence Develop and maintain reports, dashboards, and data visualizations for internal teams and organizational leadership. Produce accurate and timely ad hoc reports using organizational data systems. Extract, validate, and analyze data using SQL, spreadsheets, CRM reporting tools, and other analytical technologies. Maintain consistent reporting definitions and ensure the accuracy of performance metrics. Help non-technical stakeholders interpret data and turn findings into actionable insights. Digital & Engagement Analytics Analyze digital engagement across websites, email campaigns, registrations, events, and other participant touchpoints. Measure audience engagement, conversion rates, participation, and campaign performance. Collaborate with relevant teams to ensure appropriate data is available to evaluate digital initiatives. Deliver recurring and project-specific reports to identify trends and improvement opportunities. AI, Automation & Emerging Technology Use AI tools responsibly to improve data analysis, documentation, operational workflows, and productivity. Support the development and maintenance of AI-enabled workflows and data processes where appropriate. Explore emerging technologies that could improve data operations and organizational effectiveness. Test, evaluate, and document new approaches before broader implementation. Ensure AI-related activities comply with applicable privacy, security, and data governance requirements. Project & Team Support Support the Data and Technology Lead in delivering data and technology projects. Translate defined business and operational requirements into technical tasks and practical solutions. Collaborate with internal teams, contractors, vendors, and volunteers. Track tasks, dependencies, issues, and deliverables using appropriate project management tools. Participate in Agile, Scrum, Kanban, or other delivery processes. Maintain clear technical and process documentation to support long-term system rel",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/929d1214-a2c3-4e32-8fed-ef9024933573",
+      "isLive": true
+    },
+    {
+      "id": 3453668809,
+      "externalId": "ed68a93a-d2cd-46a7-a035-e5e7a3597d6f",
+      "title": "Data & Systems Specialist",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T06:50:33.177Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Education",
+        "Sales",
+        "Marketing",
+        "Administration",
+        "Operations"
+      ],
+      "description": "Accountabilities: You will support the organization's data infrastructure and digital operations by maintaining system reliability, improving data quality, developing integrations, and delivering actionable insights to internal teams. Data Management & Quality Maintain data quality, consistency, completeness, and reliability across organizational systems. Perform data cleaning, validation, transformation, deduplication, and reconciliation. Manage data imports, exports, migrations, and bulk updates. Identify data quality issues and collaborate with relevant stakeholders to resolve root causes. Support the implementation of data standards, structures, and governance practices. Handle confidential and sensitive information in accordance with security requirements and organizational policies. Data Systems & CRM Administration Support the administration and effective use of key platforms, including Salesforce CRM, Mailchimp, registration and selection systems, and related tools. Configure and maintain system fields, forms, workflows, reports, and user views. Assist internal users with data-related questions, troubleshooting, and platform adoption. Investigate system issues, identify root causes, and implement appropriate solutions. Conduct testing and quality assurance when systems, workflows, or integrations are introduced or updated. Maintain technical documentation and contribute to internal user training. Integrations & Automation Build, maintain, monitor, and troubleshoot integrations and automated workflows between platforms. Work with REST APIs, webhooks, automation platforms, and related integration technologies. Map, transform, and synchronize data across different systems and structures. Monitor automated processes and investigate failures, inconsistencies, or unexpected results. Identify repetitive processes that could be simplified or improved through automation. Collaborate with technical leadership to implement scalable, maintainable solutions. Reporting & Business Intelligence Develop and maintain reports, dashboards, and data visualizations for internal teams and organizational leadership. Produce accurate and timely ad hoc reports using organizational data systems. Extract, validate, and analyze data using SQL, spreadsheets, CRM reporting tools, and other analytical technologies. Maintain consistent reporting definitions and ensure the accuracy of performance metrics. Help non-technical stakeholders interpret data and turn findings into actionable insights. Digital & Engagement Analytics Analyze digital engagement across websites, email campaigns, registrations, events, and other participant touchpoints. Measure audience engagement, conversion rates, participation, and campaign performance. Collaborate with relevant teams to ensure appropriate data is available to evaluate digital initiatives. Deliver recurring and project-specific reports to identify trends and improvement opportunities. AI, Automation & Emerging Technology Use AI tools responsibly to improve data analysis, documentation, operational workflows, and productivity. Support the development and maintenance of AI-enabled workflows and data processes where appropriate. Explore emerging technologies that could improve data operations and organizational effectiveness. Test, evaluate, and document new approaches before broader implementation. Ensure AI-related activities comply with applicable privacy, security, and data governance requirements. Project & Team Support Support the Data and Technology Lead in delivering data and technology projects. Translate defined business and operational requirements into technical tasks and practical solutions. Collaborate with internal teams, contractors, vendors, and volunteers. Track tasks, dependencies, issues, and deliverables using appropriate project management tools. Participate in Agile, Scrum, Kanban, or other delivery processes. Maintain clear technical and process documentation to support long-term system rel",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/ed68a93a-d2cd-46a7-a035-e5e7a3597d6f",
+      "isLive": true
+    },
+    {
+      "id": 3275647379,
+      "externalId": "7d2b54c3-a3b1-4ae8-b89f-482742c18429",
+      "title": "Data & Systems Specialist",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T06:49:51.506Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Education",
+        "Sales",
+        "Marketing",
+        "Administration",
+        "Operations"
+      ],
+      "description": "Accountabilities: You will support the organization's data infrastructure and digital operations by maintaining system reliability, improving data quality, developing integrations, and delivering actionable insights to internal teams. Data Management & Quality Maintain data quality, consistency, completeness, and reliability across organizational systems. Perform data cleaning, validation, transformation, deduplication, and reconciliation. Manage data imports, exports, migrations, and bulk updates. Identify data quality issues and collaborate with relevant stakeholders to resolve root causes. Support the implementation of data standards, structures, and governance practices. Handle confidential and sensitive information in accordance with security requirements and organizational policies. Data Systems & CRM Administration Support the administration and effective use of key platforms, including Salesforce CRM, Mailchimp, registration and selection systems, and related tools. Configure and maintain system fields, forms, workflows, reports, and user views. Assist internal users with data-related questions, troubleshooting, and platform adoption. Investigate system issues, identify root causes, and implement appropriate solutions. Conduct testing and quality assurance when systems, workflows, or integrations are introduced or updated. Maintain technical documentation and contribute to internal user training. Integrations & Automation Build, maintain, monitor, and troubleshoot integrations and automated workflows between platforms. Work with REST APIs, webhooks, automation platforms, and related integration technologies. Map, transform, and synchronize data across different systems and structures. Monitor automated processes and investigate failures, inconsistencies, or unexpected results. Identify repetitive processes that could be simplified or improved through automation. Collaborate with technical leadership to implement scalable, maintainable solutions. Reporting & Business Intelligence Develop and maintain reports, dashboards, and data visualizations for internal teams and organizational leadership. Produce accurate and timely ad hoc reports using organizational data systems. Extract, validate, and analyze data using SQL, spreadsheets, CRM reporting tools, and other analytical technologies. Maintain consistent reporting definitions and ensure the accuracy of performance metrics. Help non-technical stakeholders interpret data and turn findings into actionable insights. Digital & Engagement Analytics Analyze digital engagement across websites, email campaigns, registrations, events, and other participant touchpoints. Measure audience engagement, conversion rates, participation, and campaign performance. Collaborate with relevant teams to ensure appropriate data is available to evaluate digital initiatives. Deliver recurring and project-specific reports to identify trends and improvement opportunities. AI, Automation & Emerging Technology Use AI tools responsibly to improve data analysis, documentation, operational workflows, and productivity. Support the development and maintenance of AI-enabled workflows and data processes where appropriate. Explore emerging technologies that could improve data operations and organizational effectiveness. Test, evaluate, and document new approaches before broader implementation. Ensure AI-related activities comply with applicable privacy, security, and data governance requirements. Project & Team Support Support the Data and Technology Lead in delivering data and technology projects. Translate defined business and operational requirements into technical tasks and practical solutions. Collaborate with internal teams, contractors, vendors, and volunteers. Track tasks, dependencies, issues, and deliverables using appropriate project management tools. Participate in Agile, Scrum, Kanban, or other delivery processes. Maintain clear technical and process documentation to support long-term system rel",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/7d2b54c3-a3b1-4ae8-b89f-482742c18429",
+      "isLive": true
+    },
+    {
+      "id": 4230221543,
+      "externalId": "7156fc76-15ba-468c-ac9c-ea7a74e0f885",
+      "title": "Monteur Vidéo Freelance - Business, Fitgame et Spiritualité",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T06:48:33.563Z",
+      "skills": [
+        "Content"
+      ],
+      "description": "Accountabilities: You will manage the editing workflow for personal content across multiple platforms, transforming raw footage into polished, engaging videos while maintaining a consistent publishing schedule. Edit weekly long-form YouTube podcast episodes, creating clear, engaging, and well-paced content. Produce YouTube vlogs featuring everyday life, experiences in Bali, bodybuilding preparation, gym sessions, and personal reflections. Repurpose long-form content into short videos for TikTok, Instagram Reels, and YouTube Shorts. Review and organize large volumes of raw footage, identifying the most compelling moments and strongest emotional sequences. Build engaging narratives from unstructured footage, creating coherent storytelling arcs that maintain viewer interest. Use effective hooks, pacing, subtitles, music, and transitions to strengthen audience engagement. Adapt editing choices to different moods and subjects, moving naturally between fitness motivation, entrepreneurship, lifestyle, and introspective content. Maintain a simple, clean, and consistent editing style that prioritizes clarity and storytelling over unnecessary visual effects. Collaborate directly with the content creator to develop a recognizable creative direction and refine the editing approach over time. Initially deliver approximately one YouTube video per week and one short-form video per day, with the possibility of increasing production to two or more YouTube videos weekly and additional short-form content as the collaboration develops. Meet agreed deadlines and maintain a reliable, consistent production workflow. Requirements The ideal candidate combines practical video editing skills with strong storytelling instincts and a genuine interest in the content themes. Human compatibility and shared interests are particularly important for this long-term collaboration. Proven experience editing video content for YouTube and social media platforms. Strong storytelling abilities, with the capacity to identify key moments in raw footage and turn them into compelling narratives. Experience editing both long-form content, such as podcasts and vlogs, and short-form videos for TikTok, Instagram Reels, and YouTube Shorts. Good understanding of short-form content formats, including hooks, pacing, subtitles, and audience retention. Ability to create clean, effective edits without relying on excessive effects or overly complex visual treatments. Strong sense of rhythm, music selection, and emotional pacing, with the flexibility to work across different musical styles, including metal and techno. Genuine interest in entrepreneurship, bodybuilding, fitness, and spirituality. Strong communication skills and ability to collaborate closely with a content creator. Reliability, consistency, autonomy, and good time-management skills. Comfortable working independently in a fully remote freelance arrangement while respecting agreed deadlines. A proactive mindset and willingness to contribute ideas that improve storytelling and content quality. Benefits Fully remote freelance collaboration, open to candidates worldwide. Long-term partnership rather than a one-off project. Regular, recurring workload with a fixed number of working days per week. Stable and recurring compensation, with the amount and payment structure to be agreed upon. Potential arrangements include a monthly retainer, per-video rate, or daily rate. Flexible working arrangements and freedom to organize your schedule, provided deadlines are met. Opportunity to help shape the editing style and storytelling approach from the beginning. Potential to increase workload and compensation as content production grows. Possibility of future involvement in filming and content creation in Bali, depending on mutual interest and availability. Initial workload of approximately 24 hours per week under a 12-month freelance contract, with room for development as the collaboration evolves.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/7156fc76-15ba-468c-ac9c-ea7a74e0f885",
+      "isLive": true
+    },
+    {
+      "id": 1946460107,
+      "externalId": "3e12f2fe-d798-4797-ba84-d6e69102f223",
+      "title": "Monteur Vidéo Freelance - Business, Fitgame et Spiritualité",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T06:47:58.292Z",
+      "skills": [
+        "Content"
+      ],
+      "description": "Accountabilities: You will manage the editing workflow for personal content across multiple platforms, transforming raw footage into polished, engaging videos while maintaining a consistent publishing schedule. Edit weekly long-form YouTube podcast episodes, creating clear, engaging, and well-paced content. Produce YouTube vlogs featuring everyday life, experiences in Bali, bodybuilding preparation, gym sessions, and personal reflections. Repurpose long-form content into short videos for TikTok, Instagram Reels, and YouTube Shorts. Review and organize large volumes of raw footage, identifying the most compelling moments and strongest emotional sequences. Build engaging narratives from unstructured footage, creating coherent storytelling arcs that maintain viewer interest. Use effective hooks, pacing, subtitles, music, and transitions to strengthen audience engagement. Adapt editing choices to different moods and subjects, moving naturally between fitness motivation, entrepreneurship, lifestyle, and introspective content. Maintain a simple, clean, and consistent editing style that prioritizes clarity and storytelling over unnecessary visual effects. Collaborate directly with the content creator to develop a recognizable creative direction and refine the editing approach over time. Initially deliver approximately one YouTube video per week and one short-form video per day, with the possibility of increasing production to two or more YouTube videos weekly and additional short-form content as the collaboration develops. Meet agreed deadlines and maintain a reliable, consistent production workflow. Requirements The ideal candidate combines practical video editing skills with strong storytelling instincts and a genuine interest in the content themes. Human compatibility and shared interests are particularly important for this long-term collaboration. Proven experience editing video content for YouTube and social media platforms. Strong storytelling abilities, with the capacity to identify key moments in raw footage and turn them into compelling narratives. Experience editing both long-form content, such as podcasts and vlogs, and short-form videos for TikTok, Instagram Reels, and YouTube Shorts. Good understanding of short-form content formats, including hooks, pacing, subtitles, and audience retention. Ability to create clean, effective edits without relying on excessive effects or overly complex visual treatments. Strong sense of rhythm, music selection, and emotional pacing, with the flexibility to work across different musical styles, including metal and techno. Genuine interest in entrepreneurship, bodybuilding, fitness, and spirituality. Strong communication skills and ability to collaborate closely with a content creator. Reliability, consistency, autonomy, and good time-management skills. Comfortable working independently in a fully remote freelance arrangement while respecting agreed deadlines. A proactive mindset and willingness to contribute ideas that improve storytelling and content quality. Benefits Fully remote freelance collaboration, open to candidates worldwide. Long-term partnership rather than a one-off project. Regular, recurring workload with a fixed number of working days per week. Stable and recurring compensation, with the amount and payment structure to be agreed upon. Potential arrangements include a monthly retainer, per-video rate, or daily rate. Flexible working arrangements and freedom to organize your schedule, provided deadlines are met. Opportunity to help shape the editing style and storytelling approach from the beginning. Potential to increase workload and compensation as content production grows. Possibility of future involvement in filming and content creation in Bali, depending on mutual interest and availability. Initial workload of approximately 24 hours per week under a 12-month freelance contract, with room for development as the collaboration evolves.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/3e12f2fe-d798-4797-ba84-d6e69102f223",
+      "isLive": true
+    },
+    {
+      "id": 3314974536,
+      "externalId": "8342d1c2-48e4-4706-8b01-19196a25b951",
+      "title": "Monteur Vidéo Freelance - Business, Fitgame et Spiritualité",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-03T06:46:23.206Z",
+      "skills": [
+        "Content"
+      ],
+      "description": "Accountabilities: You will manage the editing workflow for personal content across multiple platforms, transforming raw footage into polished, engaging videos while maintaining a consistent publishing schedule. Edit weekly long-form YouTube podcast episodes, creating clear, engaging, and well-paced content. Produce YouTube vlogs featuring everyday life, experiences in Bali, bodybuilding preparation, gym sessions, and personal reflections. Repurpose long-form content into short videos for TikTok, Instagram Reels, and YouTube Shorts. Review and organize large volumes of raw footage, identifying the most compelling moments and strongest emotional sequences. Build engaging narratives from unstructured footage, creating coherent storytelling arcs that maintain viewer interest. Use effective hooks, pacing, subtitles, music, and transitions to strengthen audience engagement. Adapt editing choices to different moods and subjects, moving naturally between fitness motivation, entrepreneurship, lifestyle, and introspective content. Maintain a simple, clean, and consistent editing style that prioritizes clarity and storytelling over unnecessary visual effects. Collaborate directly with the content creator to develop a recognizable creative direction and refine the editing approach over time. Initially deliver approximately one YouTube video per week and one short-form video per day, with the possibility of increasing production to two or more YouTube videos weekly and additional short-form content as the collaboration develops. Meet agreed deadlines and maintain a reliable, consistent production workflow. Requirements The ideal candidate combines practical video editing skills with strong storytelling instincts and a genuine interest in the content themes. Human compatibility and shared interests are particularly important for this long-term collaboration. Proven experience editing video content for YouTube and social media platforms. Strong storytelling abilities, with the capacity to identify key moments in raw footage and turn them into compelling narratives. Experience editing both long-form content, such as podcasts and vlogs, and short-form videos for TikTok, Instagram Reels, and YouTube Shorts. Good understanding of short-form content formats, including hooks, pacing, subtitles, and audience retention. Ability to create clean, effective edits without relying on excessive effects or overly complex visual treatments. Strong sense of rhythm, music selection, and emotional pacing, with the flexibility to work across different musical styles, including metal and techno. Genuine interest in entrepreneurship, bodybuilding, fitness, and spirituality. Strong communication skills and ability to collaborate closely with a content creator. Reliability, consistency, autonomy, and good time-management skills. Comfortable working independently in a fully remote freelance arrangement while respecting agreed deadlines. A proactive mindset and willingness to contribute ideas that improve storytelling and content quality. Benefits Fully remote freelance collaboration, open to candidates worldwide. Long-term partnership rather than a one-off project. Regular, recurring workload with a fixed number of working days per week. Stable and recurring compensation, with the amount and payment structure to be agreed upon. Potential arrangements include a monthly retainer, per-video rate, or daily rate. Flexible working arrangements and freedom to organize your schedule, provided deadlines are met. Opportunity to help shape the editing style and storytelling approach from the beginning. Potential to increase workload and compensation as content production grows. Possibility of future involvement in filming and content creation in Bali, depending on mutual interest and availability. Initial workload of approximately 24 hours per week under a 12-month freelance contract, with room for development as the collaboration evolves.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/8342d1c2-48e4-4706-8b01-19196a25b951",
+      "isLive": true
+    },
     {
       "id": 884198076,
       "externalId": "9e22cd4e-9901-430e-9932-dcd78711073f",
@@ -1181,7 +1407,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T07:45:57.726Z",
       "skills": [
         "Excel",
@@ -1209,7 +1435,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T07:43:04.501Z",
       "skills": [
         "Excel",
@@ -1237,7 +1463,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T07:42:18.984Z",
       "skills": [
         "Excel",
@@ -1265,7 +1491,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T07:40:45.295Z",
       "skills": [
         "JavaScript",
@@ -1294,7 +1520,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T07:40:04.781Z",
       "skills": [
         "JavaScript",
@@ -1323,7 +1549,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T07:35:14.642Z",
       "skills": [
         "JavaScript",
@@ -1352,7 +1578,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T07:05:55.317Z",
       "skills": [
         "Excel",
@@ -1379,7 +1605,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T07:05:11.029Z",
       "skills": [
         "Excel",
@@ -1406,7 +1632,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T07:03:31.984Z",
       "skills": [
         "Excel",
@@ -1433,7 +1659,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-02T02:16:58-05:00",
       "skills": [
         "Excel",
@@ -1888,7 +2114,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:51:10.508Z",
       "skills": [
         "Research",
@@ -1914,7 +2140,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:50:30.260Z",
       "skills": [
         "Research",
@@ -1940,7 +2166,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:48:02.838Z",
       "skills": [
         "Research",
@@ -1966,7 +2192,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:38:15.036Z",
       "skills": [
         "Excel",
@@ -1997,7 +2223,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:37:36.880Z",
       "skills": [
         "Excel",
@@ -2028,7 +2254,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:35:57.083Z",
       "skills": [
         "Excel",
@@ -2059,7 +2285,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:23:29.860Z",
       "skills": [
         "Clinical",
@@ -2085,7 +2311,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "customer",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:23:20.519Z",
       "skills": [
         "Excel",
@@ -2112,7 +2338,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:22:49.922Z",
       "skills": [
         "Clinical",
@@ -2138,7 +2364,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:21:14.047Z",
       "skills": [
         "Clinical",
@@ -2164,7 +2390,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:20:39.124Z",
       "skills": [
         "React",
@@ -2192,7 +2418,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:18:15.365Z",
       "skills": [
         "Excel",
@@ -2218,7 +2444,7 @@
       "minExp": 20,
       "maxExp": 28,
       "category": "education",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:14:29.537Z",
       "skills": [
         "Sales",
@@ -2245,7 +2471,7 @@
       "minExp": 20,
       "maxExp": 28,
       "category": "education",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:13:55.884Z",
       "skills": [
         "Sales",
@@ -2272,7 +2498,7 @@
       "minExp": 20,
       "maxExp": 28,
       "category": "education",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:12:32.092Z",
       "skills": [
         "Sales",
@@ -2299,7 +2525,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sports",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:04:54.150Z",
       "skills": [
         "Excel"
@@ -2324,7 +2550,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sports",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:04:22.137Z",
       "skills": [
         "Excel"
@@ -2349,7 +2575,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sports",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T07:02:57.043Z",
       "skills": [
         "Excel"
@@ -2374,7 +2600,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T06:55:09.905Z",
       "skills": [
         "Excel",
@@ -2402,7 +2628,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T06:54:36.687Z",
       "skills": [
         "Excel",
@@ -2430,7 +2656,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-30T06:53:16.394Z",
       "skills": [
         "Excel",
@@ -2833,7 +3059,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:54:22.328Z",
       "skills": [
         "Excel",
@@ -2859,7 +3085,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:36:19.448Z",
       "skills": [
         "Excel",
@@ -2888,7 +3114,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:35:39.696Z",
       "skills": [
         "Excel",
@@ -2917,7 +3143,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:35:30.800Z",
       "skills": [
         "Excel",
@@ -2945,7 +3171,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:33:49.855Z",
       "skills": [
         "Excel",
@@ -2974,7 +3200,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:27:21.814Z",
       "skills": [
         "Content"
@@ -2999,7 +3225,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:26:40.682Z",
       "skills": [
         "Content"
@@ -3024,7 +3250,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:24:58.416Z",
       "skills": [
         "Content"
@@ -3049,7 +3275,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:07:35.844Z",
       "skills": [
         "Python",
@@ -3075,7 +3301,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:06:54.190Z",
       "skills": [
         "Python",
@@ -3101,7 +3327,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:05:59.766Z",
       "skills": [
         "Research",
@@ -3132,7 +3358,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T07:05:06.997Z",
       "skills": [
         "Python",
@@ -3158,7 +3384,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-29T06:57:16.642Z",
       "skills": [
         "Sales",
@@ -4053,7 +4279,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T06:48:22.241Z",
       "skills": [
         "Excel",
@@ -4083,7 +4309,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T06:45:50.804Z",
       "skills": [
         "Excel",
@@ -4112,7 +4338,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T06:42:06.218Z",
       "skills": [
         "Excel",
@@ -4140,7 +4366,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T06:41:31.184Z",
       "skills": [
         "Excel",
@@ -4168,7 +4394,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-28T06:40:05.577Z",
       "skills": [
         "Excel",
@@ -4700,7 +4926,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:51:51.613Z",
       "skills": [
         "JavaScript",
@@ -4726,7 +4952,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:25:14.559Z",
       "skills": [
         "Excel",
@@ -4753,7 +4979,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:22:40.212Z",
       "skills": [
         "Excel",
@@ -4783,7 +5009,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:19:58.658Z",
       "skills": [
         "Excel",
@@ -4812,7 +5038,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:19:20.662Z",
       "skills": [
         "Excel",
@@ -4841,7 +5067,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:18:41.087Z",
       "skills": [
         "Excel",
@@ -4871,7 +5097,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:18:07.729Z",
       "skills": [
         "Excel",
@@ -4901,7 +5127,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:17:39.842Z",
       "skills": [
         "Excel",
@@ -4930,7 +5156,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:16:47.147Z",
       "skills": [
         "Excel",
@@ -4960,7 +5186,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:12:10.976Z",
       "skills": [
         "Compliance",
@@ -4986,7 +5212,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:11:42.464Z",
       "skills": [
         "Compliance",
@@ -5012,7 +5238,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:10:27.779Z",
       "skills": [
         "Compliance",
@@ -5038,7 +5264,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:03:08.873Z",
       "skills": [
         "Human Resources",
@@ -5065,7 +5291,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T07:02:38.886Z",
       "skills": [
         "Human Resources",
@@ -5092,7 +5318,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-27T06:58:53.550Z",
       "skills": [
         "Human Resources",
@@ -5818,7 +6044,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "general",
-      "age": "منذ 46 أيام",
+      "age": "منذ 47 أيام",
       "publishedAt": "2026-09-17T06:43:26.045Z",
       "skills": [
         "Excel",
@@ -5950,7 +6176,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "manufacturing",
-      "age": "منذ 48 أيام",
+      "age": "منذ 49 أيام",
       "publishedAt": "2026-09-15T06:50:37.096Z",
       "skills": [
         "Excel",
@@ -6409,7 +6635,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "finance",
-      "age": "منذ 62 أيام",
+      "age": "منذ 63 أيام",
       "publishedAt": "2026-09-01T07:45:14.868Z",
       "skills": [
         "Excel",
@@ -6705,7 +6931,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 94 أيام",
+      "age": "منذ 95 أيام",
       "publishedAt": "2026-07-31T07:06:13.431Z",
       "skills": [
         "PMP",
@@ -7094,7 +7320,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 203 أيام",
+      "age": "منذ 204 أيام",
       "publishedAt": "2026-04-13T07:28:26.803Z",
       "skills": [
         "Education",
@@ -7298,7 +7524,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 256 أيام",
+      "age": "منذ 257 أيام",
       "publishedAt": "2026-02-19T06:41:38.833Z",
       "skills": [
         "Python",
@@ -7353,7 +7579,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 273 أيام",
+      "age": "منذ 274 أيام",
       "publishedAt": "2026-02-02T07:23:16.709Z",
       "skills": [
         "Finance",
@@ -7789,7 +8015,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 852 أيام",
+      "age": "منذ 853 أيام",
       "publishedAt": "2024-07-03T07:43:10.387Z",
       "skills": [
         "Excel",
