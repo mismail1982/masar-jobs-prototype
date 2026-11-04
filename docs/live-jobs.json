@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T04:37:31.376Z",
+  "generatedAt": "2026-11-04T05:39:44.489Z",
   "total": 260,
   "feeds": 13,
   "jobs": [
@@ -2011,7 +2011,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "customer",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-31T05:28:06.204Z",
       "skills": [
         "Excel",
@@ -2038,7 +2038,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-10-31T05:15:55.256Z",
       "skills": [
         "SQL",
@@ -5086,7 +5086,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 41 أيام",
+      "age": "منذ 42 أيام",
       "publishedAt": "2026-09-23T05:18:15.252Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5111,7 +5111,7 @@
       "minExp": 10,
       "maxExp": 12,
       "category": "technology",
-      "age": "منذ 41 أيام",
+      "age": "منذ 42 أيام",
       "publishedAt": "2026-09-23T05:08:30.489Z",
       "skills": [
         "Operations",
@@ -5561,7 +5561,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 55 أيام",
+      "age": "منذ 56 أيام",
       "publishedAt": "2026-09-09T05:31:11.945Z",
       "skills": [
         "Sales"
@@ -5586,7 +5586,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 56 أيام",
+      "age": "منذ 57 أيام",
       "publishedAt": "2026-09-08T04:40:50.396Z",
       "skills": [
         "Excel"
@@ -6697,7 +6697,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 285 أيام",
+      "age": "منذ 286 أيام",
       "publishedAt": "2026-01-22T05:22:02.669Z",
       "skills": [
         "Excel",
@@ -6723,7 +6723,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "projects",
-      "age": "منذ 348 أيام",
+      "age": "منذ 349 أيام",
       "publishedAt": "2025-11-20T04:47:02.192Z",
       "skills": [
         "Excel",
