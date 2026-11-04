@@ -1,8 +1,173 @@
 {
-  "generatedAt": "2026-11-04T06:43:18.510Z",
-  "total": 269,
+  "generatedAt": "2026-11-04T07:58:39.304Z",
+  "total": 275,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 2893805041,
+      "externalId": "2b93883b-5afd-4e1a-8b37-07f52f4ee3af",
+      "title": "Performance Marketing Lead (User Acquisition)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-04T08:50:21.240Z",
+      "skills": [
+        "Excel",
+        "Insurance",
+        "Marketing"
+      ],
+      "description": "Accountabilities:: Plan, execute, manage, and optimize paid user acquisition campaigns across Meta, Google, TikTok, AppLovin, and other relevant advertising platforms. Manage and allocate significant advertising budgets based on key performance indicators, including customer acquisition cost (CAC), return on ad spend (ROAS), customer lifetime value (LTV), and payback periods. Monitor and analyze campaign performance, conversion funnels, and user cohorts to identify opportunities for improving acquisition efficiency and overall profitability. Design and implement structured experiments across audience segments, bidding strategies, landing pages, and creative formats to improve conversion rates and reduce acquisition costs. Collaborate closely with creative and marketing teams to develop, test, and refine advertising concepts, messaging, and formats using performance insights to guide creative production. Measure and evaluate acquisition effectiveness through attribution platforms, cohort analysis, and incrementality testing. Develop and execute user acquisition strategies across multiple markets, identifying opportunities to expand campaigns and reach new audiences. Scale successful campaigns while maintaining acquisition costs and profitability within established business targets. Make data-driven decisions regarding campaign optimization, budget distribution, audience targeting, and channel performance. Take direct ownership of campaign execution and continuous improvement, ensuring marketing investments generate measurable and sustainable business results. Requirements: At least 5 years of professional experience in performance marketing, digital advertising, or user acquisition, ideally within mobile gaming or consumer mobile applications. Proven hands-on experience planning, managing, and optimizing paid advertising campaigns across platforms such as Meta, Google, TikTok, and AppLovin. Demonstrated ability to manage substantial advertising budgets and scale acquisition campaigns while consistently meeting customer acquisition cost and profitability objectives. Strong understanding of performance marketing metrics and methodologies, including CAC, ROAS, LTV, cohort analysis, attribution models, and payback periods. Practical experience with mobile measurement and attribution platforms such as AppsFlyer or Adjust. Experience designing and executing creative testing strategies, interpreting results, and using performance insights to improve advertising effectiveness. Strong analytical capabilities, with the ability to interpret campaign-level and user-level data, identify performance challenges, and make informed budget allocation decisions. A proven track record of personally managing and optimizing acquisition campaigns rather than focusing exclusively on agency coordination or high-level strategy. Excellent problem-solving, organizational, and communication skills, with the ability to collaborate effectively across creative, marketing, and other business teams. A results-oriented mindset, strong commercial awareness, and the ability to balance growth ambitions with acquisition efficiency and long-term profitability. Nice-to-have qualifications: Experience scaling user acquisition campaigns within the mobile gaming industry. Previous responsibility for managing paid acquisition strategies across multiple countries and international markets. Familiarity with incrementality testing, marketing mix modeling (MMM), and advanced attribution methodologies. Experience acquiring customers for fintech, insurance, financial services, or other consumer financial products. Benefits: Fully remote working arrangement, offering the flexibility to work from different locations. Full-time opportunity within an international and multicultural working environment. Opportunity to contribute to the growth of innovative, next-generation digital and financial products. Exposure to large-scale user acquisition campaigns and substantial advertising ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/2b93883b-5afd-4e1a-8b37-07f52f4ee3af",
+      "isLive": true
+    },
+    {
+      "id": 4391347442,
+      "externalId": "3d813ff7-56db-41ab-84d0-f504917ddc41",
+      "title": "Software Engineer (Edge - Devices & Mobile)",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-04T08:42:56.695Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Content",
+        "Operations"
+      ],
+      "description": "Accountabilities:: Design, develop, and maintain a cross-platform Rust peer runtime supporting Windows, Android, and Linux, with future compatibility for macOS. Manage process lifecycles, background execution, networking, automatic updates, and operational stability across diverse and unmanaged hardware environments. Lead the expansion of the platform to Android devices using NDK and JNI, addressing foreground services, battery optimization, mobile network constraints, and integration with real and emulated device environments. Integrate native networking technologies, including Chromium's network stack (Cronet and C++), and browserless HTTP clients into well-structured, reliable Rust libraries. Work with native operating system APIs and foreign function interfaces (FFI), ensuring safe memory management, ownership, and cross-language interoperability. Collect and analyze hardware and operating system signals, including TCP, TLS, and HTTP fingerprints, to improve network realism and support collaboration with browser and anti-detection engineering teams. Develop comprehensive device-level observability and performance metrics, monitoring uptime, bandwidth consumption, device availability, drop-off rates, and task success rates. Expand peer capabilities to support additional workloads, including CAPTCHA solving and browser rendering, while maintaining strong security boundaries around untrusted content and environments. Participate in on-call rotations, investigate production incidents, conduct post-mortems, and implement improvements to system reliability and deployment processes. Contribute to technical documentation, architecture proposals, design reviews, and engineering standards, helping establish best practices for cross-platform Rust development. Requirements: At least 5 years of professional experience developing, shipping, and maintaining production-grade software using Rust. Proven experience building and deploying cross-platform Rust applications on at least two operating systems among Windows, macOS, and Android, including experience with at least one mobile platform. Strong understanding of operating system internals, process management, permissions, background execution, and platform-specific constraints. Hands-on experience with FFI and integrating Rust with C/C++ libraries and native operating system APIs, including JNI/NDK, Win32, and POSIX interfaces. Solid knowledge of networking protocols, particularly TCP, TLS, and HTTP, with the ability to inspect network traffic, understand protocol-level behavior, and analyze client fingerprint differences. Experience with asynchronous programming and networking in Rust, ideally using technologies such as Tokio and Tonic. Strong focus on software reliability, observability, performance monitoring, and production operations, including the ability to measure and troubleshoot distributed device fleets remotely. Good understanding of secure software design, particularly when deploying and operating software on third-party devices and environments. Excellent written communication skills and the ability to collaborate effectively within a globally distributed, remote-first engineering team. Strong analytical and problem-solving abilities, combined with intellectual curiosity and an interest in reverse engineering, networking technologies, and complex systems. Familiarity with technologies such as gRPC, Protocol Buffers, mutual TLS (mTLS), Chromium networking, Kotlin, Java, Prometheus, Grafana, OpenTelemetry, Kubernetes, and cloud infrastructure is advantageous. Nice-to-have qualifications: Experience developing or operating residential proxy networks, peer-to-peer applications, or large-scale device farms. Knowledge of browser internals and networking technologies such as Chromium, Cronet, Firefox networking, or anti-detection techniques. Background in distributed systems, particularly schedulers, orchestration platforms, control planes, and large-scale infrastructure. Familia",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/3d813ff7-56db-41ab-84d0-f504917ddc41",
+      "isLive": true
+    },
+    {
+      "id": 2672729086,
+      "externalId": "f11165e2-60cb-48a2-81d2-f718807db40d",
+      "title": "Software Engineer (Edge - Devices & Mobile)",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-04T08:42:25.740Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Content",
+        "Operations"
+      ],
+      "description": "Accountabilities:: Design, develop, and maintain a cross-platform Rust peer runtime supporting Windows, Android, and Linux, with future compatibility for macOS. Manage process lifecycles, background execution, networking, automatic updates, and operational stability across diverse and unmanaged hardware environments. Lead the expansion of the platform to Android devices using NDK and JNI, addressing foreground services, battery optimization, mobile network constraints, and integration with real and emulated device environments. Integrate native networking technologies, including Chromium's network stack (Cronet and C++), and browserless HTTP clients into well-structured, reliable Rust libraries. Work with native operating system APIs and foreign function interfaces (FFI), ensuring safe memory management, ownership, and cross-language interoperability. Collect and analyze hardware and operating system signals, including TCP, TLS, and HTTP fingerprints, to improve network realism and support collaboration with browser and anti-detection engineering teams. Develop comprehensive device-level observability and performance metrics, monitoring uptime, bandwidth consumption, device availability, drop-off rates, and task success rates. Expand peer capabilities to support additional workloads, including CAPTCHA solving and browser rendering, while maintaining strong security boundaries around untrusted content and environments. Participate in on-call rotations, investigate production incidents, conduct post-mortems, and implement improvements to system reliability and deployment processes. Contribute to technical documentation, architecture proposals, design reviews, and engineering standards, helping establish best practices for cross-platform Rust development. Requirements: At least 5 years of professional experience developing, shipping, and maintaining production-grade software using Rust. Proven experience building and deploying cross-platform Rust applications on at least two operating systems among Windows, macOS, and Android, including experience with at least one mobile platform. Strong understanding of operating system internals, process management, permissions, background execution, and platform-specific constraints. Hands-on experience with FFI and integrating Rust with C/C++ libraries and native operating system APIs, including JNI/NDK, Win32, and POSIX interfaces. Solid knowledge of networking protocols, particularly TCP, TLS, and HTTP, with the ability to inspect network traffic, understand protocol-level behavior, and analyze client fingerprint differences. Experience with asynchronous programming and networking in Rust, ideally using technologies such as Tokio and Tonic. Strong focus on software reliability, observability, performance monitoring, and production operations, including the ability to measure and troubleshoot distributed device fleets remotely. Good understanding of secure software design, particularly when deploying and operating software on third-party devices and environments. Excellent written communication skills and the ability to collaborate effectively within a globally distributed, remote-first engineering team. Strong analytical and problem-solving abilities, combined with intellectual curiosity and an interest in reverse engineering, networking technologies, and complex systems. Familiarity with technologies such as gRPC, Protocol Buffers, mutual TLS (mTLS), Chromium networking, Kotlin, Java, Prometheus, Grafana, OpenTelemetry, Kubernetes, and cloud infrastructure is advantageous. Nice-to-have qualifications: Experience developing or operating residential proxy networks, peer-to-peer applications, or large-scale device farms. Knowledge of browser internals and networking technologies such as Chromium, Cronet, Firefox networking, or anti-detection techniques. Background in distributed systems, particularly schedulers, orchestration platforms, control planes, and large-scale infrastructure. Familia",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/f11165e2-60cb-48a2-81d2-f718807db40d",
+      "isLive": true
+    },
+    {
+      "id": 1841868115,
+      "externalId": "bf0b77ae-5929-447e-859c-8718d5020308",
+      "title": "Software Engineer (Edge - Devices & Mobile)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-04T08:41:04.309Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Content",
+        "Operations"
+      ],
+      "description": "Accountabilities:: Design, develop, and maintain a cross-platform Rust peer runtime supporting Windows, Android, and Linux, with future compatibility for macOS. Manage process lifecycles, background execution, networking, automatic updates, and operational stability across diverse and unmanaged hardware environments. Lead the expansion of the platform to Android devices using NDK and JNI, addressing foreground services, battery optimization, mobile network constraints, and integration with real and emulated device environments. Integrate native networking technologies, including Chromium's network stack (Cronet and C++), and browserless HTTP clients into well-structured, reliable Rust libraries. Work with native operating system APIs and foreign function interfaces (FFI), ensuring safe memory management, ownership, and cross-language interoperability. Collect and analyze hardware and operating system signals, including TCP, TLS, and HTTP fingerprints, to improve network realism and support collaboration with browser and anti-detection engineering teams. Develop comprehensive device-level observability and performance metrics, monitoring uptime, bandwidth consumption, device availability, drop-off rates, and task success rates. Expand peer capabilities to support additional workloads, including CAPTCHA solving and browser rendering, while maintaining strong security boundaries around untrusted content and environments. Participate in on-call rotations, investigate production incidents, conduct post-mortems, and implement improvements to system reliability and deployment processes. Contribute to technical documentation, architecture proposals, design reviews, and engineering standards, helping establish best practices for cross-platform Rust development. Requirements: At least 5 years of professional experience developing, shipping, and maintaining production-grade software using Rust. Proven experience building and deploying cross-platform Rust applications on at least two operating systems among Windows, macOS, and Android, including experience with at least one mobile platform. Strong understanding of operating system internals, process management, permissions, background execution, and platform-specific constraints. Hands-on experience with FFI and integrating Rust with C/C++ libraries and native operating system APIs, including JNI/NDK, Win32, and POSIX interfaces. Solid knowledge of networking protocols, particularly TCP, TLS, and HTTP, with the ability to inspect network traffic, understand protocol-level behavior, and analyze client fingerprint differences. Experience with asynchronous programming and networking in Rust, ideally using technologies such as Tokio and Tonic. Strong focus on software reliability, observability, performance monitoring, and production operations, including the ability to measure and troubleshoot distributed device fleets remotely. Good understanding of secure software design, particularly when deploying and operating software on third-party devices and environments. Excellent written communication skills and the ability to collaborate effectively within a globally distributed, remote-first engineering team. Strong analytical and problem-solving abilities, combined with intellectual curiosity and an interest in reverse engineering, networking technologies, and complex systems. Familiarity with technologies such as gRPC, Protocol Buffers, mutual TLS (mTLS), Chromium networking, Kotlin, Java, Prometheus, Grafana, OpenTelemetry, Kubernetes, and cloud infrastructure is advantageous. Nice-to-have qualifications: Experience developing or operating residential proxy networks, peer-to-peer applications, or large-scale device farms. Knowledge of browser internals and networking technologies such as Chromium, Cronet, Firefox networking, or anti-detection techniques. Background in distributed systems, particularly schedulers, orchestration platforms, control planes, and large-scale infrastructure. Familia",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/bf0b77ae-5929-447e-859c-8718d5020308",
+      "isLive": true
+    },
+    {
+      "id": 3259035259,
+      "externalId": "ae3b7353-85b7-44d1-affe-38f642bf4751",
+      "title": "Applied AI Engineer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-04T07:08:32.461Z",
+      "skills": [
+        "Python",
+        "Excel"
+      ],
+      "description": "Accountabilities: In this role, you will design and implement the technical foundations of agentic systems while driving the adoption of AI-powered engineering workflows. Your responsibilities will include: Design and build essential components of agentic systems, including memory, context management, tool-calling capabilities, orchestration mechanisms, and feedback loops. Develop reusable AI infrastructure that enables new workflows to be introduced quickly, consistently, and with predictable reliability. Build comprehensive evaluation frameworks to measure agent performance, identify failure points, and understand the factors behind successful outcomes. Integrate testing, tracing, debugging, and evaluation into the software engineering lifecycle as fundamental practices. Develop systems and validation processes that allow agentic workflows to be thoroughly assessed before production deployment. Advance the use of large language models (LLMs) in software development by creating sophisticated AI-assisted engineering workflows. Build workflows where coding agents and specialized subagents can explore code repositories, implement changes, review architecture, validate conventions, run evaluations, and iterate with minimal human intervention. Actively use agentic engineering tools and workflows in daily development activities. Design architectures that enable specialized AI agents, tools, deterministic software, and human expertise to work together effectively. Determine when to use LLMs, traditional software solutions, human intervention, or coordinated multi-agent approaches to achieve the best outcomes. Collaborate with operational and product teams to understand existing processes, identify high-value automation opportunities, and transform them into reliable production systems. Establish scalable architectural patterns and engineering standards for agentic systems as the organization grows. Take ownership of technical decisions and contribute to the overall direction of the AI engineering function. Requirements The ideal candidate is a strong software engineer with hands-on experience building production-ready AI systems and the autonomy to solve complex technical challenges in a rapidly evolving environment. The following qualifications and skills are expected: Strong software engineering background, with proven experience independently delivering complex systems from initial concept through production deployment. Practical experience building and deploying AI or agentic systems that have operated in production environments. Demonstrated understanding of real-world AI engineering challenges, including reliability, latency, context management, failure modes, evaluation, and observability. Strong knowledge of agent architectures, tool use, structured outputs, context management, orchestration, evaluation frameworks, and feedback loops. Advanced practical experience with modern LLMs and the ability to build reliable workflows around probabilistic AI systems. Hands-on experience using coding agents and agentic development workflows as part of everyday software engineering. Ability to break down complex engineering tasks across multiple agents or specialized subagents and implement mechanisms for validating and improving their outputs. Strong architectural judgment and the ability to select the right combination of AI models, deterministic software, and human intervention for different challenges. Experience with TypeScript and Node.js, or strong experience developing AI systems in Python combined with the willingness and ability to work in a TypeScript-first environment. High level of autonomy, ownership, and confidence making technical decisions in ambiguous situations. Strong product mindset and the ability to connect engineering decisions with operational efficiency and business outcomes. Excellent communication and collaboration skills, with fluency in English. Startup mentality, including resilience, adaptability, initiati",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/ae3b7353-85b7-44d1-affe-38f642bf4751",
+      "isLive": true
+    },
+    {
+      "id": 1402420468,
+      "externalId": "7d6ea40d-3dd8-45bc-98e7-5aaae0a94791",
+      "title": "Manager Controlling & Planning",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 2,
+      "maxExp": 10,
+      "category": "projects",
+      "age": "اليوم",
+      "publishedAt": "2026-11-04T06:57:35.055Z",
+      "skills": [
+        "Excel",
+        "Customer Service",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities: In this role, you will manage workforce planning and operational performance, ensuring that staffing levels align with customer demand and service objectives. Your responsibilities will include: Plan workforce allocation across customer service projects based on forecasts, contact volumes, and service-level targets. Monitor daily operations in real time, identify deviations from planned performance, and implement immediate corrective actions. Develop and maintain employee shift schedules, coordinating closely with team leaders and project managers. Monitor key performance indicators, including service levels, availability, handling times, and workforce utilization. Analyze operational data and translate performance insights into actionable recommendations. Develop and optimize reporting systems to improve operational visibility and decision-making. Continuously improve workforce planning processes and identify opportunities to automate recurring tasks and workflows. Collaborate with internal stakeholders to ensure effective resource allocation and smooth day-to-day operations. Contribute ideas and initiatives that enhance operational efficiency and overall customer service performance. Requirements The ideal candidate combines hands-on customer service workforce management experience with strong analytical skills and the ability to make effective decisions in a dynamic operational environment. The following qualifications are essential: At least 2 years of experience in customer service operations, specifically in workforce management, planning, supervision, or team leadership. This experience is mandatory. Confident user of Microsoft Excel or Google Sheets for data analysis, reporting, and workforce planning. Experience with workforce management (WFM) platforms or telephony systems is considered an advantage. Strong numerical aptitude and analytical thinking, with the ability to interpret operational data and identify trends. Excellent organizational skills and the ability to work independently and systematically. Ability to remain calm, focused, and effective when managing high contact volumes and changing operational priorities. Strong problem-solving and decision-making abilities, particularly when responding to real-time operational challenges. Very good command of either German or English. Fluency in at least one of these languages is required; both are not necessary. Strong communication and collaboration skills to coordinate effectively with team leaders and project stakeholders. Benefits 100% Remote Work: Work from anywhere in the world, regardless of your location. Flexible Working Hours: Benefit from flexible scheduling and greater autonomy in organizing your work. Generous Annual Leave: Enjoy 30 days of paid vacation per year, increasing to 35 days after five years of service. Varied Projects: Work across diverse customer service projects for well-known international brands. Real Responsibility: Take ownership of important operational processes from the beginning. Fast Decision-Making: Benefit from short communication channels, accessible decision-makers, and an agile working environment. AI and Automation Exposure: Collaborate with a team that develops its own AI solutions and bots while continuously exploring new technologies. Professional Development: Access learning and training opportunities to strengthen your professional skills. Flexible Contract Arrangements: Candidates living outside Germany will collaborate on a freelance basis.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/7d6ea40d-3dd8-45bc-98e7-5aaae0a94791",
+      "isLive": true
+    },
     {
       "id": 2182408382,
       "externalId": "f737070d-edf9-450d-a343-6b1db5af41e2",
@@ -586,7 +751,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T07:28:41.573Z",
       "skills": [
         "Python",
@@ -617,7 +782,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T07:04:19.077Z",
       "skills": [
         "Python",
@@ -644,7 +809,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T06:52:21.984Z",
       "skills": [
         "SQL",
@@ -675,7 +840,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T06:50:33.177Z",
       "skills": [
         "SQL",
@@ -706,7 +871,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T06:49:51.506Z",
       "skills": [
         "SQL",
@@ -737,7 +902,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T06:48:33.563Z",
       "skills": [
         "Content"
@@ -762,7 +927,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T06:47:58.292Z",
       "skills": [
         "Content"
@@ -787,7 +952,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T06:46:23.206Z",
       "skills": [
         "Content"
@@ -1975,7 +2140,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T07:45:57.726Z",
       "skills": [
         "Excel",
@@ -2003,7 +2168,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T07:43:04.501Z",
       "skills": [
         "Excel",
@@ -2031,7 +2196,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T07:42:18.984Z",
       "skills": [
         "Excel",
@@ -2059,7 +2224,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T07:40:45.295Z",
       "skills": [
         "JavaScript",
@@ -2088,7 +2253,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T07:40:04.781Z",
       "skills": [
         "JavaScript",
@@ -2117,7 +2282,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T07:35:14.642Z",
       "skills": [
         "JavaScript",
@@ -2146,7 +2311,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T07:05:55.317Z",
       "skills": [
         "Excel",
@@ -2173,7 +2338,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T07:05:11.029Z",
       "skills": [
         "Excel",
@@ -2200,7 +2365,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T07:03:31.984Z",
       "skills": [
         "Excel",
@@ -2227,7 +2392,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T02:16:58-05:00",
       "skills": [
         "Excel",
@@ -2655,7 +2820,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:58:00.166Z",
       "skills": [
         "Excel",
@@ -2682,7 +2847,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:51:10.508Z",
       "skills": [
         "Research",
@@ -2708,7 +2873,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:50:30.260Z",
       "skills": [
         "Research",
@@ -2734,7 +2899,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:48:02.838Z",
       "skills": [
         "Research",
@@ -2760,7 +2925,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:38:15.036Z",
       "skills": [
         "Excel",
@@ -2791,7 +2956,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:37:36.880Z",
       "skills": [
         "Excel",
@@ -2822,7 +2987,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:35:57.083Z",
       "skills": [
         "Excel",
@@ -2853,7 +3018,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:23:29.860Z",
       "skills": [
         "Clinical",
@@ -2879,7 +3044,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "customer",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:23:20.519Z",
       "skills": [
         "Excel",
@@ -2906,7 +3071,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:22:49.922Z",
       "skills": [
         "Clinical",
@@ -2932,7 +3097,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:21:14.047Z",
       "skills": [
         "Clinical",
@@ -2958,7 +3123,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:20:39.124Z",
       "skills": [
         "React",
@@ -2986,7 +3151,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:18:15.365Z",
       "skills": [
         "Excel",
@@ -3012,7 +3177,7 @@
       "minExp": 20,
       "maxExp": 28,
       "category": "education",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:14:29.537Z",
       "skills": [
         "Sales",
@@ -3039,7 +3204,7 @@
       "minExp": 20,
       "maxExp": 28,
       "category": "education",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:13:55.884Z",
       "skills": [
         "Sales",
@@ -3066,7 +3231,7 @@
       "minExp": 20,
       "maxExp": 28,
       "category": "education",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:12:32.092Z",
       "skills": [
         "Sales",
@@ -3093,7 +3258,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sports",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:04:54.150Z",
       "skills": [
         "Excel"
@@ -3118,7 +3283,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sports",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:04:22.137Z",
       "skills": [
         "Excel"
@@ -3143,7 +3308,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sports",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T07:02:57.043Z",
       "skills": [
         "Excel"
@@ -3168,7 +3333,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T06:55:09.905Z",
       "skills": [
         "Excel",
@@ -3196,7 +3361,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T06:54:36.687Z",
       "skills": [
         "Excel",
@@ -3224,7 +3389,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T06:53:16.394Z",
       "skills": [
         "Excel",
@@ -3455,7 +3620,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-29T07:35:30.800Z",
       "skills": [
         "Excel",
@@ -3483,7 +3648,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-29T07:27:21.814Z",
       "skills": [
         "Content"
@@ -3508,7 +3673,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-29T07:26:40.682Z",
       "skills": [
         "Content"
@@ -3533,7 +3698,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-29T07:24:58.416Z",
       "skills": [
         "Content"
@@ -3558,7 +3723,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-29T07:07:35.844Z",
       "skills": [
         "Python",
@@ -3584,7 +3749,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-29T07:06:54.190Z",
       "skills": [
         "Python",
@@ -3610,7 +3775,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-10-29T07:05:59.766Z",
       "skills": [
         "Research",
@@ -4447,7 +4612,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-28T06:48:22.241Z",
       "skills": [
         "Excel",
@@ -4477,7 +4642,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-28T06:45:50.804Z",
       "skills": [
         "Excel",
@@ -5460,7 +5625,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "general",
-      "age": "منذ 47 أيام",
+      "age": "منذ 48 أيام",
       "publishedAt": "2026-09-17T06:43:26.045Z",
       "skills": [
         "Excel",
@@ -5592,7 +5757,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "manufacturing",
-      "age": "منذ 49 أيام",
+      "age": "منذ 50 أيام",
       "publishedAt": "2026-09-15T06:50:37.096Z",
       "skills": [
         "Excel",
@@ -6023,7 +6188,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "finance",
-      "age": "منذ 63 أيام",
+      "age": "منذ 64 أيام",
       "publishedAt": "2026-09-01T07:45:14.868Z",
       "skills": [
         "Excel",
@@ -6291,7 +6456,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 95 أيام",
+      "age": "منذ 96 أيام",
       "publishedAt": "2026-07-31T07:06:13.431Z",
       "skills": [
         "PMP",
@@ -6651,7 +6816,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 204 أيام",
+      "age": "منذ 205 أيام",
       "publishedAt": "2026-04-13T07:28:26.803Z",
       "skills": [
         "Education",
@@ -6910,7 +7075,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 274 أيام",
+      "age": "منذ 275 أيام",
       "publishedAt": "2026-02-02T07:23:16.709Z",
       "skills": [
         "Finance",
@@ -7346,7 +7511,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 853 أيام",
+      "age": "منذ 854 أيام",
       "publishedAt": "2024-07-03T07:43:10.387Z",
       "skills": [
         "Excel",
