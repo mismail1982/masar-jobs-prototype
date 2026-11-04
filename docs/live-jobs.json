@@ -1,8 +1,92 @@
 {
-  "generatedAt": "2026-11-04T11:27:44.655Z",
-  "total": 293,
+  "generatedAt": "2026-11-04T12:29:48.591Z",
+  "total": 297,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3449036222,
+      "externalId": "aca216aa-ef91-415b-8761-31630716291a",
+      "title": "Software Engineer (Edge - Networking & Fleet)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-11-04T11:32:42.628Z",
+      "skills": [
+        "Python",
+        "Accounting",
+        "Content",
+        "Operations"
+      ],
+      "description": "Accountabilities: Scale the existing data plane by evolving the command-and-control service into a horizontally scalable fetch scheduler capable of handling 50–100 million requests per day. Design and build the Fleet Manager control plane, including provider adapters, inventory and health management, configuration, reconciliation, software rollout control, and metrics export to BigQuery. Develop provider integrations that allow additional device sources to be onboarded through standardized workflows rather than bespoke scripts. Own and improve the CONNECT proxy gateway, edge session management, IP reputation, proxy leases, and request scheduling in collaboration with other engineering teams. Engineer secure and reliable networking between control services and residential peers using mTLS, gRPC, long-polling, and streaming over unreliable connections. Address networking challenges involving NAT, carrier-grade NAT, bandwidth accounting, connection reliability, and resource contention. Define and maintain service-level objectives for availability, request success, and latency across the Edge route. Build observability and operational metrics covering peer availability, device drop-off, bandwidth usage, and provider performance. Implement safe blue/green deployments and software rollouts for control services and edge peers. Participate in the on-call rotation, lead incident post-mortems, and translate operational findings into improvements. Produce technical design documents and recommendations for scheduling, fleet management, and failover strategies. Review technical designs and promote distributed-systems best practices, including consistency, backpressure, idempotency, and limiting failure impact. Requirements: At least 5 years of professional Rust experience, including building, deploying, and operating production services end to end. Demonstrated experience designing and operating distributed systems, such as schedulers, control planes, or stateful services at scale. Strong understanding of distributed-systems concepts, including consistency, network partitions, backpressure, and idempotency. Deep networking knowledge covering TCP, TLS, HTTP, connection handshakes, and packet-level behavior. Practical experience with gRPC and long-lived connections across NAT environments and unreliable networks. Experience building or operating forward proxies, proxy gateways, or residential/ISP proxy infrastructure. Understanding of IP reputation, session stickiness, proxy pool health, and traffic routing. Production operations experience, including defining SLOs and error budgets, building observability, leading incident response, and participating in on-call rotations. Familiarity with cross-platform Rust development targeting Windows, Linux, and Android, including foreign function interface (FFI) boundaries where needed. Strong written communication skills and the ability to collaborate effectively within a globally distributed, remote-first team. Curiosity, analytical thinking, and a practical approach to investigating system behavior under load and resolving underlying causes. Technical environment: Languages: Rust (Tokio, Tonic), C++ (Cronet), Python, and Java. Protocols: gRPC, Protocol Buffers, mTLS, HTTP CONNECT, Chromium networking stack, and browserless HTTP clients. Infrastructure: Google Cloud Platform (GCP), Kubernetes, Terraform, Oracle Cloud Infrastructure (OCI), and data center environments. Data and messaging: Valkey, BigQuery, and Confluent Kafka. Monitoring and observability: Prometheus, Grafana, Loki, and OpenTelemetry. Nice to have: Experience deploying Rust applications on Android, Windows, or macOS. Experience integrating Rust with C or C++ through FFI. Background in fleet or device management, including reconciliation systems, rollout controllers, IoT, or volunteer-computing fleets. Knowledge of anti-bot technologies, browser fingerprinting, and how TLS, HTTP, and IP signals are used to classify traffic. Familiarity",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/aca216aa-ef91-415b-8761-31630716291a",
+      "isLive": true
+    },
+    {
+      "id": 4297254352,
+      "externalId": "38698611-2a52-41c4-80d1-04f0542dc882",
+      "title": "Software Engineer (Edge - Networking & Fleet)",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-11-04T11:30:47.837Z",
+      "skills": [
+        "Python",
+        "Accounting",
+        "Content",
+        "Operations"
+      ],
+      "description": "Accountabilities: Scale the existing data plane by evolving the command-and-control service into a horizontally scalable fetch scheduler capable of handling 50–100 million requests per day. Design and build the Fleet Manager control plane, including provider adapters, inventory and health management, configuration, reconciliation, software rollout control, and metrics export to BigQuery. Develop provider integrations that allow additional device sources to be onboarded through standardized workflows rather than bespoke scripts. Own and improve the CONNECT proxy gateway, edge session management, IP reputation, proxy leases, and request scheduling in collaboration with other engineering teams. Engineer secure and reliable networking between control services and residential peers using mTLS, gRPC, long-polling, and streaming over unreliable connections. Address networking challenges involving NAT, carrier-grade NAT, bandwidth accounting, connection reliability, and resource contention. Define and maintain service-level objectives for availability, request success, and latency across the Edge route. Build observability and operational metrics covering peer availability, device drop-off, bandwidth usage, and provider performance. Implement safe blue/green deployments and software rollouts for control services and edge peers. Participate in the on-call rotation, lead incident post-mortems, and translate operational findings into improvements. Produce technical design documents and recommendations for scheduling, fleet management, and failover strategies. Review technical designs and promote distributed-systems best practices, including consistency, backpressure, idempotency, and limiting failure impact. Requirements: At least 5 years of professional Rust experience, including building, deploying, and operating production services end to end. Demonstrated experience designing and operating distributed systems, such as schedulers, control planes, or stateful services at scale. Strong understanding of distributed-systems concepts, including consistency, network partitions, backpressure, and idempotency. Deep networking knowledge covering TCP, TLS, HTTP, connection handshakes, and packet-level behavior. Practical experience with gRPC and long-lived connections across NAT environments and unreliable networks. Experience building or operating forward proxies, proxy gateways, or residential/ISP proxy infrastructure. Understanding of IP reputation, session stickiness, proxy pool health, and traffic routing. Production operations experience, including defining SLOs and error budgets, building observability, leading incident response, and participating in on-call rotations. Familiarity with cross-platform Rust development targeting Windows, Linux, and Android, including foreign function interface (FFI) boundaries where needed. Strong written communication skills and the ability to collaborate effectively within a globally distributed, remote-first team. Curiosity, analytical thinking, and a practical approach to investigating system behavior under load and resolving underlying causes. Technical environment: Languages: Rust (Tokio, Tonic), C++ (Cronet), Python, and Java. Protocols: gRPC, Protocol Buffers, mTLS, HTTP CONNECT, Chromium networking stack, and browserless HTTP clients. Infrastructure: Google Cloud Platform (GCP), Kubernetes, Terraform, Oracle Cloud Infrastructure (OCI), and data center environments. Data and messaging: Valkey, BigQuery, and Confluent Kafka. Monitoring and observability: Prometheus, Grafana, Loki, and OpenTelemetry. Nice to have: Experience deploying Rust applications on Android, Windows, or macOS. Experience integrating Rust with C or C++ through FFI. Background in fleet or device management, including reconciliation systems, rollout controllers, IoT, or volunteer-computing fleets. Knowledge of anti-bot technologies, browser fingerprinting, and how TLS, HTTP, and IP signals are used to classify traffic. Familiarity",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/38698611-2a52-41c4-80d1-04f0542dc882",
+      "isLive": true
+    },
+    {
+      "id": 262534337,
+      "externalId": "ced3e05b-a3a2-4ec7-b8a0-16edace78e89",
+      "title": "Software Engineer (Edge - Networking & Fleet)",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-11-04T11:30:01.932Z",
+      "skills": [
+        "Python",
+        "Accounting",
+        "Content",
+        "Operations"
+      ],
+      "description": "Accountabilities: Scale the existing data plane by evolving the command-and-control service into a horizontally scalable fetch scheduler capable of handling 50–100 million requests per day. Design and build the Fleet Manager control plane, including provider adapters, inventory and health management, configuration, reconciliation, software rollout control, and metrics export to BigQuery. Develop provider integrations that allow additional device sources to be onboarded through standardized workflows rather than bespoke scripts. Own and improve the CONNECT proxy gateway, edge session management, IP reputation, proxy leases, and request scheduling in collaboration with other engineering teams. Engineer secure and reliable networking between control services and residential peers using mTLS, gRPC, long-polling, and streaming over unreliable connections. Address networking challenges involving NAT, carrier-grade NAT, bandwidth accounting, connection reliability, and resource contention. Define and maintain service-level objectives for availability, request success, and latency across the Edge route. Build observability and operational metrics covering peer availability, device drop-off, bandwidth usage, and provider performance. Implement safe blue/green deployments and software rollouts for control services and edge peers. Participate in the on-call rotation, lead incident post-mortems, and translate operational findings into improvements. Produce technical design documents and recommendations for scheduling, fleet management, and failover strategies. Review technical designs and promote distributed-systems best practices, including consistency, backpressure, idempotency, and limiting failure impact. Requirements: At least 5 years of professional Rust experience, including building, deploying, and operating production services end to end. Demonstrated experience designing and operating distributed systems, such as schedulers, control planes, or stateful services at scale. Strong understanding of distributed-systems concepts, including consistency, network partitions, backpressure, and idempotency. Deep networking knowledge covering TCP, TLS, HTTP, connection handshakes, and packet-level behavior. Practical experience with gRPC and long-lived connections across NAT environments and unreliable networks. Experience building or operating forward proxies, proxy gateways, or residential/ISP proxy infrastructure. Understanding of IP reputation, session stickiness, proxy pool health, and traffic routing. Production operations experience, including defining SLOs and error budgets, building observability, leading incident response, and participating in on-call rotations. Familiarity with cross-platform Rust development targeting Windows, Linux, and Android, including foreign function interface (FFI) boundaries where needed. Strong written communication skills and the ability to collaborate effectively within a globally distributed, remote-first team. Curiosity, analytical thinking, and a practical approach to investigating system behavior under load and resolving underlying causes. Technical environment: Languages: Rust (Tokio, Tonic), C++ (Cronet), Python, and Java. Protocols: gRPC, Protocol Buffers, mTLS, HTTP CONNECT, Chromium networking stack, and browserless HTTP clients. Infrastructure: Google Cloud Platform (GCP), Kubernetes, Terraform, Oracle Cloud Infrastructure (OCI), and data center environments. Data and messaging: Valkey, BigQuery, and Confluent Kafka. Monitoring and observability: Prometheus, Grafana, Loki, and OpenTelemetry. Nice to have: Experience deploying Rust applications on Android, Windows, or macOS. Experience integrating Rust with C or C++ through FFI. Background in fleet or device management, including reconciliation systems, rollout controllers, IoT, or volunteer-computing fleets. Knowledge of anti-bot technologies, browser fingerprinting, and how TLS, HTTP, and IP signals are used to classify traffic. Familiarity",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/ced3e05b-a3a2-4ec7-b8a0-16edace78e89",
+      "isLive": true
+    },
     {
       "id": 2659802211,
       "externalId": "a7d35e82-2031-4edd-b126-7f544557fbd6",
@@ -903,7 +987,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T12:22:04.872Z",
       "skills": [
         "Excel",
@@ -930,7 +1014,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T12:19:32.096Z",
       "skills": [
         "Excel",
@@ -957,7 +1041,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T12:18:28.417Z",
       "skills": [
         "Excel",
@@ -984,7 +1068,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "healthcare",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T12:06:44.045Z",
       "skills": [
         "Excel",
@@ -1012,7 +1096,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "healthcare",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T12:03:54.878Z",
       "skills": [
         "Excel",
@@ -1040,7 +1124,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "healthcare",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T12:02:34.782Z",
       "skills": [
         "Excel",
@@ -1881,7 +1965,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T11:48:16.065Z",
       "skills": [
         "Audit",
@@ -1912,7 +1996,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T11:45:58.272Z",
       "skills": [
         "Audit",
@@ -1943,7 +2027,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T11:44:43.644Z",
       "skills": [
         "Audit",
@@ -1974,7 +2058,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T11:29:28.815Z",
       "skills": [
         "Excel",
@@ -5494,7 +5578,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 13 أيام",
+      "age": "منذ 14 أيام",
       "publishedAt": "2026-10-21T12:14:36.095Z",
       "skills": [
         "Excel",
@@ -5584,7 +5668,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 22 أيام",
+      "age": "منذ 23 أيام",
       "publishedAt": "2026-10-12T12:22:58.148Z",
       "skills": [
         "Excel",
@@ -5704,7 +5788,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 26 أيام",
+      "age": "منذ 27 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "Audit",
@@ -5789,7 +5873,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 32 أيام",
+      "age": "منذ 33 أيام",
       "publishedAt": "2026-10-02T11:45:47.851Z",
       "skills": [
         "Excel",
@@ -5869,7 +5953,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 40 أيام",
+      "age": "منذ 41 أيام",
       "publishedAt": "2026-09-24T12:03:40.894Z",
       "skills": [
         "Sales",
@@ -6022,7 +6106,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 43 أيام",
+      "age": "منذ 44 أيام",
       "publishedAt": "2026-09-21T12:10:38.082Z",
       "skills": [
         "Excel",
@@ -6206,7 +6290,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 48 أيام",
+      "age": "منذ 49 أيام",
       "publishedAt": "2026-09-16T12:18:06.725Z",
       "skills": [
         "Finance",
@@ -6338,7 +6422,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "sales",
-      "age": "منذ 55 أيام",
+      "age": "منذ 56 أيام",
       "publishedAt": "2026-09-09T11:39:00.380Z",
       "skills": [
         "Excel",
@@ -6551,7 +6635,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "finance",
-      "age": "منذ 62 أيام",
+      "age": "منذ 63 أيام",
       "publishedAt": "2026-09-02T11:56:38.924Z",
       "skills": [
         "Accounting",
@@ -6722,7 +6806,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 70 أيام",
+      "age": "منذ 71 أيام",
       "publishedAt": "2026-08-25T12:03:51.980Z",
       "skills": [
         "Excel",
@@ -6800,7 +6884,7 @@
       "minExp": 5,
       "maxExp": 10,
       "category": "technology",
-      "age": "منذ 72 أيام",
+      "age": "منذ 73 أيام",
       "publishedAt": "2026-08-23T11:59:58.499Z",
       "skills": [
         "Excel",
@@ -6857,7 +6941,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 82 أيام",
+      "age": "منذ 83 أيام",
       "publishedAt": "2026-08-13T12:01:07.661Z",
       "skills": [
         "Operations"
@@ -6882,7 +6966,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 82 أيام",
+      "age": "منذ 83 أيام",
       "publishedAt": "2026-08-13T11:55:04.485Z",
       "skills": [
         "Operations",
@@ -6908,7 +6992,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 92 أيام",
+      "age": "منذ 93 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
         "Operations",
@@ -7017,7 +7101,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 99 أيام",
+      "age": "منذ 100 أيام",
       "publishedAt": "2026-07-27T11:44:58.735Z",
       "skills": [
         "Excel",
@@ -7351,7 +7435,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 209 أيام",
+      "age": "منذ 210 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7720,7 +7804,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 442 أيام",
+      "age": "منذ 443 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
@@ -7837,6 +7921,36 @@
       "description": "Welo Data, part of Welocalize, is a global AI data company with 500,000+ contributors delivering high-quality, ethical data to train the world’s most advanced AI systems. We’re building smarter, more human AI with a diverse community in 100+ countries. At Welo Data, Limitless AI. Limitless You. isn’t just a slogan—it’s our promise. We build smarter AI through the power of human contribution, offering limitless opportunities for our global community to grow, contribute, and work on their terms. Are you detail-oriented and curious about tech? Welo Data is building a global network of linguists, language enthusiasts, and culturally aware contributors to shape safer, smarter AI. By joining our talent community, you’ll be first in line for flexible, remote projects in annotation, evaluation, and prompt creation—always on your terms. Note: This is not an active job opening. By applying, you’ll join our global contributor network. When a project aligns with your skills and availability, we’ll reach out with all the details, including scope, timeline, and compensation. What You’ll Need - Native or near-native fluency in Romanian - Based in: Romania, Republic of Moldova - English proficiency - Comfortable with digital tools - Detail-oriented and curious Why Join Us? 🚀 Limitless You – Work when and where you want, with room to grow 🤖 Limitless AI – Contribute to smarter, more inclusive AI 🌎 Be Part of Us – Join a global, supportive community About our projects: Welo Data projects vary by scope and complexity, but all play a role in building more accurate, inclusive, and human-centered AI. Depending on your skills, you might: 📝 Annotate or label text, images, or audio to train AI systems 🔍 Evaluate search results, ads, or chatbot responses for quality and relevance 💬 Create and test prompts to improve large language models (LLMs) 🌍 Ensure content reflects cultural, linguistic, or industry-specific accuracy Some projects last a few days; others may extend over several weeks. Before each one, you’ll receive clear details on tasks, timelines, and compensation, so you can decide what works best for you. How to Apply? Click the “Apply” button on our website to fill out a short form and join our talent database. It only takes a few minutes to get started and become part of our growing community. 📬 Questions? If you have any questions about the process, feel free to contact us at TalentRequests@welocalize.com.",
       "source": "Lever · Welo Data",
       "externalUrl": "https://jobs.lever.co/weloglobal/79e7ba24-048a-4b7e-ba0c-91f42906ec89",
+      "isLive": true
+    },
+    {
+      "id": 1161629028,
+      "externalId": "4ead31c0-91fb-493f-b7d1-7e4a8df744f1",
+      "title": "Building General Manager",
+      "company": "Flow",
+      "country": "السعودية",
+      "region": "Riyadh, Saudi Arabia",
+      "location": "الرياض",
+      "mode": "حضوري",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "general",
+      "age": "منذ 534 أيام",
+      "publishedAt": "2025-05-19T10:42:08.469Z",
+      "skills": [
+        "Excel",
+        "Customer Service",
+        "Marketing",
+        "Operations",
+        "Hospitality",
+        "Leadership"
+      ],
+      "description": "About the Company At Flow, we’re reimagining what it means to live, work, and connect. More than just a real estate company, Flow is a brand, a technology platform, and an operations ecosystem spanning condominiums, hotels, multifamily residences, and office spaces. We’re building a new kind of living experience: one that’s flexible, connected, and designed to create genuine community and real value for the people who call Flow home. Our mission is oneness: prioritizing our residents and their experiences, and fostering connection with ourselves, their neighbors, and the natural world. By putting people at the center of everything we do, we’re creating vibrant, human-centered communities where life, work, creativity, and play all come together in one place. About The Role: As Property Manager, you will be responsible for overseeing all aspects of operations for a Flow community, ensuring an outstanding experience for our neighbors. You will lead a team committed to excellence, drive resident satisfaction and retention, and work cross-functionally to optimize property performance. This role requires a hands-on leader who thrives in a fast-paced environment and is passionate about creating a welcoming and high-quality living experience. Responsibilities: Operational & Financial Management: Foster a welcoming and engaged community, ensuring high levels of resident satisfaction. Respond promptly and professionally to resident inquiries, complaints, and requests. Implement strategies to enhance neighbor retention and long-term occupancy. Organize community initiatives that strengthen engagement and create a sense of belonging. Resident Experience & Community Building: Foster a welcoming and engaged community, ensuring high levels of resident satisfaction. Respond promptly and professionally to resident inquiries, complaints, and requests. Implement strategies to enhance neighbor retention and long-term occupancy. Organize community initiatives that strengthen engagement and create a sense of belonging. Leadership & Team Development: Recruit, train, and lead a high-performing team dedicated to exceptional service. Set clear goals, performance metrics, and accountability measures for the team. Cultivate a culture of ownership, urgency, and high standards across the team. Market Positioning & Strategy: Stay ahead of market trends, competitor activity, and customer needs. Develop and implement strategies to drive occupancy, revenue growth, and brand positioning. Work closely with marketing and leasing teams to refine campaigns and drive demand. Ideal Background: 5+ years of experience in property management. Proven expertise in the hospitality industry. Strong leadership and team management experience. Deep understanding of customer service, property operations, and financial management. Excellent communication and problem-solving skills. Experience working with expatriates, corporate clients, and a diverse resident base. Ability to thrive in a fast-paced, high-growth environment.",
+      "source": "Lever · Flow",
+      "externalUrl": "https://jobs.lever.co/flowlife/4ead31c0-91fb-493f-b7d1-7e4a8df744f1",
       "isLive": true
     },
     {
@@ -7987,7 +8101,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "customer",
-      "age": "منذ 733 أيام",
+      "age": "منذ 734 أيام",
       "publishedAt": "2024-10-31T12:09:49.201Z",
       "skills": [
         "Excel",
@@ -8044,7 +8158,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 859 أيام",
+      "age": "منذ 860 أيام",
       "publishedAt": "2024-06-27T12:18:56.852Z",
       "skills": [
         "Finance",
@@ -8074,7 +8188,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 895 أيام",
+      "age": "منذ 896 أيام",
       "publishedAt": "2024-05-22T12:17:49.028Z",
       "skills": [
         "Excel",
