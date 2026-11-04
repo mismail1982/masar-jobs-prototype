@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-04T09:07:04.229Z",
-  "total": 286,
+  "generatedAt": "2026-11-04T10:17:38.261Z",
+  "total": 287,
   "feeds": 13,
   "jobs": [
     {
@@ -900,7 +900,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T09:48:50.814Z",
       "skills": [
         "Excel",
@@ -926,7 +926,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T09:46:31.479Z",
       "skills": [
         "Excel",
@@ -952,7 +952,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-03T09:45:20.375Z",
       "skills": [
         "Excel",
@@ -2147,7 +2147,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T10:16:09.067Z",
       "skills": [
         "Excel",
@@ -2173,7 +2173,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T10:15:35.091Z",
       "skills": [
         "Excel",
@@ -2199,7 +2199,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T10:14:19.580Z",
       "skills": [
         "Excel",
@@ -2225,7 +2225,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T10:06:59.030Z",
       "skills": [
         "SQL",
@@ -2253,7 +2253,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T10:06:28.343Z",
       "skills": [
         "SQL",
@@ -2281,7 +2281,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-02T10:05:05.417Z",
       "skills": [
         "SQL",
@@ -2813,7 +2813,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T10:12:00.542Z",
       "skills": [
         "Excel",
@@ -2839,7 +2839,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T10:09:16.120Z",
       "skills": [
         "Excel",
@@ -2865,7 +2865,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T10:08:32.503Z",
       "skills": [
         "Excel",
@@ -2891,7 +2891,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T09:55:15.360Z",
       "skills": [
         "Excel",
@@ -2917,7 +2917,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T09:52:36.335Z",
       "skills": [
         "Excel",
@@ -2943,7 +2943,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T09:51:28.047Z",
       "skills": [
         "Excel",
@@ -2969,7 +2969,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T09:40:14.326Z",
       "skills": [
         "Marketing"
@@ -2994,7 +2994,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T09:38:32.858Z",
       "skills": [
         "Marketing"
@@ -3019,7 +3019,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-10-30T09:37:38.406Z",
       "skills": [
         "Marketing"
@@ -4808,7 +4808,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-28T10:00:42.776Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -4833,7 +4833,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-28T09:58:33.285Z",
       "skills": [
         "Excel",
@@ -5266,7 +5266,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "energy",
-      "age": "منذ 12 أيام",
+      "age": "منذ 13 أيام",
       "publishedAt": "2026-10-22T09:11:56.331Z",
       "skills": [
         "Python",
@@ -5728,7 +5728,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 40 أيام",
+      "age": "منذ 41 أيام",
       "publishedAt": "2026-09-24T09:23:39.128Z",
       "skills": [
         "Content"
@@ -5753,7 +5753,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 40 أيام",
+      "age": "منذ 41 أيام",
       "publishedAt": "2026-09-24T09:19:29.053Z",
       "skills": [
         "Content"
@@ -5907,7 +5907,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "sales",
-      "age": "منذ 47 أيام",
+      "age": "منذ 48 أيام",
       "publishedAt": "2026-09-17T09:43:16.238Z",
       "skills": [
         "Sales",
@@ -6618,6 +6618,33 @@
       "isLive": true
     },
     {
+      "id": 4106835075,
+      "externalId": "46991aa4-53b0-4657-9728-90bfd925fb76",
+      "title": "IT Manager",
+      "company": "Flow",
+      "country": "السعودية",
+      "region": "Riyadh, Saudi Arabia",
+      "location": "الرياض",
+      "mode": "حضوري",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 10,
+      "category": "technology",
+      "age": "منذ 72 أيام",
+      "publishedAt": "2026-08-23T11:59:58.499Z",
+      "skills": [
+        "Excel",
+        "Customer Service",
+        "Operations"
+      ],
+      "description": "About the Company At Flow, we’re reimagining what it means to live, work, and connect. More than just a real estate company, Flow is a brand, a technology platform, and an operations ecosystem spanning condominiums, hotels, multifamily residences, and office spaces. We’re building a new kind of living experience: one that’s flexible, connected, and designed to create genuine community and real value for the people who call Flow home. Our mission is oneness: prioritizing our residents and their experiences, and fostering connection with ourselves, their neighbors, and the natural world. By putting people at the center of everything we do, we’re creating vibrant, human-centered communities where life, work, creativity, and play all come together in one place. About the Role : The IT Manager will be the on-site team resource for all multifamily software implementation and maintenance needs. This role will involve various projects, including conducting training sessions, managing vendors during the installation of new systems, as well as troubleshooting down systems. They will also become a subject matter expert for all the company’s multifamily building technology software and integrated hardware. The IT Manager will report directly to the COO. Responsibilities: Familiar and comfortable with multifamily software concepts and have the aptitude for quickly mastering new software in the space. Knowledge of property specific technology; ensure property staff utilize systems as intended and assist with system upgrades, implementations, integrations and maintenance through validation and testing of proposed resolutions and releases. Proactively identify requirements; business and/or residential opportunities that need attention or have gaps in relation to technology. Proactively identify pain-points, opportunities, or inefficiencies where technology can bring a value-add solution or increase efficiency. Provide technical support and initial troubleshooting to on-site team to ensure consistent access to all the tools. Conduct training programs for all in house and vendor products for properties on site teams both in person and via web-conferencing and modify current learning programs. Create standard operating procedures for different tools and software that are in use. and serve as a subject matter expert on a variety of building systems. Ideal Background : 5-10 years experience in the multifamily residential property management industry. Bachelor's or Associate's degree, or completion of technical courses relating to the telecommunications field required. Experience and/or knowledge in Property Management Software such as Yardi, RealPage, Entrate, CRM, screening and Resident apps. Strong ability to work unsupervised and manage time and workload effectively to meet priorities. Excellent written, verbal, and customer service skills required; must be an effective communicator with all levels of the organization.",
+      "source": "Lever · Flow",
+      "externalUrl": "https://jobs.lever.co/flowlife/46991aa4-53b0-4657-9728-90bfd925fb76",
+      "isLive": true
+    },
+    {
       "id": 452053160,
       "externalId": "bf012429-3399-482d-80ad-0fb398575510",
       "title": "Law Enforcement Specialist – UAE",
@@ -6632,7 +6659,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 76 أيام",
+      "age": "منذ 77 أيام",
       "publishedAt": "2026-08-19T09:20:20.297Z",
       "skills": [
         "Excel",
