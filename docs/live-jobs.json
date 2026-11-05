@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T17:27:41.260Z",
-  "total": 294,
+  "generatedAt": "2026-11-05T18:26:51.262Z",
+  "total": 293,
   "feeds": 13,
   "jobs": [
     {
@@ -4759,7 +4759,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "legal",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-10-29T18:19:21.691Z",
       "skills": [
         "Excel",
@@ -5894,33 +5894,6 @@
       "isLive": true
     },
     {
-      "id": 2524208302,
-      "externalId": "f00d81b8-332d-40fd-89bc-2e90ea26931f",
-      "title": "Account Manager - Maritime - MEA",
-      "company": "Kpler",
-      "country": "الإمارات",
-      "region": "Dubai",
-      "location": "دبي",
-      "mode": "هجين",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "sales",
-      "age": "منذ 42 أيام",
-      "publishedAt": "2026-09-24T12:03:40.894Z",
-      "skills": [
-        "Sales",
-        "Marketing",
-        "Operations"
-      ],
-      "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success. About the Role As an Account Manager (Maritime) within our EMEA Mid-market Sales team, you will play a central role in driving revenue expansion across existing client accounts in the Middle East & Africa. You will act as a trusted commercial partner, ensuring our maritime and commodity clients maximize the value of Kpler’s platform while identifying high-impact upsell and cross-sell opportunities. Positioned in Dubai, this role bridges customer success, strategic forecasting, and market intelligence gathering to elevate Kpler’s brand presence across a key regional hub. Key Responsibilities: Drive Revenue Growth: Manage and grow a dedicated account portfolio across Middle East & Africa to consistently meet or exceed annual retention and expansion targets. Identify Opportunity Pipelines: Proactively uncover, qualify, and close upsell and cross-sell opportunities within existing accounts by deeply understanding client workflows. Commercial Strategy & Planning: Serve as a strategic partner supporting demand forecasting, budgeting, multi-year account planning, and commercial reporting. Gather Market & Competitor Intelligence: Capture actionable product feedback and competitor intelligence directly from client interactions to inform regional strategy and product roadmaps. Negotiate & Secure Agreements: Lead contract renewal negotiations to secure long-term, profitable agreements that align with corporate policies and commercial goals. CRM & Forecast Discipline: Maintain accurate account records, engagement logs, and sales forecasting within the CRM system to support transparent cross-functional visibility. Cross-Functional Collaboration: Partner closely with Customer Success, Marketing, Sales Operations, and Product units to deliver exceptional value and advocacy across client accounts. Experience & Background: What you'll need (Must-haves) Commercial Track Record: At least 3 years of demonstrated experience in account management, sales, or commercial growth roles. SaaS/Data Vendor Background: Proven background working within technology, SaaS, or data intelligence vendors. Relationship & Negotiation Mastery: Proven ability to build trusted client relationships, navigate commercial renewals, and close upsell deals. Language Proficiency: Fluency in professional business English with exceptional verbal and written communication skills. Nice-to-haves Domain Expertise: Prior knowledge or experience in the maritime, shipping, or commodities markets. Modern Sales Stack: Familiarity with modern commercial tools such as Salesforce, ZoomInfo, Outreach, and LinkedIn Sales Navigator. Additional Languages: Conversational or professional fluency in Arabic or French.",
-      "source": "Lever · Kpler",
-      "externalUrl": "https://jobs.lever.co/kpler/f00d81b8-332d-40fd-89bc-2e90ea26931f",
-      "isLive": true
-    },
-    {
       "id": 2161398770,
       "externalId": "ed960a83-b111-4a58-92a1-e582bfe9f37c",
       "title": "Urdu (Romanized) Linguistic Evaluator & Functional Tester",
@@ -5985,7 +5958,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 42 أيام",
+      "age": "منذ 43 أيام",
       "publishedAt": "2026-09-23T17:48:28.416Z",
       "skills": [
         "Content"
@@ -6535,7 +6508,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "marketing",
-      "age": "منذ 58 أيام",
+      "age": "منذ 59 أيام",
       "publishedAt": "2026-09-07T18:12:54.180Z",
       "skills": [
         "Excel",
