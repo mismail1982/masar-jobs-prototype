@@ -1,8 +1,37 @@
 {
-  "generatedAt": "2026-11-05T01:20:11.720Z",
-  "total": 262,
+  "generatedAt": "2026-11-05T02:37:53.124Z",
+  "total": 263,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3402365269,
+      "externalId": "671b73cb-1970-455f-9ee4-b68b56d3e974",
+      "title": "Channel Account Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "sales",
+      "age": "اليوم",
+      "publishedAt": "2026-11-05T01:44:35.005Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing",
+        "Recruitment",
+        "Leadership"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Channel Account Manager based in Romania. We are seeking a strategic and hands-on Channel Account Manager to build and develop a strong partner ecosystem across the EMEA region. This is an exciting opportunity to shape a channel strategy from the ground up, identifying the right partners and establishing the programs and processes needed for long-term success. You will work closely with regional go-to-market and sales teams to turn partnerships into sustainable sources of pipeline and revenue. The role combines partner recruitment, relationship management, business development, and joint selling. You will collaborate with resellers, distributors, managed service providers, and system integrators operating in the DevOps, cloud, and cybersecurity markets. Ideal for a commercially driven professional who enjoys building relationships and creating impact in a fast-paced technology environment. Accountabilities: Identify, recruit, onboard, and develop strategic channel partners across EMEA, including resellers, distributors, MSPs, MSSPs, and regional system integrators with strong DevOps, cloud, and security expertise. Develop joint business plans with key partners and drive partner-sourced and partner-influenced pipeline and revenue. Train partner sales and technical teams, working alongside Sales Engineers to enable them to independently position, demonstrate, and sell the solutions. Collaborate with account executives throughout the sales cycle, supporting partner-led opportunities from initial meetings through negotiation and deal closure. Establish and improve the foundations of the partner program, including partner tiers, deal registration, engagement rules, discounts, and margin structures. Coordinate joint marketing initiatives with partners, including events, workshops, and campaigns, in collaboration with the marketing team. Work with the Alliances team to support partner opportunities through AWS, Azure, and Google Cloud marketplaces. Maintain accurate partner activity and pipeline information in Salesforce and provide regular performance updates. Share partner and customer insights with Product, Pricing, and leadership teams to help inform business and product decisions. Requirements: At least 5 years of experience in channel sales, partner management, or partner development within B2B software, ideally in DevOps, cloud, or cybersecurity. Practical experience working with resellers, distributors, MSPs, MSSPs, and regional system integrators, with a track record of generating partner-sourced or partner-influenced revenue. An established network of partner relationships across EMEA and the ability to build trusted, productive partnerships throughout the region. Strong interpersonal, communication, negotiation, and influencing skills, with the ability to engage stakeholders at different levels. Proven ability to collaborate closely with direct sales teams and support co-selling activities. Familiarity with enterprise sales methodologies such as MEDDPICC or similar frameworks. Understanding of software supply chain security or container security is an advantage. Knowledge of relevant European regulations, including NIS2, DORA, and the Cyber Resilience Act, is a strong plus. Excellent organizational skills, a proactive mindset, and the ability to work independently while building new processes in a fast-growing startup environment. Benefits: Opportunity to establish and shape an EMEA partner ecosystem from the ground up. Exposure to a broad network of technology partners across the DevOps, cloud, and cybersecurity sectors. Close collaboration with regional sales, go-to-market, alliances, marketing, product, and leadership teams. Opportunity to influence channel strategy, partner programs, and business growth across EMEA.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/671b73cb-1970-455f-9ee4-b68b56d3e974",
+      "isLive": true
+    },
     {
       "id": 4322514540,
       "externalId": "a1cb377d-1c3f-4228-aaf8-10ef17896654",
