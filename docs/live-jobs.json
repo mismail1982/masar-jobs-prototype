@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T15:59:31.403Z",
-  "total": 308,
+  "generatedAt": "2026-11-06T17:02:56.517Z",
+  "total": 307,
   "feeds": 13,
   "jobs": [
     {
@@ -5868,37 +5868,6 @@
       "isLive": true
     },
     {
-      "id": 777116151,
-      "externalId": "55e67b60-27da-4ad8-976d-4b86febf3ac5",
-      "title": "Financial Accountant",
-      "company": "Welo Data",
-      "country": "عُمان",
-      "region": "Milan, Italy / Cluj-Napoca, Romania / Thessaloniki, Greece",
-      "location": "Milan, Italy / Cluj-Napoca, Romania / Thessaloniki, Greece",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 2,
-      "maxExp": 3,
-      "category": "finance",
-      "age": "منذ 14 أيام",
-      "publishedAt": "2026-10-23T14:02:56.459Z",
-      "skills": [
-        "Excel",
-        "IFRS",
-        "Accounting",
-        "Audit",
-        "Finance",
-        "Marketing",
-        "Content"
-      ],
-      "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. Welo Global’s five brands—Welocalize (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services for law firms and corporate legal teams), Welo Life Sciences (regulated language and compliance-aligned content solutions for pharmaceutical, biotech, and medical device organizations), Adapt (multilingual performance-led digital marketing agency), and Welo Data (multilingual data generation, evaluation, and human data infrastructure for AI systems)—serve distinct customer segments with purpose-built expertise, fit-for-purpose solutions, and supporting technology. weloglobal.com Job Overview We are looking for a Financial Accountant to join our multinational, multi-currency European Finance team. The ideal candidate must be a self-starter, organised and flexible. We are looking for someone that has excellent interpersonal skills and ability to prioritise with a strong focus on quality, team work and adherence to global deadlines. Excellent written and verbal English communication skills are essential. Main Responsibilities: Strong Financial Accounting knowledge with robust experience in preparing monthly financial statements as this position will own the entire financial reporting cycle for multiple European legal entities Revenue and regulatory filings, both US Gaap and local statutory Management of outsource payroll providers, local payroll and employer taxes reporting monthly Global Transfer Pricing, working with external providers to produce annual TP documentation per country within the organisation Provision of data for multi-currency weekly, monthly and forecast working capital requirements Preparation and analysis of Trial Balance and Financial Statements Detailed review of Trial Balance Monthly reporting requirements Knowledge of IFRS / FRS102 Budget to Actual analysis Assistance in the preparation of audit and corporation taxations requirements and liaison with team leads Ad hoc projects with the wider Accounting team Requirements: Proficiency in Workday would be an advantage (or similar ERP software), proficient MS Excel skills (use of pivot tables, excellent knowledge of formulas) is essential. Knowledge, understanding and application of EU VAT regulation and reporting Accounting qualification – newly qualified or experienced with 2-3 years of working in similar environment Ability to work in an international remote team Qualified Accountant Proven track of experience in Accounts roles/functions Transfer pricing knowledge Committed, flexible and enthusiastic, team player Ability to take initiative",
-      "source": "Lever · Welo Data",
-      "externalUrl": "https://jobs.lever.co/weloglobal/55e67b60-27da-4ad8-976d-4b86febf3ac5",
-      "isLive": true
-    },
-    {
       "id": 3855588981,
       "externalId": "c49c1eb2-36f8-488d-ac27-cc920e6435a9",
       "title": "Senior Crude Oil Analyst",
@@ -6001,7 +5970,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 22 أيام",
+      "age": "منذ 23 أيام",
       "publishedAt": "2026-10-14T16:15:47.910Z",
       "skills": [
         "Excel",
@@ -6083,7 +6052,7 @@
       "title": "English to Uzbek (Cyrillic) Review Lead for UI, Marketing & Product Content",
       "company": "Welo Data",
       "country": "الإمارات",
-      "region": "Remote, Worldwide / Turkey / South Korea / Dubai, UAE / Berlin, Germany",
+      "region": "Turkey / South Korea / Dubai, UAE / Berlin, Germany / Remote - Europe / Remote / Remote, Worldwide",
       "location": "دبي",
       "mode": "عن بُعد",
       "minSalary": 0,
@@ -6114,8 +6083,8 @@
       "title": "English to Serbian (Cyrillic) Review Lead for UI, Marketing & Product Content",
       "company": "Welo Data",
       "country": "عُمان",
-      "region": "Remote, Worldwide / Croatia / Austria / Germany / Zurich, Switzerland / Budapest, Hungary / Romania",
-      "location": "Remote, Worldwide / Croatia / Austria / Germany / Zurich, Switzerland / Budapest, Hungary / Romania",
+      "region": "Croatia / Austria / Germany / Zurich, Switzerland / Budapest, Hungary / Romania / Remote - Europe / Remote / Remote, Worldwide",
+      "location": "Croatia / Austria / Germany / Zurich, Switzerland / Budapest, Hungary / Romania / Remote - Europe / Remote / Remote, Worldwide",
       "mode": "عن بُعد",
       "minSalary": 0,
       "maxSalary": 0,
@@ -6174,7 +6143,7 @@
       "title": "English to Armenian Review Lead for UI, Marketing & Product Content",
       "company": "Welo Data",
       "country": "الإمارات",
-      "region": "Remote, Worldwide / Greece / Poland / Bulgaria / Germany / Dubai, UAE",
+      "region": "Greece / Poland / Bulgaria / Germany / Dubai, UAE / Remote - Europe / Remote / Remote, Worldwide / Athens, Greece",
       "location": "دبي",
       "mode": "عن بُعد",
       "minSalary": 0,
@@ -8177,7 +8146,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "security",
-      "age": "منذ 473 أيام",
+      "age": "منذ 474 أيام",
       "publishedAt": "2025-07-20T16:56:05.026Z",
       "skills": [
         "Audit",
