@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T23:48:11.415Z",
+  "generatedAt": "2026-11-07T01:13:41.017Z",
   "total": 278,
   "feeds": 13,
   "jobs": [
@@ -1981,7 +1981,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-05T00:51:58.699Z",
       "skills": [
         "Excel",
@@ -2007,7 +2007,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-05T00:42:57.773Z",
       "skills": [
         "Research",
