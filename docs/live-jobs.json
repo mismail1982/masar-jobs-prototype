@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T09:29:17.234Z",
-  "total": 273,
+  "generatedAt": "2026-11-08T10:24:51.575Z",
+  "total": 272,
   "feeds": 13,
   "jobs": [
     {
@@ -217,7 +217,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-06T09:51:21.705Z",
       "skills": [
         "Excel",
@@ -247,7 +247,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-06T09:48:21.889Z",
       "skills": [
         "Excel",
@@ -277,7 +277,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-06T09:46:53.945Z",
       "skills": [
         "Excel",
@@ -307,7 +307,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-06T09:36:50.587Z",
       "skills": [
         "Power BI",
@@ -3169,7 +3169,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-03T09:48:50.814Z",
       "skills": [
         "Excel",
@@ -3195,7 +3195,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-03T09:46:31.479Z",
       "skills": [
         "Excel",
@@ -3221,7 +3221,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-03T09:45:20.375Z",
       "skills": [
         "Excel",
@@ -4301,7 +4301,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-02T10:22:48.259Z",
       "skills": [
         "Excel",
@@ -4329,7 +4329,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-02T10:22:17.294Z",
       "skills": [
         "Excel",
@@ -4357,7 +4357,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-02T10:20:55.471Z",
       "skills": [
         "Excel",
@@ -4385,7 +4385,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-02T10:16:09.067Z",
       "skills": [
         "Excel",
@@ -4411,7 +4411,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-02T10:15:35.091Z",
       "skills": [
         "Excel",
@@ -4437,7 +4437,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-02T10:06:59.030Z",
       "skills": [
         "SQL",
@@ -4465,7 +4465,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-02T10:06:28.343Z",
       "skills": [
         "SQL",
@@ -4493,7 +4493,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-02T10:05:05.417Z",
       "skills": [
         "SQL",
@@ -4970,7 +4970,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 10 أيام",
+      "age": "منذ 11 أيام",
       "publishedAt": "2026-10-28T10:00:42.776Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5611,7 +5611,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "sales",
-      "age": "منذ 51 أيام",
+      "age": "منذ 52 أيام",
       "publishedAt": "2026-09-17T09:43:16.238Z",
       "skills": [
         "Sales",
@@ -6730,37 +6730,6 @@
       "description": "JOB PURPOSE Lead the operational strategy of the programme as part of the overall loyalty strategy and execute according to scope, service level, operating procedures and cost, to drive short and long term financial and operational goals. Design and lead the strategic development of loyalty product and product roadmap. Management and continuous improvement of the loyalty platform technology operating environment. Working across the digital product lifecycle, this position is accountable for delivering key, prioritized parts of the digital loyalty strategy guided by customer, commercial and technical innovations. This position will also measure the product post-launch to ensure efficiency, customer adoption and satisfaction This role is exclusive to UAE Nationals Roles and Responsibilities Strategic Responsibilities Responsible for creating a seamless and personalized digital experience through the loyalty programme, that is engaging, valuable and fun for members across product management, ecommerce and user experience Partner with Technology and Digital Products teams to provide guidance and recommendations to drive loyalty innovation and growth based on the programme’s road map timing Deliver and update the multi-year digital loyalty roadmap, including digital customer journey, benefits, customer KPIs and drive new and dynamic digital initiatives to our existing base of members while reaching out to new prospect members Deliver a point of view on best-in-class digital loyalty practices and technologies, based on customer insights, customer-level testing and analytics and market and competitive data with the goal of driving incremental customer loyalty and financial value Formulate and enhance the digital strategy by staying up to date on Loyalty technologies and trends Functional Responsibilities Define and manage the Darna loyalty offer(s), including program structure, roadmap, benefits, program offer expense management, as well as implementing and managing the data architecture systems needed to support long-term goals. Champion the digital loyalty roadmap and prioritization of new features; provide input to the annual product lifecycles including roadmap, backlog grooming and launch as well as the enhancement and extensibility of existing loyalty products and services In line with the loyalty programme strategy and design, seek out and exploit digital loyalty programme development opportunities, innovation and gamification to drive customer acquisition and penetration within the business portfolios Conceptualize and launch loyalty digital platforms and initiatives, from business case development, user story creation, prototyping and piloting, through activation Work closely with stakeholders to ensure all dependencies and impediments are understood so new features can be released in a timely manner: Highlight product features and improvements in a manner clearly understandable to the development team; Drive sprint planning and demo meetings to track and monitor sprint achievement, as well as to scrum team; Define and execute go-to-market strategies for the digital loyalty initiatives across all participating brands and markets; and training plans, working with marketing, operations, change management and development teams Collaborate with IT to develop appropriate capital budget investments to support and grow the digital initiatives of loyalty programme Work with project teams and sub-teams to develop and implement digital loyalty enhancements and products. Manages these projects in accordance with loyalty programme’s established program methodologies. Ensures that multiple projects meet specified timelines and deliver expected results People Development Guide and motivate subordinates to enhance performance and produce quality work, and ensure that they are continuously developed for higher-level roles Coach and mentor the team and stakeholders on domain expertise of loyalty, consumer marketing and brand marketing RELATE",
       "source": "Lever · Aldar Properties",
       "externalUrl": "https://jobs.lever.co/aldar/402d418c-5a78-4773-ab35-59978c893de2",
-      "isLive": true
-    },
-    {
-      "id": 110564942,
-      "externalId": "084f3fdc-4510-4549-b9c3-71c453426444",
-      "title": "B2B Sales Manager, KSA",
-      "company": "Flow",
-      "country": "السعودية",
-      "region": "Riyadh, Saudi Arabia",
-      "location": "الرياض",
-      "mode": "حضوري",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "sales",
-      "age": "منذ 179 أيام",
-      "publishedAt": "2026-05-12T12:47:57.404Z",
-      "skills": [
-        "Excel",
-        "Finance",
-        "Sales",
-        "Marketing",
-        "Operations",
-        "Procurement",
-        "Hospitality"
-      ],
-      "description": "About the Company At Flow, we’re reimagining what it means to live, work, and connect. More than just a real estate company, Flow is a brand, a technology platform, and an operations ecosystem spanning condominiums, hotels, multifamily residences, and office spaces. We’re building a new kind of living experience: one that’s flexible, connected, and designed to create genuine community and real value for the people who call Flow home. Our mission is oneness: prioritizing our residents and their experiences, and fostering connection with ourselves, their neighbors, and the natural world. By putting people at the center of everything we do, we’re creating vibrant, human-centered communities where life, work, creativity, and play all come together in one place. About the Role : As B2B Sales Manager, KSA, you will own Flow's corporate housing and relocation business across the Kingdom. You will be the senior commercial relationship for HR leaders, global mobility teams, and procurement at the largest employers in Saudi Arabia — from giga-projects and government-linked entities to multinationals, consulting firms, and fast-scaling local champions bringing talent into the country. This is a senior individual contributor role for a hunter-closer who can open doors at the executive level, structure multi-unit, multi-year agreements, and translate Flow's living experience into a compelling solution for companies relocating and housing their people. You will carry a personal quota, work an enterprise-style pipeline, and act as the voice of the corporate customer inside Flow. Responsibilities: Pipeline & New Business Development: Identify, prioritize, and pursue target accounts across KSA — including giga-projects, government and semi-government entities, multinationals, consulting and professional services firms, and fast-growing local employers with significant mobility needs. Build and own a robust pipeline through outbound prospecting, industry events, networking, partnerships with relocation management companies (RMCs), and referrals. Lead full cycle sales: discovery, solution design, site visits, proposals, commercial negotiation, and contract close. Account Management & Renewals: Serve as the senior point of contact for corporate accounts post-signature, ensuring smooth onboarding and a seamless resident experience for relocated employees. Drive renewals, expansions, and cross-sell across Flow's MENA footprint as new communities come online. Build deep, trust-based relationships with HR, global mobility, procurement, and executive sponsors at key accounts. Commercial Strategy & Deal Structuring: Structure multi-unit, multi-year corporate housing agreements that balance occupancy, ADR, and long-term account value. Partner with finance and revenue management to price competitively while protecting margin. Work with legal on master service agreements, preferred supplier arrangements, and bespoke contract terms required by enterprise customers. Cross-Functional Partnership: Partner with property leadership and operations to ensure corporate residents receive the experience promised in the sales process. Work closely with Marketing on B2B campaigns, account-based marketing, sector positioning, and industry events. Provide structured feedback to product, operations, and leadership on what enterprise customers need from Flow's offering in KSA. Market Intelligence: Maintain a clear view of the KSA corporate housing landscape — competitor offerings, pricing, inventory, and how mobility budgets are evolving as Vision 2030 reshapes the market. Track demand drivers across sectors and translate them into a focused account plan. Ideal Background: 8+ years of B2B sales experience, with a meaningful portion selling into HR, global mobility, procurement, or C-suite buyers at large enterprises. Direct experience in corporate housing, serviced apartments, extended-stay hospitality, relocation services, or commercial/residential real estate selling to",
-      "source": "Lever · Flow",
-      "externalUrl": "https://jobs.lever.co/flowlife/084f3fdc-4510-4549-b9c3-71c453426444",
       "isLive": true
     },
     {
