@@ -1,8 +1,185 @@
 {
-  "generatedAt": "2026-11-09T06:46:38.909Z",
-  "total": 272,
+  "generatedAt": "2026-11-09T08:07:26.634Z",
+  "total": 278,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3908694568,
+      "externalId": "49faf3e4-44c0-45af-9ad5-93774dc1ffc6",
+      "title": "Senior Product Analyst / Data Scientist",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-09T07:49:11.252Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Finance",
+        "Sales",
+        "Operations"
+      ],
+      "description": "Accountabilities:: Define, develop, and maintain core product and business metrics, establishing a reliable single source of truth that supports decision-making across Product, Finance, and Sales. Build a comprehensive understanding of self-service customers by analyzing usage patterns, customer health, satisfaction, retention risks, unmet needs, and potential growth opportunities. Collect, process, and analyze large-scale customer, product, and operational datasets to uncover trends, identify business opportunities, and support strategic decisions. Translate customer demand, business objectives, and commercial plans into accurate capacity forecasts, helping teams make informed capacity allocation decisions. Monitor and evaluate effective capacity utilization, identifying opportunities to optimize available resources and maximize their commercial value. Design, assess, and improve pricing and packaging strategies, including guaranteed capacity, on-demand pricing, customer commitments, clawback mechanisms, and provisioned throughput units. Develop data-driven recommendations for self-service and managed service offerings, covering customer segmentation, pricing structures, capacity planning, and monetization opportunities. Take end-to-end ownership of analytical projects, from defining business questions and building data pipelines to conducting statistical analyses and delivering production-ready solutions. Use Python, SQL, statistical methods, and distributed data-processing tools to generate reliable insights and support scalable analytical workflows. Leverage AI-assisted coding tools to accelerate development and analysis while ensuring the accuracy, quality, and reliability of the resulting solutions. Translate complex analytical findings into clear, actionable recommendations that influence product strategy, commercial decisions, and operational improvements. Collaborate with cross-functional stakeholders across Product, Engineering, Applied AI, Finance, Sales, and Operations to turn insights into measurable business impact. Requirements: At least 5 years of professional experience in product analytics, data science, business analytics, or a closely related analytical discipline. Strong technical proficiency in Python and SQL, combined with a solid understanding of statistics and the analytical methods used to interpret complex datasets. Hands-on experience analyzing large-scale customer, product, and usage data using statistical techniques, analytical frameworks, or distributed data-processing technologies. Proven ability to take analytical projects from initial business questions through data preparation, analysis, solution development, and production-ready implementation. Experience defining business and product metrics, building reliable analytical datasets, and establishing consistent reporting frameworks. Strong commercial and product judgment, with the ability to balance customer value, monetization, business growth, and profitability. Practical experience with pricing, packaging, monetization strategies, or commercial analytics, ideally within technical, subscription-based, or consumption-based products. Demonstrated ability to transform complex datasets and analytical findings into clear recommendations that support strategic and operational decision-making. Familiarity with AI-assisted coding as a core part of the development workflow, including the ability to guide AI tools, validate their outputs, and take full ownership of the final results. Excellent cross-functional collaboration skills, with the ability to work effectively alongside Product, Engineering, Data, Finance, Sales, and Operations teams. A proactive, hands-on, and autonomous working style, with the ability to navigate ambiguity and solve problems in technically complex environments. Strong communication and presentation skills, with the ability to explain technical concepts and analytical insights to both technical and non-technical stakeholders.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/49faf3e4-44c0-45af-9ad5-93774dc1ffc6",
+      "isLive": true
+    },
+    {
+      "id": 1762903783,
+      "externalId": "5cf3d046-980e-4aa6-96e5-1c3d825a4623",
+      "title": "Product and Content Marketer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "media",
+      "age": "اليوم",
+      "publishedAt": "2026-11-09T07:46:56.315Z",
+      "skills": [
+        "React",
+        "Excel",
+        "Education",
+        "Research",
+        "Sales",
+        "Marketing",
+        "Content"
+      ],
+      "description": "Accountabilities:: Own the complete lifecycle of major product and research launches, from technical positioning and messaging to launch blogs, landing pages, documentation walkthroughs, and distribution strategies. Translate complex AI research, scientific papers, model training results, and benchmark evaluations into accessible, engaging, and technically accurate content for a broad range of audiences. Collaborate closely with researchers, engineers, and cross-functional teams to identify key insights and develop compelling narratives that communicate the value and impact of technical innovations. Develop strategic product positioning, competitive battlecards, technical one-pagers, and sales enablement materials for the core product portfolio, covering adaptive data, intelligence, and interfaces. Lead content creation and distribution across multiple channels, ensuring consistency between social media campaigns, long-form articles, product documentation, and developer announcements. Build and manage a strong social media presence, particularly on X (formerly Twitter) and LinkedIn, by developing platform-specific content and engaging with relevant AI, machine learning, and developer communities. Monitor industry conversations and emerging trends, participate in relevant discussions with meaningful technical insights, and strengthen visibility around continual learning and adaptive AI systems. Create diverse content formats, including technical breakdowns, founder-led posts, product demonstrations, case studies, blog articles, and short-form social content. Track and analyze content and platform performance, including reach, engagement, audience quality, and downstream traffic, using insights to continuously optimize communication strategies. Experiment with new content formats and distribution approaches, identify what resonates with target audiences, and prioritize initiatives that generate measurable impact. Respond quickly to significant product releases, research developments, and industry discussions, ensuring timely and relevant communication. Establish and maintain consistent editorial standards and messaging across all marketing and communication touchpoints. Requirements: At least 4 years of professional experience in product marketing, technical content creation, developer marketing, or a related field, including a minimum of 2 years working in AI, machine learning, or developer tools. Proven track record of creating and publishing high-impact technical content, product launch narratives, and social media campaigns that generate measurable engagement and audience growth. Demonstrated experience building, managing, and growing strategic social media channels, particularly X (formerly Twitter) and LinkedIn, ideally within AI, machine learning, developer tools, or open-source ecosystems. Exceptional writing and editorial skills, with the ability to translate complex technical concepts and research findings into clear, compelling, and credible messaging. Strong understanding of different content formats and platform dynamics, including technical social media threads, LinkedIn thought leadership, long-form articles, and short-form video storytelling. Ability to develop effective product positioning and marketing materials that resonate with both technical audiences, such as developers and researchers, and business stakeholders, including enterprise buyers. Experience collaborating closely with technical teams, with a solid understanding of how research developments translate into products and how technical capabilities can be communicated through effective marketing. Strong execution and project ownership skills, with the ability to manage multiple initiatives, meet deadlines, and deliver high-quality content in a fast-moving environment. Ability to react quickly to emerging industry developments, product launches, and relevant discussions while maintaining technical accuracy and editorial quality. Analytical mindset, wi",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/5cf3d046-980e-4aa6-96e5-1c3d825a4623",
+      "isLive": true
+    },
+    {
+      "id": 748603649,
+      "externalId": "43ecb306-95c7-4ce2-8b12-53078799ee14",
+      "title": "Managed Services Lead, Community & Player Operations",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-11-09T07:44:46.016Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Recruitment",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: Lead end-to-end player operations for multiple game studios, managing playtests through the platform, including test flows, surveys, NDAs, invitation waves, player communications, and post-test follow-ups. Develop and schedule effective player communications, monitor engagement and conversion metrics at every stage, and optimize campaigns to improve participation and results. Analyze playtest data, player feedback, and community sentiment to deliver actionable insights and clear performance reports to studio teams. Coordinate player recruitment initiatives in collaboration with internal teams, leveraging existing player networks and paid acquisition campaigns. Establish, restructure, and manage Discord communities, including server architecture, roles, permissions, bots, onboarding processes, and community guidelines. Develop moderation policies, escalation procedures, and operational handbooks while recruiting, training, and supporting moderation teams. Manage player reports, community conflicts, toxicity, and sensitive situations, providing guidance to developers on effective player engagement and crisis communication. Support studios in launching and managing creator programs, including creator outreach, onboarding, and ongoing communications through dedicated tools. Build and scale the managed services offering by designing service packages, templates, and playbooks adapted to different studio sizes and needs, from self-service solutions to fully embedded support. Monitor engagement performance, time allocation, and delivery outcomes to inform pricing strategies, resource planning, and operational scalability. Partner with sales teams on service scoping and proposals, while collaborating with customer success managers to ensure consistent delivery and strong studio relationships. Gather feedback from hands-on platform usage and work with the Product team to identify improvements and tools that enable efficient support across multiple studios. Requirements: At least 4 years of professional experience in community management, player operations, or live operations within a game studio or publisher. Proven hands-on experience managing playtests or beta programs, including player recruitment, communication strategies, feedback collection, and post-test analysis. Demonstrated experience building, managing, and moderating large Discord communities, including developing moderation guidelines and training moderation teams. Strong analytical skills and confidence working with data, particularly funnel metrics, conversion rates, and engagement indicators to drive operational improvements. Excellent communication and organizational skills, with the ability to manage multiple studio relationships and projects simultaneously. Strong problem-solving abilities and emotional resilience, with the capacity to handle toxic community environments, sensitive player interactions, and challenging conversations with studio leadership. Familiarity with FirstLook or comparable playtesting, community management, and player engagement platforms. Ability to work independently, take ownership of projects, and balance strategic planning with hands-on execution. Experience in consulting or agency environments, particularly supporting multiple game studios simultaneously, would be an advantage. Background in player acquisition, including organic community growth and paid acquisition channels, is a plus. Previous experience developing creator or influencer programs is desirable. An established network within game studio community management teams would be beneficial. Flexibility to collaborate with teams and strategic accounts across North America and Europe, with some APAC coverage during overlapping working hours. Benefits: Competitive hourly contract rate, reflecting experience and expertise. Part-time contract opportunity of up to 20 hours per week initially. Potential pathway to a full-time position as the managed services offering e",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/43ecb306-95c7-4ce2-8b12-53078799ee14",
+      "isLive": true
+    },
+    {
+      "id": 3291101774,
+      "externalId": "7277cf80-3ef3-4be1-b869-54b491bf61fa",
+      "title": "Marketing Operations Manager (fixed term)",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-09T07:41:13.688Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: Marketing Operations and Project Management: Maintain a comprehensive overview of ongoing marketing projects, tracking deadlines, dependencies, priorities and potential risks across the department. Coordinate recurring departmental meetings, document key decisions, assign action items and ensure timely follow-through. Proactively follow up with team members and stakeholders to resolve routine blockers and keep projects progressing. Provide leadership with concise, regular updates on project progress, emerging risks, priorities and decisions requiring attention. Identify situations requiring management input and present clear recommendations or alternative solutions. Campaign and Launch Coordination: Support campaign leads in translating strategic priorities into actionable project plans with clearly defined responsibilities, timelines, deliverables and launch dates. Coordinate activities across copywriting, design, web development, email marketing, events and Sales to ensure successful campaign execution. Monitor campaign readiness by checking that all required assets, follow-up journeys, Sales handoffs and performance tracking arrangements are in place. Identify missing deliverables, unclear ownership, incomplete follow-up processes and other potential execution gaps before they affect launch timelines. Support the coordination of marketing campaigns, product launches, webinars and events across consumer and B2B business activities. Process and Systems Management: Maintain efficient, practical and repeatable operational processes, identifying opportunities for improvement without introducing unnecessary administrative complexity. Keep project management platforms organized, updated and consistently used across the department. Consolidate routine information from existing reports and dashboards to provide leadership with relevant operational insights. Help maintain visibility and accountability across workflows, ensuring teams have the information and tools needed to deliver effectively. Transition and Handover: Work closely with the current Marketing Operations Manager to understand existing processes and progressively assume agreed responsibilities. Document operational workflows, ongoing projects, key decisions and outstanding tasks to ensure a smooth transition. Maintain clear records of process changes and unresolved priorities throughout the contract period. Requirements: At least 4 years of professional experience in marketing operations, marketing project management, program management or a similar position within a marketing department. Proven experience coordinating multiple projects simultaneously and managing deadlines, dependencies and deliverables across cross-functional teams. Strong understanding of marketing operations and the processes involved in campaigns, product launches, webinars, events and Sales handoffs. Ability to assess campaign readiness, identify missing elements and anticipate operational challenges before they affect execution. Experience coordinating stakeholders and influencing progress without having direct managerial authority over contributors. Familiarity with project management platforms, CRM systems and marketing automation tools. HubSpot experience is considered an advantage. Strong organizational and prioritization skills, with the ability to manage competing deadlines in a fast-paced environment. Excellent written communication skills and the ability to provide clear, proactive updates to stakeholders and leadership. Strong problem-solving abilities, sound judgment and the confidence to resolve routine operational issues independently while escalating more complex decisions appropriately. Experience facilitating meetings, documenting decisions, tracking action items and maintaining accountability across distributed teams. Ability to develop and improve operational processes while keeping workflows simple, practical and efficient. Comfortable working in a fully remot",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/7277cf80-3ef3-4be1-b869-54b491bf61fa",
+      "isLive": true
+    },
+    {
+      "id": 1615537011,
+      "externalId": "01dd86bf-dcfc-4d07-a363-a8173cf76966",
+      "title": "Marketing Operations Manager (fixed term)",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-09T07:40:46.167Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: Marketing Operations and Project Management: Maintain a comprehensive overview of ongoing marketing projects, tracking deadlines, dependencies, priorities and potential risks across the department. Coordinate recurring departmental meetings, document key decisions, assign action items and ensure timely follow-through. Proactively follow up with team members and stakeholders to resolve routine blockers and keep projects progressing. Provide leadership with concise, regular updates on project progress, emerging risks, priorities and decisions requiring attention. Identify situations requiring management input and present clear recommendations or alternative solutions. Campaign and Launch Coordination: Support campaign leads in translating strategic priorities into actionable project plans with clearly defined responsibilities, timelines, deliverables and launch dates. Coordinate activities across copywriting, design, web development, email marketing, events and Sales to ensure successful campaign execution. Monitor campaign readiness by checking that all required assets, follow-up journeys, Sales handoffs and performance tracking arrangements are in place. Identify missing deliverables, unclear ownership, incomplete follow-up processes and other potential execution gaps before they affect launch timelines. Support the coordination of marketing campaigns, product launches, webinars and events across consumer and B2B business activities. Process and Systems Management: Maintain efficient, practical and repeatable operational processes, identifying opportunities for improvement without introducing unnecessary administrative complexity. Keep project management platforms organized, updated and consistently used across the department. Consolidate routine information from existing reports and dashboards to provide leadership with relevant operational insights. Help maintain visibility and accountability across workflows, ensuring teams have the information and tools needed to deliver effectively. Transition and Handover: Work closely with the current Marketing Operations Manager to understand existing processes and progressively assume agreed responsibilities. Document operational workflows, ongoing projects, key decisions and outstanding tasks to ensure a smooth transition. Maintain clear records of process changes and unresolved priorities throughout the contract period. Requirements: At least 4 years of professional experience in marketing operations, marketing project management, program management or a similar position within a marketing department. Proven experience coordinating multiple projects simultaneously and managing deadlines, dependencies and deliverables across cross-functional teams. Strong understanding of marketing operations and the processes involved in campaigns, product launches, webinars, events and Sales handoffs. Ability to assess campaign readiness, identify missing elements and anticipate operational challenges before they affect execution. Experience coordinating stakeholders and influencing progress without having direct managerial authority over contributors. Familiarity with project management platforms, CRM systems and marketing automation tools. HubSpot experience is considered an advantage. Strong organizational and prioritization skills, with the ability to manage competing deadlines in a fast-paced environment. Excellent written communication skills and the ability to provide clear, proactive updates to stakeholders and leadership. Strong problem-solving abilities, sound judgment and the confidence to resolve routine operational issues independently while escalating more complex decisions appropriately. Experience facilitating meetings, documenting decisions, tracking action items and maintaining accountability across distributed teams. Ability to develop and improve operational processes while keeping workflows simple, practical and efficient. Comfortable working in a fully remot",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/01dd86bf-dcfc-4d07-a363-a8173cf76966",
+      "isLive": true
+    },
+    {
+      "id": 1292782515,
+      "externalId": "b07a5280-68c7-46d4-99c1-717b76be5e7a",
+      "title": "Marketing Operations Manager (fixed term)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-09T07:39:35.171Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: Marketing Operations and Project Management: Maintain a comprehensive overview of ongoing marketing projects, tracking deadlines, dependencies, priorities and potential risks across the department. Coordinate recurring departmental meetings, document key decisions, assign action items and ensure timely follow-through. Proactively follow up with team members and stakeholders to resolve routine blockers and keep projects progressing. Provide leadership with concise, regular updates on project progress, emerging risks, priorities and decisions requiring attention. Identify situations requiring management input and present clear recommendations or alternative solutions. Campaign and Launch Coordination: Support campaign leads in translating strategic priorities into actionable project plans with clearly defined responsibilities, timelines, deliverables and launch dates. Coordinate activities across copywriting, design, web development, email marketing, events and Sales to ensure successful campaign execution. Monitor campaign readiness by checking that all required assets, follow-up journeys, Sales handoffs and performance tracking arrangements are in place. Identify missing deliverables, unclear ownership, incomplete follow-up processes and other potential execution gaps before they affect launch timelines. Support the coordination of marketing campaigns, product launches, webinars and events across consumer and B2B business activities. Process and Systems Management: Maintain efficient, practical and repeatable operational processes, identifying opportunities for improvement without introducing unnecessary administrative complexity. Keep project management platforms organized, updated and consistently used across the department. Consolidate routine information from existing reports and dashboards to provide leadership with relevant operational insights. Help maintain visibility and accountability across workflows, ensuring teams have the information and tools needed to deliver effectively. Transition and Handover: Work closely with the current Marketing Operations Manager to understand existing processes and progressively assume agreed responsibilities. Document operational workflows, ongoing projects, key decisions and outstanding tasks to ensure a smooth transition. Maintain clear records of process changes and unresolved priorities throughout the contract period. Requirements: At least 4 years of professional experience in marketing operations, marketing project management, program management or a similar position within a marketing department. Proven experience coordinating multiple projects simultaneously and managing deadlines, dependencies and deliverables across cross-functional teams. Strong understanding of marketing operations and the processes involved in campaigns, product launches, webinars, events and Sales handoffs. Ability to assess campaign readiness, identify missing elements and anticipate operational challenges before they affect execution. Experience coordinating stakeholders and influencing progress without having direct managerial authority over contributors. Familiarity with project management platforms, CRM systems and marketing automation tools. HubSpot experience is considered an advantage. Strong organizational and prioritization skills, with the ability to manage competing deadlines in a fast-paced environment. Excellent written communication skills and the ability to provide clear, proactive updates to stakeholders and leadership. Strong problem-solving abilities, sound judgment and the confidence to resolve routine operational issues independently while escalating more complex decisions appropriately. Experience facilitating meetings, documenting decisions, tracking action items and maintaining accountability across distributed teams. Ability to develop and improve operational processes while keeping workflows simple, practical and efficient. Comfortable working in a fully remot",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/b07a5280-68c7-46d4-99c1-717b76be5e7a",
+      "isLive": true
+    },
     {
       "id": 2313342646,
       "externalId": "3f09d0d1-bfc2-4e7a-984d-360294f54cef",
@@ -501,7 +678,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T08:06:41.127Z",
       "skills": [
         "Excel",
@@ -531,7 +708,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:56:15.042Z",
       "skills": [
         "SAP",
@@ -558,7 +735,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:54:40.815Z",
       "skills": [
         "SAP",
@@ -585,7 +762,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:53:50.507Z",
       "skills": [
         "SAP",
@@ -612,7 +789,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:52:26.300Z",
       "skills": [
         "SQL",
@@ -640,7 +817,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:51:40.798Z",
       "skills": [
         "SQL",
@@ -668,7 +845,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:49:58.321Z",
       "skills": [
         "SQL",
@@ -696,7 +873,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:36:30.933Z",
       "skills": [
         "SQL",
@@ -726,7 +903,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:32:49.558Z",
       "skills": [
         "Compliance",
@@ -752,7 +929,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:32:06.417Z",
       "skills": [
         "Compliance",
@@ -778,7 +955,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:30:50.437Z",
       "skills": [
         "SQL",
@@ -804,7 +981,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:30:05.022Z",
       "skills": [
         "Compliance",
@@ -830,7 +1007,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T07:29:34.805Z",
       "skills": [
         "Excel",
@@ -1778,7 +1955,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-05T07:12:20.870Z",
       "skills": [
         "Excel",
@@ -1806,7 +1983,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-05T07:09:56.157Z",
       "skills": [
         "Excel",
@@ -1833,7 +2010,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-05T07:07:36.331Z",
       "skills": [
         "SQL",
@@ -1859,7 +2036,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-05T07:04:12.131Z",
       "skills": [
         "Excel",
@@ -1885,7 +2062,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-05T07:03:40.970Z",
       "skills": [
         "Excel",
@@ -1911,7 +2088,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-05T07:02:20.134Z",
       "skills": [
         "Excel",
@@ -1937,7 +2114,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-05T06:57:48.817Z",
       "skills": [
         "Excel",
@@ -1966,7 +2143,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-05T06:57:18.832Z",
       "skills": [
         "Excel",
@@ -1995,7 +2172,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-05T06:56:00.475Z",
       "skills": [
         "Excel",
@@ -2872,7 +3049,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T07:08:32.461Z",
       "skills": [
         "Python",
@@ -2898,7 +3075,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "projects",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T06:57:35.055Z",
       "skills": [
         "Excel",
@@ -3387,7 +3564,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-03T07:04:19.077Z",
       "skills": [
         "Python",
@@ -3414,7 +3591,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-03T06:52:21.984Z",
       "skills": [
         "SQL",
@@ -3445,7 +3622,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-03T06:50:33.177Z",
       "skills": [
         "SQL",
@@ -3476,7 +3653,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-03T06:49:51.506Z",
       "skills": [
         "SQL",
@@ -3507,7 +3684,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-03T06:48:33.563Z",
       "skills": [
         "Content"
@@ -3532,7 +3709,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-03T06:47:58.292Z",
       "skills": [
         "Content"
@@ -4603,7 +4780,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T08:02:47.002Z",
       "skills": [
         "Excel",
@@ -4632,7 +4809,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T07:45:57.726Z",
       "skills": [
         "Excel",
@@ -4660,7 +4837,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T07:43:04.501Z",
       "skills": [
         "Excel",
@@ -4688,7 +4865,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T07:42:18.984Z",
       "skills": [
         "Excel",
@@ -4716,7 +4893,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T07:40:45.295Z",
       "skills": [
         "JavaScript",
@@ -4745,7 +4922,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T07:40:04.781Z",
       "skills": [
         "JavaScript",
@@ -4774,7 +4951,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T07:35:14.642Z",
       "skills": [
         "JavaScript",
@@ -4803,7 +4980,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T07:05:55.317Z",
       "skills": [
         "Excel",
@@ -4830,7 +5007,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T07:05:11.029Z",
       "skills": [
         "Excel",
@@ -4857,7 +5034,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T02:16:58-05:00",
       "skills": [
         "Excel",
@@ -5403,7 +5580,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "technology",
-      "age": "منذ 44 أيام",
+      "age": "منذ 45 أيام",
       "publishedAt": "2026-09-25T08:06:45.340Z",
       "skills": [
         "Python",
@@ -5769,7 +5946,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "manufacturing",
-      "age": "منذ 54 أيام",
+      "age": "منذ 55 أيام",
       "publishedAt": "2026-09-15T06:50:37.096Z",
       "skills": [
         "Excel",
@@ -6172,7 +6349,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "finance",
-      "age": "منذ 68 أيام",
+      "age": "منذ 69 أيام",
       "publishedAt": "2026-09-01T07:45:14.868Z",
       "skills": [
         "Excel",
@@ -6467,7 +6644,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 100 أيام",
+      "age": "منذ 101 أيام",
       "publishedAt": "2026-07-31T07:06:13.431Z",
       "skills": [
         "PMP",
@@ -6774,7 +6951,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 209 أيام",
+      "age": "منذ 210 أيام",
       "publishedAt": "2026-04-13T07:28:26.803Z",
       "skills": [
         "Education",
@@ -7033,7 +7210,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 279 أيام",
+      "age": "منذ 280 أيام",
       "publishedAt": "2026-02-02T07:23:16.709Z",
       "skills": [
         "Finance",
@@ -7499,7 +7676,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 858 أيام",
+      "age": "منذ 859 أيام",
       "publishedAt": "2024-07-03T07:43:10.387Z",
       "skills": [
         "Excel",
