@@ -1,8 +1,39 @@
 {
-  "generatedAt": "2026-11-09T18:31:53.529Z",
-  "total": 299,
+  "generatedAt": "2026-11-09T19:41:05.559Z",
+  "total": 300,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 2126755332,
+      "externalId": "34ac7f86-1cda-488b-9e45-74fde724aba0",
+      "title": "Senior AI Engineer, Marketing",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 6,
+      "maxExp": 14,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-09T19:16:51.683Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Sales",
+        "Marketing",
+        "Compliance",
+        "Operations"
+      ],
+      "description": "Accountabilities: You will design, build, and operate the next generation of marketing technology while ensuring existing systems remain reliable throughout the transition. Your responsibilities will include: Develop a unified lead intake platform that captures leads from websites, portals, webinars, events, partners, and imported lists, ensuring validation, deduplication, consent management, and enrichment. Build AI-powered lead qualification and scoring capabilities using signals such as product usage, learning activity, website behavior, intent data, and company information. Create intelligent lead routing systems that assign prospects based on territory, team capacity, availability, and priority, with transparent decision records. Improve lead hand-offs by tracking each prospect from initial capture to first sales interaction, identifying delays, and ensuring timely follow-up. Develop a self-service campaign management layer that allows Marketing Operations to configure routing, prioritization, and nurturing rules without creating additional workflows. Design AI-native capabilities that can be accessed through an MCP server, enabling internal agents and assistants to retrieve lead information, explain decisions, and trigger campaign actions. Establish centralized consent and suppression controls, ensuring compliance and consistent data governance across systems. Integrate the platform with CRM, email service providers, visitor identification, enrichment tools, and internal data platforms, ensuring reliable synchronization and recovery mechanisms. Use an agentic software development platform to accelerate delivery while maintaining high standards of code quality, security, testing, and documentation. Maintain existing marketing automation integrations, including CRM synchronization, sales engagement tools, portal and Academy feeds, enrichment services, web forms, and APIs. Investigate and resolve integration incidents, identify root causes, implement lasting fixes, and document technical changes. Manage essential configuration changes in the existing marketing automation platform while avoiding unnecessary complexity during migration. Develop an interim forms gateway and enrollment connector to support the transition away from legacy integrations. Reconcile data across existing and new systems throughout the migration to identify inconsistencies before each cutover milestone. Requirements : The ideal candidate combines strong backend engineering expertise with hands-on experience operating marketing technology integrations and delivering AI-powered product capabilities. You should bring: A bachelor's degree in Computer Science, Software Engineering, or a related technical discipline. At least 6 years of experience building and operating production backend systems, including 3 or more years of professional Python development. Recent, hands-on experience using AI coding agents such as Claude Code, Cursor, GitHub Copilot agent mode, or Codex, with the ability to demonstrate your development, review, and testing workflow. Production experience supporting marketing automation platform integrations, preferably HubSpot, with Marketo or Pardot also considered. Strong understanding of marketing automation APIs, data models, and synchronization with CRM systems. Experience with event-driven architectures and durable execution patterns, including message queues, outboxes, idempotency keys, and replay mechanisms. Experience with Temporal or a comparable workflow engine is highly desirable. Practical integration engineering experience with REST APIs, webhooks, OAuth 2.0, rate limits, retries, and vendor-specific services. Advanced PostgreSQL skills, including schema design, JSONB, partitioning, Alembic migrations, and query performance optimization. Experience deploying cloud-based applications on Azure or AWS, including containers, infrastructure as code using Terraform or Bicep, GitHub Actions CI/CD, secrets management, and observabil",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/34ac7f86-1cda-488b-9e45-74fde724aba0",
+      "isLive": true
+    },
     {
       "id": 1367805689,
       "externalId": "a9cd956c-5e9f-4a0a-82d2-68d1e5c837e0",
@@ -7482,7 +7513,7 @@
       "minExp": 0,
       "maxExp": 2,
       "category": "sales",
-      "age": "منذ 153 أيام",
+      "age": "منذ 154 أيام",
       "publishedAt": "2026-06-08T18:45:32.064Z",
       "skills": [
         "Customer Service",
