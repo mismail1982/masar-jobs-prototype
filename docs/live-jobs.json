@@ -1,8 +1,63 @@
 {
-  "generatedAt": "2026-11-09T08:07:26.634Z",
-  "total": 278,
+  "generatedAt": "2026-11-09T09:23:37.716Z",
+  "total": 280,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 562351646,
+      "externalId": "944ccec2-55b9-4599-bf49-4ebfdcb5fda5",
+      "title": "Senior Paid Media Manager Freelance",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "media",
+      "age": "اليوم",
+      "publishedAt": "2026-11-09T09:03:13.962Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Recruitment",
+        "Administration"
+      ],
+      "description": "Accountabilities:: Lead the planning, activation, management, and optimisation of paid campaigns across TikTok and Meta, with YouTube as an additional channel. Manage the full campaign lifecycle, from media planning and budget allocation to performance analysis and post-campaign reporting. Develop and oversee structured test-and-learn programmes, using hypotheses, experiments, and measurable results to continuously improve campaign performance. Manage paid media budgets exceeding $1 million, making informed investment decisions and providing clear justification for spend allocation. Present campaign performance to clients through regular reporting, actionable insights, and data-driven recommendations. Mentor a Paid Media Executive and establish consistent team standards, including reporting templates, naming conventions, quality assurance, and campaign management practices. Collaborate with strategy and creative production teams to integrate paid media with creator-led campaigns. Monitor platform developments and channel trends, translating changes into practical recommendations for campaign strategy. Requirements: At least 5 years of experience in digital paid media, either in-house or agency-side. Extensive hands-on experience managing and optimising campaigns across TikTok and Meta. Proven experience managing paid media budgets of $1 million or more and being accountable for campaign outcomes. Demonstrated ability to improve performance through independent analysis, with concrete examples of successful optimisation decisions. Strong proficiency in Excel, excellent numerical skills, and confidence in validating data and calculations. Experience using AI tools in daily workflows, with familiarity with Claude considered an advantage. Strong analytical judgement and the ability to make, communicate, and defend decisions that influence client performance. Exceptional attention to detail, particularly in reporting accuracy, budget tracking, and campaign administration. Excellent communication and client-facing skills, with the ability to collaborate across countries and time zones. Nice to have: Experience mentoring or managing junior paid media professionals. Previous involvement in creator partnerships or creator-led paid social campaigns. Familiarity with SQL or business intelligence tools for independent performance analysis. Benefits: Fully remote working arrangement. Full-time freelance opportunity. Salary details shared transparently upfront during the recruitment process. Clear recruitment stages, with feedback provided within five working days after each stage. Support and reasonable adjustments available for candidates who need accommodations during the interview process.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/944ccec2-55b9-4599-bf49-4ebfdcb5fda5",
+      "isLive": true
+    },
+    {
+      "id": 4085552691,
+      "externalId": "d147ea19-02ca-4cf2-be61-4176d3538523",
+      "title": "Frontend Developer (React)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 3,
+      "maxExp": 11,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-09T08:59:09.958Z",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Excel"
+      ],
+      "description": "Accountabilities:: Design, develop, and maintain user-facing features and interactive components for web applications using React, JavaScript, and TypeScript. Build reusable UI components and libraries that support consistency, scalability, and maintainability across the application. Translate complex Figma designs into accurate, responsive frontend implementations using modern HTML, CSS, and JavaScript technologies. Collaborate with design, product, and backend teams to ensure technical feasibility, seamless integrations, and high-quality user experiences. Optimize application performance, speed, and scalability while maintaining clean architecture and coding standards. Maintain and improve existing codebases, participate in peer reviews, and contribute to continuous engineering quality. Lead automated testing and quality assurance activities, developing and maintaining test scripts using tools such as Cypress, Playwright, Storybook, and Chromatic. Identify and resolve frontend issues while ensuring consistent functionality and visual quality across the application. Requirements: At least 5 years of hands-on experience with JavaScript and its core concepts. At least 5 years of professional experience with TypeScript and React, including Single-Page Application development. At least 3 years of experience with HTML5 and CSS3. At least 3 years of experience working with GraphQL and Apollo. At least 2 years of experience with modern styling approaches, including CSS, SCSS, Less, or CSS-in-JS. Strong practical experience with visual regression and automated testing tools such as Cypress, Playwright, Storybook, Chromatic, or similar solutions. Experience with UI frameworks and styling systems such as Ant Design or Tailwind CSS. Ability to translate detailed design specifications into maintainable, high-quality frontend code. Excellent communication and collaboration skills, with a team-oriented and service-focused mindset. Strong ownership, accountability, and enthusiasm for software development. Availability to work within the European time zone, approximately CET ±1 hour. Nice to have: Experience with data visualization frameworks such as Chart.js or Google Charts, AWS technologies, and React Native. Benefits: Fully remote working arrangement. Full-time employment. Collaborative and supportive team environment with passionate colleagues. Startup-style culture offering opportunities for professional development and career growth. Comprehensive onboarding process with a dedicated ramp-up period. Regular team activities and gatherings. Open communication culture with direct feedback and collaborative working practices. Opportunity to contribute meaningfully to product development and technical decisions.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/d147ea19-02ca-4cf2-be61-4176d3538523",
+      "isLive": true
+    },
     {
       "id": 3908694568,
       "externalId": "49faf3e4-44c0-45af-9ad5-93774dc1ffc6",
@@ -2629,7 +2684,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T09:14:25.466Z",
       "skills": [
         "Excel",
@@ -2660,7 +2715,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T09:08:51.286Z",
       "skills": [
         "Excel",
@@ -2689,7 +2744,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T09:06:02.162Z",
       "skills": [
         "Excel",
@@ -2718,7 +2773,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:59:56.727Z",
       "skills": [
         "Excel",
@@ -2746,7 +2801,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:59:15.544Z",
       "skills": [
         "Excel",
@@ -2774,7 +2829,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:57:42.253Z",
       "skills": [
         "Excel",
@@ -2802,7 +2857,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:52:21.477Z",
       "skills": [
         "Excel",
@@ -2829,7 +2884,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:51:45.143Z",
       "skills": [
         "Excel",
@@ -2856,7 +2911,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:50:21.240Z",
       "skills": [
         "Excel",
@@ -2883,7 +2938,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:42:56.695Z",
       "skills": [
         "Excel",
@@ -2911,7 +2966,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:42:25.740Z",
       "skills": [
         "Excel",
@@ -2939,7 +2994,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:41:04.309Z",
       "skills": [
         "Excel",
@@ -2967,7 +3022,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:25:48.953Z",
       "skills": [
         "Excel",
@@ -2994,7 +3049,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:18:31.925Z",
       "skills": [
         "Excel",
@@ -3023,7 +3078,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-04T08:08:20.066Z",
       "skills": [
         "SAP",
@@ -3508,7 +3563,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-03T08:52:49.924Z",
       "skills": [
         "Excel",
@@ -3539,7 +3594,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-03T08:13:21.912Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -4697,7 +4752,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T08:29:02.953Z",
       "skills": [
         "Python",
@@ -4724,7 +4779,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T08:18:37.720Z",
       "skills": [
         "Excel",
@@ -4754,7 +4809,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "projects",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T08:07:27.556Z",
       "skills": [
         "Insurance",
@@ -5171,7 +5226,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "energy",
-      "age": "منذ 17 أيام",
+      "age": "منذ 18 أيام",
       "publishedAt": "2026-10-22T09:11:56.331Z",
       "skills": [
         "Python",
@@ -5633,7 +5688,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 45 أيام",
+      "age": "منذ 46 أيام",
       "publishedAt": "2026-09-24T09:19:29.053Z",
       "skills": [
         "Content"
@@ -6319,7 +6374,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 68 أيام",
+      "age": "منذ 69 أيام",
       "publishedAt": "2026-09-01T08:15:05.603Z",
       "skills": [
         "Excel",
@@ -6511,7 +6566,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 81 أيام",
+      "age": "منذ 82 أيام",
       "publishedAt": "2026-08-19T09:20:20.297Z",
       "skills": [
         "Excel",
@@ -6840,7 +6895,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 124 أيام",
+      "age": "منذ 125 أيام",
       "publishedAt": "2026-07-07T09:06:51.302Z",
       "skills": [
         "Content",
@@ -7007,7 +7062,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 216 أيام",
+      "age": "منذ 217 أيام",
       "publishedAt": "2026-04-06T09:05:43.236Z",
       "skills": [
         "Audit",
@@ -7097,7 +7152,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 249 أيام",
+      "age": "منذ 250 أيام",
       "publishedAt": "2026-03-04T08:52:35.403Z",
       "skills": [
         "Excel",
@@ -7543,7 +7598,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 550 أيام",
+      "age": "منذ 551 أيام",
       "publishedAt": "2025-05-07T08:19:01.580Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7621,7 +7676,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 657 أيام",
+      "age": "منذ 658 أيام",
       "publishedAt": "2025-01-20T08:12:44.468Z",
       "skills": [
         "Audit",
