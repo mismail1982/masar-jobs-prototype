@@ -1,8 +1,37 @@
 {
-  "generatedAt": "2026-11-09T09:23:37.716Z",
-  "total": 280,
+  "generatedAt": "2026-11-09T10:34:57.715Z",
+  "total": 281,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3020687028,
+      "externalId": "f4666726-9f34-4ae2-a2d9-8e88321c2a6c",
+      "title": "Project Manager Digital Solutions",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "projects",
+      "age": "اليوم",
+      "publishedAt": "2026-11-09T09:23:32.457Z",
+      "skills": [
+        "Excel",
+        "Insurance",
+        "Content",
+        "Compliance",
+        "Leadership"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Project Manager Digital Solutions based in Romania. As Project Manager Digital Solutions, you will lead the adoption and integration of AI and digital solutions across a global project management organization. You will drive digital transformation initiatives that enhance project execution, improve productivity, and enable data-driven decision-making. Working closely with cross-functional teams and regional stakeholders, you will translate business needs into scalable, impactful digital solutions. You will oversee initiatives from strategy and evaluation through implementation and global deployment. You will also promote responsible AI practices, strengthen digital capabilities, and encourage knowledge sharing across international teams. This is an exciting opportunity to shape the future of project management in a dynamic, global, and technology-driven environment. Accountabilities: Develop and implement a global AI and Digital Solutions roadmap aligned with business priorities and enterprise digital strategies. Identify, evaluate, and prioritize AI, analytics, and automation opportunities based on business value, feasibility, scalability, and user impact. Lead the end-to-end development, testing, piloting, deployment, and scaling of digital solutions to improve project delivery, productivity, and decision-making. Translate business and project management needs into clear functional requirements, collaborating with regional teams, IT, Data, and other relevant stakeholders. Coordinate digital initiatives across regions, encouraging alignment, knowledge sharing, and the reuse of successful solutions while avoiding duplicated efforts. Partner with IT, Data, Cybersecurity, and Enterprise Architecture teams to ensure solutions meet security, integration, scalability, and enterprise standards. Develop business cases and define performance indicators to measure efficiency gains, adoption rates, process improvements, and overall business impact. Drive process automation and digital workflow improvements to reduce administrative tasks and enhance project management effectiveness. Coordinate global pilots and rollouts, ensuring effective stakeholder engagement, communication, change management, and user adoption. Ensure compliance with corporate AI governance, cybersecurity, data privacy, data quality, and regulatory requirements. Monitor emerging AI and digital technologies and assess their potential applications within the global project management environment. Manage and continuously improve the Project Management digital platform, ensuring access to relevant tools, initiatives, training resources, community content, and events. Build and nurture a global project management community that promotes cross-regional collaboration, knowledge sharing, and best-practice adoption. Develop and deliver training, coaching, and communication initiatives to strengthen AI literacy and digital capabilities across the organization. Requirements: Bachelor's or Master's degree in Computer Science, Business, Data, Project Management, or a related discipline. Significant experience in project or program management within a complex, global, and matrixed organization. Proven track record of leading and delivering large-scale, cross-functional transformation initiatives. Previous experience in digital transformation, business transformation, analytics, AI, consulting, or technology-driven environments. Practical understanding of artificial intelligence, advanced analytics, automation, data management, and cloud technologies. Strong change management skills, with demonstrated experience engaging stakeholders and successfully implementing new ways of working. Ability to manage multiple priorities, navigate ambiguity, and adapt effectively to changing business needs. Excellent stakeholder management and influencing skills, includi",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/f4666726-9f34-4ae2-a2d9-8e88321c2a6c",
+      "isLive": true
+    },
     {
       "id": 562351646,
       "externalId": "944ccec2-55b9-4599-bf49-4ebfdcb5fda5",
@@ -614,7 +643,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T09:51:21.705Z",
       "skills": [
         "Excel",
@@ -644,7 +673,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T09:48:21.889Z",
       "skills": [
         "Excel",
@@ -674,7 +703,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T09:46:53.945Z",
       "skills": [
         "Excel",
@@ -704,7 +733,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-06T09:36:50.587Z",
       "skills": [
         "Power BI",
@@ -3511,7 +3540,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-03T09:46:31.479Z",
       "skills": [
         "Excel",
@@ -3537,7 +3566,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-03T09:45:20.375Z",
       "skills": [
         "Excel",
@@ -4443,7 +4472,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T10:31:42.273Z",
       "skills": [
         "Python",
@@ -4474,7 +4503,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T10:29:07.006Z",
       "skills": [
         "Insurance",
@@ -4502,7 +4531,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T10:26:31.313Z",
       "skills": [
         "Excel",
@@ -4532,7 +4561,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T10:22:48.259Z",
       "skills": [
         "Excel",
@@ -4560,7 +4589,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T10:22:17.294Z",
       "skills": [
         "Excel",
@@ -4588,7 +4617,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T10:20:55.471Z",
       "skills": [
         "Excel",
@@ -4616,7 +4645,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T10:16:09.067Z",
       "skills": [
         "Excel",
@@ -4642,7 +4671,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T10:15:35.091Z",
       "skills": [
         "Excel",
@@ -4668,7 +4697,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T10:06:59.030Z",
       "skills": [
         "SQL",
@@ -4696,7 +4725,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T10:06:28.343Z",
       "skills": [
         "SQL",
@@ -4724,7 +4753,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-02T10:05:05.417Z",
       "skills": [
         "SQL",
@@ -5201,7 +5230,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 11 أيام",
+      "age": "منذ 12 أيام",
       "publishedAt": "2026-10-28T10:00:42.776Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5663,7 +5692,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 45 أيام",
+      "age": "منذ 46 أيام",
       "publishedAt": "2026-09-24T09:23:39.128Z",
       "skills": [
         "Content"
@@ -5842,7 +5871,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "sales",
-      "age": "منذ 52 أيام",
+      "age": "منذ 53 أيام",
       "publishedAt": "2026-09-17T09:43:16.238Z",
       "skills": [
         "Sales",
@@ -6950,7 +6979,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 178 أيام",
+      "age": "منذ 179 أيام",
       "publishedAt": "2026-05-14T10:28:50.593Z",
       "skills": [
         "Finance",
@@ -7351,7 +7380,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 369 أيام",
+      "age": "منذ 370 أيام",
       "publishedAt": "2025-11-04T10:29:24.468Z",
       "skills": [
         "AutoCAD",
