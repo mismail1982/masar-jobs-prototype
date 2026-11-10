@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T18:25:09.150Z",
+  "generatedAt": "2026-11-10T19:35:32.169Z",
   "total": 294,
   "feeds": 13,
   "jobs": [
@@ -990,7 +990,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-09T19:16:51.683Z",
       "skills": [
         "Python",
@@ -7298,7 +7298,7 @@
       "minExp": 0,
       "maxExp": 2,
       "category": "sales",
-      "age": "منذ 154 أيام",
+      "age": "منذ 155 أيام",
       "publishedAt": "2026-06-08T18:45:32.064Z",
       "skills": [
         "Customer Service",
