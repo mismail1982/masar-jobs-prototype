@@ -1,8 +1,62 @@
 {
-  "generatedAt": "2026-11-10T07:55:33.118Z",
-  "total": 287,
+  "generatedAt": "2026-11-10T09:02:51.311Z",
+  "total": 289,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3477873616,
+      "externalId": "d0446279-c84b-4371-a6bf-bd59b1afedb1",
+      "title": "Project Coordinator  (Remote from Romania)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 2,
+      "maxExp": 10,
+      "category": "administration",
+      "age": "اليوم",
+      "publishedAt": "2026-11-10T09:01:34.662Z",
+      "skills": [
+        "Excel",
+        "Administration",
+        "Operations"
+      ],
+      "description": "Accountabilities: Support project delivery teams throughout the project lifecycle by maintaining schedules, trackers, logs, and action lists Receive, review, and update project activity information, ensuring accuracy and consistency across internal tools Prepare, maintain, and distribute project documentation in line with stakeholder, client, and project requirements Track risks, issues, actions, and changes, escalating concerns or deviations to the Project Manager when necessary Assist with the coordination and administration of statutory, permit, and notice activities for delivery-focused projects Ensure project records and documentation meet governance frameworks, contractual obligations, and internal standards Update and maintain project information across internal systems and external client or partner platforms Support daily, weekly, and monthly reporting by collecting data, validating inputs, and keeping project trackers up to date Monitor data consistency across systems, identify discrepancies and emerging issues, and help manage fluid and non-fluid workstacks Coordinate updates, information, and documentation between delivery teams, internal departments, external suppliers, and clients Respond to routine queries, distribute reports and updates, and escalate issues to the appropriate stakeholders Support stakeholder and customer engagement through correspondence, meeting coordination, and follow-up actions Build and maintain effective long-term relationships with designated internal and external stakeholders Ensure stakeholder information is accurately recorded and maintained in the appropriate systems Perform other reasonable duties as required to support project operations Requirements: At least 2 years of experience in project coordination, project administration, or operational support Good understanding of the project lifecycle and core project management controls Experience maintaining project schedules, trackers, action logs, documentation, and reports Strong organizational skills, with the ability to manage multiple priorities and deadlines Excellent attention to detail and accuracy when handling project information and records Experience coordinating communication between internal teams, clients, and external suppliers Good working knowledge of Microsoft Office, particularly Excel, Word, and PowerPoint Fluent English, with the ability to communicate clearly with a range of stakeholders Proactive, flexible, and solutions-oriented approach, with a willingness to learn new systems and processes APM Project Fundamentals Qualification (PFQ) or equivalent is an advantage PRINCE2 Foundation certification, or currently working towards it, is considered a plus Benefits: Remote working arrangement Opportunity to support projects within the telecommunications and connectivity sector Exposure to project delivery processes, governance frameworks, and stakeholder coordination Collaboration with internal teams, external suppliers, and established clients Opportunity to strengthen project administration and coordination skills Salary, healthcare coverage, paid leave, and additional benefits are not specified in the available job description",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/d0446279-c84b-4371-a6bf-bd59b1afedb1",
+      "isLive": true
+    },
+    {
+      "id": 3656945361,
+      "externalId": "03821f0e-1f28-4afb-8dc3-91d58e8ebd73",
+      "title": "Account Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "sales",
+      "age": "اليوم",
+      "publishedAt": "2026-11-10T08:44:15.021Z",
+      "skills": [
+        "Excel",
+        "Insurance",
+        "Sales"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for an Account Manager based in Romania. Join a fast-growing B2B SaaS environment transforming how businesses approach sales through advanced AI-powered technology. In this role, you will take ownership of an existing customer portfolio, building strategic relationships and identifying opportunities to drive sustainable revenue growth. You will work closely with decision-makers to understand their business objectives, optimize product adoption, and deliver measurable value. Combining account development, consultative selling, and commercial strategy, you will play a key role in strengthening customer partnerships and expanding business opportunities. You will collaborate with cross-functional teams in a remote-first environment that encourages autonomy, innovation, and continuous improvement. This is an opportunity to make a direct impact on customer success while contributing to the growth of an ambitious technology business. Accountabilities: Manage and develop a portfolio of existing customer accounts, building strong relationships with key stakeholders and understanding their business objectives, priorities, and challenges. Drive revenue expansion by identifying, developing, and closing upselling and cross-selling opportunities within existing accounts. Create and execute strategic account plans to maximize customer potential, strengthen partnerships, and identify new growth opportunities. Build trusted relationships with key decision-makers, including senior executives, positioning the platform as a strategic solution for their business needs. Identify opportunities to increase product adoption by understanding customer workflows, pain points, and evolving requirements. Lead commercial discussions and negotiations, including pricing, contract expansions, and renewals where applicable. Monitor customer engagement, account performance, and overall portfolio health to identify potential risks and proactively address retention and growth opportunities. Collaborate with Customer Success, Sales, and other internal teams to ensure a consistent customer experience and align account development strategies. Track and report key performance indicators, including revenue growth, expansion pipeline, and individual account performance. Share customer feedback and market insights while contributing to the continuous improvement of account management processes, workflows, and best practices. Requirements: At least 3 years of professional experience in account management, sales, or a similar commercial role, preferably within a B2B SaaS environment. Demonstrated success in driving revenue growth through upselling, cross-selling, and strategic account development. Experience managing existing customer portfolios and ideally owning revenue targets or commercial quotas. Excellent relationship-building and communication skills, with the ability to engage and influence stakeholders at different organizational levels. Strong commercial awareness and a consultative sales approach, with the ability to identify customer needs, negotiate effectively, and close expansion opportunities. Excellent organizational and analytical skills, with the ability to manage multiple accounts, monitor performance, and prioritize opportunities effectively. Comfortable working in a remote-first environment and collaborating across multiple teams and functions. A high level of ownership, initiative, and urgency, combined with the ability to adapt and deliver results in a fast-paced, evolving business environment. A customer-oriented mindset and a proactive approach to building long-term, mutually beneficial partnerships. Benefits: Competitive salary: Attractive compensation package based on experience and qualifications. Health insurance: Healthcare coverage to support your well-being. Stock options: Opportunity to participate in the company's lo",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/03821f0e-1f28-4afb-8dc3-91d58e8ebd73",
+      "isLive": true
+    },
     {
       "id": 1146365969,
       "externalId": "371e9ca6-8132-450c-ab9d-aab8377a61db",
@@ -1254,7 +1308,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-09T08:59:09.958Z",
       "skills": [
         "JavaScript",
@@ -1941,7 +1995,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-06T08:06:41.127Z",
       "skills": [
         "Excel",
@@ -1971,7 +2025,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-06T07:56:15.042Z",
       "skills": [
         "SAP",
@@ -3924,7 +3978,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T08:59:56.727Z",
       "skills": [
         "Excel",
@@ -3952,7 +4006,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T08:59:15.544Z",
       "skills": [
         "Excel",
@@ -3980,7 +4034,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T08:57:42.253Z",
       "skills": [
         "Excel",
@@ -4008,7 +4062,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T08:52:21.477Z",
       "skills": [
         "Excel",
@@ -4035,7 +4089,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T08:51:45.143Z",
       "skills": [
         "Excel",
@@ -4062,7 +4116,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T08:42:56.695Z",
       "skills": [
         "Excel",
@@ -4090,7 +4144,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T08:42:25.740Z",
       "skills": [
         "Excel",
@@ -4118,7 +4172,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T08:18:31.925Z",
       "skills": [
         "Excel",
@@ -4147,7 +4201,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T08:08:20.066Z",
       "skills": [
         "SAP",
@@ -4632,7 +4686,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-03T08:52:49.924Z",
       "skills": [
         "Excel",
@@ -4663,7 +4717,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-03T08:13:21.912Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5828,7 +5882,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "technology",
-      "age": "منذ 45 أيام",
+      "age": "منذ 46 أيام",
       "publishedAt": "2026-09-25T08:06:45.340Z",
       "skills": [
         "Python",
@@ -6567,7 +6621,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 69 أيام",
+      "age": "منذ 70 أيام",
       "publishedAt": "2026-09-01T08:15:05.603Z",
       "skills": [
         "Excel",
@@ -7314,7 +7368,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 250 أيام",
+      "age": "منذ 251 أيام",
       "publishedAt": "2026-03-04T08:52:35.403Z",
       "skills": [
         "Excel",
@@ -7760,7 +7814,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 551 أيام",
+      "age": "منذ 552 أيام",
       "publishedAt": "2025-05-07T08:19:01.580Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7838,7 +7892,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 658 أيام",
+      "age": "منذ 659 أيام",
       "publishedAt": "2025-01-20T08:12:44.468Z",
       "skills": [
         "Audit",
