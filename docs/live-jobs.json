@@ -1,8 +1,37 @@
 {
-  "generatedAt": "2026-11-10T11:00:35.702Z",
-  "total": 288,
+  "generatedAt": "2026-11-10T11:59:03.975Z",
+  "total": 289,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 848994108,
+      "externalId": "035ad487-b0b0-4ec0-b660-5362f874d196",
+      "title": "Service Delivery Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 8,
+      "maxExp": 16,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-11-10T11:32:12.769Z",
+      "skills": [
+        "PMP",
+        "Excel",
+        "Sales",
+        "Logistics",
+        "Leadership"
+      ],
+      "description": "Accountabilities: You will take ownership of customer deployment projects while ensuring effective coordination, consistent execution, and continuous improvement across the service delivery organization. Manage the complete delivery lifecycle for enterprise customer deployments, from project kickoff and onboarding through implementation, activation, stabilization, and formal handoff. Develop and maintain project plans, delivery schedules, milestones, resource requirements, dependencies, and risk mitigation strategies. Oversee multiple concurrent deployments across different regions, ensuring projects remain on schedule, within scope, and aligned with quality standards. Act as the primary customer contact throughout implementation, leading kickoff meetings, technical workshops, status reviews, and executive-level updates. Build strong relationships with customer IT leaders, project managers, technical teams, and business stakeholders while proactively managing expectations and escalations. Coordinate cross-functional teams across Sales, Solutions Engineering, Solutions Architecture, Service Engineering, Network Engineering, Product, Support, and Customer Success. Validate technical discovery, solution design, and Bill of Materials (BoM) approvals before deployment execution. Manage deployment resources and external partners, including field technicians, installation providers, cabling vendors, and logistics teams. Monitor partner performance, deployment quality, site readiness, equipment availability, shipping schedules, and installation requirements. Establish standardized deployment methodologies, project templates, delivery playbooks, and operational procedures. Identify opportunities to automate repetitive processes and improve delivery visibility using tools such as Jira and internal platforms. Ensure smooth operational handoffs to Customer Success, Support, and Technical Account Management teams, including complete documentation, testing, outstanding issues, and early-life stabilization. Track project performance, customer satisfaction, delivery KPIs, resource requirements, and portfolio health, providing regular updates to leadership. Drive continuous improvement through lessons-learned reviews, process optimization, and scalable delivery practices. Requirements : The ideal candidate combines extensive technical project management experience with enterprise networking expertise, strong customer-facing capabilities, and a proactive approach to operational leadership. 8+ years of experience in IT service delivery, network deployment, technical project management, or professional services. At least 3 years of experience managing enterprise customer deployments or complex technical implementation projects. Strong understanding of enterprise networking technologies, including wireless LAN, switching, routing, firewalls, and network infrastructure. Proven experience managing multiple concurrent projects and geographically distributed resources. Demonstrated ability to manage enterprise customer relationships, executive stakeholders, and complex delivery escalations. Experience working with third-party deployment partners, field service organizations, and technology vendors. Strong knowledge of project management methodologies, delivery governance, risk management, and execution standards. Familiarity with project management platforms such as Jira, Smartsheet, Microsoft Project, or similar tools. Excellent written and verbal communication, presentation, organizational, and stakeholder management skills. Ability to work independently while collaborating effectively with multidisciplinary teams. Strong sense of ownership, customer focus, execution discipline, accountability, and continuous improvement. Additional qualifications that would be advantageous: Experience in Network-as-a-Service (NaaS), managed services, or cloud networking environments. Familiarity with enterprise networking vendors and technologies such as Cisco, Aru",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/035ad487-b0b0-4ec0-b660-5362f874d196",
+      "isLive": true
+    },
     {
       "id": 3477873616,
       "externalId": "d0446279-c84b-4371-a6bf-bd59b1afedb1",
@@ -1216,7 +1245,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-09T11:54:38.487Z",
       "skills": [
         "Python",
@@ -1245,7 +1274,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-09T11:52:21.878Z",
       "skills": [
         "Python",
@@ -1274,7 +1303,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-09T11:51:28.603Z",
       "skills": [
         "Python",
@@ -1729,7 +1758,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-06T11:47:12.630Z",
       "skills": [
         "Sales"
@@ -1754,7 +1783,7 @@
       "minExp": 3,
       "maxExp": 6,
       "category": "operations",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-06T11:03:31.129Z",
       "skills": [
         "Excel",
@@ -1784,7 +1813,7 @@
       "minExp": 3,
       "maxExp": 6,
       "category": "operations",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-06T11:01:46.394Z",
       "skills": [
         "Excel",
@@ -1814,7 +1843,7 @@
       "minExp": 3,
       "maxExp": 6,
       "category": "operations",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-06T11:01:06.490Z",
       "skills": [
         "Excel",
@@ -3003,7 +3032,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "research",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-05T11:35:30.507Z",
       "skills": [
         "Python",
@@ -3031,7 +3060,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-05T11:18:45.683Z",
       "skills": [
         "Excel",
@@ -3060,7 +3089,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-05T11:09:01.456Z",
       "skills": [
         "Excel",
@@ -3087,7 +3116,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-05T11:07:30.768Z",
       "skills": [
         "Excel",
@@ -3114,7 +3143,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-05T11:06:34.581Z",
       "skills": [
         "Excel",
@@ -3141,7 +3170,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "finance",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-05T11:04:28.784Z",
       "skills": [
         "Excel",
@@ -3172,7 +3201,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "finance",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-05T11:03:49.218Z",
       "skills": [
         "Excel",
@@ -3203,7 +3232,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "finance",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-05T11:02:19.399Z",
       "skills": [
         "Excel",
@@ -3746,7 +3775,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T11:30:47.837Z",
       "skills": [
         "Python",
@@ -3774,7 +3803,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T11:30:01.932Z",
       "skills": [
         "Python",
@@ -3802,7 +3831,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T11:19:55.643Z",
       "skills": [
         "Excel",
@@ -3829,7 +3858,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T11:17:54.050Z",
       "skills": [
         "Excel",
@@ -3856,7 +3885,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T11:17:11.658Z",
       "skills": [
         "Excel",
@@ -3883,7 +3912,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "architecture",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T11:02:00.713Z",
       "skills": [
         "JavaScript",
@@ -3912,7 +3941,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "architecture",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-04T11:01:09.649Z",
       "skills": [
         "JavaScript",
@@ -5764,7 +5793,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 32 أيام",
+      "age": "منذ 33 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "SAP",
@@ -5851,7 +5880,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 38 أيام",
+      "age": "منذ 39 أيام",
       "publishedAt": "2026-10-02T11:45:47.851Z",
       "skills": [
         "Excel",
@@ -6321,7 +6350,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "sales",
-      "age": "منذ 61 أيام",
+      "age": "منذ 62 أيام",
       "publishedAt": "2026-09-09T11:39:00.380Z",
       "skills": [
         "Excel",
@@ -6534,7 +6563,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "finance",
-      "age": "منذ 68 أيام",
+      "age": "منذ 69 أيام",
       "publishedAt": "2026-09-02T11:56:38.924Z",
       "skills": [
         "Accounting",
@@ -6705,7 +6734,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 76 أيام",
+      "age": "منذ 77 أيام",
       "publishedAt": "2026-08-25T11:26:46.838Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6730,7 +6759,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 76 أيام",
+      "age": "منذ 77 أيام",
       "publishedAt": "2026-08-25T11:15:50.932Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6837,7 +6866,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 88 أيام",
+      "age": "منذ 89 أيام",
       "publishedAt": "2026-08-13T11:55:04.485Z",
       "skills": [
         "Operations",
@@ -6863,7 +6892,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 98 أيام",
+      "age": "منذ 99 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
         "Operations",
@@ -6889,7 +6918,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 98 أيام",
+      "age": "منذ 99 أيام",
       "publishedAt": "2026-08-03T11:24:13.619Z",
       "skills": [
         "React",
@@ -6972,7 +7001,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 105 أيام",
+      "age": "منذ 106 أيام",
       "publishedAt": "2026-07-27T11:44:58.735Z",
       "skills": [
         "Excel",
@@ -7253,7 +7282,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 215 أيام",
+      "age": "منذ 216 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7591,7 +7620,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 448 أيام",
+      "age": "منذ 449 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
