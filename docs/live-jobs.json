@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-11-11T02:31:11.466Z",
-  "total": 262,
+  "generatedAt": "2026-11-11T03:34:03.403Z",
+  "total": 263,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3145864453,
+      "externalId": "c6ba2afd-b2dd-42bc-ae54-da8d112d0bd2",
+      "title": "Talent Acquisition Director",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "hr",
+      "age": "اليوم",
+      "publishedAt": "2026-11-11T03:19:04.596Z",
+      "skills": [
+        "Excel",
+        "Recruitment",
+        "Leadership"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Talent Acquisition Director based in Romania. Lead the global talent acquisition strategy for a fast-growing international business operating across technology, sports, media, and digital entertainment. In this strategic leadership role, you will bring recruitment delivery, sourcing, employer branding, data, and technology together to support ambitious business growth. Reporting to the Global HR Director, you will guide a global team and ensure hiring priorities are aligned with business objectives across multiple regions. You will develop recruitment leaders, strengthen operational planning, and build consistent, high-quality hiring practices while adapting to local talent markets. With a strong focus on innovation, you will use AI, automation, and recruitment technology to improve efficiency and decision-making. This is an opportunity to shape a global talent function, influence organisational growth, and make a measurable impact in a dynamic, remote-first environment. Accountabilities: Define and lead the global Talent Acquisition strategy, aligning hiring, sourcing, and employer branding priorities with business objectives across regions. Develop locally relevant recruitment approaches while maintaining a consistent global framework and clear standards. Establish proactive monthly hiring plans, setting priorities, expectations, delivery milestones, and visibility on progress, risks, and outcomes. Lead, coach, and develop recruitment managers, strengthening their leadership, planning, and team management capabilities. Build clear accountability across the talent acquisition function while providing teams with the guidance and support needed to deliver results. Improve recruitment processes and hiring practices, ensuring effective collaboration with hiring managers and a positive, consistent candidate experience. Drive a technology-first recruitment approach by leveraging AI, automation, and recruitment systems to streamline workflows and reduce manual tasks. Strengthen recruitment data quality, reporting, and analytics to support evidence-based decisions and measure hiring performance. Develop and enhance the employer brand, increasing visibility and positioning the organisation as an employer of choice in priority talent markets. Requirements: Demonstrated experience leading global or multi-regional Talent Acquisition teams. Proven ability to translate business priorities into a clear talent acquisition strategy and practical delivery plans. Experience developing recruitment managers and building the leadership capabilities of talent acquisition teams. Strong understanding of the full talent acquisition landscape, including recruitment delivery, sourcing, employer branding, processes, and workforce data. Practical experience using recruitment technology, AI tools, and automation to improve hiring efficiency and effectiveness. Strong strategic thinking, planning, and analytical skills, with the ability to use data and insights to guide decisions. Excellent communication and stakeholder management skills, particularly when partnering with senior leaders and hiring managers. Flexible, pragmatic leadership style, with sound judgement and the ability to balance global consistency with local market requirements. Ability to thrive in a fast-paced, international, and evolving business environment. Benefits: Remote-first working environment. Competitive salary with individual quarterly performance bonuses. Annual leave. Flexible working hours. Employee referral bonuses and additional flash bonuses. Top-of-the-line work equipment. Annual company retreats, offering opportunities to connect and build relationships with colleagues across the business.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/c6ba2afd-b2dd-42bc-ae54-da8d112d0bd2",
+      "isLive": true
+    },
     {
       "id": 1104436702,
       "externalId": "34245684-5d01-481f-a1c1-1906f349ab54",
