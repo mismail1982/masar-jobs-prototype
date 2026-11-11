@@ -1,8 +1,66 @@
 {
-  "generatedAt": "2026-11-11T01:46:35.130Z",
-  "total": 260,
+  "generatedAt": "2026-11-11T02:31:11.466Z",
+  "total": 262,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 1104436702,
+      "externalId": "34245684-5d01-481f-a1c1-1906f349ab54",
+      "title": "Security Engineer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "security",
+      "age": "اليوم",
+      "publishedAt": "2026-11-11T02:21:00.596Z",
+      "skills": [
+        "Python",
+        "Excel",
+        "Audit",
+        "Insurance",
+        "Research",
+        "Content",
+        "Compliance"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Security Engineer based in Romania. As a Security Engineer, you will take ownership of application security for a rapidly growing AI-powered digital platform serving millions of users worldwide. This is a hands-on role focused on identifying vulnerabilities, reviewing code and strengthening security across the entire application stack. Acting as the primary security specialist, you will work closely with technical leadership and engineering teams to define security priorities and implement effective solutions. You will also contribute to securing AI-powered products by identifying emerging threats such as prompt injection, jailbreaks and content filter bypasses. Combining technical execution, independent decision-making and strategic responsibility, you will have the opportunity to shape security practices from the ground up. This fully remote position offers significant autonomy within a fast-paced, innovative and internationally distributed environment. Accountabilities: Own and drive application security across the organisation, proactively identifying vulnerabilities and ensuring security risks are addressed throughout the software development lifecycle. Conduct regular source code reviews to detect security weaknesses before deployment, prioritising critical vulnerabilities and collaborating with engineering teams to implement effective fixes. Coordinate external security audits and penetration tests, critically evaluating findings, challenging assessments when necessary and ensuring remediation actions are completed. Develop and automate security processes, scripts and internal tools to improve vulnerability detection, streamline security operations and support scalability. Integrate AI-powered tools into daily security workflows, leveraging them for code reviews, penetration testing, scripting and security research. Act as the primary security point of contact, independently defining priorities, managing security initiatives and communicating technical risks clearly to technical and non-technical stakeholders. Monitor and respond to security alerts, including participating in occasional night and weekend on-call rotations. Maintain risk registers and relevant Governance, Risk and Compliance (GRC) documentation, ensuring security practices remain organised and up to date. Promote security awareness across the organisation by sharing relevant updates, providing guidance and delivering internal security training. Monitor emerging AI-specific security threats, including prompt injection, jailbreaks, content moderation bypasses and vulnerabilities affecting third-party AI providers. Requirements: At least 2 years of hands-on professional experience in cybersecurity, with a strong focus on application security rather than compliance-only or infrastructure-focused responsibilities. Demonstrated experience conducting regular source code reviews and identifying, investigating and resolving real application vulnerabilities, with the ability to explain a concrete example of a vulnerability discovered and fixed. Experience coordinating external security audits or penetration tests and managing remediation efforts through to completion. Strong engineering skills, including experience working with Git/GitHub, scripting in Python or Bash, and hands-on exposure to modern web technologies such as Ruby on Rails or Node.js. Familiarity with cloud and hosting environments such as Google Cloud Platform (GCP), Heroku or comparable platforms. Proven ability to work independently and take ownership of security activities, ideally having served as a sole security specialist, security lead or independent owner of a security function. Recent practical experience reviewing code or testing systems regularly, ideally on a weekly basis over the past two years. Daily use of AI-powered tools to support security engineering, ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/34245684-5d01-481f-a1c1-1906f349ab54",
+      "isLive": true
+    },
+    {
+      "id": 2881878970,
+      "externalId": "d2a65816-f9fb-4e49-bbca-c177dc57e461",
+      "title": "Principal BMS & PMS Controls Engineer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-11T02:12:28.564Z",
+      "skills": [
+        "Insurance",
+        "Procurement",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Define and own the global BMS and PMS controls architecture, including system boundaries, network configurations, redundancy strategies and integration with facility monitoring and compute infrastructure. Develop and maintain the controls standards library, covering sequences of operation, points schedules, alarm philosophies, naming conventions, and Factory Acceptance Testing (FAT) and Site Acceptance Testing (SAT) requirements. Establish technical requirements for high-density AI data centre environments, including liquid cooling systems, Coolant Distribution Unit (CDU) integration and power-to-compute interfaces. Act as the final technical authority on controls design deviations, vendor proposals and integration challenges across multiple international sites. Collaborate with procurement teams to define vendor strategies, technical evaluation criteria and supplier selection standards. Establish operational technology (OT) security requirements in collaboration with cybersecurity specialists, including network segmentation, access controls and secure remote support. Analyse operational data, incidents and system performance to continuously improve controls standards, reference designs and engineering practices. Provide technical guidance and mentorship to controls engineers and specialist partners, strengthening technical expertise and consistency across the organisation. Requirements: At least 12 years of professional experience in Building Management Systems (BMS), Power Management Systems (PMS) or mission-critical controls engineering, with proven experience in the data centre sector. Demonstrated expertise in defining controls architectures and establishing technical standards across multiple sites or an international project portfolio. Strong understanding of electrical and mechanical control sequences, supervisory control platforms and industrial communication protocols, particularly BACnet and Modbus. Proven experience making, communicating and defending complex technical decisions involving vendors, engineering consultants, designers and senior stakeholders. Practical experience defining and overseeing FAT, SAT and integrated systems testing (IST) procedures for mission-critical controls environments. Strong stakeholder management, communication and influencing skills, with the ability to drive alignment across multidisciplinary teams and geographical regions without relying on direct reporting authority. Strategic thinking, sound technical judgement and a proactive approach to identifying risks and implementing engineering improvements. Nice to have: Experience with controls systems for high-density AI data centres, direct liquid cooling and advanced thermal management technologies. Nice to have: Knowledge of OT cybersecurity principles and controls network architecture, including IEC 62443. Nice to have: Experience standardising controls architectures, specifications and engineering practices across international data centre portfolios. Benefits: Competitive salary package based on the responsibilities and value of the role, rather than previous salary. Equity participation, offering the opportunity to share in the organisation's long-term growth and success. Retirement and pension contributions. Comprehensive healthcare, wellbeing and insurance benefits. Generous annual paid leave entitlement. Opportunity to take on a high-impact technical leadership position within a rapidly growing AI infrastructure environment. Exposure to large-scale, international projects across Europe and North America. Opportunity to shape global engineering standards and influence the development of next-generation mission-critical infrastructure. Supportive working environment focused on professional development, trust, autonomy and work-life balance. Benefits may vary depending on the country of employment and applicable local regulations.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/d2a65816-f9fb-4e49-bbca-c177dc57e461",
+      "isLive": true
+    },
     {
       "id": 2755645265,
       "externalId": "0e3196cc-e5d0-48d4-968e-057f25f55276",
@@ -2653,7 +2711,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-06T02:11:54.352Z",
       "skills": [
         "Excel",
@@ -2684,7 +2742,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-06T02:09:21.957Z",
       "skills": [
         "Excel",
@@ -2713,7 +2771,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-06T02:06:25.130Z",
       "skills": [
         "Excel",
@@ -2740,7 +2798,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-06T02:01:57.670Z",
       "skills": [
         "Excel",
@@ -2768,7 +2826,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-06T02:01:27.840Z",
       "skills": [
         "Excel",
@@ -2796,7 +2854,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-06T02:00:12.349Z",
       "skills": [
         "Excel",
@@ -2824,7 +2882,7 @@
       "minExp": 8,
       "maxExp": 10,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-06T01:55:23.312Z",
       "skills": [
         "Excel",
@@ -2852,7 +2910,7 @@
       "minExp": 8,
       "maxExp": 10,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-06T01:54:52.528Z",
       "skills": [
         "Excel",
@@ -2880,7 +2938,7 @@
       "minExp": 8,
       "maxExp": 10,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-06T01:53:29.679Z",
       "skills": [
         "Excel",
