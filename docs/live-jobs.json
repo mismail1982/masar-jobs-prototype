@@ -1,8 +1,35 @@
 {
-  "generatedAt": "2026-11-11T04:40:31.155Z",
-  "total": 263,
+  "generatedAt": "2026-11-11T05:40:02.085Z",
+  "total": 264,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 881840475,
+      "externalId": "b5588a61-bf6d-4d90-91b9-e911a3ffef45",
+      "title": "Assistant Vice President - Talent Acquisition",
+      "company": "Aldar Properties",
+      "country": "الإمارات",
+      "region": "Abu Dhabi",
+      "location": "أبوظبي",
+      "mode": "حضوري",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 8,
+      "maxExp": 16,
+      "category": "hr",
+      "age": "اليوم",
+      "publishedAt": "2026-11-11T04:44:22.277Z",
+      "skills": [
+        "Education",
+        "Recruitment",
+        "Administration"
+      ],
+      "description": "JOB PURPOSE Partner with stakeholders to understand their hiring needs and what impact the new hire is expected to make on their team and department. Advertise, source and network to find suitable candidates and always look to support the companies Emiratization goals. This vacancy is for Emiratization only. ROLES AND RESPONSIBILITIES: •Connect with line managers / hiring managers for a comprehensive briefing session before initiating the sourcing activities. •Qualify and understand business and cultural fit requirements to find qualified candidates. •Use recruitment channels to headhunt potential candidates in a timely and effective manner (time to fill/time to hire). •Liaise with the hiring managers to review shortlisted candidates (monitor success and rejection rates) and agree on interviews. •Contact and coordinate with shortlisted candidates for attending interview after validating their initial documents (education, remunerating expectations etc.). •Schedule interviews and coordinate with Recruiting Panel / candidates on decisions and communication. •Attend interviews, assess candidates and provide accurate feedback accordingly. •Prepare offer letters, follow-up with candidates, and answer queries about package and other related job offer information. •Ensure employee journey is adhered to for a positive candidate experience. •Consistently use the internal Applicant Tracking system at Aldar (Lever) •Always think through creative sourcing strategies for roles in the vacancies. •Emiratization Hiring for the group •Manage relationship with external recruitment agencies. Communicate and follow-up with Recruiting agencies (if needed) for specific positions •Schedule/attend recruitments events to source candidates. QUALIFICATIONS & EXPERIENCE RELATED YEARS OF EXPERIENCE: Min of 8+ years of experience in a Talent Acquisition position within a leading local / regional organization (consulting or client side). FIELD OF EXPERIENCE: •Experience in real estate or related industry is preferred. •Background in Executive Search is preferred. •Previous experience in the HR division of a company with 300+ employees. •In-depth knowledge of human resource management best practices. TECHNICAL AND INTERPERSONAL SKILLS: •Organized and able to manage time, prioritize. •Strong conflict resolution and negotiation skills. •Strong communication, verbal and written. QUALIFICATION(S): •Bachelor’s degree in business administration or equivalent is required. •HR-related certificates (e.g., PHR, SPHR, etc.).",
+      "source": "Lever · Aldar Properties",
+      "externalUrl": "https://jobs.lever.co/aldar/b5588a61-bf6d-4d90-91b9-e911a3ffef45",
+      "isLive": true
+    },
     {
       "id": 3145864453,
       "externalId": "c6ba2afd-b2dd-42bc-ae54-da8d112d0bd2",
@@ -5299,7 +5326,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 48 أيام",
+      "age": "منذ 49 أيام",
       "publishedAt": "2026-09-23T05:18:15.252Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5324,7 +5351,7 @@
       "minExp": 10,
       "maxExp": 12,
       "category": "technology",
-      "age": "منذ 48 أيام",
+      "age": "منذ 49 أيام",
       "publishedAt": "2026-09-23T05:08:30.489Z",
       "skills": [
         "Operations",
@@ -5721,7 +5748,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 62 أيام",
+      "age": "منذ 63 أيام",
       "publishedAt": "2026-09-09T05:31:11.945Z",
       "skills": [
         "Sales"
@@ -5746,7 +5773,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 63 أيام",
+      "age": "منذ 64 أيام",
       "publishedAt": "2026-09-08T04:40:50.396Z",
       "skills": [
         "Excel"
@@ -6772,7 +6799,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 292 أيام",
+      "age": "منذ 293 أيام",
       "publishedAt": "2026-01-22T05:22:02.669Z",
       "skills": [
         "Excel",
@@ -6798,7 +6825,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "projects",
-      "age": "منذ 355 أيام",
+      "age": "منذ 356 أيام",
       "publishedAt": "2025-11-20T04:47:02.192Z",
       "skills": [
         "Excel",
