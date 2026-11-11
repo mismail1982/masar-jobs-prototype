@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T16:38:59.096Z",
-  "total": 295,
+  "generatedAt": "2026-11-11T17:40:35.542Z",
+  "total": 298,
   "feeds": 13,
   "jobs": [
     {
@@ -5899,6 +5899,81 @@
       "isLive": true
     },
     {
+      "id": 3822271523,
+      "externalId": "bc4bc4e6-b7a4-41a7-bf07-de699c96f504",
+      "title": "AI Voice Recording Contributor - Arabic (Gulf)",
+      "company": "RWS",
+      "country": "قطر",
+      "region": "Doha / Al Khor / Al Rayyan / Al Wakrah / Dukhan / Lusail / Madinat ash Shamal / Umm Salal",
+      "location": "الدوحة",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "منذ 22 أيام",
+      "publishedAt": "2026-10-20T09:51:08.047Z",
+      "skills": [
+        "Research"
+      ],
+      "description": "We are looking for AIVoice Recording Contributors to join an Arabic (Gulf) voice evaluation project and help support the development of the next generation of AI technologies. Job Type: Freelance Location: Work from home Work Schedule:Flexible, task-based work (approximately 4–6 hours per day) Project Duration: Approximately 1 month Start Date: Immediately Rate: 6 USD/hour Help Shape the Future of AI This short project offers an opportunity to contribute to the development and improvement of speech and language AI technologies by providing high-quality voice recordings in your native language and dialect. You will complete recording tasks using our internal platform by reading provided text prompts aloud. The goal is to capture natural speech from native speakers of specific language variants to help improve AI systems' ability to understand diverse languages, dialects, and accents. How Your Recordings Will Be Used Your recordings will be used to evaluate how agents respond to spoken instructions and to compare that evaluation with an evaluation of text-based instructions. The collected audio may be reviewed for quality and incorporated into datasets used for research, development, testing, and improvement of AI systems. What You’ll Do: Read provided text cards aloud and record them exactly as written (there approximately 640 cards per person). Produce clear, natural, and high-quality speech recordings following the guidelines and instructions provided. Speak using your natural dialect and accent. Ensure no words are added, omitted, or altered. Re-record submissions if requested to meet quality standards. Complete tasks using our internal recording platform. What We’re Looking For: Native-level fluency in Arabic (Gulf). Authentic pronunciation and strong familiarity with the target dialect or accent through everyday use. Advanced level of English to understand written instructions. Ability to complete a trial voice recording to verify language variant and accent. Contributors must not imitate dialects or accents that are not their own. Experience with speech recording projects is an advantage, but not required. Strong communication skills and attention to detail. Ability to follow detailed instructions and maintain recording accuracy. Technical Requirements: Quiet room or recording space with minimal background noise. Computer microphone or headset with microphone. Reliable internet connection. Ability to access and use an online recording platform. What We Offer: Flexible, remote work. Timely and reliable payments. Opportunity to contribute to cutting-edge AI technology. Access to future language and AI-related projects. A flexible engagement ideal for gaining experience with AI data collection projects.",
+      "source": "Lever · RWS",
+      "externalUrl": "https://jobs.lever.co/rws/bc4bc4e6-b7a4-41a7-bf07-de699c96f504",
+      "isLive": true
+    },
+    {
+      "id": 2265786420,
+      "externalId": "f6347a54-df51-42b3-84c5-2cc745e76171",
+      "title": "AI Voice Recording Contributor - Arabic (Gulf)",
+      "company": "RWS",
+      "country": "البحرين",
+      "region": "Manama / A'ali / Budaiya / Hamad Town / Isa Town / Muharraq / Riffa / Sitra",
+      "location": "المنامة",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "منذ 22 أيام",
+      "publishedAt": "2026-10-20T09:50:41.630Z",
+      "skills": [
+        "Research"
+      ],
+      "description": "We are looking for AIVoice Recording Contributors to join an Arabic (Gulf) voice evaluation project and help support the development of the next generation of AI technologies. Job Type: Freelance Location: Work from home Work Schedule:Flexible, task-based work (approximately 4–6 hours per day) Project Duration: Approximately 1 month Start Date: Immediately Rate: 7.5 USD/hour Help Shape the Future of AI This short project offers an opportunity to contribute to the development and improvement of speech and language AI technologies by providing high-quality voice recordings in your native language and dialect. You will complete recording tasks using our internal platform by reading provided text prompts aloud. The goal is to capture natural speech from native speakers of specific language variants to help improve AI systems' ability to understand diverse languages, dialects, and accents. How Your Recordings Will Be Used Your recordings will be used to evaluate how agents respond to spoken instructions and to compare that evaluation with an evaluation of text-based instructions. The collected audio may be reviewed for quality and incorporated into datasets used for research, development, testing, and improvement of AI systems. What You’ll Do: Read provided text cards aloud and record them exactly as written (there approximately 640 cards per person). Produce clear, natural, and high-quality speech recordings following the guidelines and instructions provided. Speak using your natural dialect and accent. Ensure no words are added, omitted, or altered. Re-record submissions if requested to meet quality standards. Complete tasks using our internal recording platform. What We’re Looking For: Native-level fluency in Arabic (Gulf). Authentic pronunciation and strong familiarity with the target dialect or accent through everyday use. Advanced level of English to understand written instructions. Ability to complete a trial voice recording to verify language variant and accent. Contributors must not imitate dialects or accents that are not their own. Experience with speech recording projects is an advantage, but not required. Strong communication skills and attention to detail. Ability to follow detailed instructions and maintain recording accuracy. Technical Requirements: Quiet room or recording space with minimal background noise. Computer microphone or headset with microphone. Reliable internet connection. Ability to access and use an online recording platform. What We Offer: Flexible, remote work. Timely and reliable payments. Opportunity to contribute to cutting-edge AI technology. Access to future language and AI-related projects. A flexible engagement ideal for gaining experience with AI data collection projects.",
+      "source": "Lever · RWS",
+      "externalUrl": "https://jobs.lever.co/rws/f6347a54-df51-42b3-84c5-2cc745e76171",
+      "isLive": true
+    },
+    {
+      "id": 3872261731,
+      "externalId": "71e386a7-cc3a-4cc8-b299-1efaa712081b",
+      "title": "AI Voice Recording Contributor - Arabic (Gulf)",
+      "company": "RWS",
+      "country": "الكويت",
+      "region": "Kuwait City / Al Ahmadi / Hawalli / Fahaheel / Farwaniya / Jahra / Mubarak Al-Kabeer / Salmiya",
+      "location": "الكويت",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "منذ 22 أيام",
+      "publishedAt": "2026-10-20T09:31:49.383Z",
+      "skills": [
+        "Research"
+      ],
+      "description": "We are looking for AIVoice Recording Contributors to join an Arabic (Gulf) voice evaluation project and help support the development of the next generation of AI technologies. Job Type: Freelance Location: Work from home Work Schedule:Flexible, task-based work (approximately 4–6 hours per day) Project Duration: Approximately 1 month Start Date: Immediately Rate: 11 USD/hour Help Shape the Future of AI This short project offers an opportunity to contribute to the development and improvement of speech and language AI technologies by providing high-quality voice recordings in your native language and dialect. You will complete recording tasks using our internal platform by reading provided text prompts aloud. The goal is to capture natural speech from native speakers of specific language variants to help improve AI systems' ability to understand diverse languages, dialects, and accents. How Your Recordings Will Be Used Your recordings will be used to evaluate how agents respond to spoken instructions and to compare that evaluation with an evaluation of text-based instructions. The collected audio may be reviewed for quality and incorporated into datasets used for research, development, testing, and improvement of AI systems. What You’ll Do: Read provided text cards aloud and record them exactly as written (there approximately 640 cards per person). Produce clear, natural, and high-quality speech recordings following the guidelines and instructions provided. Speak using your natural dialect and accent. Ensure no words are added, omitted, or altered. Re-record submissions if requested to meet quality standards. Complete tasks using our internal recording platform. What We’re Looking For: Native-level fluency in Arabic (Gulf). Authentic pronunciation and strong familiarity with the target dialect or accent through everyday use. Advanced level of English to understand written instructions. Ability to complete a trial voice recording to verify language variant and accent. Contributors must not imitate dialects or accents that are not their own. Experience with speech recording projects is an advantage, but not required. Strong communication skills and attention to detail. Ability to follow detailed instructions and maintain recording accuracy. Technical Requirements: Quiet room or recording space with minimal background noise. Computer microphone or headset with microphone. Reliable internet connection. Ability to access and use an online recording platform. What We Offer: Flexible, remote work. Timely and reliable payments. Opportunity to contribute to cutting-edge AI technology. Access to future language and AI-related projects. A flexible engagement ideal for gaining experience with AI data collection projects.",
+      "source": "Lever · RWS",
+      "externalUrl": "https://jobs.lever.co/rws/71e386a7-cc3a-4cc8-b299-1efaa712081b",
+      "isLive": true
+    },
+    {
       "id": 841140223,
       "externalId": "833e0d2e-741b-4717-bca4-fb7ba7f5152d",
       "title": "Consumer Product Manager",
@@ -7299,7 +7374,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 119 أيام",
+      "age": "منذ 120 أيام",
       "publishedAt": "2026-07-14T17:21:56.371Z",
       "skills": [
         "Research",
@@ -7833,7 +7908,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "security",
-      "age": "منذ 478 أيام",
+      "age": "منذ 479 أيام",
       "publishedAt": "2025-07-20T16:56:05.026Z",
       "skills": [
         "Audit",
