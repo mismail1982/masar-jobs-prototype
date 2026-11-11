@@ -1,8 +1,37 @@
 {
-  "generatedAt": "2026-11-11T07:57:39.061Z",
+  "generatedAt": "2026-11-11T09:07:40.718Z",
   "total": 276,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3527373666,
+      "externalId": "11cc81a4-800c-4ec2-8c65-5a485374f267",
+      "title": "Vice President – Asset Management (Industrial & Logistics)",
+      "company": "Aldar Properties",
+      "country": "الإمارات",
+      "region": "Abu Dhabi",
+      "location": "أبوظبي",
+      "mode": "حضوري",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-11-11T08:21:55.529Z",
+      "skills": [
+        "Finance",
+        "Compliance",
+        "Operations",
+        "Logistics",
+        "Leadership"
+      ],
+      "description": "JOB PURPOSE Lead role in owning the strategy and managing the performance of Aldar’s Industrial & Logistics (“I&L”) real estate portfolio across the GCC region, by driving I&L strategy and execution planning, strategic asset planning, feasibility studies, and IC / MC materials, alongside asset-level business plans, budgets and post-transaction partnership management. The role works closely with the Investments team, contributing asset management insight to new opportunities. The role is for a UAE National ROLES AND RESPONSIBILITIES I&L Strategy & Execution Planning Own the I&L strategy and translate it into execution plans, portfolio business plans and KPIs Develop strategy documents and present to senior stakeholders, tracking delivery against plan Develop portfolio plans based on market position, competitor landscape and available capital Strategic Asset Planning & Value Enhancement Drive strategic asset plans, including hold / sell analysis, capex planning and repositioning Develop and execute asset enhancement plans, and manage value-add and transformation projects Support execution of asset-level transactions (disposals, refinancings) with AI Finance and Group Legal Feasibility Studies & Business Cases Own and execute feasibility studies for developments, expansions, repositioning and capex initiatives Develop robust financial models, run sensitivity analyses, and evaluate returns Investment Committee (IC) / Management Committee (MC) Presentations Prepare and own IC / MC decks, board presentations and memos across the I&L portfolio Present business cases, risks and projected returns to senior leadership and secure approvals Asset Performance, Budgets & Reporting Monitor and enhance asset performance (occupancy, NOI, yields, WALT) against approved business plans Build asset-level budgets, business plans, forecasts and reports, working with AI Finance Lead valuation processes, and track capital expenditure and funding requirements across the portfolio JV & Partnership Management Manage partnerships post-transaction, including partner reporting, JV board materials and follow-ups Coordinate with JV partners on capital calls, drawdowns, and financial obligations Leasing & Operations Oversight Oversee leasing strategy and performance delivered by the Leasing team, including major renewals Oversee property management performance, ESG initiatives and compliance at asset level Investments Support Provide asset management input to the Investments team on new opportunities and due diligence Contribute to the review of adjacent I&L sub-asset classes (e.g., data centers, self storage) RELATED YEARS OF EXPERIENCE Min of 10+ years of regional experience in real estate asset management, investments, private equity, or strategy consulting, with a focus on logistics, industrial, or infrastructure sectors YOE IN MANAGERIAL POSITION Min of 2+ years managerial experience in an asset management or investment management position (investor and / or corporate) with direct exposure to senior stakeholders and experience in taking asset business plans, investments / long term lease commitments through internal investment committee / corporate approvals process FIELD OF EXPERIENCE Proven experience in real estate asset management and strategy, including feasibility analysis, business planning and IC approvals Good background in investment evaluation and transaction support (from real estate investment firms, funds, consulting, or corporates) Specialized expertise in Industrial & Logistics (I&L) highly preferred, backed by well-rounded real estate and analytical skills Solid exposure to key regional markets, including the UAE, KSA, and Egypt TECHNICAL AND INTERPERSONAL SKILLS Proven track record in improving asset performance and delivering value-add initiatives Strong stakeholder management and relationship-building skills Clear, confident communicator across diverse teams Sharp analytical and financial acumen Collaborative, ethical, and adaptable te",
+      "source": "Lever · Aldar Properties",
+      "externalUrl": "https://jobs.lever.co/aldar/11cc81a4-800c-4ec2-8c65-5a485374f267",
+      "isLive": true
+    },
     {
       "id": 1008912653,
       "externalId": "f1b16ded-6431-49d0-aa98-1e755c9073ee",
@@ -771,7 +800,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "administration",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-10T09:01:34.662Z",
       "skills": [
         "Excel",
@@ -798,7 +827,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-10T08:44:15.021Z",
       "skills": [
         "Excel",
@@ -825,7 +854,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-10T08:38:37.349Z",
       "skills": [
         "Excel",
@@ -853,7 +882,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-10T08:36:19.400Z",
       "skills": [
         "Customer Service",
@@ -883,7 +912,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-10T08:34:00.334Z",
       "skills": [
         "Excel",
@@ -909,7 +938,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-10T08:19:53.748Z",
       "skills": [
         "Excel",
@@ -935,7 +964,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-10T08:15:17.028Z",
       "skills": [
         "Excel",
@@ -961,7 +990,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-10T08:13:41.932Z",
       "skills": [
         "Excel",
@@ -987,7 +1016,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-10T08:04:05.751Z",
       "skills": [
         "Insurance",
@@ -1015,7 +1044,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-10T08:03:38.018Z",
       "skills": [
         "Insurance",
@@ -1043,7 +1072,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-10T08:02:24.580Z",
       "skills": [
         "Insurance",
@@ -2033,7 +2062,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-09T09:03:13.962Z",
       "skills": [
         "SQL",
@@ -2061,7 +2090,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-09T08:59:09.958Z",
       "skills": [
         "JavaScript",
@@ -2748,7 +2777,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-06T08:06:41.127Z",
       "skills": [
         "Excel",
@@ -4498,7 +4527,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-04T09:06:02.162Z",
       "skills": [
         "Excel",
@@ -4527,7 +4556,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-04T08:59:56.727Z",
       "skills": [
         "Excel",
@@ -4555,7 +4584,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-04T08:59:15.544Z",
       "skills": [
         "Excel",
@@ -4583,7 +4612,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-04T08:57:42.253Z",
       "skills": [
         "Excel",
@@ -4611,7 +4640,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-04T08:52:21.477Z",
       "skills": [
         "Excel",
@@ -4638,7 +4667,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-04T08:51:45.143Z",
       "skills": [
         "Excel",
@@ -4665,7 +4694,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-04T08:42:56.695Z",
       "skills": [
         "Excel",
@@ -4693,7 +4722,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-04T08:42:25.740Z",
       "skills": [
         "Excel",
@@ -4721,7 +4750,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-04T08:18:31.925Z",
       "skills": [
         "Excel",
@@ -4750,7 +4779,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-04T08:08:20.066Z",
       "skills": [
         "SAP",
@@ -5562,7 +5591,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "technology",
-      "age": "منذ 46 أيام",
+      "age": "منذ 47 أيام",
       "publishedAt": "2026-09-25T08:06:45.340Z",
       "skills": [
         "Python",
@@ -6248,7 +6277,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 70 أيام",
+      "age": "منذ 71 أيام",
       "publishedAt": "2026-09-01T08:15:05.603Z",
       "skills": [
         "Excel",
@@ -6769,7 +6798,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 126 أيام",
+      "age": "منذ 127 أيام",
       "publishedAt": "2026-07-07T09:06:51.302Z",
       "skills": [
         "Content",
@@ -6835,34 +6864,6 @@
       "description": "JOB PURPOSE Lead the operational strategy of the programme as part of the overall loyalty strategy and execute according to scope, service level, operating procedures and cost, to drive short and long term financial and operational goals. Design and lead the strategic development of loyalty product and product roadmap. Management and continuous improvement of the loyalty platform technology operating environment. Working across the digital product lifecycle, this position is accountable for delivering key, prioritized parts of the digital loyalty strategy guided by customer, commercial and technical innovations. This position will also measure the product post-launch to ensure efficiency, customer adoption and satisfaction This role is exclusive to UAE Nationals Roles and Responsibilities Strategic Responsibilities Responsible for creating a seamless and personalized digital experience through the loyalty programme, that is engaging, valuable and fun for members across product management, ecommerce and user experience Partner with Technology and Digital Products teams to provide guidance and recommendations to drive loyalty innovation and growth based on the programme’s road map timing Deliver and update the multi-year digital loyalty roadmap, including digital customer journey, benefits, customer KPIs and drive new and dynamic digital initiatives to our existing base of members while reaching out to new prospect members Deliver a point of view on best-in-class digital loyalty practices and technologies, based on customer insights, customer-level testing and analytics and market and competitive data with the goal of driving incremental customer loyalty and financial value Formulate and enhance the digital strategy by staying up to date on Loyalty technologies and trends Functional Responsibilities Define and manage the Darna loyalty offer(s), including program structure, roadmap, benefits, program offer expense management, as well as implementing and managing the data architecture systems needed to support long-term goals. Champion the digital loyalty roadmap and prioritization of new features; provide input to the annual product lifecycles including roadmap, backlog grooming and launch as well as the enhancement and extensibility of existing loyalty products and services In line with the loyalty programme strategy and design, seek out and exploit digital loyalty programme development opportunities, innovation and gamification to drive customer acquisition and penetration within the business portfolios Conceptualize and launch loyalty digital platforms and initiatives, from business case development, user story creation, prototyping and piloting, through activation Work closely with stakeholders to ensure all dependencies and impediments are understood so new features can be released in a timely manner: Highlight product features and improvements in a manner clearly understandable to the development team; Drive sprint planning and demo meetings to track and monitor sprint achievement, as well as to scrum team; Define and execute go-to-market strategies for the digital loyalty initiatives across all participating brands and markets; and training plans, working with marketing, operations, change management and development teams Collaborate with IT to develop appropriate capital budget investments to support and grow the digital initiatives of loyalty programme Work with project teams and sub-teams to develop and implement digital loyalty enhancements and products. Manages these projects in accordance with loyalty programme’s established program methodologies. Ensures that multiple projects meet specified timelines and deliver expected results People Development Guide and motivate subordinates to enhance performance and produce quality work, and ensure that they are continuously developed for higher-level roles Coach and mentor the team and stakeholders on domain expertise of loyalty, consumer marketing and brand marketing RELATE",
       "source": "Lever · Aldar Properties",
       "externalUrl": "https://jobs.lever.co/aldar/402d418c-5a78-4773-ab35-59978c893de2",
-      "isLive": true
-    },
-    {
-      "id": 4185054473,
-      "externalId": "ea9b0cd5-ce1c-42e4-b66d-e8492b19506e",
-      "title": "Associate – Corporate Tax",
-      "company": "Aldar Properties",
-      "country": "الإمارات",
-      "region": "Abu Dhabi",
-      "location": "أبوظبي",
-      "mode": "حضوري",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 2,
-      "maxExp": 10,
-      "category": "finance",
-      "age": "منذ 197 أيام",
-      "publishedAt": "2026-04-28T06:37:56.728Z",
-      "skills": [
-        "Accounting",
-        "Audit",
-        "Finance",
-        "Compliance"
-      ],
-      "description": "JOB PURPOSE Play a key role in implementing corporate tax strategies, projects, and ensuring tax compliance within the corporate tax function of Aldar Group. Provide M&A support and expertise from a corporate tax perspective. The role is only for a UAE National. ROLES AND RESPONSIBILITIES Collaborate with the AVP – Corporate Tax and wider tax team to execute comprehensive Corporate tax strategies aligned with the group's objectives and regulatory requirements. Assist in the review of the monthly tax provision calculation produced by the system, reconciling it to the ledger. Participate in the end-to-end annual Corporate tax compliance process, ensuring the accurate and timely filing of all tax returns. Conduct detailed reviews of deferred tax calculations for the group, ensuring compliance with accounting standards and regulations. Lead transfer pricing initiatives, ensuring compliance with international guidelines and recommending strategies to optimize the company's global tax position. Provide tax expertise during mergers, acquisitions, and corporate transactions, including due diligence, structuring, and post-transaction integration. Assist in Country-by-Country Reporting (CBCR), Pillar 2 and Transfer Pricing (TP) initiatives in Direct / Corporate Tax. Support Economic Substance Regulations (ESR) compliance. Offer guidance on cross-border tax matters, including international tax planning, treaty analysis, and preparation of transfer pricing documentation. Stay updated on changes in domestic and international tax laws and regulations, ensuring the organization's tax practices remain compliant and current. Prepare and review tax-related financial reports and disclosures, including tax provision calculations. Collaborate with cross-functional teams, external advisors, and tax authorities to address tax-related inquiries, audits, and projects efficiently. RELATED YEARS OF EXPERIENCE Min of: 2+ years of experience of experience in Accounting, mergers and acquisitions, and/or consultancy. FIELD OF EXPERIENCE Experience in real estate industry knowledge of accounting standards, tax laws and regulations. TECHNICAL AND INTERPERSONAL SKILLS Exceptional analytical and problem-solving abilities. Strong interpersonal and communication skills. Effective team player with the capacity to manage multiple projects concurrently. QUALIFICATION Bachelor’s degree in Accounting or Finance.",
-      "source": "Lever · Aldar Properties",
-      "externalUrl": "https://jobs.lever.co/aldar/ea9b0cd5-ce1c-42e4-b66d-e8492b19506e",
       "isLive": true
     },
     {
@@ -6936,7 +6937,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 218 أيام",
+      "age": "منذ 219 أيام",
       "publishedAt": "2026-04-06T09:05:43.236Z",
       "skills": [
         "Audit",
@@ -6995,7 +6996,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 251 أيام",
+      "age": "منذ 252 أيام",
       "publishedAt": "2026-03-04T08:52:35.403Z",
       "skills": [
         "Excel",
@@ -7441,7 +7442,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 552 أيام",
+      "age": "منذ 553 أيام",
       "publishedAt": "2025-05-07T08:19:01.580Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7519,7 +7520,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 659 أيام",
+      "age": "منذ 660 أيام",
       "publishedAt": "2025-01-20T08:12:44.468Z",
       "skills": [
         "Audit",
