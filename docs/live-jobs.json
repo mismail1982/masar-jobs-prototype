@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T17:17:54.447Z",
+  "generatedAt": "2026-11-12T18:32:43.643Z",
   "total": 301,
   "feeds": 13,
   "jobs": [
@@ -5818,7 +5818,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "legal",
-      "age": "منذ 13 أيام",
+      "age": "منذ 14 أيام",
       "publishedAt": "2026-10-29T18:19:21.691Z",
       "skills": [
         "Excel",
@@ -6402,7 +6402,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 49 أيام",
+      "age": "منذ 50 أيام",
       "publishedAt": "2026-09-23T17:48:28.416Z",
       "skills": [
         "Content"
@@ -6899,7 +6899,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "marketing",
-      "age": "منذ 65 أيام",
+      "age": "منذ 66 أيام",
       "publishedAt": "2026-09-07T18:12:54.180Z",
       "skills": [
         "Excel",
@@ -7480,7 +7480,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 120 أيام",
+      "age": "منذ 121 أيام",
       "publishedAt": "2026-07-14T17:21:56.371Z",
       "skills": [
         "Research",
