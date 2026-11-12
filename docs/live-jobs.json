@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T02:34:06.458Z",
+  "generatedAt": "2026-11-12T03:33:54.744Z",
   "total": 264,
   "feeds": 13,
   "jobs": [
@@ -999,7 +999,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-11T03:19:04.596Z",
       "skills": [
         "Excel",
