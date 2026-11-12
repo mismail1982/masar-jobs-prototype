@@ -1,8 +1,38 @@
 {
-  "generatedAt": "2026-11-12T15:07:13.148Z",
-  "total": 300,
+  "generatedAt": "2026-11-12T16:15:41.178Z",
+  "total": 301,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3686970854,
+      "externalId": "926a45ca-3814-49f3-a647-69ee56a093d9",
+      "title": "Italian Multimedia Content Reviewer",
+      "company": "Welo Data",
+      "country": "عُمان",
+      "region": "Spain / Romania / Greece",
+      "location": "Spain / Romania / Greece",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "media",
+      "age": "اليوم",
+      "publishedAt": "2026-11-12T15:48:26.880Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Marketing",
+        "Content",
+        "Compliance",
+        "Translation"
+      ],
+      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. Welocalize’s Opal Platform comprises patented technology designed to automate multilingual content and improve workflow performance for enterprises. Opal functions as an agentic system that orchestrates AI, automation, and human expertise to coordinate content workflows across the lifecycle, improving speed, scalability, and operational control for global enterprises. These solutions operate within a secure and compliant environment supported by seven ISO certifications. Welocalize is headquartered in New York with offices worldwide. welocalize.com Job Description Summary In this exciting position, the Multimedia Content Reviewer will be responsible for writing, adapting, reviewing, and evaluating a wide range of linguistic and multimedia content in Italian, ensuring the highest standards of linguistic accuracy, cultural relevance, and overall quality for customers using the world's foremost multimedia platforms. The role combines creative and editorial expertise with analytical and quality evaluation skills, covering traditional localization work as well as emerging content types, including AI-generated content, linguistic annotation, and structured content evaluations. With time, the Multimedia Content Reviewer will become the cultural ambassador for their language market and will be expected to produce fully localized content, flag potential cultural issues, and articulate suggestions to make all content appropriate and relevant for the target market. The ideal candidate possesses a background in journalism, editorial content, copywriting, or a related field, has proven creative writing skills, and a keen attention to detail. They should also demonstrate strong critical thinking, sound editorial judgment, and the flexibility to navigate different workflows, guidelines, and content evaluation methodologies. In addition, we're seeking candidates who are passionate about music, film, sports, gaming, and technology, and have a knack for iOS and macOS devices. Main Duties: Localize, translate, and adapt content of various categories (i.e. multimedia, legal, technical, marketing, sports, entertainment, health and wellness, and other digital content) while adhering to writing style guides and project-specific guidelines. Write new copy for a range of multimedia products such as music, TV, film, sports, apps, video on-demand, game subscription services, and more. Copy-edit and fact-check content to ensure accuracy, clarity, consistency, and cultural relevance. Perform LQA (Localization QA) testing of content published on live platforms (music and app descriptions, marketing material, and marketing campaigns). Evaluate human-written and AI-generated content for linguistic accuracy, fluency, relevance, consistency, and adherence to project-specific quality standards. Perform linguistic annotation, content classification, and structured evaluation tasks using predefined guidelines, rating scales, and quality criteria. Identify and document errors, inconsistencies, and quality issues, providing clear, actionable feedback and supporting rationale for evaluation decisions. Conduct market-specific research on local content treatment, audience preferences, cultural nuances, product and terminology trends, and best localization practices for the target audience. Report on data and/or assets across a broad scope of media and content types, ensuring accuracy, consistency, and compliance with project requirements. Collaborate with global language teams via virtual meetings and email on content review tasks to align on terminology, style, quality standards, evaluation criteria, a",
+      "source": "Lever · Welo Data",
+      "externalUrl": "https://jobs.lever.co/weloglobal/926a45ca-3814-49f3-a647-69ee56a093d9",
+      "isLive": true
+    },
     {
       "id": 2864707629,
       "externalId": "6c019da8-2d95-461d-a849-3a38602389ae",
@@ -5817,7 +5847,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 13 أيام",
+      "age": "منذ 14 أيام",
       "publishedAt": "2026-10-29T15:45:59.006Z",
       "skills": [
         "SAP",
