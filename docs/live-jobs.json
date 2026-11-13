@@ -1,8 +1,115 @@
 {
-  "generatedAt": "2026-11-13T07:29:49.441Z",
-  "total": 293,
+  "generatedAt": "2026-11-13T08:39:46.569Z",
+  "total": 299,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 4046215017,
+      "externalId": "b5a39993-95ea-4395-b9b1-77815c0b862a",
+      "title": "Software Development Engineer in Test (SDET)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T08:37:28.785Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Audit",
+        "Marketing",
+        "Compliance"
+      ],
+      "description": "Accountabilities:: Design and implement automated data validation frameworks to test data contracts, schema compliance and identity resolution processes within Databricks before information reaches downstream activation platforms. Develop and maintain automated UI and behavioural testing scripts that simulate real-world customer journeys across web and mobile applications. Programmatically validate behavioural events, mParticle tags and OneTrust consent tokens to ensure accurate event tracking and application-level data collection. Test and monitor critical data flows across the Databricks, mParticle, Braze and OneTrust ecosystem, ensuring consistency and reliability between platforms. Develop automated integration tests and mock API payloads to verify that actions, user data and audience updates are correctly transferred across systems. Design and execute end-to-end testing for data collection pipelines, including POS, web, mobile applications and CRM systems, ensuring data is accurately cleaned, standardised and transformed. Validate data freshness, processing accuracy and latency against near-real-time service-level agreements (SLAs). Establish and maintain automated data quality and hygiene checks to detect corrupted records, inconsistencies and schema drift in near real time. Audit data flows and consent management processes to ensure privacy preferences are consistently respected across systems and comply with applicable regulations, including GDPR and UK GDPR. Investigate and troubleshoot data anomalies, identify root causes and collaborate with Data Engineers to resolve pipeline failures efficiently. Take ownership of defects throughout their lifecycle, implementing regression tests and preventative measures to avoid recurring issues. Contribute to improving testing strategies, automation architecture and quality assurance practices across the wider data ecosystem. Requirements: Bachelor's degree in Computer Science, Data Engineering or a related technical discipline. Advanced SQL skills, including the ability to write complex validation queries and scripts to identify anomalies across millions of records. Strong proficiency in Python for developing automated test suites, building testing frameworks and interacting with APIs. Proven experience designing and implementing data test automation frameworks from scratch. Hands-on experience testing within Databricks or an equivalent cloud data warehouse or lakehouse environment. Strong understanding of Delta Lake or similar data architectures. Experience validating complex data transformations across batch and near-real-time or streaming pipelines. Familiarity with data orchestration and transformation tools such as Apache Airflow and dbt. Experience testing data flows through Customer Data Platforms (CDPs), particularly mParticle, including event ingestion, identity resolution and audience synchronisation with downstream engagement platforms. Proven ability to investigate data anomalies, troubleshoot pipeline failures and collaborate with Data Engineers to resolve issues and prevent regressions. Experience testing REST APIs and validating data payloads exchanged between systems and platforms. Strong analytical and problem-solving skills, with the ability to work independently and take ownership of technical challenges. Nice to have: Familiarity with Braze data ingestion methods, particularly the Data Track API and Cloud Data Ingestion (CDI). Nice to have: Experience testing integrations between Customer Data Platforms and engagement platforms, including mParticle audience synchronisation and event forwarding into Braze. Nice to have: Knowledge of privacy compliance and consent management frameworks, particularly through tools such as OneTrust. Nice to have: Experience integrating automated data quality checks into CI/CD pipelines using tools such as GitHub Actions or GitLab CI. A proactive and detail-oriented mindset, with a strong interest in building reliable, scalable an",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/b5a39993-95ea-4395-b9b1-77815c0b862a",
+      "isLive": true
+    },
+    {
+      "id": 2899953833,
+      "externalId": "d400c5f2-abe0-4575-80cd-efa1430dccf8",
+      "title": "Senior Domain Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T08:34:59.427Z",
+      "skills": [
+        "Python",
+        "Insurance",
+        "Administration"
+      ],
+      "description": "Accountabilities:: Manage the complete domain lifecycle, including registration, renewals, transfers, WHOIS updates, redemption and decommissioning. Coordinate with domain registrars, overseeing account balances, payments, renewals and administrative processes across a portfolio of several hundred domains. Manage Cloudflare accounts and configurations, including nameserver changes, DNS delegation troubleshooting, access permissions and API token creation, rotation and revocation. Support domain ownership verification across external platforms and services, including Google Search Console and Google Workspace, using appropriate DNS records. Investigate domain-related complaints, legal notifications and abuse reports, coordinating incident resolution and conducting root cause analysis. Monitor and maintain domain reputation through platforms such as VirusTotal, working with security vendors to investigate and resolve false-positive detections. Maintain accurate records of domain-related incidents, investigations and resolutions, ensuring a complete history of cases. Manage and update the domain inventory in Jira Assets, maintaining technical documentation, operational procedures and internal records. Identify opportunities to automate routine domain management activities, checks and notifications, using APIs and infrastructure automation tools. Contribute to improving domain security, operational processes and the reliability of the overall domain management environment. Requirements: At least 3 years of professional experience in domain and DNS administration, ideally managing portfolios of several hundred domains across multiple registrars. Previous experience in the iGaming industry, including domain mirrors, domain blocking and licensed domain management. Hands-on experience with domain registration, transfers, renewals, redemption and WHOIS record management. Strong understanding of DNS infrastructure, including delegation, nameservers, A, CNAME, MX and TXT records, TTL configuration and troubleshooting using tools such as dig and nslookup. Practical experience managing Cloudflare zones, nameservers, account permissions and API tokens. Knowledge of SSL/TLS certificates, including certificate types, DNS, HTTP and email validation methods, renewals and troubleshooting. Experience verifying domain ownership through DNS records across external platforms and services. Strong organisational skills, independence and the ability to maintain clear, accurate technical documentation. A proactive and analytical mindset, with the ability to investigate technical issues and manage several priorities effectively. Nice to have: Experience with Terraform, particularly the Cloudflare provider, and automation through registrar and Cloudflare APIs using Python or Bash. Nice to have: Familiarity with Jira Assets/Insight and Jira Service Management. Nice to have: Experience handling abuse reports, UDRP disputes and false-positive removal requests with security vendors. Nice to have: Experience administering domains and configurations within Google Workspace. Benefits: Fully remote working arrangements, with the option to work from comfortable and secure hubs in Kyiv or Warsaw. 20 paid days off per year, in addition to public holidays and paid sick leave. Comprehensive medical insurance covering access to leading healthcare providers. Coverage for psychological support through the Pleso platform. Monthly Benefit Café allowance to spend on personal interests, hobbies, sports and other lifestyle activities. Individual learning and development budget to support professional growth and training. Corporate English language lessons, workshops and access to an online learning library. Structured career development opportunities, including performance reviews, mentoring programmes and professional training. Regular company events, workshops, team-building activities and social gatherings. Access to in-house technical capabilities and opportunities to bui",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/d400c5f2-abe0-4575-80cd-efa1430dccf8",
+      "isLive": true
+    },
+    {
+      "id": 1813000450,
+      "externalId": "a95d66a8-be06-4310-8a45-9ad620a2db8e",
+      "title": "Head of M&A (Pallas)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T08:32:45.080Z",
+      "skills": [
+        "Excel"
+      ],
+      "description": "Accountabilities:: Lead the full M&A transaction lifecycle, from initial opportunity assessment and valuation through due diligence, internal approvals, negotiation and deal completion. Coordinate internal stakeholders, specialist teams and external advisers to ensure transactions progress efficiently and meet key milestones. Conduct financial and commercial assessments, identifying investment opportunities, potential challenges and value creation opportunities. Prepare clear, structured investment proposals and present recommendations to senior decision-makers to support strategic acquisition decisions. Identify, evaluate and manage key commercial, financial, operational and regulatory risks throughout the transaction process. Maintain oversight of multiple active transactions, ensuring accurate reporting, clear accountability and consistent progress. Coordinate post-completion handovers to ensure a smooth transition and effective transfer of responsibilities. Lead, mentor and support transaction team members where applicable, encouraging high standards of execution and collaboration. Requirements: Significant professional experience leading and executing M&A transactions from initial evaluation through to successful completion. Strong financial expertise, including financial analysis, valuation, financial modelling and due diligence. Experience in the payments, fintech, financial services or software sectors is highly desirable. Strong commercial judgement, with the ability to assess investment opportunities, identify risks and make sound, pragmatic decisions. Proven ability to manage several transactions and competing priorities simultaneously while maintaining accuracy and momentum. Excellent stakeholder management skills, with confidence in engaging senior executives, business founders, investment professionals and external advisers. Strong communication and presentation skills, particularly when preparing and delivering investment recommendations. Fluent written and spoken English. A collaborative, accountable and detail-oriented approach, combined with the ability to work independently in a fast-paced environment. Discretion and professionalism when handling confidential and commercially sensitive information. Benefits: Full-time, permanent position with 37.5 working hours per week. Remote working opportunities across Europe. Senior-level responsibility and direct involvement in strategic investment and acquisition decisions. Opportunity to work on transactions within the growing payments and financial technology sectors. Exposure to an international business environment and collaboration with experienced professionals and senior stakeholders. Opportunity to contribute to the development of M&A capabilities and support long-term business growth.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/a95d66a8-be06-4310-8a45-9ad620a2db8e",
+      "isLive": true
+    },
+    {
+      "id": 402434318,
+      "externalId": "7dadf5fe-a0ea-4f58-8c5e-328293b028f1",
+      "title": "Senior Software Engineer, Production",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T08:01:20.122Z",
+      "skills": [
+        "Recruitment",
+        "Operations"
+      ],
+      "description": "Accountabilities: Operate production blockchain environments for institutional customers, participating in the 24/7 First Responder rotation and coordinating incidents through to service restoration. Lead incident investigations, communicate updates to customers, and prepare detailed root cause analyses (RCAs) that explain what happened and how recurrence will be prevented. Make go/no-go decisions for production changes, ensuring appropriate verification before deployment and validation afterward. Execute sequencer rollouts and oversee the safe release of changes across assigned environments. Identify and eliminate recurring operational problems by implementing fixes in the sequencer, provers, and supporting tools. Transform alerts, runbooks, and manual operational procedures into more reliable software, automation, and improved monitoring. Own service-level objectives for assigned customers, tracking performance against contractual SLAs and reporting results monthly. Investigate issues across codebases owned by different component teams, identify root causes, and drive engineering fixes through to completion. Support the evolution of production operations so that additional institutional customers can be onboarded without proportionally increasing operational headcount. As the platform develops, help support customers operating their own chains, ensuring solutions can be implemented and maintained in external environments. Requirements: Experience being on call for a system you have contributed code to, with ownership of incidents from the initial alert through root cause analysis and implementation of a lasting fix. Strong software engineering skills in a systems-oriented programming language such as Rust, Go, C++, or Java. Rust experience is useful but can be developed on the job. Ability to investigate and understand code written by other engineers, identify underlying causes, and deliver effective fixes. Experience operating production services used by external customers, including communicating incident updates and writing RCAs for customer engineering teams. Sound judgment when managing production changes, including the ability to verify deployments and distinguish reversible changes from those that are difficult or impossible to roll back. Proven ability to coordinate across engineering teams and drive issues to resolution through influence and technical ownership. Willingness and availability to participate in a shared 24/7 First Responder rotation. Nice to have: Experience operating blockchain rollups or nodes, including sequencers, provers, or Layer 1 settlement systems. Nice to have: Familiarity with Ethereum execution client internals. Nice to have: Experience building internal tools or automation that have been adopted by other engineering teams. Candidates who meet most of the requirements are encouraged to apply, as some skills can be developed in the role. Location requirement: Candidates must be based in the United States or the European Union due to customer jurisdiction and operational requirements. Benefits: Base salary: USD $192,000–$230,000 per year. The same range applies to EU-based candidates, with the final offer determined by demonstrated experience, scope, and results. Additional performance-based variable compensation. Long-term token incentive. Medical, dental, and vision coverage from the first day of employment. Global health coverage for team members based outside the United States. 401(k) retirement plan with a Safe Harbor employer match of up to 4% for eligible US employees. Flexible paid time off, public holidays, and two company-wide closure weeks annually. Six weeks of paid parental bonding leave, plus up to ten weeks of paid birth recovery leave. Confidential mental health support. USD $2,000 home office stipend. Company-provided laptop, refreshed every three years. Coworking allowance of up to USD $400 per month. Annual learning and development budget of USD $500. Company and team offsi",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/7dadf5fe-a0ea-4f58-8c5e-328293b028f1",
+      "isLive": true
+    },
     {
       "id": 4106862476,
       "externalId": "baf333f4-d761-48e3-aa13-088f410132aa",
@@ -175,6 +282,65 @@
       "description": "Accountabilities:: Lead and coordinate recruitment, training, and candidate endorsement teams, ensuring they operate as one integrated and high-performing function. Establish, implement, and maintain standardized processes across all talent pipeline operations while remaining adaptable to evolving business requirements. Identify workflow gaps, operational bottlenecks, and process inefficiencies that may affect applicant quality, onboarding success, talent readiness, and long-term retention. Ensure consistency and alignment between recruitment outcomes, training standards, and candidate endorsement requirements to maintain high-quality talent delivery. Monitor overall operational performance through KPI tracking, workforce analytics, reporting, and data-driven decision-making. Collaborate with team leaders to define strategic objectives, performance expectations, accountability frameworks, and measurable team targets. Lead continuous improvement initiatives focused on talent quality, recruitment speed, training effectiveness, operational efficiency, and contractor retention. Act as the primary escalation point for cross-functional challenges involving talent acquisition, contractor development, training, and endorsement readiness. Partner with Growth and Client Experience leadership teams to ensure talent pipeline initiatives support wider business objectives and client satisfaction. Ensure compliance with operational policies, quality standards, and agreed performance expectations across all talent functions. Develop and present a comprehensive three-month talent pipeline plan outlining strategic priorities, operational improvements, KPIs, accountability measures, and expected outcomes. Provide regular performance updates, identifying operational risks, challenges, growth opportunities, and practical recommendations to improve overall effectiveness. Requirements: Extensive experience in senior leadership or management roles within recruitment, talent acquisition, learning and development, workforce development, or talent operations. Demonstrated ability to lead multidisciplinary teams and manage complex talent processes across recruitment, training, onboarding, and workforce readiness. Strong expertise in strategic planning, operational management, process optimization, and organizational development. Proven experience establishing performance frameworks, monitoring KPIs, analyzing workforce data, and using insights to drive operational improvements. Solid understanding of talent acquisition strategies, contractor onboarding, talent development, workforce readiness, and retention management. Strong project management and change management capabilities, with experience coordinating cross-functional initiatives and managing competing priorities. Excellent leadership, coaching, performance management, and team development skills. Proficiency with CRM platforms such as GoHighLevel or similar applications and applicant tracking systems (ATS) such as BreezyHR or equivalent tools. Experience using training platforms, reporting dashboards, workforce analytics tools, and productivity applications is highly desirable. Excellent written and verbal English communication skills, with near-native proficiency preferred. Strong problem-solving, critical thinking, stakeholder management, organizational, and decision-making abilities. Highly accountable, results-oriented, and comfortable working independently in a remote, international environment. Ability to establish clear priorities, manage operational complexity, communicate effectively with stakeholders, and drive measurable results. Benefits: Competitive compensation rates based on the scope of services and experience. Weekly payments for completed contracted services. Fully remote working arrangement, allowing you to work from your preferred location. Full-time engagement of approximately 40 hours per week. Free training and professional upskilling opportunities. Ongoing support, guidanc",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/66a84e56-a1f9-4cb7-bdc3-c2335d7222a7",
+      "isLive": true
+    },
+    {
+      "id": 1932044534,
+      "externalId": "1663deff-975a-49b4-b530-37690612dfa0",
+      "title": "AI Platform Engineer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T07:46:53.664Z",
+      "skills": [
+        "Python",
+        "Audit",
+        "Insurance",
+        "Recruitment"
+      ],
+      "description": "Accountabilities: You will help build and evolve the organization's AI platform, enabling teams across the business to deploy reliable, secure, and increasingly autonomous agents. Your responsibilities will include: Productionizing AI workflows: Transform prototypes into robust production systems with defined service-level agreements (SLAs), supporting use cases such as specification-to-pull-request agents, AI-powered code reviews, incident triage, and Know Your Business (KYB) reviews. Building and managing MCP servers: Design, deploy, secure, and maintain Model Context Protocol servers, including authentication, per-user OAuth, scoped access, and integrations with tools such as Slack, GitHub, Jira, HubSpot, and internal services. Developing autonomous agents: Build multi-step agents capable of planning and taking action across different tools, progressing through controlled trust stages from shadowing and suggesting to executing tasks autonomously. Implementing security and governance: Establish platform-wide guardrails, including agent identities, scoped credentials, audit logs, CI checks, approval workflows, allowlists, and least-privilege access policies. Creating evaluation frameworks: Develop test datasets, evaluation criteria, regression suites, and live production scoring systems to measure agent quality and connect performance metrics to business outcomes. Improving observability: Instrument agents and workflows with tracing, logging, latency and cost metrics, drift detection, alerts, and dashboards that help internal Operators monitor performance. Managing AI expenditure: Track usage and spending across AI providers, including Anthropic, OpenAI, and OpenRouter. Establish budgets, alerts, and cost attribution at the team, agent, and workflow levels. Supporting internal stakeholders: Work directly with Operators across business functions to understand their needs, develop requested features, create documentation, deliver enablement sessions, and build self-service tools. Developing reusable AI capabilities: Create and maintain shared skills, plugins, and knowledge resources covering company processes, standards, security requirements, and brand guidelines. Driving process automation: Proactively identify repetitive manual workflows that could benefit from AI, implement automation solutions, measure their impact, and continuously improve them. Taking end-to-end ownership: Write technical specifications, plan and deliver projects independently, communicate progress asynchronously, and remain accountable for monitoring and improving solutions after deployment. Requirements The ideal candidate combines strong software engineering fundamentals with hands-on experience building and operating production-ready AI systems. You should be comfortable working independently, communicating with technical and non-technical stakeholders, and applying sound judgment to complex automation and security challenges. Required qualifications include: At least 5 years of experience as a software, platform, or infrastructure engineer, with a solid understanding of system design, data modeling, testing, debugging, and code review. Between 6 and 12 months of experience shipping LLM-based systems to production and supporting agentic workflows used by real end users. Daily, hands-on experience using AI coding agents such as Claude Code and Codex to write, test, and review production code. Experience developing autonomous or multi-step agents with tool integrations, using technologies such as the Claude Agent SDK, Anthropic APIs, OpenAI APIs, or similar frameworks. Practical experience building MCP servers, including OAuth authentication flows, scoped tokens, and user-level access controls. Knowledge of identity and access management systems such as Okta or similar identity providers, including SSO protocols (SAML/OIDC), SCIM provisioning, group-based access, and device policies. Experience creating automated system identities, including GitHub App",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/1663deff-975a-49b4-b530-37690612dfa0",
+      "isLive": true
+    },
+    {
+      "id": 3791434738,
+      "externalId": "76425a52-ac45-4b7e-9611-3a1eb7bdc7ce",
+      "title": "Marketing Manager - Market Data",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T07:46:31.560Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Customer Service",
+        "Sales",
+        "Marketing",
+        "Content",
+        "Public Relations"
+      ],
+      "description": "Accountabilities: Develop and own the overall marketing strategy and roadmap for the market data product, defining priorities, budgets, objectives, and performance indicators. Plan, build, and execute targeted email marketing campaigns using HubSpot or similar automation platforms, collaborating with sales and customer service teams. Create and manage sales and marketing materials, including product presentations, pitch decks, product sheets, case studies, and pricing documents. Develop and coordinate the events strategy, working with internal event teams to increase brand visibility and customer engagement. Collaborate with PR teams to establish and implement effective public relations strategies. Monitor competitors, tracking product launches, pricing developments, and market positioning to identify opportunities and inform strategic decisions. Design and manage customer surveys, feedback initiatives, and research programs to better understand customer needs and expectations. Plan, launch, and optimize paid advertising campaigns across Google Ads and LinkedIn. Analyze campaign performance, measure marketing effectiveness, and provide actionable recommendations to improve product positioning and go-to-market strategies. Act as the voice of the customer and provide market intelligence to support product development and commercial initiatives. Requirements: At least 5 years of experience in B2B marketing, ideally within fintech, financial services, or SaaS, with a proven ability to own marketing strategies and plans. Hands-on experience creating, managing, and optimizing email campaigns using HubSpot or a comparable marketing automation platform. Proven experience running paid advertising campaigns across Google Ads and LinkedIn. Demonstrated ability to develop sales enablement materials and collaborate effectively with sales and customer-facing teams. Experience planning and managing events and PR initiatives, including coordination with internal stakeholders and external agency partners. Excellent written and verbal communication skills, with the ability to create compelling marketing content and presentations. Strong analytical capabilities and a data-driven approach to campaign measurement, reporting, and optimization. Excellent organizational skills and attention to detail, with the ability to manage multiple priorities independently. Familiarity with financial markets, trading, market data, or API and developer-focused products is a strong advantage. Experience in competitive intelligence, customer research, and survey management is considered a plus. Ability to thrive in a fast-paced, international, and remote working environment. Benefits: Competitive salary package. Stock options, offering the opportunity to participate in the company's growth. Health benefits. One-time USD 500 allowance for new hires to set up their home office. Monthly USD 150 stipend provided through a Brex card. Opportunity to work remotely within an internationally distributed team. Exposure to a dynamic fintech environment and innovative financial technology products.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/76425a52-ac45-4b7e-9611-3a1eb7bdc7ce",
       "isLive": true
     },
     {
@@ -1070,7 +1236,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:36:28.715Z",
       "skills": [
         "Excel",
@@ -1101,7 +1267,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:35:59.355Z",
       "skills": [
         "Excel",
@@ -1132,7 +1298,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:34:38.052Z",
       "skills": [
         "Excel",
@@ -1163,7 +1329,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:31:28.956Z",
       "skills": [
         "JavaScript",
@@ -1189,7 +1355,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:25:33.287Z",
       "skills": [
         "Excel",
@@ -1220,7 +1386,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:25:00.213Z",
       "skills": [
         "Excel",
@@ -1251,7 +1417,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:23:46.357Z",
       "skills": [
         "Excel",
@@ -1282,7 +1448,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:15:51.932Z",
       "skills": [
         "Excel",
@@ -2208,7 +2374,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T08:21:55.529Z",
       "skills": [
         "Finance",
@@ -2237,7 +2403,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T07:50:04.408Z",
       "skills": [
         "Excel",
@@ -2267,7 +2433,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "manufacturing",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T07:47:43.058Z",
       "skills": [
         "Excel",
@@ -2296,7 +2462,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T07:45:11.978Z",
       "skills": [
         "Python",
@@ -2324,7 +2490,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T07:41:01.179Z",
       "skills": [
         "React",
@@ -2352,7 +2518,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T07:40:28.192Z",
       "skills": [
         "React",
@@ -2380,7 +2546,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T07:39:09.971Z",
       "skills": [
         "React",
@@ -2408,7 +2574,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T07:31:59.405Z",
       "skills": [
         "SQL",
@@ -2438,7 +2604,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T07:31:27.330Z",
       "skills": [
         "SQL",
@@ -2468,7 +2634,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T07:29:56.718Z",
       "skills": [
         "SQL",
@@ -3075,7 +3241,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T08:38:37.349Z",
       "skills": [
         "Excel",
@@ -3103,7 +3269,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T08:36:19.400Z",
       "skills": [
         "Customer Service",
@@ -3133,7 +3299,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T08:34:00.334Z",
       "skills": [
         "Excel",
@@ -3159,7 +3325,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T08:19:53.748Z",
       "skills": [
         "Excel",
@@ -3185,7 +3351,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T08:15:17.028Z",
       "skills": [
         "Excel",
@@ -3211,7 +3377,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T08:13:41.932Z",
       "skills": [
         "Excel",
@@ -3237,7 +3403,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T08:04:05.751Z",
       "skills": [
         "Insurance",
@@ -3265,7 +3431,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T08:03:38.018Z",
       "skills": [
         "Insurance",
@@ -3293,7 +3459,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T08:02:24.580Z",
       "skills": [
         "Insurance",
@@ -3321,7 +3487,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T07:51:29.912Z",
       "skills": [
         "Excel",
@@ -3349,7 +3515,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T07:51:01.993Z",
       "skills": [
         "Excel",
@@ -3377,7 +3543,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T07:48:14.222Z",
       "skills": [
         "Excel",
@@ -3405,7 +3571,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T07:46:29.154Z",
       "skills": [
         "Python",
@@ -3432,7 +3598,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T07:33:04.532Z",
       "skills": [
         "Content"
@@ -4338,7 +4504,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T07:49:11.252Z",
       "skills": [
         "Python",
@@ -4368,7 +4534,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T07:46:56.315Z",
       "skills": [
         "React",
@@ -4399,7 +4565,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T07:44:46.016Z",
       "skills": [
         "Excel",
@@ -4428,7 +4594,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T07:41:13.688Z",
       "skills": [
         "Excel",
@@ -4457,7 +4623,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T07:40:46.167Z",
       "skills": [
         "Excel",
@@ -4486,7 +4652,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T07:39:35.171Z",
       "skills": [
         "Excel",
@@ -4515,7 +4681,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T07:35:05.778Z",
       "skills": [
         "Excel",
@@ -4541,7 +4707,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T07:34:15.873Z",
       "skills": [
         "Excel",
@@ -4567,7 +4733,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T07:32:55.283Z",
       "skills": [
         "Excel",
@@ -4998,7 +5164,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T08:06:41.127Z",
       "skills": [
         "Excel",
@@ -5028,7 +5194,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T07:56:15.042Z",
       "skills": [
         "SAP",
@@ -5055,7 +5221,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T07:54:40.815Z",
       "skills": [
         "SAP",
@@ -5082,7 +5248,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T07:53:50.507Z",
       "skills": [
         "SAP",
@@ -5109,7 +5275,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T07:52:26.300Z",
       "skills": [
         "SQL",
@@ -5137,7 +5303,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T07:51:40.798Z",
       "skills": [
         "SQL",
@@ -5165,7 +5331,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T07:49:58.321Z",
       "skills": [
         "SQL",
@@ -5193,7 +5359,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T07:32:49.558Z",
       "skills": [
         "Compliance",
@@ -5219,7 +5385,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T07:32:06.417Z",
       "skills": [
         "Compliance",
@@ -5245,7 +5411,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T07:30:50.437Z",
       "skills": [
         "SQL",
@@ -6114,7 +6280,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "technology",
-      "age": "منذ 48 أيام",
+      "age": "منذ 49 أيام",
       "publishedAt": "2026-09-25T08:06:45.340Z",
       "skills": [
         "Python",
@@ -6803,7 +6969,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 72 أيام",
+      "age": "منذ 73 أيام",
       "publishedAt": "2026-09-01T08:15:05.603Z",
       "skills": [
         "Excel",
@@ -6833,7 +6999,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "finance",
-      "age": "منذ 72 أيام",
+      "age": "منذ 73 أيام",
       "publishedAt": "2026-09-01T07:45:14.868Z",
       "skills": [
         "Excel",
@@ -7968,7 +8134,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 554 أيام",
+      "age": "منذ 555 أيام",
       "publishedAt": "2025-05-07T08:19:01.580Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -8046,7 +8212,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 661 أيام",
+      "age": "منذ 662 أيام",
       "publishedAt": "2025-01-20T08:12:44.468Z",
       "skills": [
         "Audit",
@@ -8101,7 +8267,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 862 أيام",
+      "age": "منذ 863 أيام",
       "publishedAt": "2024-07-03T07:43:10.387Z",
       "skills": [
         "Excel",
