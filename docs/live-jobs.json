@@ -1,8 +1,206 @@
 {
-  "generatedAt": "2026-11-13T09:40:01.608Z",
-  "total": 301,
+  "generatedAt": "2026-11-13T10:41:16.708Z",
+  "total": 309,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 2628900587,
+      "externalId": "ce74f1a7-18c2-409d-86c6-7134637e6f88",
+      "title": "Data QA Engineer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T10:06:02.260Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Translate customer data extraction and web scraping requirements into clear, measurable testing strategies, taking ownership of quality assurance from the beginning of new projects. Design and execute comprehensive test plans combining exploratory, manual, visual, and automated testing approaches according to project needs. Perform regular testing cycles on extracted datasets to validate data accuracy, completeness, consistency, and reliability. Identify, investigate, document, and report defects with clear reproduction steps and sufficient technical detail to enable developers to resolve issues efficiently. Apply descriptive statistics, data summaries, and visualizations to assess data quality, identify anomalies, and monitor potential data drift. Prepare detailed test reports and quality scores, providing internal stakeholders and customers with an accurate understanding of project quality and potential risks. Clearly communicate testing coverage, limitations, unresolved issues, and remaining risks throughout the delivery process. Collaborate with project managers and customers to clarify requirements, identify ambiguities, and ensure that expectations are measurable and testable before QA activities begin. Contribute to the development and continuous improvement of test automation frameworks, focusing on test coverage, reliability, and performance. Identify and implement improvements to QA processes and tools, including browser extensions, spreadsheet add-ons, and user-interface-based testing solutions. Work closely with QA leadership, developers, and project managers to maintain high-quality standards while operating with a high degree of independence. Requirements: At least 5 years of professional experience as a QA Engineer or in a comparable quality assurance role, preferably involving software testing, data validation, or data quality. Strong Python programming skills, ideally with practical experience using Pandas and Jupyter Notebook for data analysis, processing, and validation. Basic to intermediate SQL knowledge, with the ability to write queries and work confidently with at least one relational database and its associated tools. Solid understanding of web technologies and protocols, including HTML, XPath, JSON, HTTP, and CSS. Practical experience designing and executing tests for HTTP and REST APIs. Strong knowledge of test case design, test planning, test execution, and test data management. Understanding of key data quality concepts, including completeness, accuracy, consistency, reliability, and data drift. Experience working in Agile development environments, including Scrum or Kanban, and collaborating closely with software developers. Familiarity with AI and Large Language Model (LLM) tools, particularly their application in generating test cases, accelerating data validation, and improving QA workflows. Excellent analytical and problem-solving abilities, combined with strong attention to detail and a proactive approach to quality ownership. Ability to quickly understand complex project requirements, learn new technologies, and adapt to changing priorities. Confidence in maintaining high-quality standards and raising concerns when delivery timelines or project pressures could compromise quality. Excellent written and verbal communication skills in English. Nice to Have: Working knowledge of Scrapy and other Python-based web scraping frameworks. Previous experience developing or working with test automation frameworks. Interest or experience in data science concepts, particularly as applied to data analysis, interpretation, and validation. Enthusiasm for exploring AI and LLM-powered tools to improve testing efficiency and accelerate data quality assessments. Benefits: Fully Remote Work: Enjoy the freedom and flexibility to work from anywhere in the world, choosing the environment where you are most productive. Generous Paid Leave: Benefit from 35 days of paid holidays per year, supporting a",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/ce74f1a7-18c2-409d-86c6-7134637e6f88",
+      "isLive": true
+    },
+    {
+      "id": 573443996,
+      "externalId": "1df5f077-9c14-48ac-933a-626f6e6c8ee6",
+      "title": "Data QA Engineer",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T10:03:32.269Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Translate customer data extraction and web scraping requirements into clear, measurable testing strategies, taking ownership of quality assurance from the beginning of new projects. Design and execute comprehensive test plans combining exploratory, manual, visual, and automated testing approaches according to project needs. Perform regular testing cycles on extracted datasets to validate data accuracy, completeness, consistency, and reliability. Identify, investigate, document, and report defects with clear reproduction steps and sufficient technical detail to enable developers to resolve issues efficiently. Apply descriptive statistics, data summaries, and visualizations to assess data quality, identify anomalies, and monitor potential data drift. Prepare detailed test reports and quality scores, providing internal stakeholders and customers with an accurate understanding of project quality and potential risks. Clearly communicate testing coverage, limitations, unresolved issues, and remaining risks throughout the delivery process. Collaborate with project managers and customers to clarify requirements, identify ambiguities, and ensure that expectations are measurable and testable before QA activities begin. Contribute to the development and continuous improvement of test automation frameworks, focusing on test coverage, reliability, and performance. Identify and implement improvements to QA processes and tools, including browser extensions, spreadsheet add-ons, and user-interface-based testing solutions. Work closely with QA leadership, developers, and project managers to maintain high-quality standards while operating with a high degree of independence. Requirements: At least 5 years of professional experience as a QA Engineer or in a comparable quality assurance role, preferably involving software testing, data validation, or data quality. Strong Python programming skills, ideally with practical experience using Pandas and Jupyter Notebook for data analysis, processing, and validation. Basic to intermediate SQL knowledge, with the ability to write queries and work confidently with at least one relational database and its associated tools. Solid understanding of web technologies and protocols, including HTML, XPath, JSON, HTTP, and CSS. Practical experience designing and executing tests for HTTP and REST APIs. Strong knowledge of test case design, test planning, test execution, and test data management. Understanding of key data quality concepts, including completeness, accuracy, consistency, reliability, and data drift. Experience working in Agile development environments, including Scrum or Kanban, and collaborating closely with software developers. Familiarity with AI and Large Language Model (LLM) tools, particularly their application in generating test cases, accelerating data validation, and improving QA workflows. Excellent analytical and problem-solving abilities, combined with strong attention to detail and a proactive approach to quality ownership. Ability to quickly understand complex project requirements, learn new technologies, and adapt to changing priorities. Confidence in maintaining high-quality standards and raising concerns when delivery timelines or project pressures could compromise quality. Excellent written and verbal communication skills in English. Nice to Have: Working knowledge of Scrapy and other Python-based web scraping frameworks. Previous experience developing or working with test automation frameworks. Interest or experience in data science concepts, particularly as applied to data analysis, interpretation, and validation. Enthusiasm for exploring AI and LLM-powered tools to improve testing efficiency and accelerate data quality assessments. Benefits: Fully Remote Work: Enjoy the freedom and flexibility to work from anywhere in the world, choosing the environment where you are most productive. Generous Paid Leave: Benefit from 35 days of paid holidays per year, supporting a",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/1df5f077-9c14-48ac-933a-626f6e6c8ee6",
+      "isLive": true
+    },
+    {
+      "id": 4275910858,
+      "externalId": "e3737a97-a4df-4823-b039-5e9f02cecab8",
+      "title": "Data QA Engineer",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T10:02:50.053Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Excel",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Translate customer data extraction and web scraping requirements into clear, measurable testing strategies, taking ownership of quality assurance from the beginning of new projects. Design and execute comprehensive test plans combining exploratory, manual, visual, and automated testing approaches according to project needs. Perform regular testing cycles on extracted datasets to validate data accuracy, completeness, consistency, and reliability. Identify, investigate, document, and report defects with clear reproduction steps and sufficient technical detail to enable developers to resolve issues efficiently. Apply descriptive statistics, data summaries, and visualizations to assess data quality, identify anomalies, and monitor potential data drift. Prepare detailed test reports and quality scores, providing internal stakeholders and customers with an accurate understanding of project quality and potential risks. Clearly communicate testing coverage, limitations, unresolved issues, and remaining risks throughout the delivery process. Collaborate with project managers and customers to clarify requirements, identify ambiguities, and ensure that expectations are measurable and testable before QA activities begin. Contribute to the development and continuous improvement of test automation frameworks, focusing on test coverage, reliability, and performance. Identify and implement improvements to QA processes and tools, including browser extensions, spreadsheet add-ons, and user-interface-based testing solutions. Work closely with QA leadership, developers, and project managers to maintain high-quality standards while operating with a high degree of independence. Requirements: At least 5 years of professional experience as a QA Engineer or in a comparable quality assurance role, preferably involving software testing, data validation, or data quality. Strong Python programming skills, ideally with practical experience using Pandas and Jupyter Notebook for data analysis, processing, and validation. Basic to intermediate SQL knowledge, with the ability to write queries and work confidently with at least one relational database and its associated tools. Solid understanding of web technologies and protocols, including HTML, XPath, JSON, HTTP, and CSS. Practical experience designing and executing tests for HTTP and REST APIs. Strong knowledge of test case design, test planning, test execution, and test data management. Understanding of key data quality concepts, including completeness, accuracy, consistency, reliability, and data drift. Experience working in Agile development environments, including Scrum or Kanban, and collaborating closely with software developers. Familiarity with AI and Large Language Model (LLM) tools, particularly their application in generating test cases, accelerating data validation, and improving QA workflows. Excellent analytical and problem-solving abilities, combined with strong attention to detail and a proactive approach to quality ownership. Ability to quickly understand complex project requirements, learn new technologies, and adapt to changing priorities. Confidence in maintaining high-quality standards and raising concerns when delivery timelines or project pressures could compromise quality. Excellent written and verbal communication skills in English. Nice to Have: Working knowledge of Scrapy and other Python-based web scraping frameworks. Previous experience developing or working with test automation frameworks. Interest or experience in data science concepts, particularly as applied to data analysis, interpretation, and validation. Enthusiasm for exploring AI and LLM-powered tools to improve testing efficiency and accelerate data quality assessments. Benefits: Fully Remote Work: Enjoy the freedom and flexibility to work from anywhere in the world, choosing the environment where you are most productive. Generous Paid Leave: Benefit from 35 days of paid holidays per year, supporting a",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/e3737a97-a4df-4823-b039-5e9f02cecab8",
+      "isLive": true
+    },
+    {
+      "id": 583248238,
+      "externalId": "71fe0b0e-1c27-4014-99ff-33e60d4e0ec5",
+      "title": "Senior Game Scout",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T09:52:15.077Z",
+      "skills": [
+        "MEP",
+        "Excel",
+        "Content",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Identify and source high-potential PC and console games through established industry networks, gaming events, developer relationships, and digital platforms, with an initial focus on Steam and Epic Games Store. Build and maintain a strong pipeline of publishing opportunities by developing relationships with independent developers, game studios, and key industry stakeholders. Evaluate the creative, technical, and commercial potential of games, assessing gameplay mechanics, core loops, depth, replayability, accessibility, audience appeal, differentiation, and competitive positioning. Analyze market opportunities and assess a game's potential for streaming, content creation, community engagement, and long-term commercial success. Evaluate development teams, production capabilities, budgets, timelines, financial projections, and potential risks to determine the feasibility of publishing opportunities. Review pitches, prototypes, and playable builds, preparing structured assessments and presenting well-supported recommendations to internal stakeholders. Coordinate due diligence and lead or support commercial negotiations with prospective publishing partners, maintaining strong relationships throughout the evaluation and signing process. Establish and improve scouting processes, evaluation frameworks, pipeline management systems, and performance standards to support the growth of the publishing function. Monitor PC and console gaming trends, emerging genres, market developments, and competitive activity to identify new publishing opportunities. Report on potential signings, communicate pipeline progress, and contribute to recruiting and developing the scouting team as the business expands. Requirements: Significant professional experience in PC and console publishing, game scouting, business development, or a related commercial role. An established network of independent game developers, studios, publishers, and other relevant industry contacts, with a proven track record of identifying and progressing promising games. Excellent knowledge of PC and console gaming markets, including genres, competitors, industry trends, and player expectations. Practical experience with Steam, including game publishing, launching titles, and developing or growing player communities. Strong creative judgment and the ability to recognize distinctive games with compelling gameplay, audience appeal, and long-term potential. Excellent commercial and analytical skills, with the ability to assess market positioning, financial viability, development capabilities, production budgets, and associated risks. Experience managing the full scouting pipeline, from initial opportunity identification and developer engagement through evaluation, internal presentations, due diligence, and negotiations. Strong negotiation, networking, presentation, and relationship-building skills, with the confidence to engage effectively with external partners and internal stakeholders. Ability to work independently, make informed recommendations, challenge assumptions, and communicate clear commercial rationales. A proactive, performance-driven mindset, with a strong focus on impact, experimentation, continuous improvement, and measurable results. Excellent collaboration and communication skills, combined with curiosity, adaptability, humility, and openness to feedback. Ability to thrive in a fully remote, international environment, managing priorities autonomously while contributing to a collaborative team culture. Benefits: Competitive Compensation: Salary based on qualifications, professional experience, and suitability for the role. Annual Bonus: Access to a variable compensation program designed to reward performance and contribution. Equipment Allowance: Receive a dedicated budget to purchase your preferred work devices and equipment. Work From Anywhere: Enjoy the freedom to work remotely from anywhere in the world, with opportunities to travel internationally.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/71fe0b0e-1c27-4014-99ff-33e60d4e0ec5",
+      "isLive": true
+    },
+    {
+      "id": 1335914110,
+      "externalId": "019b76ee-e610-4825-b4c9-d257c08bf09c",
+      "title": "Senior Game Scout",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T09:50:09.553Z",
+      "skills": [
+        "MEP",
+        "Excel",
+        "Content",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Identify and source high-potential PC and console games through established industry networks, gaming events, developer relationships, and digital platforms, with an initial focus on Steam and Epic Games Store. Build and maintain a strong pipeline of publishing opportunities by developing relationships with independent developers, game studios, and key industry stakeholders. Evaluate the creative, technical, and commercial potential of games, assessing gameplay mechanics, core loops, depth, replayability, accessibility, audience appeal, differentiation, and competitive positioning. Analyze market opportunities and assess a game's potential for streaming, content creation, community engagement, and long-term commercial success. Evaluate development teams, production capabilities, budgets, timelines, financial projections, and potential risks to determine the feasibility of publishing opportunities. Review pitches, prototypes, and playable builds, preparing structured assessments and presenting well-supported recommendations to internal stakeholders. Coordinate due diligence and lead or support commercial negotiations with prospective publishing partners, maintaining strong relationships throughout the evaluation and signing process. Establish and improve scouting processes, evaluation frameworks, pipeline management systems, and performance standards to support the growth of the publishing function. Monitor PC and console gaming trends, emerging genres, market developments, and competitive activity to identify new publishing opportunities. Report on potential signings, communicate pipeline progress, and contribute to recruiting and developing the scouting team as the business expands. Requirements: Significant professional experience in PC and console publishing, game scouting, business development, or a related commercial role. An established network of independent game developers, studios, publishers, and other relevant industry contacts, with a proven track record of identifying and progressing promising games. Excellent knowledge of PC and console gaming markets, including genres, competitors, industry trends, and player expectations. Practical experience with Steam, including game publishing, launching titles, and developing or growing player communities. Strong creative judgment and the ability to recognize distinctive games with compelling gameplay, audience appeal, and long-term potential. Excellent commercial and analytical skills, with the ability to assess market positioning, financial viability, development capabilities, production budgets, and associated risks. Experience managing the full scouting pipeline, from initial opportunity identification and developer engagement through evaluation, internal presentations, due diligence, and negotiations. Strong negotiation, networking, presentation, and relationship-building skills, with the confidence to engage effectively with external partners and internal stakeholders. Ability to work independently, make informed recommendations, challenge assumptions, and communicate clear commercial rationales. A proactive, performance-driven mindset, with a strong focus on impact, experimentation, continuous improvement, and measurable results. Excellent collaboration and communication skills, combined with curiosity, adaptability, humility, and openness to feedback. Ability to thrive in a fully remote, international environment, managing priorities autonomously while contributing to a collaborative team culture. Benefits: Competitive Compensation: Salary based on qualifications, professional experience, and suitability for the role. Annual Bonus: Access to a variable compensation program designed to reward performance and contribution. Equipment Allowance: Receive a dedicated budget to purchase your preferred work devices and equipment. Work From Anywhere: Enjoy the freedom to work remotely from anywhere in the world, with opportunities to travel internationally.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/019b76ee-e610-4825-b4c9-d257c08bf09c",
+      "isLive": true
+    },
+    {
+      "id": 3478733733,
+      "externalId": "acb5468c-3973-442c-b410-c10409639870",
+      "title": "Senior Game Scout",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T09:49:23.025Z",
+      "skills": [
+        "MEP",
+        "Excel",
+        "Content",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Identify and source high-potential PC and console games through established industry networks, gaming events, developer relationships, and digital platforms, with an initial focus on Steam and Epic Games Store. Build and maintain a strong pipeline of publishing opportunities by developing relationships with independent developers, game studios, and key industry stakeholders. Evaluate the creative, technical, and commercial potential of games, assessing gameplay mechanics, core loops, depth, replayability, accessibility, audience appeal, differentiation, and competitive positioning. Analyze market opportunities and assess a game's potential for streaming, content creation, community engagement, and long-term commercial success. Evaluate development teams, production capabilities, budgets, timelines, financial projections, and potential risks to determine the feasibility of publishing opportunities. Review pitches, prototypes, and playable builds, preparing structured assessments and presenting well-supported recommendations to internal stakeholders. Coordinate due diligence and lead or support commercial negotiations with prospective publishing partners, maintaining strong relationships throughout the evaluation and signing process. Establish and improve scouting processes, evaluation frameworks, pipeline management systems, and performance standards to support the growth of the publishing function. Monitor PC and console gaming trends, emerging genres, market developments, and competitive activity to identify new publishing opportunities. Report on potential signings, communicate pipeline progress, and contribute to recruiting and developing the scouting team as the business expands. Requirements: Significant professional experience in PC and console publishing, game scouting, business development, or a related commercial role. An established network of independent game developers, studios, publishers, and other relevant industry contacts, with a proven track record of identifying and progressing promising games. Excellent knowledge of PC and console gaming markets, including genres, competitors, industry trends, and player expectations. Practical experience with Steam, including game publishing, launching titles, and developing or growing player communities. Strong creative judgment and the ability to recognize distinctive games with compelling gameplay, audience appeal, and long-term potential. Excellent commercial and analytical skills, with the ability to assess market positioning, financial viability, development capabilities, production budgets, and associated risks. Experience managing the full scouting pipeline, from initial opportunity identification and developer engagement through evaluation, internal presentations, due diligence, and negotiations. Strong negotiation, networking, presentation, and relationship-building skills, with the confidence to engage effectively with external partners and internal stakeholders. Ability to work independently, make informed recommendations, challenge assumptions, and communicate clear commercial rationales. A proactive, performance-driven mindset, with a strong focus on impact, experimentation, continuous improvement, and measurable results. Excellent collaboration and communication skills, combined with curiosity, adaptability, humility, and openness to feedback. Ability to thrive in a fully remote, international environment, managing priorities autonomously while contributing to a collaborative team culture. Benefits: Competitive Compensation: Salary based on qualifications, professional experience, and suitability for the role. Annual Bonus: Access to a variable compensation program designed to reward performance and contribution. Equipment Allowance: Receive a dedicated budget to purchase your preferred work devices and equipment. Work From Anywhere: Enjoy the freedom to work remotely from anywhere in the world, with opportunities to travel internationally.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/acb5468c-3973-442c-b410-c10409639870",
+      "isLive": true
+    },
+    {
+      "id": 1492069503,
+      "externalId": "b393c4d1-caf6-4230-8ff7-03f601ee50ae",
+      "title": "Procurement Lead",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 8,
+      "maxExp": 16,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T09:39:41.903Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Finance",
+        "Insurance",
+        "Administration",
+        "Procurement"
+      ],
+      "description": "Accountabilities: Own end-to-end relationships with key cloud and SaaS vendors, including AWS, GCP, Cloudflare, CloudQuery, ClickHouse, and other strategic partners, leading contract negotiations and renewals in collaboration with Finance and Legal. Establish and enforce procurement governance, including competitive bidding processes, approval thresholds, benchmarking, and coordination with managed-procurement partners. Lead the Procurement and FinOps function, defining its operating model, roadmap, processes, and standards while ensuring alignment with wider business objectives. Manage and develop direct reports by overseeing onboarding, performance management, career development, regular one-to-ones, and day-to-day team administration. Drive the team's delivery and accountability through roadmap management, project tracking, workflow prioritization, and stakeholder communication. Improve commercial visibility and unit economics by monitoring vendor expenditure, identifying licensing inefficiencies, analyzing usage patterns, and driving renewals, right-sizing, and tooling consolidation to achieve measurable savings. Build and maintain vendor and SaaS cost dashboards and reporting systems, working hands-on with data and partnering with internal teams to scale reporting capabilities. Define and maintain spending policies, governance frameworks, accountability standards, and cost-control thresholds. Coordinate cloud cost-efficiency initiatives, tracking optimization opportunities from initial commitment through to realized savings in partnership with Engineering teams. Requirements: At least 8 years of experience in procurement, vendor or commercial management, FinOps, or technical and financial analysis, including senior-level ownership of a function or strategic area. Proven experience managing strategic vendor relationships, negotiating commercial agreements, and overseeing contract renewals. Strong understanding of procurement governance, including competitive bidding, contract benchmarking, approval processes, and managed-procurement partnerships. Hands-on experience building cost dashboards and reporting solutions using SQL, business intelligence tools, or similar analytical technologies. Comfortable analyzing cloud infrastructure expenditure, particularly AWS and GCP costs, SaaS billing, licensing structures, and usage data. Strong financial and analytical capabilities, with the ability to translate complex spending information into actionable insights and measurable business outcomes. Excellent communication and stakeholder-management skills, with the ability to collaborate effectively with both technical and non-technical teams. Strong judgment, strategic thinking, and the ability to influence decisions, build consensus, and drive alignment without relying on formal authority. Experience working in asynchronous, remote-first, or globally distributed organizations. Proven ability to build processes and functions from the ground up, take ownership, and navigate ambiguity in fast-moving environments. Demonstrated people-management skills, including team development, performance management, and fostering a high-trust working culture. Benefits: Fully Remote: Work from anywhere in the world, with a WeWork membership or co-working allowance to support your preferred working environment. Equity Ownership (ESOP): Receive company equity, allowing you to share in the organization's long-term growth and success. Technology Allowance: Access a dedicated budget to equip your workspace with the technology and tools you need to perform at your best. Health Benefits: Comprehensive health insurance coverage, with 100% of employee premiums and 80% of dependent premiums covered, regardless of location. Annual Company Off-Sites: Join colleagues from around the world for a week-long annual gathering focused on collaboration, connection, and team building. Flexible Working Arrangements: Enjoy an asynchronous working culture with the autonomy ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/b393c4d1-caf6-4230-8ff7-03f601ee50ae",
+      "isLive": true
+    },
     {
       "id": 3264807409,
       "externalId": "b96a323d-6a41-46f0-9398-ac6f11bf375b",
@@ -858,7 +1056,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T10:18:34.798Z",
       "skills": [
         "Python",
@@ -886,7 +1084,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T10:16:42.047Z",
       "skills": [
         "Python",
@@ -914,7 +1112,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T10:16:02.409Z",
       "skills": [
         "Python",
@@ -942,7 +1140,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T10:05:30.438Z",
       "skills": [
         "Excel",
@@ -968,7 +1166,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T10:03:26.541Z",
       "skills": [
         "Excel",
@@ -994,7 +1192,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T10:02:41.882Z",
       "skills": [
         "Excel",
@@ -1020,7 +1218,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T09:49:02.716Z",
       "skills": [
         "JavaScript",
@@ -1049,7 +1247,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T09:46:51.610Z",
       "skills": [
         "JavaScript",
@@ -1078,7 +1276,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T09:46:10.102Z",
       "skills": [
         "JavaScript",
@@ -1903,7 +2101,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T10:32:12.447Z",
       "skills": [
         "SAP",
@@ -1934,7 +2132,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T10:30:44.479Z",
       "skills": [
         "SAP",
@@ -1965,7 +2163,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T10:30:04.490Z",
       "skills": [
         "SAP",
@@ -1996,7 +2194,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T10:28:45.063Z",
       "skills": [
         "Python",
@@ -2023,7 +2221,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T10:28:12.999Z",
       "skills": [
         "Python",
@@ -2050,7 +2248,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T10:26:44.230Z",
       "skills": [
         "Python",
@@ -2077,7 +2275,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T10:16:17.981Z",
       "skills": [
         "Audit",
@@ -2104,7 +2302,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T10:15:44.374Z",
       "skills": [
         "Audit",
@@ -2131,7 +2329,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T10:14:15.572Z",
       "skills": [
         "Audit",
@@ -2158,7 +2356,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T09:44:48.966Z",
       "skills": [
         "Excel",
@@ -2188,7 +2386,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T09:43:06.671Z",
       "skills": [
         "Excel",
@@ -2218,7 +2416,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T09:42:28.183Z",
       "skills": [
         "Excel",
@@ -5105,7 +5303,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T09:51:21.705Z",
       "skills": [
         "Excel",
@@ -5135,7 +5333,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T09:48:21.889Z",
       "skills": [
         "Excel",
@@ -5165,7 +5363,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T09:46:53.945Z",
       "skills": [
         "Excel",
@@ -5507,6 +5705,32 @@
       "description": "Accountabilities:: Own the product strategy, vision, and roadmap for hotel onboarding and connectivity, ensuring priorities support business goals and customer demand. Drive the primary success metric: increasing the number of bookable rooms added per day while maintaining high standards of quality and reliability. Develop and optimize onboarding journeys for different hotel segments, including large hotel chains, independent properties, and hotels joining through connectivity partners. Build and improve self-service onboarding experiences, aiming to enable independent hotels to become ready for sale in under 10 minutes. Identify, evaluate, and prioritize connectivity partners and hotel distribution integrations based on customer demand, commercial opportunity, and potential inventory growth. Lead a dedicated cross-functional product squad of approximately five engineers and one designer, providing clear direction and ensuring delivery against the roadmap. Collaborate closely with Operations, Growth, and Marketing to streamline hotel acquisition, onboarding, activation, and ongoing connectivity. Identify recurring onboarding and integration challenges and address them through scalable product capabilities, automation, and improved workflows. Make product decisions that reduce the time, cost, and complexity associated with each new hotel or partner integration. Explore and apply AI-powered tools and automation to accelerate product development, improve operational efficiency, and create better onboarding experiences. Monitor product performance, analyze results, and use customer and operational insights to refine priorities and improve outcomes. Navigate an evolving travel distribution landscape, including emerging AI-driven channels and new ways for hotels to reach customers. Work with a high degree of ownership, making timely decisions, testing ideas, and taking responsibility for the commercial and operational impact of product outcomes. Requirements: Proven experience leading a product area across engineering, design, Growth, and Marketing, including influencing stakeholders and teams without direct managerial authority. Demonstrated success building and scaling products where growth depends on connecting multiple external partners, suppliers, or businesses. Experience improving partner onboarding, integrations, or activation processes to make each subsequent connection faster and more efficient. Strong product strategy and roadmap management capabilities, with the ability to connect individual initiatives to measurable business outcomes. Commercial product judgment and experience making decisions that influence business performance, ideally including pricing, packaging, monetization, or revenue-related considerations. Ability to understand complex industries quickly, identify key challenges, and develop a clear product perspective within a short period. Strong problem-solving skills, with a focus on addressing recurring operational challenges through scalable product solutions rather than repeated manual intervention. Experience working closely with engineers and designers, translating business objectives into clear priorities and actionable product direction. A data-driven approach to product management, with the ability to define success metrics, evaluate performance, and make informed prioritization decisions. Strong interest in AI and automation, with practical experience using AI tools in product work and identifying opportunities to apply them to operational challenges. Comfort working in fast-paced, ambiguous environments with limited bureaucracy, high autonomy, and direct accountability for results. Excellent communication, collaboration, and stakeholder-management skills. Experience scaling partner onboarding within a delivery marketplace, two-sided platform, or another partner-driven ecosystem is particularly relevant. Experience in hotel distribution or travel technology is an advantage, but not required. Benefi",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/c4ab38a7-d485-4b36-86c8-b175f837ec15",
+      "isLive": true
+    },
+    {
+      "id": 3869623645,
+      "externalId": "a8d8ee01-c5ca-4c95-b5b6-cba8a09bf718",
+      "title": "Artemis AI Data Rater - Swedish",
+      "company": "Welo Data",
+      "country": "عُمان",
+      "region": "Bulgaria / Poland / Estonia / Romania / Riga, Latvia",
+      "location": "Bulgaria / Poland / Estonia / Romania / Riga, Latvia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "منذ 7 أيام",
+      "publishedAt": "2026-11-06T06:08:36.084Z",
+      "skills": [
+        "Excel",
+        "Research"
+      ],
+      "description": "OVERVIEW Are you tech-savvy? Have a passion for quality? We are looking for Data Raters to work on projects aimed at advancing AI technologies. Join us for a unique chance to kickstart your career in the AI field! This project is an excellent starting point for entry-level candidates. We offer comprehensive learning support, making it a great opportunity to gain experience in data annotation and data rating within the AI field—an industry currently in high demand for skilled specialists, especially those with expertise in localization and linguistic proficiency. MAIN DUTIES - Follow project-specific guidelines to conduct research on e-commerce data. - Evaluate the usefulness of product filters and results based on the research. - Rate the e-commerce data according to the guidelines provided. Project Details Start Date: Immediately after completing the qualification process Duration: Ongoing Schedule: This is a freelance opportunity; the workload is based on project needs. Weekly hours may vary. Employment Type: Freelance/Independent Contract Language: Swedish Pay Rate:$10/hour - Based on tasks completed By applying, you'll become part of our Freelance community, opening doors to a range of projects tailored to your skills and availability, particularly highlighting localization and linguistic expertise. Payment rates for future projects may vary, ensuring fair compensation that reflects your location, industry, and skill set. Joining us means contributing to our current project and becoming part of our dynamic network. This is a unique chance to enhance global user experiences and apply your language skills in meaningful ways. Requirements: Fully Proficient in Swedish Linguistic competency in English equal to the following: ILR Level 5 or CEF C2 Web-savvy and able to work in a fast-paced environment Preferably previous experience in Search Relevance tasks, experience with e-commerce searches/websites Excellent online research skills Attention to detail Performing enough research during the allocated time, working within short throughputs Reliable computer system and internet connection Ability to follow instructions in English and comply with the project conventions and rules expected by the client Must sign a Non-Disclosure Agreement to protect client confidentiality Must pass training and a required quality test before starting work",
+      "source": "Lever · Welo Data",
+      "externalUrl": "https://jobs.lever.co/weloglobal/a8d8ee01-c5ca-4c95-b5b6-cba8a09bf718",
       "isLive": true
     },
     {
@@ -5919,7 +6143,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 15 أيام",
+      "age": "منذ 16 أيام",
       "publishedAt": "2026-10-28T10:00:42.776Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6032,7 +6256,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 23 أيام",
+      "age": "منذ 24 أيام",
       "publishedAt": "2026-10-20T09:51:08.047Z",
       "skills": [
         "Research"
@@ -6057,7 +6281,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 23 أيام",
+      "age": "منذ 24 أيام",
       "publishedAt": "2026-10-20T09:50:41.630Z",
       "skills": [
         "Research"
@@ -7605,7 +7829,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 182 أيام",
+      "age": "منذ 183 أيام",
       "publishedAt": "2026-05-14T10:28:50.593Z",
       "skills": [
         "Finance",
@@ -7947,7 +8171,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 373 أيام",
+      "age": "منذ 374 أيام",
       "publishedAt": "2025-11-04T10:29:24.468Z",
       "skills": [
         "AutoCAD",
