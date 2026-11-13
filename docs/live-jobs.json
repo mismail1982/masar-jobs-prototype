@@ -1,8 +1,68 @@
 {
-  "generatedAt": "2026-11-13T08:39:46.569Z",
-  "total": 299,
+  "generatedAt": "2026-11-13T09:40:01.608Z",
+  "total": 301,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 3264807409,
+      "externalId": "b96a323d-6a41-46f0-9398-ac6f11bf375b",
+      "title": "Procurement Lead",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 8,
+      "maxExp": 16,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T09:37:05.619Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Finance",
+        "Insurance",
+        "Administration",
+        "Procurement"
+      ],
+      "description": "Accountabilities: Own end-to-end relationships with key cloud and SaaS vendors, including AWS, GCP, Cloudflare, CloudQuery, ClickHouse, and other strategic partners, leading contract negotiations and renewals in collaboration with Finance and Legal. Establish and enforce procurement governance, including competitive bidding processes, approval thresholds, benchmarking, and coordination with managed-procurement partners. Lead the Procurement and FinOps function, defining its operating model, roadmap, processes, and standards while ensuring alignment with wider business objectives. Manage and develop direct reports by overseeing onboarding, performance management, career development, regular one-to-ones, and day-to-day team administration. Drive the team's delivery and accountability through roadmap management, project tracking, workflow prioritization, and stakeholder communication. Improve commercial visibility and unit economics by monitoring vendor expenditure, identifying licensing inefficiencies, analyzing usage patterns, and driving renewals, right-sizing, and tooling consolidation to achieve measurable savings. Build and maintain vendor and SaaS cost dashboards and reporting systems, working hands-on with data and partnering with internal teams to scale reporting capabilities. Define and maintain spending policies, governance frameworks, accountability standards, and cost-control thresholds. Coordinate cloud cost-efficiency initiatives, tracking optimization opportunities from initial commitment through to realized savings in partnership with Engineering teams. Requirements: At least 8 years of experience in procurement, vendor or commercial management, FinOps, or technical and financial analysis, including senior-level ownership of a function or strategic area. Proven experience managing strategic vendor relationships, negotiating commercial agreements, and overseeing contract renewals. Strong understanding of procurement governance, including competitive bidding, contract benchmarking, approval processes, and managed-procurement partnerships. Hands-on experience building cost dashboards and reporting solutions using SQL, business intelligence tools, or similar analytical technologies. Comfortable analyzing cloud infrastructure expenditure, particularly AWS and GCP costs, SaaS billing, licensing structures, and usage data. Strong financial and analytical capabilities, with the ability to translate complex spending information into actionable insights and measurable business outcomes. Excellent communication and stakeholder-management skills, with the ability to collaborate effectively with both technical and non-technical teams. Strong judgment, strategic thinking, and the ability to influence decisions, build consensus, and drive alignment without relying on formal authority. Experience working in asynchronous, remote-first, or globally distributed organizations. Proven ability to build processes and functions from the ground up, take ownership, and navigate ambiguity in fast-moving environments. Demonstrated people-management skills, including team development, performance management, and fostering a high-trust working culture. Benefits: Fully Remote: Work from anywhere in the world, with a WeWork membership or co-working allowance to support your preferred working environment. Equity Ownership (ESOP): Receive company equity, allowing you to share in the organization's long-term growth and success. Technology Allowance: Access a dedicated budget to equip your workspace with the technology and tools you need to perform at your best. Health Benefits: Comprehensive health insurance coverage, with 100% of employee premiums and 80% of dependent premiums covered, regardless of location. Annual Company Off-Sites: Join colleagues from around the world for a week-long annual gathering focused on collaboration, connection, and team building. Flexible Working Arrangements: Enjoy an asynchronous working culture with the autonomy ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/b96a323d-6a41-46f0-9398-ac6f11bf375b",
+      "isLive": true
+    },
+    {
+      "id": 2263257944,
+      "externalId": "686d59ad-6364-4c32-8811-a3622fabc7a9",
+      "title": "Procurement Lead",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 8,
+      "maxExp": 16,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-11-13T09:36:11.678Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Finance",
+        "Insurance",
+        "Administration",
+        "Procurement"
+      ],
+      "description": "Accountabilities: Own end-to-end relationships with key cloud and SaaS vendors, including AWS, GCP, Cloudflare, CloudQuery, ClickHouse, and other strategic partners, leading contract negotiations and renewals in collaboration with Finance and Legal. Establish and enforce procurement governance, including competitive bidding processes, approval thresholds, benchmarking, and coordination with managed-procurement partners. Lead the Procurement and FinOps function, defining its operating model, roadmap, processes, and standards while ensuring alignment with wider business objectives. Manage and develop direct reports by overseeing onboarding, performance management, career development, regular one-to-ones, and day-to-day team administration. Drive the team's delivery and accountability through roadmap management, project tracking, workflow prioritization, and stakeholder communication. Improve commercial visibility and unit economics by monitoring vendor expenditure, identifying licensing inefficiencies, analyzing usage patterns, and driving renewals, right-sizing, and tooling consolidation to achieve measurable savings. Build and maintain vendor and SaaS cost dashboards and reporting systems, working hands-on with data and partnering with internal teams to scale reporting capabilities. Define and maintain spending policies, governance frameworks, accountability standards, and cost-control thresholds. Coordinate cloud cost-efficiency initiatives, tracking optimization opportunities from initial commitment through to realized savings in partnership with Engineering teams. Requirements: At least 8 years of experience in procurement, vendor or commercial management, FinOps, or technical and financial analysis, including senior-level ownership of a function or strategic area. Proven experience managing strategic vendor relationships, negotiating commercial agreements, and overseeing contract renewals. Strong understanding of procurement governance, including competitive bidding, contract benchmarking, approval processes, and managed-procurement partnerships. Hands-on experience building cost dashboards and reporting solutions using SQL, business intelligence tools, or similar analytical technologies. Comfortable analyzing cloud infrastructure expenditure, particularly AWS and GCP costs, SaaS billing, licensing structures, and usage data. Strong financial and analytical capabilities, with the ability to translate complex spending information into actionable insights and measurable business outcomes. Excellent communication and stakeholder-management skills, with the ability to collaborate effectively with both technical and non-technical teams. Strong judgment, strategic thinking, and the ability to influence decisions, build consensus, and drive alignment without relying on formal authority. Experience working in asynchronous, remote-first, or globally distributed organizations. Proven ability to build processes and functions from the ground up, take ownership, and navigate ambiguity in fast-moving environments. Demonstrated people-management skills, including team development, performance management, and fostering a high-trust working culture. Benefits: Fully Remote: Work from anywhere in the world, with a WeWork membership or co-working allowance to support your preferred working environment. Equity Ownership (ESOP): Receive company equity, allowing you to share in the organization's long-term growth and success. Technology Allowance: Access a dedicated budget to equip your workspace with the technology and tools you need to perform at your best. Health Benefits: Comprehensive health insurance coverage, with 100% of employee premiums and 80% of dependent premiums covered, regardless of location. Annual Company Off-Sites: Join colleagues from around the world for a week-long annual gathering focused on collaboration, connection, and team building. Flexible Working Arrangements: Enjoy an asynchronous working culture with the autonomy ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/686d59ad-6364-4c32-8811-a3622fabc7a9",
+      "isLive": true
+    },
     {
       "id": 4046215017,
       "externalId": "b5a39993-95ea-4395-b9b1-77815c0b862a",
@@ -1047,7 +1107,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:52:02.500Z",
       "skills": [
         "Python",
@@ -1076,7 +1136,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:49:29.596Z",
       "skills": [
         "Excel",
@@ -1104,7 +1164,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:46:47.469Z",
       "skills": [
         "Excel",
@@ -1132,7 +1192,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:44:20.972Z",
       "skills": [
         "Insurance",
@@ -1161,7 +1221,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:42:42.019Z",
       "skills": [
         "Compliance"
@@ -1186,7 +1246,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:42:10.740Z",
       "skills": [
         "Compliance"
@@ -1211,7 +1271,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-12T08:40:54.028Z",
       "skills": [
         "Compliance"
@@ -2188,7 +2248,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T09:31:34.374Z",
       "skills": [
         "Excel",
@@ -2219,7 +2279,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T09:29:39.135Z",
       "skills": [
         "Excel",
@@ -2250,7 +2310,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T09:28:56.272Z",
       "skills": [
         "Excel",
@@ -2281,7 +2341,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T09:19:36.915Z",
       "skills": [
         "React",
@@ -2312,7 +2372,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T09:17:45.230Z",
       "skills": [
         "React",
@@ -2343,7 +2403,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-11T09:16:59.893Z",
       "skills": [
         "React",
@@ -3187,7 +3247,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "administration",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T09:01:34.662Z",
       "skills": [
         "Excel",
@@ -3214,7 +3274,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-10T08:44:15.021Z",
       "skills": [
         "Excel",
@@ -4420,7 +4480,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T09:23:32.457Z",
       "skills": [
         "Excel",
@@ -4449,7 +4509,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T09:03:13.962Z",
       "skills": [
         "SQL",
@@ -4477,7 +4537,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-09T08:59:09.958Z",
       "skills": [
         "JavaScript",
@@ -5135,7 +5195,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-06T09:36:50.587Z",
       "skills": [
         "Power BI",
@@ -5884,7 +5944,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "energy",
-      "age": "منذ 21 أيام",
+      "age": "منذ 22 أيام",
       "publishedAt": "2026-10-22T09:11:56.331Z",
       "skills": [
         "Python",
@@ -6022,7 +6082,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 23 أيام",
+      "age": "منذ 24 أيام",
       "publishedAt": "2026-10-20T09:31:49.383Z",
       "skills": [
         "Research"
@@ -6308,7 +6368,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 49 أيام",
+      "age": "منذ 50 أيام",
       "publishedAt": "2026-09-24T09:23:39.128Z",
       "skills": [
         "Content"
@@ -6333,7 +6393,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 49 أيام",
+      "age": "منذ 50 أيام",
       "publishedAt": "2026-09-24T09:19:29.053Z",
       "skills": [
         "Content"
@@ -7161,7 +7221,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 85 أيام",
+      "age": "منذ 86 أيام",
       "publishedAt": "2026-08-19T09:20:20.297Z",
       "skills": [
         "Excel",
@@ -7490,7 +7550,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 128 أيام",
+      "age": "منذ 129 أيام",
       "publishedAt": "2026-07-07T09:06:51.302Z",
       "skills": [
         "Content",
@@ -7629,7 +7689,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 220 أيام",
+      "age": "منذ 221 أيام",
       "publishedAt": "2026-04-06T09:05:43.236Z",
       "skills": [
         "Audit",
@@ -7688,7 +7748,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 253 أيام",
+      "age": "منذ 254 أيام",
       "publishedAt": "2026-03-04T08:52:35.403Z",
       "skills": [
         "Excel",
