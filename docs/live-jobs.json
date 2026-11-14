@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T13:04:10.717Z",
+  "generatedAt": "2026-11-14T13:59:51.456Z",
   "total": 278,
   "feeds": 13,
   "jobs": [
@@ -4146,7 +4146,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "manufacturing",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-09T13:21:11.152Z",
       "skills": [
         "Excel",
@@ -4174,7 +4174,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-09T13:14:38.750Z",
       "skills": [
         "Excel",
@@ -4202,7 +4202,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-09T13:13:58.192Z",
       "skills": [
         "Excel",
@@ -4230,7 +4230,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-09T13:12:14.224Z",
       "skills": [
         "Excel",
@@ -4258,7 +4258,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-09T13:05:22.662Z",
       "skills": [
         "Excel",
@@ -4286,7 +4286,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-09T13:04:33.775Z",
       "skills": [
         "Excel",
@@ -5515,7 +5515,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 36 أيام",
+      "age": "منذ 37 أيام",
       "publishedAt": "2026-10-08T13:58:08.204Z",
       "skills": [
         "SAP",
@@ -5546,7 +5546,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 36 أيام",
+      "age": "منذ 37 أيام",
       "publishedAt": "2026-10-08T13:36:09.377Z",
       "skills": [
         "Audit",
@@ -5606,7 +5606,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "marketing",
-      "age": "منذ 37 أيام",
+      "age": "منذ 38 أيام",
       "publishedAt": "2026-10-07T13:32:46.237Z",
       "skills": [
         "Audit",
@@ -7068,7 +7068,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 226 أيام",
+      "age": "منذ 227 أيام",
       "publishedAt": "2026-04-01T13:34:53.536Z",
       "skills": [
         "Research",
