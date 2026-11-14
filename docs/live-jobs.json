@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T10:53:57.454Z",
+  "generatedAt": "2026-11-14T11:50:32.131Z",
   "total": 278,
   "feeds": 13,
   "jobs": [
@@ -1031,7 +1031,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-12T11:01:45.581Z",
       "skills": [
         "Marketing"
@@ -2046,7 +2046,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-11T11:00:30.512Z",
       "skills": [
         "Excel",
@@ -3364,7 +3364,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "operations",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-10T11:32:12.769Z",
       "skills": [
         "PMP",
@@ -5104,7 +5104,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 7 أيام",
+      "age": "منذ 8 أيام",
       "publishedAt": "2026-11-06T11:47:12.630Z",
       "skills": [
         "Sales"
@@ -5662,7 +5662,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 42 أيام",
+      "age": "منذ 43 أيام",
       "publishedAt": "2026-10-02T11:45:47.851Z",
       "skills": [
         "Excel",
@@ -6105,7 +6105,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "sales",
-      "age": "منذ 65 أيام",
+      "age": "منذ 66 أيام",
       "publishedAt": "2026-09-09T11:39:00.380Z",
       "skills": [
         "Excel",
@@ -6492,7 +6492,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 80 أيام",
+      "age": "منذ 81 أيام",
       "publishedAt": "2026-08-25T11:26:46.838Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6517,7 +6517,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 80 أيام",
+      "age": "منذ 81 أيام",
       "publishedAt": "2026-08-25T11:15:50.932Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6650,7 +6650,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 102 أيام",
+      "age": "منذ 103 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
         "Operations",
@@ -6676,7 +6676,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 102 أيام",
+      "age": "منذ 103 أيام",
       "publishedAt": "2026-08-03T11:24:13.619Z",
       "skills": [
         "React",
@@ -6759,7 +6759,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 109 أيام",
+      "age": "منذ 110 أيام",
       "publishedAt": "2026-07-27T11:44:58.735Z",
       "skills": [
         "Excel",
@@ -7012,7 +7012,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 219 أيام",
+      "age": "منذ 220 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7323,7 +7323,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "security",
-      "age": "منذ 410 أيام",
+      "age": "منذ 411 أيام",
       "publishedAt": "2025-09-29T10:53:59.334Z",
       "skills": [
         "Excel",
@@ -7350,7 +7350,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 452 أيام",
+      "age": "منذ 453 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
