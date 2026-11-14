@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T02:14:53.200Z",
+  "generatedAt": "2026-11-14T03:04:32.480Z",
   "total": 278,
   "feeds": 13,
   "jobs": [
@@ -3054,7 +3054,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-11T02:21:00.596Z",
       "skills": [
         "Python",
