@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T05:59:32.540Z",
+  "generatedAt": "2026-11-14T07:16:51.377Z",
   "total": 278,
   "feeds": 13,
   "jobs": [
@@ -725,7 +725,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-13T07:03:08.670Z",
       "skills": [
         "SQL",
@@ -756,7 +756,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-13T07:01:26.810Z",
       "skills": [
         "SQL",
@@ -787,7 +787,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-13T06:59:33.062Z",
       "skills": [
         "SQL",
@@ -818,7 +818,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-13T06:58:06.399Z",
       "skills": [
         "SQL",
@@ -849,7 +849,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-13T06:57:20.991Z",
       "skills": [
         "SQL",
@@ -880,7 +880,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-13T06:55:45.471Z",
       "skills": [
         "SQL",
@@ -911,7 +911,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-13T06:44:44.136Z",
       "skills": [
         "Excel",
@@ -941,7 +941,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-13T06:44:04.507Z",
       "skills": [
         "Excel",
@@ -971,7 +971,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-13T06:42:02.998Z",
       "skills": [
         "Excel",
@@ -1734,7 +1734,7 @@
       "minExp": 0,
       "maxExp": 2,
       "category": "legal",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-12T06:14:54.010Z",
       "skills": [
         "Excel",
@@ -3931,7 +3931,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-10T07:12:47.623Z",
       "skills": [
         "MEP"
@@ -3956,7 +3956,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-10T07:11:23.882Z",
       "skills": [
         "Excel",
@@ -3982,7 +3982,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-10T07:10:40.441Z",
       "skills": [
         "Excel",
@@ -4008,7 +4008,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-10T07:09:08.299Z",
       "skills": [
         "Excel",
@@ -4034,7 +4034,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-10T06:53:40.615Z",
       "skills": [
         "Excel",
@@ -4061,7 +4061,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-10T06:53:02.752Z",
       "skills": [
         "Excel",
@@ -4088,7 +4088,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-10T06:51:17.272Z",
       "skills": [
         "Excel",
@@ -5129,7 +5129,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 7 أيام",
+      "age": "منذ 8 أيام",
       "publishedAt": "2026-11-06T06:08:36.084Z",
       "skills": [
         "Excel",
@@ -5323,7 +5323,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "projects",
-      "age": "منذ 22 أيام",
+      "age": "منذ 23 أيام",
       "publishedAt": "2026-10-22T06:05:40.595Z",
       "skills": [
         "PMP",
@@ -5455,7 +5455,7 @@
       "minExp": 2,
       "maxExp": 4,
       "category": "technology",
-      "age": "منذ 30 أيام",
+      "age": "منذ 31 أيام",
       "publishedAt": "2026-10-14T06:30:36.925Z",
       "skills": [
         "SQL",
@@ -5869,7 +5869,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "general",
-      "age": "منذ 57 أيام",
+      "age": "منذ 58 أيام",
       "publishedAt": "2026-09-17T06:43:26.045Z",
       "skills": [
         "Excel",
@@ -5895,7 +5895,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "general",
-      "age": "منذ 57 أيام",
+      "age": "منذ 58 أيام",
       "publishedAt": "2026-09-17T06:29:45.774Z",
       "skills": [
         "Excel",
@@ -6001,7 +6001,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "manufacturing",
-      "age": "منذ 59 أيام",
+      "age": "منذ 60 أيام",
       "publishedAt": "2026-09-15T06:50:37.096Z",
       "skills": [
         "Excel",
@@ -6702,7 +6702,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 105 أيام",
+      "age": "منذ 106 أيام",
       "publishedAt": "2026-07-31T07:06:13.431Z",
       "skills": [
         "PMP",
@@ -7154,7 +7154,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 267 أيام",
+      "age": "منذ 268 أيام",
       "publishedAt": "2026-02-19T06:41:38.833Z",
       "skills": [
         "Python",
@@ -7181,7 +7181,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "civil",
-      "age": "منذ 267 أيام",
+      "age": "منذ 268 أيام",
       "publishedAt": "2026-02-19T06:23:32.551Z",
       "skills": [
         "AutoCAD",
