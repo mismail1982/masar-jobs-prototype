@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T14:28:05.137Z",
+  "generatedAt": "2026-11-15T15:22:27.437Z",
   "total": 272,
   "feeds": 13,
   "jobs": [
@@ -3393,7 +3393,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -3419,7 +3419,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -6617,7 +6617,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 118 أيام",
+      "age": "منذ 119 أيام",
       "publishedAt": "2026-07-19T14:35:06.019Z",
       "skills": [
         "Finance",
@@ -7287,7 +7287,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 533 أيام",
+      "age": "منذ 534 أيام",
       "publishedAt": "2025-05-30T14:36:01.234Z",
       "skills": [
         "Content"
