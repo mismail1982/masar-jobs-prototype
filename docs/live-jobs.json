@@ -1,8 +1,347 @@
 {
-  "generatedAt": "2026-11-16T08:58:05.866Z",
-  "total": 275,
+  "generatedAt": "2026-11-16T10:46:16.227Z",
+  "total": 287,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 2971795624,
+      "externalId": "5d50c5a6-cff7-46f8-b02a-a5154ebbc4d7",
+      "title": "Support Systems & Programs Lead",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "projects",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T10:34:24.378Z",
+      "skills": [
+        "React",
+        "Customer Service",
+        "Sales",
+        "Compliance",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: The Support Systems & Programs Lead will oversee the people, technology, and processes that support efficient and scalable customer service operations. The role requires strategic ownership of the Support tooling ecosystem, hands-on technical guidance, and strong cross-functional collaboration to improve service quality and operational performance. Lead, coach, and develop Systems and Programs engineers, supporting their technical growth and career progression. Establish clear team responsibilities, planning processes, and delivery rhythms to ensure consistent execution against priorities. Contribute to hiring and onboarding while remaining involved in technical decisions and hands-on problem-solving. Own the Support tooling portfolio and define a prioritised roadmap that enables Reactive and Proactive Support to scale. Establish structured project intake, scoping, and prioritisation processes to focus engineering resources on high-impact initiatives. Collaborate with Support leadership and stakeholders across Product, Engineering, Cloud, Security, Legal, Data, Customer Success, Sales, and Partnerships. Lead the expansion of AI-powered Support solutions across different support tiers to increase the proportion of tickets resolved through AI. Guide the development, maintenance, and adoption of reliable automations, AI agents, and integrations that reduce repetitive tasks and improve efficiency. Track the impact of AI and automation through metrics such as time saved, AI-handled ticket share, and cost per AI-handled ticket. Rebuild and optimise foundational Support processes to ensure workflows are efficient, documented, and scalable. Establish governance for standard operating procedures (SOPs), tooling ownership, and automation reliability. Monitor tooling adoption, SOP compliance, operational efficiency, and the capacity freed up for Support teams. Drive continuous improvement across Support systems, processes, and operational foundations. Requirements : The ideal candidate will bring strong technical expertise in workflow automation and SaaS systems, combined with proven engineering leadership experience. They should be comfortable translating operational challenges into technical roadmaps, implementing AI-powered solutions, and aligning stakeholders around shared priorities. Practical experience building complex workflows with n8n is essential. Hands-on experience building and maintaining complex workflows and automations using n8n. Strong technical foundations, including APIs, HTTP, authentication, webhooks, and SaaS architecture. Proven experience owning and improving technical Support systems, tooling, and automations in a B2B SaaS environment. At least 5 years of experience leading or mentoring engineers, supporting their development, and ensuring high-quality delivery. Demonstrated ability to translate business needs into clear technical priorities and manage a technical roadmap. Experience implementing AI agents or AI-assisted Support tools to improve operational efficiency. Strong stakeholder management skills and the ability to coordinate cross-functional teams. Experience as a developer, in DevOps, or working on an automation-focused technical product is an advantage. Familiarity with Support performance metrics and analytics or dashboarding tools such as Hex or Metabase is a plus. Experience in open-source or community-led SaaS environments is beneficial. Previous experience working in distributed, remote-first teams, ideally within a European startup or scale-up, is desirable. Strong coaching, communication, prioritisation, and problem-solving skills. Ability to combine strategic thinking with hands-on technical involvement and operational ownership. Professional proficiency in English, the organisation's working language. Must have existing legal authorisation to work in the United Kingdom, as visa sponsorship is available for Germany only. Benefits : Competitive compensation. Equity participa",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/5d50c5a6-cff7-46f8-b02a-a5154ebbc4d7",
+      "isLive": true
+    },
+    {
+      "id": 1730146804,
+      "externalId": "315457a9-58a8-4a7f-b110-43e4b94004e4",
+      "title": "Technical Product Manager, Identification & JS Agent",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T10:33:16.331Z",
+      "skills": [
+        "SQL",
+        "Education",
+        "Sales",
+        "Marketing",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: As Technical Product Manager, you will coordinate the delivery of assigned product features and initiatives while ensuring that requirements, documentation, dependencies, and stakeholder communications remain clear and up to date. You will work alongside senior product leadership and technical teams to support execution, gather insights, prepare launches, and monitor product performance. Product Delivery & Execution Own delivery coordination for assigned product features, epics, and workstreams within the priorities and constraints established by the Senior Technical Product Manager. Translate product direction into actionable user stories, jobs-to-be-done (JTBD), acceptance criteria, and definitions of done. Maintain Jira epics, tasks, acceptance criteria, and delivery updates in collaboration with Engineering. Keep product systems and records accurate and current, including Notion, Jira, Productboard, and relevant roadmap and release tracking tools. Support backlog refinement, sprint planning readiness, delivery sequencing, and release preparation. Track delivery risks, dependencies, unresolved questions, and key decisions, escalating issues when they affect business objectives, customer commitments, timelines, scope, pricing, eligibility, or strategic priorities. Participate in technical reviews and develop sufficient technical understanding to contribute to discussions about architecture, implementation, and trade-offs. Product Documentation & Communication Create and maintain clear feature documentation under the guidance of senior product leadership. Document product use cases and confidently explain assigned features to internal stakeholders. Support Product Requirements Documents (PRDs) by preparing user stories, JTBD, acceptance criteria, and relevant customer and business context. Draft or contribute to internal release notes, product updates, and stakeholder communications. Ensure developer documentation is updated whenever product behavior or functionality changes. Communicate feature progress, known limitations, delivery timelines, and release readiness to relevant internal teams. Customer, Market & Product Insights Monitor customer feedback, support channels, Productboard insights, and requests from internal stakeholders. Identify recurring issues and potential product limitations or improvement opportunities. Participate in customer discovery activities, brainstorming sessions, user experience discussions, and product feedback reviews. Gather qualitative and quantitative insights to support product prioritization and decision-making. Monitor the competitive landscape and stay informed about relevant technical developments and market trends within assigned product areas. Product Operations & Launch Support Maintain roadmap and feature records as initiatives progress through their lifecycle. Coordinate launch readiness across Engineering, Product Marketing, Customer Success, Sales, and Support. Support Product Marketing in preparing customer education materials, release communications, and launch documentation. Prepare product updates for internal forums, including Customer Success and Sales Engineering meetings and release communication channels. Track post-launch success metrics for assigned epics and issues and summarize findings to inform future product improvements. Requirements : The ideal candidate has experience in product management, product ownership, business analysis, technical program management, or a related role involving technical products. You should be comfortable working with APIs, SaaS platforms, developer tools, security, fraud prevention, or analytics solutions. Strong documentation skills, technical curiosity, attention to detail, and the ability to coordinate cross-functional delivery are essential. You should also be motivated to learn product strategy through hands-on execution and take ownership of making complex or ambiguous work clear and actionable. Experience in pr",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/315457a9-58a8-4a7f-b110-43e4b94004e4",
+      "isLive": true
+    },
+    {
+      "id": 2646819694,
+      "externalId": "dd837bdb-2f63-4181-89f3-a57ca8282670",
+      "title": "Technical Product Manager, Identification & JS Agent",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T10:32:39.242Z",
+      "skills": [
+        "SQL",
+        "Education",
+        "Sales",
+        "Marketing",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: As Technical Product Manager, you will coordinate the delivery of assigned product features and initiatives while ensuring that requirements, documentation, dependencies, and stakeholder communications remain clear and up to date. You will work alongside senior product leadership and technical teams to support execution, gather insights, prepare launches, and monitor product performance. Product Delivery & Execution Own delivery coordination for assigned product features, epics, and workstreams within the priorities and constraints established by the Senior Technical Product Manager. Translate product direction into actionable user stories, jobs-to-be-done (JTBD), acceptance criteria, and definitions of done. Maintain Jira epics, tasks, acceptance criteria, and delivery updates in collaboration with Engineering. Keep product systems and records accurate and current, including Notion, Jira, Productboard, and relevant roadmap and release tracking tools. Support backlog refinement, sprint planning readiness, delivery sequencing, and release preparation. Track delivery risks, dependencies, unresolved questions, and key decisions, escalating issues when they affect business objectives, customer commitments, timelines, scope, pricing, eligibility, or strategic priorities. Participate in technical reviews and develop sufficient technical understanding to contribute to discussions about architecture, implementation, and trade-offs. Product Documentation & Communication Create and maintain clear feature documentation under the guidance of senior product leadership. Document product use cases and confidently explain assigned features to internal stakeholders. Support Product Requirements Documents (PRDs) by preparing user stories, JTBD, acceptance criteria, and relevant customer and business context. Draft or contribute to internal release notes, product updates, and stakeholder communications. Ensure developer documentation is updated whenever product behavior or functionality changes. Communicate feature progress, known limitations, delivery timelines, and release readiness to relevant internal teams. Customer, Market & Product Insights Monitor customer feedback, support channels, Productboard insights, and requests from internal stakeholders. Identify recurring issues and potential product limitations or improvement opportunities. Participate in customer discovery activities, brainstorming sessions, user experience discussions, and product feedback reviews. Gather qualitative and quantitative insights to support product prioritization and decision-making. Monitor the competitive landscape and stay informed about relevant technical developments and market trends within assigned product areas. Product Operations & Launch Support Maintain roadmap and feature records as initiatives progress through their lifecycle. Coordinate launch readiness across Engineering, Product Marketing, Customer Success, Sales, and Support. Support Product Marketing in preparing customer education materials, release communications, and launch documentation. Prepare product updates for internal forums, including Customer Success and Sales Engineering meetings and release communication channels. Track post-launch success metrics for assigned epics and issues and summarize findings to inform future product improvements. Requirements : The ideal candidate has experience in product management, product ownership, business analysis, technical program management, or a related role involving technical products. You should be comfortable working with APIs, SaaS platforms, developer tools, security, fraud prevention, or analytics solutions. Strong documentation skills, technical curiosity, attention to detail, and the ability to coordinate cross-functional delivery are essential. You should also be motivated to learn product strategy through hands-on execution and take ownership of making complex or ambiguous work clear and actionable. Experience in pr",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/dd837bdb-2f63-4181-89f3-a57ca8282670",
+      "isLive": true
+    },
+    {
+      "id": 1962953879,
+      "externalId": "f9f7c6f6-e936-4594-b480-85618a62b24c",
+      "title": "Technical Product Manager, Identification & JS Agent",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T10:30:58.156Z",
+      "skills": [
+        "SQL",
+        "Education",
+        "Sales",
+        "Marketing",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: As Technical Product Manager, you will coordinate the delivery of assigned product features and initiatives while ensuring that requirements, documentation, dependencies, and stakeholder communications remain clear and up to date. You will work alongside senior product leadership and technical teams to support execution, gather insights, prepare launches, and monitor product performance. Product Delivery & Execution Own delivery coordination for assigned product features, epics, and workstreams within the priorities and constraints established by the Senior Technical Product Manager. Translate product direction into actionable user stories, jobs-to-be-done (JTBD), acceptance criteria, and definitions of done. Maintain Jira epics, tasks, acceptance criteria, and delivery updates in collaboration with Engineering. Keep product systems and records accurate and current, including Notion, Jira, Productboard, and relevant roadmap and release tracking tools. Support backlog refinement, sprint planning readiness, delivery sequencing, and release preparation. Track delivery risks, dependencies, unresolved questions, and key decisions, escalating issues when they affect business objectives, customer commitments, timelines, scope, pricing, eligibility, or strategic priorities. Participate in technical reviews and develop sufficient technical understanding to contribute to discussions about architecture, implementation, and trade-offs. Product Documentation & Communication Create and maintain clear feature documentation under the guidance of senior product leadership. Document product use cases and confidently explain assigned features to internal stakeholders. Support Product Requirements Documents (PRDs) by preparing user stories, JTBD, acceptance criteria, and relevant customer and business context. Draft or contribute to internal release notes, product updates, and stakeholder communications. Ensure developer documentation is updated whenever product behavior or functionality changes. Communicate feature progress, known limitations, delivery timelines, and release readiness to relevant internal teams. Customer, Market & Product Insights Monitor customer feedback, support channels, Productboard insights, and requests from internal stakeholders. Identify recurring issues and potential product limitations or improvement opportunities. Participate in customer discovery activities, brainstorming sessions, user experience discussions, and product feedback reviews. Gather qualitative and quantitative insights to support product prioritization and decision-making. Monitor the competitive landscape and stay informed about relevant technical developments and market trends within assigned product areas. Product Operations & Launch Support Maintain roadmap and feature records as initiatives progress through their lifecycle. Coordinate launch readiness across Engineering, Product Marketing, Customer Success, Sales, and Support. Support Product Marketing in preparing customer education materials, release communications, and launch documentation. Prepare product updates for internal forums, including Customer Success and Sales Engineering meetings and release communication channels. Track post-launch success metrics for assigned epics and issues and summarize findings to inform future product improvements. Requirements : The ideal candidate has experience in product management, product ownership, business analysis, technical program management, or a related role involving technical products. You should be comfortable working with APIs, SaaS platforms, developer tools, security, fraud prevention, or analytics solutions. Strong documentation skills, technical curiosity, attention to detail, and the ability to coordinate cross-functional delivery are essential. You should also be motivated to learn product strategy through hands-on execution and take ownership of making complex or ambiguous work clear and actionable. Experience in pr",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/f9f7c6f6-e936-4594-b480-85618a62b24c",
+      "isLive": true
+    },
+    {
+      "id": 1756369575,
+      "externalId": "addbe412-31f6-4616-97a5-d8c1035bc54b",
+      "title": "Contract Recruiter",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "hr",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T10:25:46.891Z",
+      "skills": [
+        "Excel",
+        "Clinical",
+        "Customer Service",
+        "Recruitment"
+      ],
+      "description": "Accountabilities:: The Contract Recruiter will manage end-to-end recruitment activities for clinical educator network projects, ensuring candidates are identified, assessed, and progressed efficiently while supporting evolving business and geographic staffing needs. Post open positions across relevant recruitment channels and sourcing platforms. Identify, source, screen, and interview candidates in line with project requirements. Coordinate second-level interviews with relevant stakeholders when required. Initiate the contracting process for the most qualified candidates. Manage candidate records and recruitment progress within the applicant tracking system (ATS). Track applicants throughout the recruitment lifecycle and maintain accurate internal recruitment reports and tracking documents. Collaborate with business teams to identify geographic coverage gaps and additional talent requirements. Proactively develop solutions to address talent shortages and recruitment challenges. Communicate the organization’s mission, values, services, and patient empowerment approach to prospective candidates. Requirements : The ideal candidate brings solid recruitment experience, preferably within the pharmaceutical, biotechnology, or clinical healthcare sectors. They are comfortable managing high-volume recruitment with tight turnaround times and can combine strong sourcing expertise with excellent organization, communication, and stakeholder management skills. At least 3 years of sourcing and recruiting experience; experience in pharma, biotech, and/or clinician recruitment is preferred. Expert-level proficiency with candidate sourcing platforms. Current hands-on experience using a robust applicant tracking system. Demonstrated success managing high-volume recruitment and delivering results within short timelines. Understanding of healthcare-related business activities and service offerings. Strong project management, analytical thinking, and problem-solving capabilities. Excellent written and verbal communication skills. A collaborative, solution-oriented approach and a strong customer service mindset. Ability to adapt quickly, manage competing priorities, and work effectively in a fast-paced environment. Strong attention to detail, organizational skills, and reporting capabilities. Advanced knowledge of Microsoft Office. Bachelor’s degree preferred. Benefits : Contract-based, remote work arrangement. Opportunity to contribute to recruitment initiatives supporting healthcare and patient engagement programs. Collaboration with recruitment and business teams in a specialized life sciences environment.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/addbe412-31f6-4616-97a5-d8c1035bc54b",
+      "isLive": true
+    },
+    {
+      "id": 2804902074,
+      "externalId": "69de9c29-9820-4ced-b4b7-174defcd062f",
+      "title": "Contract Recruiter",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "hr",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T10:25:16.170Z",
+      "skills": [
+        "Excel",
+        "Clinical",
+        "Customer Service",
+        "Recruitment"
+      ],
+      "description": "Accountabilities:: The Contract Recruiter will manage end-to-end recruitment activities for clinical educator network projects, ensuring candidates are identified, assessed, and progressed efficiently while supporting evolving business and geographic staffing needs. Post open positions across relevant recruitment channels and sourcing platforms. Identify, source, screen, and interview candidates in line with project requirements. Coordinate second-level interviews with relevant stakeholders when required. Initiate the contracting process for the most qualified candidates. Manage candidate records and recruitment progress within the applicant tracking system (ATS). Track applicants throughout the recruitment lifecycle and maintain accurate internal recruitment reports and tracking documents. Collaborate with business teams to identify geographic coverage gaps and additional talent requirements. Proactively develop solutions to address talent shortages and recruitment challenges. Communicate the organization’s mission, values, services, and patient empowerment approach to prospective candidates. Requirements : The ideal candidate brings solid recruitment experience, preferably within the pharmaceutical, biotechnology, or clinical healthcare sectors. They are comfortable managing high-volume recruitment with tight turnaround times and can combine strong sourcing expertise with excellent organization, communication, and stakeholder management skills. At least 3 years of sourcing and recruiting experience; experience in pharma, biotech, and/or clinician recruitment is preferred. Expert-level proficiency with candidate sourcing platforms. Current hands-on experience using a robust applicant tracking system. Demonstrated success managing high-volume recruitment and delivering results within short timelines. Understanding of healthcare-related business activities and service offerings. Strong project management, analytical thinking, and problem-solving capabilities. Excellent written and verbal communication skills. A collaborative, solution-oriented approach and a strong customer service mindset. Ability to adapt quickly, manage competing priorities, and work effectively in a fast-paced environment. Strong attention to detail, organizational skills, and reporting capabilities. Advanced knowledge of Microsoft Office. Bachelor’s degree preferred. Benefits : Contract-based, remote work arrangement. Opportunity to contribute to recruitment initiatives supporting healthcare and patient engagement programs. Collaboration with recruitment and business teams in a specialized life sciences environment.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/69de9c29-9820-4ced-b4b7-174defcd062f",
+      "isLive": true
+    },
+    {
+      "id": 3668858966,
+      "externalId": "2140d05e-c6a5-45bf-bc9e-ed420c2e73dd",
+      "title": "Contract Recruiter",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "hr",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T10:23:20.122Z",
+      "skills": [
+        "Excel",
+        "Clinical",
+        "Customer Service",
+        "Recruitment"
+      ],
+      "description": "Accountabilities:: The Contract Recruiter will manage end-to-end recruitment activities for clinical educator network projects, ensuring candidates are identified, assessed, and progressed efficiently while supporting evolving business and geographic staffing needs. Post open positions across relevant recruitment channels and sourcing platforms. Identify, source, screen, and interview candidates in line with project requirements. Coordinate second-level interviews with relevant stakeholders when required. Initiate the contracting process for the most qualified candidates. Manage candidate records and recruitment progress within the applicant tracking system (ATS). Track applicants throughout the recruitment lifecycle and maintain accurate internal recruitment reports and tracking documents. Collaborate with business teams to identify geographic coverage gaps and additional talent requirements. Proactively develop solutions to address talent shortages and recruitment challenges. Communicate the organization’s mission, values, services, and patient empowerment approach to prospective candidates. Requirements : The ideal candidate brings solid recruitment experience, preferably within the pharmaceutical, biotechnology, or clinical healthcare sectors. They are comfortable managing high-volume recruitment with tight turnaround times and can combine strong sourcing expertise with excellent organization, communication, and stakeholder management skills. At least 3 years of sourcing and recruiting experience; experience in pharma, biotech, and/or clinician recruitment is preferred. Expert-level proficiency with candidate sourcing platforms. Current hands-on experience using a robust applicant tracking system. Demonstrated success managing high-volume recruitment and delivering results within short timelines. Understanding of healthcare-related business activities and service offerings. Strong project management, analytical thinking, and problem-solving capabilities. Excellent written and verbal communication skills. A collaborative, solution-oriented approach and a strong customer service mindset. Ability to adapt quickly, manage competing priorities, and work effectively in a fast-paced environment. Strong attention to detail, organizational skills, and reporting capabilities. Advanced knowledge of Microsoft Office. Bachelor’s degree preferred. Benefits : Contract-based, remote work arrangement. Opportunity to contribute to recruitment initiatives supporting healthcare and patient engagement programs. Collaboration with recruitment and business teams in a specialized life sciences environment.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/2140d05e-c6a5-45bf-bc9e-ed420c2e73dd",
+      "isLive": true
+    },
+    {
+      "id": 3462002310,
+      "externalId": "f0259bc1-e412-41db-8929-8c4f878a0e00",
+      "title": "Creative & Community Lead",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "creative",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T10:06:48.924Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Content"
+      ],
+      "description": "Accountabilities:: Take ownership of the brand's overall narrative, ensuring that its communication remains consistent, authentic, and relevant across all audience touchpoints. You will combine community insights, strategic planning, creative development, and direct execution to build meaningful engagement and strengthen brand perception. Monitor customer sentiment and public perception through community discussions, CS2 conversations, customer support feedback, Product insights, and business intelligence. Identify what audiences appreciate, what concerns them, and how their perceptions evolve over time. Collaborate with management and Product teams to translate business direction and product developments into a clear, compelling brand narrative. Ensure consistency across social media, blogs, product communications, community interactions, and larger content initiatives while adapting messaging to different audiences. Develop and manage content plans aligned with product roadmaps, events, releases, and developments within the CS2 and esports communities. Create engaging content concepts, including gaming-related productions, community-focused initiatives, collaborations, short-form videos, and larger creative projects. Maximize the value of content production by repurposing collaborations, shoots, and creative assets into multiple deliverables. Direct designers, editors, copywriters, creators, and external production partners, providing clear briefs, feedback, and creative guidance. Take responsibility for the quality and final delivery of creative projects while remaining actively involved in execution. Maintain an authentic and continuous presence within the community, ensuring communication feels natural, relevant, and genuinely engaged rather than limited to promotional announcements. Manage creative resources and production budgets thoughtfully, balancing quality, impact, and commercial efficiency. Requirements : We are looking for a proactive, independent, and highly creative professional with strong storytelling abilities and the confidence to take ownership of both strategy and execution. The ideal candidate combines excellent communication skills, emotional intelligence, audience awareness, and commercial judgment with the ability to lead creative projects and collaborate effectively across different teams. Demonstrated ability to take initiative, work independently, and deliver results without requiring constant direction or extensive team support. Strong creative thinking and storytelling skills, with the ability to develop compelling narratives and translate ideas into engaging content. Hands-on approach, with the ability to contribute directly to content creation and execution rather than relying entirely on others. High emotional intelligence and a strong understanding of psychology, audience behavior, and brand perception. Curiosity and research skills, with a genuine interest in understanding what communities are discussing, appreciating, and criticizing. Strong organizational and project management abilities, including content planning, prioritization, and execution. Excellent communication and collaboration skills, with the ability to work effectively with management, Product, Customer Relations, BI, and creative professionals. Experience directing creative work, briefing collaborators, providing constructive feedback, and maintaining high-quality output. Commercial awareness and the ability to manage production, collaboration, and external contractor costs efficiently. Familiarity with CS2, esports, gaming, and internet culture is highly desirable, along with the ability to become deeply immersed in these communities quickly. Benefits : Opportunity to take ownership of the brand's creative direction, storytelling, and community presence. A hands-on, high-impact role combining strategic responsibility with creative execution. Direct collaboration with management, Product teams, and creative professionals. Opp",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/f0259bc1-e412-41db-8929-8c4f878a0e00",
+      "isLive": true
+    },
+    {
+      "id": 3216858797,
+      "externalId": "b79d00c4-74a9-4d03-bf49-782daef9a124",
+      "title": "Creative & Community Lead",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "creative",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T10:06:16.341Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Content"
+      ],
+      "description": "Accountabilities:: Take ownership of the brand's overall narrative, ensuring that its communication remains consistent, authentic, and relevant across all audience touchpoints. You will combine community insights, strategic planning, creative development, and direct execution to build meaningful engagement and strengthen brand perception. Monitor customer sentiment and public perception through community discussions, CS2 conversations, customer support feedback, Product insights, and business intelligence. Identify what audiences appreciate, what concerns them, and how their perceptions evolve over time. Collaborate with management and Product teams to translate business direction and product developments into a clear, compelling brand narrative. Ensure consistency across social media, blogs, product communications, community interactions, and larger content initiatives while adapting messaging to different audiences. Develop and manage content plans aligned with product roadmaps, events, releases, and developments within the CS2 and esports communities. Create engaging content concepts, including gaming-related productions, community-focused initiatives, collaborations, short-form videos, and larger creative projects. Maximize the value of content production by repurposing collaborations, shoots, and creative assets into multiple deliverables. Direct designers, editors, copywriters, creators, and external production partners, providing clear briefs, feedback, and creative guidance. Take responsibility for the quality and final delivery of creative projects while remaining actively involved in execution. Maintain an authentic and continuous presence within the community, ensuring communication feels natural, relevant, and genuinely engaged rather than limited to promotional announcements. Manage creative resources and production budgets thoughtfully, balancing quality, impact, and commercial efficiency. Requirements : We are looking for a proactive, independent, and highly creative professional with strong storytelling abilities and the confidence to take ownership of both strategy and execution. The ideal candidate combines excellent communication skills, emotional intelligence, audience awareness, and commercial judgment with the ability to lead creative projects and collaborate effectively across different teams. Demonstrated ability to take initiative, work independently, and deliver results without requiring constant direction or extensive team support. Strong creative thinking and storytelling skills, with the ability to develop compelling narratives and translate ideas into engaging content. Hands-on approach, with the ability to contribute directly to content creation and execution rather than relying entirely on others. High emotional intelligence and a strong understanding of psychology, audience behavior, and brand perception. Curiosity and research skills, with a genuine interest in understanding what communities are discussing, appreciating, and criticizing. Strong organizational and project management abilities, including content planning, prioritization, and execution. Excellent communication and collaboration skills, with the ability to work effectively with management, Product, Customer Relations, BI, and creative professionals. Experience directing creative work, briefing collaborators, providing constructive feedback, and maintaining high-quality output. Commercial awareness and the ability to manage production, collaboration, and external contractor costs efficiently. Familiarity with CS2, esports, gaming, and internet culture is highly desirable, along with the ability to become deeply immersed in these communities quickly. Benefits : Opportunity to take ownership of the brand's creative direction, storytelling, and community presence. A hands-on, high-impact role combining strategic responsibility with creative execution. Direct collaboration with management, Product teams, and creative professionals. Opp",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/b79d00c4-74a9-4d03-bf49-782daef9a124",
+      "isLive": true
+    },
+    {
+      "id": 1715374400,
+      "externalId": "95729435-9ba3-472e-afe5-6766a6c1c4f0",
+      "title": "Creative & Community Lead",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "creative",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T10:04:37.995Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Content"
+      ],
+      "description": "Accountabilities:: Take ownership of the brand's overall narrative, ensuring that its communication remains consistent, authentic, and relevant across all audience touchpoints. You will combine community insights, strategic planning, creative development, and direct execution to build meaningful engagement and strengthen brand perception. Monitor customer sentiment and public perception through community discussions, CS2 conversations, customer support feedback, Product insights, and business intelligence. Identify what audiences appreciate, what concerns them, and how their perceptions evolve over time. Collaborate with management and Product teams to translate business direction and product developments into a clear, compelling brand narrative. Ensure consistency across social media, blogs, product communications, community interactions, and larger content initiatives while adapting messaging to different audiences. Develop and manage content plans aligned with product roadmaps, events, releases, and developments within the CS2 and esports communities. Create engaging content concepts, including gaming-related productions, community-focused initiatives, collaborations, short-form videos, and larger creative projects. Maximize the value of content production by repurposing collaborations, shoots, and creative assets into multiple deliverables. Direct designers, editors, copywriters, creators, and external production partners, providing clear briefs, feedback, and creative guidance. Take responsibility for the quality and final delivery of creative projects while remaining actively involved in execution. Maintain an authentic and continuous presence within the community, ensuring communication feels natural, relevant, and genuinely engaged rather than limited to promotional announcements. Manage creative resources and production budgets thoughtfully, balancing quality, impact, and commercial efficiency. Requirements : We are looking for a proactive, independent, and highly creative professional with strong storytelling abilities and the confidence to take ownership of both strategy and execution. The ideal candidate combines excellent communication skills, emotional intelligence, audience awareness, and commercial judgment with the ability to lead creative projects and collaborate effectively across different teams. Demonstrated ability to take initiative, work independently, and deliver results without requiring constant direction or extensive team support. Strong creative thinking and storytelling skills, with the ability to develop compelling narratives and translate ideas into engaging content. Hands-on approach, with the ability to contribute directly to content creation and execution rather than relying entirely on others. High emotional intelligence and a strong understanding of psychology, audience behavior, and brand perception. Curiosity and research skills, with a genuine interest in understanding what communities are discussing, appreciating, and criticizing. Strong organizational and project management abilities, including content planning, prioritization, and execution. Excellent communication and collaboration skills, with the ability to work effectively with management, Product, Customer Relations, BI, and creative professionals. Experience directing creative work, briefing collaborators, providing constructive feedback, and maintaining high-quality output. Commercial awareness and the ability to manage production, collaboration, and external contractor costs efficiently. Familiarity with CS2, esports, gaming, and internet culture is highly desirable, along with the ability to become deeply immersed in these communities quickly. Benefits : Opportunity to take ownership of the brand's creative direction, storytelling, and community presence. A hands-on, high-impact role combining strategic responsibility with creative execution. Direct collaboration with management, Product teams, and creative professionals. Opp",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/95729435-9ba3-472e-afe5-6766a6c1c4f0",
+      "isLive": true
+    },
+    {
+      "id": 785896709,
+      "externalId": "afa3e053-d9a4-46ef-8703-9015dd8ec9c6",
+      "title": "Senior ML Engineer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T09:48:13.773Z",
+      "skills": [
+        "Python",
+        "SQL",
+        "Insurance"
+      ],
+      "description": "Accountabilities: Develop and implement machine learning models, initially focusing on player churn prediction, early identification of VIP players and player profiling. Formulate and validate hypotheses to assess potential machine learning use cases before investing in model development. Select appropriate modelling approaches and build predictive solutions using supervised and unsupervised learning techniques. Perform feature engineering, including the creation, selection and optimization of features to improve model performance. Evaluate model quality through appropriate statistical methods, validation strategies and performance metrics. Translate machine learning models into production-ready solutions and manage their technical implementation. Deploy, maintain and optimize models in production environments, ensuring reliability and scalability. Monitor model performance and stability, identify potential issues and implement improvements when needed. Contribute to MLOps practices and continuously improve the machine learning development and deployment lifecycle. Collaborate with data and analytics colleagues to deliver effective solutions aligned with business needs. Requirements: Strong practical experience with Python, SQL and Git. Experience containerizing applications and ML workloads using Docker. Solid understanding of statistics, model validation techniques and machine learning performance evaluation. Hands-on experience with supervised learning methods, including forecasting, regression and classification. Experience with unsupervised learning approaches, particularly clustering and segmentation. Strong feature engineering skills, including feature creation, selection and optimization. Proven experience deploying machine learning models into production environments. Understanding of MLOps practices and production model monitoring. Ability to investigate problems, validate assumptions and translate analytical findings into practical ML solutions. Strong problem-solving skills, ownership and a proactive approach to technical challenges. Comfortable collaborating within a team, communicating ideas clearly and incorporating feedback. Nice to have: Experience with ML lifecycle management tools such as MLflow or equivalent platforms. Nice to have: Knowledge of neural network architectures, including RNNs and autoencoders. Nice to have: Experience with uplift modelling. Nice to have: Familiarity with dbt. Benefits: Fully remote working arrangements, with the option to work from comfortable and secure hubs in Kyiv or Warsaw. 20 paid days off per year, in addition to public holidays and sick leave. Medical insurance with access to leading clinics. Coverage for psychological support through the Pleso platform. Monthly Benefit Café allowance to spend on personal interests, hobbies, sports and other eligible activities. Individual learning and development budget for courses and professional training. Corporate English language classes, workshops and access to an online learning library. Performance reviews, structured career planning and mentoring opportunities. Team-building activities, corporate events and workshops. Access to in-house technical capabilities and opportunities to build technology solutions from the ground up. An open, collaborative culture that values initiative, autonomy, straightforward communication and continuous improvement. An environment focused on reducing repetitive work through automation and supporting professional growth.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/afa3e053-d9a4-46ef-8703-9015dd8ec9c6",
+      "isLive": true
+    },
+    {
+      "id": 3556627560,
+      "externalId": "0f9f7ae0-0420-4412-b933-d8bbfa1266f7",
+      "title": "Digital Program Lead - B2B SaaS",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "projects",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T09:03:52.309Z",
+      "skills": [
+        "Excel",
+        "Marketing",
+        "Content"
+      ],
+      "description": "Accountabilities: Manage the end-to-end execution of digital marketing programmes across EMEA for a global enterprise SaaS organization. Coordinate the delivery of email, outbound, newsletter and nurture campaigns across relevant markets and audiences. Manage campaign assets, localization, stakeholder approvals, content uploads and campaign launches. Conduct thorough quality assurance to verify campaign links, access permissions, gated content, language versions and end-to-end customer journeys. Develop and maintain project plans, delivery schedules and timelines, ensuring milestones and dependencies are clearly managed. Coordinate competing priorities and resources to keep multiple campaigns progressing efficiently and on schedule. Collaborate with regional and central marketing teams to align campaign execution with objectives, requirements and regional needs. Monitor campaign performance, consolidate results and prepare clear reports for relevant stakeholders. Analyze campaign outcomes and recommend improvements to enhance delivery quality and effectiveness. Identify delivery risks, resolve operational challenges and escalate issues when additional support or decisions are required. Communicate progress, priorities, timelines and deliverables clearly to key stakeholders throughout the programme lifecycle. Requirements: Proven experience in digital marketing programme or campaign management, ideally within a B2B SaaS or enterprise technology environment. Hands-on experience managing digital campaigns across channels such as email marketing, outbound communications, newsletters and nurture programmes. Strong project and programme management skills, with the ability to coordinate multiple campaigns, timelines and dependencies simultaneously. Experience managing campaign production workflows, including asset coordination, localization, approvals, uploads and launches. Excellent quality assurance skills, with attention to detail when checking links, permissions, gated content, localized versions and customer journeys. Ability to collaborate effectively with regional and central marketing teams in an international organization. Experience tracking campaign performance, preparing reports and translating results into actionable recommendations. Strong organizational and prioritization skills, with the ability to manage competing deadlines in a fast-paced environment. Proactive problem-solving abilities and confidence identifying risks, resolving delivery issues and escalating challenges appropriately. Excellent written and verbal communication skills, with the ability to keep stakeholders informed and aligned. Comfortable working independently in a fully remote, cross-functional environment. Familiarity with enterprise marketing technology platforms and campaign management tools is an advantage. Benefits: Full-time contract for an initial period of 12 months, with potential for extension. Fully remote working arrangement. Opportunity to contribute to digital marketing programmes for a global enterprise SaaS organization. International collaboration with regional and central marketing teams across EMEA. Exposure to large-scale B2B marketing campaigns and enterprise technology environments. Opportunity to develop programme management and digital marketing expertise within a global marketing technology environment.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/0f9f7ae0-0420-4412-b933-d8bbfa1266f7",
+      "isLive": true
+    },
     {
       "id": 1472001308,
       "externalId": "0c342f92-cf76-4957-bccd-54932c9bbff0",
@@ -397,7 +736,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T10:06:02.260Z",
       "skills": [
         "Python",
@@ -425,7 +764,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T10:03:32.269Z",
       "skills": [
         "Python",
@@ -453,7 +792,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T10:02:50.053Z",
       "skills": [
         "Python",
@@ -481,7 +820,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T09:52:15.077Z",
       "skills": [
         "MEP",
@@ -509,7 +848,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T09:50:09.553Z",
       "skills": [
         "MEP",
@@ -537,7 +876,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T09:49:23.025Z",
       "skills": [
         "MEP",
@@ -565,7 +904,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "operations",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T09:39:41.903Z",
       "skills": [
         "SQL",
@@ -595,7 +934,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "operations",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T09:37:05.619Z",
       "skills": [
         "SQL",
@@ -625,7 +964,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "operations",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T09:36:11.678Z",
       "skills": [
         "SQL",
@@ -1435,7 +1774,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T10:18:34.798Z",
       "skills": [
         "Python",
@@ -1463,7 +1802,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T10:16:42.047Z",
       "skills": [
         "Python",
@@ -1491,7 +1830,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T10:16:02.409Z",
       "skills": [
         "Python",
@@ -1519,7 +1858,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T10:05:30.438Z",
       "skills": [
         "Excel",
@@ -1545,7 +1884,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T10:03:26.541Z",
       "skills": [
         "Excel",
@@ -1571,7 +1910,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T10:02:41.882Z",
       "skills": [
         "Excel",
@@ -1597,7 +1936,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T09:49:02.716Z",
       "skills": [
         "JavaScript",
@@ -1626,7 +1965,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T09:46:51.610Z",
       "skills": [
         "JavaScript",
@@ -1655,7 +1994,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T09:46:10.102Z",
       "skills": [
         "JavaScript",
@@ -2452,7 +2791,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T10:42:09.169Z",
       "skills": [
         "Audit",
@@ -2480,7 +2819,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T10:32:12.447Z",
       "skills": [
         "SAP",
@@ -2511,7 +2850,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T10:30:44.479Z",
       "skills": [
         "SAP",
@@ -2542,7 +2881,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T10:30:04.490Z",
       "skills": [
         "SAP",
@@ -2573,7 +2912,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T10:28:45.063Z",
       "skills": [
         "Python",
@@ -2600,7 +2939,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T10:28:12.999Z",
       "skills": [
         "Python",
@@ -2627,7 +2966,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T10:26:44.230Z",
       "skills": [
         "Python",
@@ -2654,7 +2993,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T10:16:17.981Z",
       "skills": [
         "Audit",
@@ -2681,7 +3020,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T10:15:44.374Z",
       "skills": [
         "Audit",
@@ -2708,7 +3047,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "security",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T10:14:15.572Z",
       "skills": [
         "Audit",
@@ -2735,7 +3074,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T09:44:48.966Z",
       "skills": [
         "Excel",
@@ -2765,7 +3104,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T09:43:06.671Z",
       "skills": [
         "Excel",
@@ -2795,7 +3134,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T09:42:28.183Z",
       "skills": [
         "Excel",
@@ -2825,7 +3164,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T09:31:34.374Z",
       "skills": [
         "Excel",
@@ -2856,7 +3195,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T09:29:39.135Z",
       "skills": [
         "Excel",
@@ -2887,7 +3226,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T09:28:56.272Z",
       "skills": [
         "Excel",
@@ -2918,7 +3257,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T09:19:36.915Z",
       "skills": [
         "React",
@@ -2949,7 +3288,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T09:17:45.230Z",
       "skills": [
         "React",
@@ -2980,7 +3319,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T09:16:59.893Z",
       "skills": [
         "React",
@@ -3797,7 +4136,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "administration",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T09:01:34.662Z",
       "skills": [
         "Excel",
@@ -4678,7 +5017,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T09:23:32.457Z",
       "skills": [
         "Excel",
@@ -4707,7 +5046,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T08:59:09.958Z",
       "skills": [
         "JavaScript",
@@ -5210,7 +5549,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 18 أيام",
+      "age": "منذ 19 أيام",
       "publishedAt": "2026-10-28T10:00:42.776Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5235,7 +5574,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "energy",
-      "age": "منذ 24 أيام",
+      "age": "منذ 25 أيام",
       "publishedAt": "2026-10-22T09:11:56.331Z",
       "skills": [
         "Python",
@@ -5323,7 +5662,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 26 أيام",
+      "age": "منذ 27 أيام",
       "publishedAt": "2026-10-20T09:51:08.047Z",
       "skills": [
         "Research"
@@ -5348,7 +5687,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 26 أيام",
+      "age": "منذ 27 أيام",
       "publishedAt": "2026-10-20T09:50:41.630Z",
       "skills": [
         "Research"
@@ -5373,7 +5712,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 26 أيام",
+      "age": "منذ 27 أيام",
       "publishedAt": "2026-10-20T09:31:49.383Z",
       "skills": [
         "Research"
@@ -5659,7 +5998,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 52 أيام",
+      "age": "منذ 53 أيام",
       "publishedAt": "2026-09-24T09:23:39.128Z",
       "skills": [
         "Content"
@@ -5684,7 +6023,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 52 أيام",
+      "age": "منذ 53 أيام",
       "publishedAt": "2026-09-24T09:19:29.053Z",
       "skills": [
         "Content"
@@ -6104,7 +6443,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 67 أيام",
+      "age": "منذ 68 أيام",
       "publishedAt": "2026-09-09T10:42:51.771Z",
       "skills": [
         "SAP"
@@ -6512,7 +6851,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 88 أيام",
+      "age": "منذ 89 أيام",
       "publishedAt": "2026-08-19T09:20:20.297Z",
       "skills": [
         "Excel",
@@ -6841,7 +7180,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 131 أيام",
+      "age": "منذ 132 أيام",
       "publishedAt": "2026-07-07T09:06:51.302Z",
       "skills": [
         "Content",
@@ -6896,7 +7235,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 185 أيام",
+      "age": "منذ 186 أيام",
       "publishedAt": "2026-05-14T10:28:50.593Z",
       "skills": [
         "Finance",
@@ -6980,7 +7319,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 223 أيام",
+      "age": "منذ 224 أيام",
       "publishedAt": "2026-04-06T09:05:43.236Z",
       "skills": [
         "Audit",
@@ -7238,7 +7577,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 376 أيام",
+      "age": "منذ 377 أيام",
       "publishedAt": "2025-11-04T10:29:24.468Z",
       "skills": [
         "AutoCAD",
@@ -7427,7 +7766,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 545 أيام",
+      "age": "منذ 546 أيام",
       "publishedAt": "2025-05-19T10:42:08.469Z",
       "skills": [
         "Excel",
