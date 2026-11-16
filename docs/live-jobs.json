@@ -1,8 +1,387 @@
 {
-  "generatedAt": "2026-11-16T05:56:48.039Z",
-  "total": 262,
+  "generatedAt": "2026-11-16T08:58:05.866Z",
+  "total": 275,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 1472001308,
+      "externalId": "0c342f92-cf76-4957-bccd-54932c9bbff0",
+      "title": "Senior Full Stack Engineer (.NET/React) - AI Services",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:46:28.604Z",
+      "skills": [
+        "Python",
+        "React",
+        "SQL",
+        "Excel",
+        "Sales"
+      ],
+      "description": "Accountabilities:: Full Stack Development: Design, develop, deploy, and maintain end-to-end features within the Sales domain, including .NET backend services, event-driven integrations, and React-based frontend applications. Product Collaboration: Work closely with Product Owners and QA specialists from the discovery stage, helping define functional requirements, clarify specifications, and establish acceptance criteria before development begins. Technical Analysis and Solution Design: Identify gaps and ambiguities in product specifications, independently resolve technical questions, and collaborate with business stakeholders when clarification is required. AI-Driven Development: Integrate AI coding agents into the entire software development lifecycle, including planning, architecture, coding, testing, code reviews, and maintenance. Validate AI-generated outputs and maintain human oversight of correctness, security, and data protection. Software Quality and Reliability: Take ownership of application quality through unit and integration testing, code reviews, performance optimization, security considerations, and observability practices. Production Ownership: Monitor application performance and usage after deployment, support releases, investigate incidents, and collaborate with product teams to continuously improve delivered features. Architecture and Technical Improvement: Participate in architectural discussions and technical decision-making with technical leads and architects. Contribute to architecture documentation and proactively address technical debt across Sales workflows. AI Knowledge Sharing: Mentor fellow engineers and share effective AI development workflows, reusable instructions, validation practices, and tools that improve team productivity. Product-Oriented Engineering: Understand the business needs of hearing clinics and their users, evaluate alternative technical solutions, and recommend approaches that balance business value, development effort, and long-term maintainability. Continuous Improvement: Analyze customer feedback, support requests, and product usage data to identify opportunities for improvement and inform future development priorities. Requirements: Typically 5+ years of professional software engineering experience, with a proven track record of developing, deploying, and maintaining production-grade applications. Demonstrated skills and practical experience are valued over years of experience alone. Strong hands-on expertise in C# and modern .NET, particularly .NET 8, ASP.NET Core, Web APIs, and Entity Framework or Entity Framework Core. Solid understanding of Clean Architecture, software design principles, and maintainable application development. Strong frontend development experience with React and TypeScript, particularly when building complex business applications. Practical experience designing, developing, and maintaining microservices-based architectures. Good understanding of asynchronous communication and event-driven systems, ideally using Azure Service Bus, MassTransit, or comparable messaging and event-processing technologies. Strong SQL database expertise, including relational data modeling, transactional data management, and database optimization. Experience with API design, automated testing, debugging, application security, and software quality assurance. Hands-on experience using AI coding agents as part of everyday software development, including planning, implementation, testing, and code review. Ability to demonstrate practical AI-assisted development workflows, critically assess AI-generated code, identify potential errors, and recognize situations where AI tools should not be relied upon. Strong product mindset, with the ability to understand business requirements, contribute to feature definition, and influence technical and product decisions. Excellent analytical and problem-solving skills, combined with the ability to communicate technical concepts and trade-offs in ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/0c342f92-cf76-4957-bccd-54932c9bbff0",
+      "isLive": true
+    },
+    {
+      "id": 2555895124,
+      "externalId": "18d51318-bb89-427d-9ff7-c225f86cb278",
+      "title": "Treasury Analyst",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "finance",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:44:57.615Z",
+      "skills": [
+        "Excel",
+        "Accounting",
+        "Finance",
+        "Administration",
+        "Compliance",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: As a Treasury Analyst, you will manage and support essential treasury activities, ensuring financial accuracy, effective liquidity management, and compliance across domestic and international operations. You will collaborate with treasury and accounting teams, maintain banking relationships, and deliver financial analysis that supports operational efficiency and informed decision-making. Prepare daily cash positioning reports within the Treasury Management System (TMS) to support global liquidity management. Monitor and reconcile cash-related accounts, including bank accounts, cash held in kiosks, and cash in transit. Perform regular bank reconciliations to ensure transactions are accurately recorded and consistent with accounting records. Investigate and resolve discrepancies and variances across financial accounts. Prepare reconciliation reports and provide supporting documentation to the accounting team during monthly closing processes. Manage banking relationships and administer domestic and international bank accounts. Liaise with financial institutions to obtain bank statements, transaction reports, and updates on cash positions. Monitor fund disbursements and ensure income and expenditure are recorded in accordance with internal procedures and applicable international accounting standards. Maintain accurate and comprehensive treasury records for all financial transactions. Develop and maintain daily, 13-week, and 26-week cash forecasts to ensure sufficient liquidity for operational requirements. Prepare financial models, management reports, and ad hoc analyses covering budget utilization, cash positions, and financial variances. Investigate deviations from financial forecasts, explain discrepancies, and propose preliminary recommendations for management review. Monitor financial activities for unusual transactions or potential compliance concerns, supporting investigations and appropriate reporting. Review budget proposals submitted by other departments and identify technical errors or inconsistencies. Provide detailed financial analysis and explanations regarding account balances and overall treasury performance. Support treasury leadership in financial planning, liquidity decisions, and broader business strategy. Leverage AI-powered tools and automation to improve forecasting, reporting, and daily financial workflows. Requirements: The ideal candidate has a strong background in treasury management, accounting, or corporate finance, with hands-on experience managing cash flows, reconciliations, and financial forecasting. You should combine advanced Excel and financial modeling capabilities with practical knowledge of ERP and treasury management systems. Strong analytical thinking, attention to detail, organization, and the ability to manage multiple priorities independently are essential. Bachelor's degree in Business Administration, Accounting, Finance, or a related field. MBA preferred. At least 3 years of professional experience in treasury analysis, treasury management, or a similar financial role. CPA or Certified Management Accountant (CMA) certification is an advantage. Proven experience developing and maintaining financial models and cash flow forecasts. Hands-on experience with NetSuite, particularly ERP, general ledger, and financial reporting functions. Experience with FIS Workstation, Kyriba, ION Treasury, or comparable Treasury Management Systems (TMS) for cash positioning, bank connectivity, and liquidity management. Familiarity with Microsoft Access or other database management applications. Advanced Microsoft Excel skills, including: VLOOKUP, XLOOKUP, and INDEX-MATCH formulas. Pivot tables for financial reporting and variance analysis. Building and maintaining rolling cash forecasts. Developing reconciliation trackers and financial models from scratch. Familiarity with macros and Power Query for automated and repeatable reporting is an advantage. Strong understanding of cash managemen",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/18d51318-bb89-427d-9ff7-c225f86cb278",
+      "isLive": true
+    },
+    {
+      "id": 1399725794,
+      "externalId": "7d72f937-dc7d-4f0e-b168-ef917b9bf06e",
+      "title": "Legal Counsel & Procurement Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "operations",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:42:54.414Z",
+      "skills": [
+        "Excel",
+        "Finance",
+        "Sales",
+        "Recruitment",
+        "Compliance",
+        "Operations",
+        "Procurement"
+      ],
+      "description": "Accountabilities:: Commercial Legal Support: Review, negotiate, and redline Master Services Agreements (MSAs), Statements of Work (SOWs), Data Processing Agreements (DPAs), and other third-party commercial contracts. Standardize commercial terms, support the deal desk, ensure legal compliance in sales documentation, and facilitate timely contract execution. Procurement and Vendor Management: Support vendor evaluations and selection processes, lead contract negotiations, manage renewal timelines, optimize pricing, and identify opportunities for vendor consolidation and cost reduction. Internal Legal Management: Draft, review, and manage employment agreements, contractor agreements, non-disclosure agreements (NDAs), and other internal legal documentation. Act as a key point of contact for compliance matters involving internal teams and external stakeholders. Legal Operations and Process Improvement: Maintain and optimize the contract management system, establish a centralized legal request and ticketing process, develop standardized workflows, and implement procurement policies. AI and Automation: Identify repetitive legal and procurement activities that can be automated using AI-powered tools and workflow solutions. Develop practical applications such as automated contract reviews, clause comparisons, contract summaries, self-service NDAs, and contract knowledge assistants while ensuring appropriate human oversight. Team Leadership: Manage, train, and coach the Paralegal, enabling greater autonomy in handling standard commercial and legal requests while ensuring effective delegation and workload management. Performance and Business Impact: Drive measurable improvements, including reducing procurement costs by at least 10%, processing 80% of commercial agreements within the same business day, proactively managing all contract renewals, and automating at least 50% of standard legal requests through self-service or AI-assisted workflows. Requirements: Proven professional experience in commercial legal counsel, contract management, procurement, or a comparable legal operations role. Strong expertise in negotiating and reviewing commercial agreements, particularly MSAs, SOWs, DPAs, NDAs, and vendor contracts. Demonstrated experience in procurement strategy, vendor evaluation, contract negotiations, renewal management, and achieving measurable cost savings. Solid understanding of commercial compliance, employment agreements, contractor agreements, and internal legal documentation. Ability to balance legal risk management with business priorities, particularly in fast-paced, sales-driven environments where contract turnaround times are important. Strong organizational and process-building skills, with experience developing contract templates, negotiation playbooks, approval workflows, and request management systems. An AI-first and automation-oriented mindset, with practical experience using AI assistants and workflow tools to accelerate contract reviews, drafting, clause comparisons, and routine legal support. Excellent negotiation, analytical, and problem-solving abilities, combined with sound commercial judgment and attention to detail. Strong communication and stakeholder management skills, with the ability to collaborate effectively with finance, sales, procurement, and other internal teams. Leadership and mentoring capabilities, including the ability to manage and develop paralegal support and coordinate with external legal counsel when necessary. A proactive, independent, and results-oriented approach, with a strong sense of ownership and the ability to manage multiple priorities in a remote working environment. Professional proficiency in English and the ability to operate effectively in an international business environment. Benefits: Remote working: Europe-based remote opportunity offering flexibility in where you work. Strategic responsibility: Direct reporting to the CFO and the opportunity to influence legal, procurement,",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/7d72f937-dc7d-4f0e-b168-ef917b9bf06e",
+      "isLive": true
+    },
+    {
+      "id": 3537589323,
+      "externalId": "83de0e49-16fc-4999-b133-3c614759132b",
+      "title": "SAP Close Automation Consultant, Global",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:39:57.133Z",
+      "skills": [
+        "SAP",
+        "Accounting",
+        "Finance"
+      ],
+      "description": "Accountabilities:: Design and build an automated financial close framework using SAP Financial Closing Cockpit or SAP Advanced Financial Closing (AFC). Configure and manage close task lists, dependencies, approval workflows, and financial close calendars. Automate key financial close activities, including balance sheet reconciliations, automatic certifications, accruals, and journal postings. Align financial close automation processes with SAP Financial Accounting and Controlling (FI/CO) requirements. Identify opportunities to optimize existing financial close processes, reduce manual tasks, and improve accuracy and efficiency. Collaborate with finance and technical teams to ensure the solution meets business requirements and supports the wider finance automation programme. Requirements: At least 8 years of relevant professional experience in SAP consulting, finance transformation, or financial close automation. Proven hands-on experience designing and implementing automated financial close solutions using SAP Financial Closing Cockpit, SAP Advanced Financial Closing (AFC), BlackLine, or Trintech Cadency. Strong expertise in balance sheet reconciliation, automatic certification, accruals, and journal posting automation. Solid knowledge of SAP FI/CO and its integration with financial close processes. Experience translating finance requirements into effective technical and functional solutions. Strong analytical, problem-solving, and stakeholder management skills. Ability to work independently in a remote, international project environment. Professional proficiency in English is required. Exposure to Redwood Finance Automation or SAP CPS/BPA is considered an advantage but is not essential. Applicants must be based in Germany for this specific location listing. Benefits: Competitive daily rate: EUR 400 per day for consultants based in Germany and other eligible European countries. Contract opportunity: International consulting assignment within a global finance automation programme. Remote flexibility: Fully remote working arrangement. International exposure: Opportunity to collaborate with stakeholders across multiple European markets. Professional development: Hands-on involvement in SAP financial close automation and finance transformation initiatives. Project impact: Opportunity to contribute to the design and implementation of scalable financial automation solutions. Contract duration: To be confirmed. Expected start date: 15 November 2026. Working language: English.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/83de0e49-16fc-4999-b133-3c614759132b",
+      "isLive": true
+    },
+    {
+      "id": 1586964799,
+      "externalId": "b4f36f0c-6424-4021-8036-10341c19693b",
+      "title": "Demand Planner",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 8,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:37:52.376Z",
+      "skills": [
+        "Power BI",
+        "Excel",
+        "Finance",
+        "Sales",
+        "Marketing",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: As Demand Planner, you will own forecast accuracy and the assumptions behind your assigned portfolio. You will combine statistical analysis, commercial insights, and scenario planning to anticipate changes in demand, communicate risks and opportunities, and support the organization's monthly consensus and Sales & Operations Planning (S&OP) processes. Build, validate, and publish monthly demand forecasts in Anaplan for an assigned portfolio of customers and SKUs, covering baseline demand, promotional activity, new product launches, and product phase-outs. Review statistical forecasts each cycle, apply appropriate overrides, document the rationale, and maintain disciplined forecasting practices. Develop and compare forecast scenarios to assess risks and opportunities related to promotions, supply constraints, pricing changes, and other business developments. Monitor forecast accuracy and bias, investigate variances, identify root causes, and implement corrective actions. Develop launch forecasts for new products using historical analogs, marketing plans, and customer-level merchandising assumptions, then track performance against expected growth. Represent the assigned portfolio in consensus forecasting and S&OP meetings, presenting forecast changes, underlying assumptions, risks, and opportunities to Sales, Revenue Growth Management, and Finance. Gather and challenge assumptions related to promotions, product launches and discontinuations, distribution changes, pricing, and customer-specific plans. Identify and communicate demand risks and opportunities early enough to support proactive business decisions. Partner with Supply Planning to monitor inventory levels, weeks of supply, fill-rate risks, and allocation decisions, identifying potential demand and supply imbalances. Analyze retailer and channel trends using internal, point-of-sale (POS), and syndicated data to understand customer ordering behavior. Contribute demand inputs and scenario analysis to annual operating plans and long-range planning activities in collaboration with Finance and Commercial teams. Support the Anaplan implementation through user acceptance testing, data validation, and the migration of assigned accounts from Excel-based processes. Work with the Demand Planning Analyst to maintain master data accuracy, support reporting requirements, and investigate data issues affecting forecasts. Follow demand review calendars and forecast lock dates while keeping portfolio assumptions up to date between planning cycles. Identify opportunities to improve planning processes, reduce manual work, and strengthen forecasting reliability. Requirements : The ideal candidate brings 5–8 years of professional supply chain experience, including at least 1–2 years in demand planning or a closely related role. You should have experience managing a customer or category portfolio through a complete monthly forecasting cycle, strong analytical capabilities, and the confidence to explain and defend planning assumptions. Success in this role requires both technical proficiency and the ability to influence stakeholders across commercial and operational teams. 5–8 years of professional supply chain experience, with at least 1–2 years as a Demand Planner, Demand Planning Analyst, or in an equivalent position. Experience owning a customer or category portfolio through a full monthly demand forecasting cycle. Proficiency in Anaplan, with hands-on experience using demand planning or integrated business planning platforms. Experience with NetSuite or a comparable ERP system for managing order, shipment, and inventory history. Advanced Excel skills, including pivot tables, XLOOKUP, INDEX/MATCH, and the ability to manage and analyze large datasets. Strong PowerPoint skills, with the ability to prepare clear presentations for consensus meetings and leadership discussions. Working knowledge of statistical forecasting fundamentals and the judgment to identify when commercia",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/b4f36f0c-6424-4021-8036-10341c19693b",
+      "isLive": true
+    },
+    {
+      "id": 1153149498,
+      "externalId": "1b2a1c9a-1a2d-47c2-b058-15d297694957",
+      "title": "Demand Planner",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 8,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:36:08.537Z",
+      "skills": [
+        "Power BI",
+        "Excel",
+        "Finance",
+        "Sales",
+        "Marketing",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: As Demand Planner, you will own forecast accuracy and the assumptions behind your assigned portfolio. You will combine statistical analysis, commercial insights, and scenario planning to anticipate changes in demand, communicate risks and opportunities, and support the organization's monthly consensus and Sales & Operations Planning (S&OP) processes. Build, validate, and publish monthly demand forecasts in Anaplan for an assigned portfolio of customers and SKUs, covering baseline demand, promotional activity, new product launches, and product phase-outs. Review statistical forecasts each cycle, apply appropriate overrides, document the rationale, and maintain disciplined forecasting practices. Develop and compare forecast scenarios to assess risks and opportunities related to promotions, supply constraints, pricing changes, and other business developments. Monitor forecast accuracy and bias, investigate variances, identify root causes, and implement corrective actions. Develop launch forecasts for new products using historical analogs, marketing plans, and customer-level merchandising assumptions, then track performance against expected growth. Represent the assigned portfolio in consensus forecasting and S&OP meetings, presenting forecast changes, underlying assumptions, risks, and opportunities to Sales, Revenue Growth Management, and Finance. Gather and challenge assumptions related to promotions, product launches and discontinuations, distribution changes, pricing, and customer-specific plans. Identify and communicate demand risks and opportunities early enough to support proactive business decisions. Partner with Supply Planning to monitor inventory levels, weeks of supply, fill-rate risks, and allocation decisions, identifying potential demand and supply imbalances. Analyze retailer and channel trends using internal, point-of-sale (POS), and syndicated data to understand customer ordering behavior. Contribute demand inputs and scenario analysis to annual operating plans and long-range planning activities in collaboration with Finance and Commercial teams. Support the Anaplan implementation through user acceptance testing, data validation, and the migration of assigned accounts from Excel-based processes. Work with the Demand Planning Analyst to maintain master data accuracy, support reporting requirements, and investigate data issues affecting forecasts. Follow demand review calendars and forecast lock dates while keeping portfolio assumptions up to date between planning cycles. Identify opportunities to improve planning processes, reduce manual work, and strengthen forecasting reliability. Requirements : The ideal candidate brings 5–8 years of professional supply chain experience, including at least 1–2 years in demand planning or a closely related role. You should have experience managing a customer or category portfolio through a complete monthly forecasting cycle, strong analytical capabilities, and the confidence to explain and defend planning assumptions. Success in this role requires both technical proficiency and the ability to influence stakeholders across commercial and operational teams. 5–8 years of professional supply chain experience, with at least 1–2 years as a Demand Planner, Demand Planning Analyst, or in an equivalent position. Experience owning a customer or category portfolio through a full monthly demand forecasting cycle. Proficiency in Anaplan, with hands-on experience using demand planning or integrated business planning platforms. Experience with NetSuite or a comparable ERP system for managing order, shipment, and inventory history. Advanced Excel skills, including pivot tables, XLOOKUP, INDEX/MATCH, and the ability to manage and analyze large datasets. Strong PowerPoint skills, with the ability to prepare clear presentations for consensus meetings and leadership discussions. Working knowledge of statistical forecasting fundamentals and the judgment to identify when commercia",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/1b2a1c9a-1a2d-47c2-b058-15d297694957",
+      "isLive": true
+    },
+    {
+      "id": 1436286233,
+      "externalId": "89a7a0bc-e2ca-4ac7-b65d-6e1a1712ff24",
+      "title": "Demand Planner",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 8,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:35:29.119Z",
+      "skills": [
+        "Power BI",
+        "Excel",
+        "Finance",
+        "Sales",
+        "Marketing",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: As Demand Planner, you will own forecast accuracy and the assumptions behind your assigned portfolio. You will combine statistical analysis, commercial insights, and scenario planning to anticipate changes in demand, communicate risks and opportunities, and support the organization's monthly consensus and Sales & Operations Planning (S&OP) processes. Build, validate, and publish monthly demand forecasts in Anaplan for an assigned portfolio of customers and SKUs, covering baseline demand, promotional activity, new product launches, and product phase-outs. Review statistical forecasts each cycle, apply appropriate overrides, document the rationale, and maintain disciplined forecasting practices. Develop and compare forecast scenarios to assess risks and opportunities related to promotions, supply constraints, pricing changes, and other business developments. Monitor forecast accuracy and bias, investigate variances, identify root causes, and implement corrective actions. Develop launch forecasts for new products using historical analogs, marketing plans, and customer-level merchandising assumptions, then track performance against expected growth. Represent the assigned portfolio in consensus forecasting and S&OP meetings, presenting forecast changes, underlying assumptions, risks, and opportunities to Sales, Revenue Growth Management, and Finance. Gather and challenge assumptions related to promotions, product launches and discontinuations, distribution changes, pricing, and customer-specific plans. Identify and communicate demand risks and opportunities early enough to support proactive business decisions. Partner with Supply Planning to monitor inventory levels, weeks of supply, fill-rate risks, and allocation decisions, identifying potential demand and supply imbalances. Analyze retailer and channel trends using internal, point-of-sale (POS), and syndicated data to understand customer ordering behavior. Contribute demand inputs and scenario analysis to annual operating plans and long-range planning activities in collaboration with Finance and Commercial teams. Support the Anaplan implementation through user acceptance testing, data validation, and the migration of assigned accounts from Excel-based processes. Work with the Demand Planning Analyst to maintain master data accuracy, support reporting requirements, and investigate data issues affecting forecasts. Follow demand review calendars and forecast lock dates while keeping portfolio assumptions up to date between planning cycles. Identify opportunities to improve planning processes, reduce manual work, and strengthen forecasting reliability. Requirements : The ideal candidate brings 5–8 years of professional supply chain experience, including at least 1–2 years in demand planning or a closely related role. You should have experience managing a customer or category portfolio through a complete monthly forecasting cycle, strong analytical capabilities, and the confidence to explain and defend planning assumptions. Success in this role requires both technical proficiency and the ability to influence stakeholders across commercial and operational teams. 5–8 years of professional supply chain experience, with at least 1–2 years as a Demand Planner, Demand Planning Analyst, or in an equivalent position. Experience owning a customer or category portfolio through a full monthly demand forecasting cycle. Proficiency in Anaplan, with hands-on experience using demand planning or integrated business planning platforms. Experience with NetSuite or a comparable ERP system for managing order, shipment, and inventory history. Advanced Excel skills, including pivot tables, XLOOKUP, INDEX/MATCH, and the ability to manage and analyze large datasets. Strong PowerPoint skills, with the ability to prepare clear presentations for consensus meetings and leadership discussions. Working knowledge of statistical forecasting fundamentals and the judgment to identify when commercia",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/89a7a0bc-e2ca-4ac7-b65d-6e1a1712ff24",
+      "isLive": true
+    },
+    {
+      "id": 3028403509,
+      "externalId": "4786333e-0ca2-481a-ac4a-cfba7ee1f6e9",
+      "title": "Quality Manager, Vendor Compliance",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 6,
+      "maxExp": 8,
+      "category": "legal",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:34:57.191Z",
+      "skills": [
+        "Excel",
+        "Audit",
+        "Compliance",
+        "Procurement",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: As Quality Manager, Vendor Compliance, you will take ownership of supplier quality programs and the systems used to maintain food safety, regulatory compliance, and reliable manufacturing standards. You will work across internal teams and external partners to identify risks, resolve quality issues, strengthen supplier performance, and ensure documentation remains accurate and audit-ready. Supplier Quality & Compliance Own supplier qualification, approval, and compliance programs, ensuring suppliers and materials meet quality, food safety, regulatory, and business requirements. Lead supplier and material onboarding in partnership with Procurement, Regulatory, R&D, and Supply Chain. Establish and maintain risk-based supplier and ingredient assessments based on material risk, manufacturing processes, supplier performance, and historical quality data. Lead supplier quality investigations, corrective and preventive actions (CAPAs), and escalations, ensuring root causes are identified and corrective actions are sustainable. Ensure suppliers comply with established requirements, including supplier expectation guidelines, specifications, quality standards, and applicable regulations. Lead supplier audits and facility assessments while driving continuous improvement through effective supplier partnerships. Ingredient Quality Management Manage the ingredient positive release program, including certificate of analysis (COA) reviews, material disposition, and communication with warehouses and internal stakeholders. Establish risk-based ingredient testing and verification programs to confirm materials meet quality and food safety specifications. Oversee ingredient retention sample and traceability programs to support investigations and supplier performance evaluations. Lead ingredient nonconformance investigations and coordinate appropriate supplier corrective actions and material disposition. Monitor ingredient quality trends and variability to identify and mitigate emerging risks. Quality Systems & Document Control Own document control processes for Quality and Supply Chain documentation, including SOPs, forms, specifications, and work instructions. Establish standards for document creation, review, approval, version control, archiving, and retention. Ensure supplier compliance records remain complete, current, and audit-ready. Coordinate periodic document reviews with cross-functional process owners to ensure procedures reflect current practices and requirements. Continuously improve quality systems and documentation processes to strengthen compliance, traceability, and operational efficiency. Supplier Performance & Continuous Improvement Develop and manage supplier performance metrics and scorecards to track quality, compliance, recurring issues, and emerging risks. Establish supplier performance review and escalation processes, including improvement plans for high-risk or underperforming suppliers. Analyze supplier and ingredient quality trends to identify systemic risks and improvement opportunities. Partner with Procurement and Supply Chain leadership on supplier approval, performance management, escalation, and disqualification decisions. Provide leadership with visibility into supplier quality risks, significant nonconformances, and outstanding corrective actions. Requirements : The ideal candidate has 6–8+ years of Quality Assurance or Supplier Quality experience in the food and beverage industry, preferably within beverage manufacturing. You bring strong technical knowledge of food safety systems and supplier compliance, combined with the ability to manage investigations, audits, and corrective action programs. You are analytical, organized, and comfortable influencing external suppliers and internal stakeholders while managing competing priorities. 6–8+ years of experience in Quality Assurance or Supplier Quality within the food and beverage industry; beverage experience is preferred. 0–2 years of experience ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/4786333e-0ca2-481a-ac4a-cfba7ee1f6e9",
+      "isLive": true
+    },
+    {
+      "id": 3366685937,
+      "externalId": "e4539456-c239-44a2-b355-cc3fd221270e",
+      "title": "Quality Manager, Vendor Compliance",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 6,
+      "maxExp": 8,
+      "category": "legal",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:34:15.430Z",
+      "skills": [
+        "Excel",
+        "Audit",
+        "Compliance",
+        "Procurement",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: As Quality Manager, Vendor Compliance, you will take ownership of supplier quality programs and the systems used to maintain food safety, regulatory compliance, and reliable manufacturing standards. You will work across internal teams and external partners to identify risks, resolve quality issues, strengthen supplier performance, and ensure documentation remains accurate and audit-ready. Supplier Quality & Compliance Own supplier qualification, approval, and compliance programs, ensuring suppliers and materials meet quality, food safety, regulatory, and business requirements. Lead supplier and material onboarding in partnership with Procurement, Regulatory, R&D, and Supply Chain. Establish and maintain risk-based supplier and ingredient assessments based on material risk, manufacturing processes, supplier performance, and historical quality data. Lead supplier quality investigations, corrective and preventive actions (CAPAs), and escalations, ensuring root causes are identified and corrective actions are sustainable. Ensure suppliers comply with established requirements, including supplier expectation guidelines, specifications, quality standards, and applicable regulations. Lead supplier audits and facility assessments while driving continuous improvement through effective supplier partnerships. Ingredient Quality Management Manage the ingredient positive release program, including certificate of analysis (COA) reviews, material disposition, and communication with warehouses and internal stakeholders. Establish risk-based ingredient testing and verification programs to confirm materials meet quality and food safety specifications. Oversee ingredient retention sample and traceability programs to support investigations and supplier performance evaluations. Lead ingredient nonconformance investigations and coordinate appropriate supplier corrective actions and material disposition. Monitor ingredient quality trends and variability to identify and mitigate emerging risks. Quality Systems & Document Control Own document control processes for Quality and Supply Chain documentation, including SOPs, forms, specifications, and work instructions. Establish standards for document creation, review, approval, version control, archiving, and retention. Ensure supplier compliance records remain complete, current, and audit-ready. Coordinate periodic document reviews with cross-functional process owners to ensure procedures reflect current practices and requirements. Continuously improve quality systems and documentation processes to strengthen compliance, traceability, and operational efficiency. Supplier Performance & Continuous Improvement Develop and manage supplier performance metrics and scorecards to track quality, compliance, recurring issues, and emerging risks. Establish supplier performance review and escalation processes, including improvement plans for high-risk or underperforming suppliers. Analyze supplier and ingredient quality trends to identify systemic risks and improvement opportunities. Partner with Procurement and Supply Chain leadership on supplier approval, performance management, escalation, and disqualification decisions. Provide leadership with visibility into supplier quality risks, significant nonconformances, and outstanding corrective actions. Requirements : The ideal candidate has 6–8+ years of Quality Assurance or Supplier Quality experience in the food and beverage industry, preferably within beverage manufacturing. You bring strong technical knowledge of food safety systems and supplier compliance, combined with the ability to manage investigations, audits, and corrective action programs. You are analytical, organized, and comfortable influencing external suppliers and internal stakeholders while managing competing priorities. 6–8+ years of experience in Quality Assurance or Supplier Quality within the food and beverage industry; beverage experience is preferred. 0–2 years of experience ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/e4539456-c239-44a2-b355-cc3fd221270e",
+      "isLive": true
+    },
+    {
+      "id": 3202967410,
+      "externalId": "d5207cad-847d-409b-b2d5-2e2f1e6d872d",
+      "title": "Quality Manager, Vendor Compliance",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 6,
+      "maxExp": 8,
+      "category": "legal",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:32:43.471Z",
+      "skills": [
+        "Excel",
+        "Audit",
+        "Compliance",
+        "Procurement",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: As Quality Manager, Vendor Compliance, you will take ownership of supplier quality programs and the systems used to maintain food safety, regulatory compliance, and reliable manufacturing standards. You will work across internal teams and external partners to identify risks, resolve quality issues, strengthen supplier performance, and ensure documentation remains accurate and audit-ready. Supplier Quality & Compliance Own supplier qualification, approval, and compliance programs, ensuring suppliers and materials meet quality, food safety, regulatory, and business requirements. Lead supplier and material onboarding in partnership with Procurement, Regulatory, R&D, and Supply Chain. Establish and maintain risk-based supplier and ingredient assessments based on material risk, manufacturing processes, supplier performance, and historical quality data. Lead supplier quality investigations, corrective and preventive actions (CAPAs), and escalations, ensuring root causes are identified and corrective actions are sustainable. Ensure suppliers comply with established requirements, including supplier expectation guidelines, specifications, quality standards, and applicable regulations. Lead supplier audits and facility assessments while driving continuous improvement through effective supplier partnerships. Ingredient Quality Management Manage the ingredient positive release program, including certificate of analysis (COA) reviews, material disposition, and communication with warehouses and internal stakeholders. Establish risk-based ingredient testing and verification programs to confirm materials meet quality and food safety specifications. Oversee ingredient retention sample and traceability programs to support investigations and supplier performance evaluations. Lead ingredient nonconformance investigations and coordinate appropriate supplier corrective actions and material disposition. Monitor ingredient quality trends and variability to identify and mitigate emerging risks. Quality Systems & Document Control Own document control processes for Quality and Supply Chain documentation, including SOPs, forms, specifications, and work instructions. Establish standards for document creation, review, approval, version control, archiving, and retention. Ensure supplier compliance records remain complete, current, and audit-ready. Coordinate periodic document reviews with cross-functional process owners to ensure procedures reflect current practices and requirements. Continuously improve quality systems and documentation processes to strengthen compliance, traceability, and operational efficiency. Supplier Performance & Continuous Improvement Develop and manage supplier performance metrics and scorecards to track quality, compliance, recurring issues, and emerging risks. Establish supplier performance review and escalation processes, including improvement plans for high-risk or underperforming suppliers. Analyze supplier and ingredient quality trends to identify systemic risks and improvement opportunities. Partner with Procurement and Supply Chain leadership on supplier approval, performance management, escalation, and disqualification decisions. Provide leadership with visibility into supplier quality risks, significant nonconformances, and outstanding corrective actions. Requirements : The ideal candidate has 6–8+ years of Quality Assurance or Supplier Quality experience in the food and beverage industry, preferably within beverage manufacturing. You bring strong technical knowledge of food safety systems and supplier compliance, combined with the ability to manage investigations, audits, and corrective action programs. You are analytical, organized, and comfortable influencing external suppliers and internal stakeholders while managing competing priorities. 6–8+ years of experience in Quality Assurance or Supplier Quality within the food and beverage industry; beverage experience is preferred. 0–2 years of experience ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/d5207cad-847d-409b-b2d5-2e2f1e6d872d",
+      "isLive": true
+    },
+    {
+      "id": 3289393691,
+      "externalId": "e97d198e-c603-4d01-a418-6a368fcc0991",
+      "title": "FP&A AI Research Contributor",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "research",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:17:49.494Z",
+      "skills": [
+        "Excel",
+        "Finance",
+        "Research"
+      ],
+      "description": "Accountabilities:: Leverage your FP&A expertise to develop realistic, practical tasks that replicate the responsibilities and challenges of financial planning and analysis professionals. Work through each assignment to establish accurate expected outcomes and create objective evaluation criteria that can be used to assess AI-generated results. Develop realistic FP&A tasks based on your professional experience and everyday financial workflows. Create domain-specific assignments and deliverables using Excel, Word, PowerPoint, and other relevant professional tools. Complete each task independently to establish a clear, accurate, and reliable reference answer. Identify common mistakes and limitations in AI-generated financial analysis and incorporate relevant scenarios into evaluation tasks. Develop precise yes-or-no evaluation criteria that allow graders to consistently assess the accuracy and quality of AI-generated outputs. Follow provided project guidelines and collaborate with the research team to ensure tasks meet quality expectations. Apply attention to detail and professional judgment throughout the task creation and evaluation process. Requirements: The ideal candidate has hands-on experience in financial planning and analysis, with a strong understanding of financial workflows and the ability to translate professional knowledge into structured, practical assignments. You should be comfortable producing and reviewing financial deliverables, communicating clearly in English, and exploring how AI tools can support or improve finance-related activities. Minimum of 3 years of professional experience in Financial Planning and Analysis (FP&A). Relevant professional qualifications are valued, including ACCA, CIMA, CPA, CA, or ACA. Strong written English communication skills and the ability to explain complex financial concepts clearly. Practical experience using financial tools and producing professional deliverables in Excel, Word, and PowerPoint. Strong attention to detail and the ability to identify errors, inconsistencies, and gaps in financial outputs. Willingness to learn about artificial intelligence, AI evaluation methodologies, and emerging concepts in AI assessments. Ability to develop structured tasks and objective evaluation criteria. Familiarity with Enterprise Resource Planning (ERP) systems is an advantage. Ability to work independently, manage deadlines, and deliver high-quality assignments within the required timelines. Benefits: Fully remote independent contractor opportunity. Flexible working schedule, allowing you to complete tasks on your own schedule. Immediate start available. Initial project duration of approximately 4–6 weeks. Task-based compensation, with payment issued weekly following task completion. Opportunity to qualify for additional assignments throughout the project after successfully completing the first task within the required timeline. Potential for project extensions depending on business needs and individual performance. Opportunity to apply your FP&A expertise to real-world AI training and evaluation initiatives. Exposure to emerging AI technologies and professional AI assessment methodologies. No requirement to access confidential or proprietary information belonging to current or previous employers, clients, or institutions.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/e97d198e-c603-4d01-a418-6a368fcc0991",
+      "isLive": true
+    },
+    {
+      "id": 1145374667,
+      "externalId": "9fb1b53b-2485-4322-8585-6738678c6367",
+      "title": "FP&A AI Research Contributor",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "research",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:16:58.817Z",
+      "skills": [
+        "Excel",
+        "Finance",
+        "Research"
+      ],
+      "description": "Accountabilities:: Leverage your FP&A expertise to develop realistic, practical tasks that replicate the responsibilities and challenges of financial planning and analysis professionals. Work through each assignment to establish accurate expected outcomes and create objective evaluation criteria that can be used to assess AI-generated results. Develop realistic FP&A tasks based on your professional experience and everyday financial workflows. Create domain-specific assignments and deliverables using Excel, Word, PowerPoint, and other relevant professional tools. Complete each task independently to establish a clear, accurate, and reliable reference answer. Identify common mistakes and limitations in AI-generated financial analysis and incorporate relevant scenarios into evaluation tasks. Develop precise yes-or-no evaluation criteria that allow graders to consistently assess the accuracy and quality of AI-generated outputs. Follow provided project guidelines and collaborate with the research team to ensure tasks meet quality expectations. Apply attention to detail and professional judgment throughout the task creation and evaluation process. Requirements: The ideal candidate has hands-on experience in financial planning and analysis, with a strong understanding of financial workflows and the ability to translate professional knowledge into structured, practical assignments. You should be comfortable producing and reviewing financial deliverables, communicating clearly in English, and exploring how AI tools can support or improve finance-related activities. Minimum of 3 years of professional experience in Financial Planning and Analysis (FP&A). Relevant professional qualifications are valued, including ACCA, CIMA, CPA, CA, or ACA. Strong written English communication skills and the ability to explain complex financial concepts clearly. Practical experience using financial tools and producing professional deliverables in Excel, Word, and PowerPoint. Strong attention to detail and the ability to identify errors, inconsistencies, and gaps in financial outputs. Willingness to learn about artificial intelligence, AI evaluation methodologies, and emerging concepts in AI assessments. Ability to develop structured tasks and objective evaluation criteria. Familiarity with Enterprise Resource Planning (ERP) systems is an advantage. Ability to work independently, manage deadlines, and deliver high-quality assignments within the required timelines. Benefits: Fully remote independent contractor opportunity. Flexible working schedule, allowing you to complete tasks on your own schedule. Immediate start available. Initial project duration of approximately 4–6 weeks. Task-based compensation, with payment issued weekly following task completion. Opportunity to qualify for additional assignments throughout the project after successfully completing the first task within the required timeline. Potential for project extensions depending on business needs and individual performance. Opportunity to apply your FP&A expertise to real-world AI training and evaluation initiatives. Exposure to emerging AI technologies and professional AI assessment methodologies. No requirement to access confidential or proprietary information belonging to current or previous employers, clients, or institutions.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/9fb1b53b-2485-4322-8585-6738678c6367",
+      "isLive": true
+    },
+    {
+      "id": 2293235355,
+      "externalId": "7ff6e707-d120-4c77-b570-d5717e037b30",
+      "title": "FP&A AI Research Contributor",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "research",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T08:14:46.922Z",
+      "skills": [
+        "Excel",
+        "Finance",
+        "Research"
+      ],
+      "description": "Accountabilities:: Leverage your FP&A expertise to develop realistic, practical tasks that replicate the responsibilities and challenges of financial planning and analysis professionals. Work through each assignment to establish accurate expected outcomes and create objective evaluation criteria that can be used to assess AI-generated results. Develop realistic FP&A tasks based on your professional experience and everyday financial workflows. Create domain-specific assignments and deliverables using Excel, Word, PowerPoint, and other relevant professional tools. Complete each task independently to establish a clear, accurate, and reliable reference answer. Identify common mistakes and limitations in AI-generated financial analysis and incorporate relevant scenarios into evaluation tasks. Develop precise yes-or-no evaluation criteria that allow graders to consistently assess the accuracy and quality of AI-generated outputs. Follow provided project guidelines and collaborate with the research team to ensure tasks meet quality expectations. Apply attention to detail and professional judgment throughout the task creation and evaluation process. Requirements: The ideal candidate has hands-on experience in financial planning and analysis, with a strong understanding of financial workflows and the ability to translate professional knowledge into structured, practical assignments. You should be comfortable producing and reviewing financial deliverables, communicating clearly in English, and exploring how AI tools can support or improve finance-related activities. Minimum of 3 years of professional experience in Financial Planning and Analysis (FP&A). Relevant professional qualifications are valued, including ACCA, CIMA, CPA, CA, or ACA. Strong written English communication skills and the ability to explain complex financial concepts clearly. Practical experience using financial tools and producing professional deliverables in Excel, Word, and PowerPoint. Strong attention to detail and the ability to identify errors, inconsistencies, and gaps in financial outputs. Willingness to learn about artificial intelligence, AI evaluation methodologies, and emerging concepts in AI assessments. Ability to develop structured tasks and objective evaluation criteria. Familiarity with Enterprise Resource Planning (ERP) systems is an advantage. Ability to work independently, manage deadlines, and deliver high-quality assignments within the required timelines. Benefits: Fully remote independent contractor opportunity. Flexible working schedule, allowing you to complete tasks on your own schedule. Immediate start available. Initial project duration of approximately 4–6 weeks. Task-based compensation, with payment issued weekly following task completion. Opportunity to qualify for additional assignments throughout the project after successfully completing the first task within the required timeline. Potential for project extensions depending on business needs and individual performance. Opportunity to apply your FP&A expertise to real-world AI training and evaluation initiatives. Exposure to emerging AI technologies and professional AI assessment methodologies. No requirement to access confidential or proprietary information belonging to current or previous employers, clients, or institutions.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/7ff6e707-d120-4c77-b570-d5717e037b30",
+      "isLive": true
+    },
     {
       "id": 2628900587,
       "externalId": "ce74f1a7-18c2-409d-86c6-7134637e6f88",
@@ -276,7 +655,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T08:37:28.785Z",
       "skills": [
         "Python",
@@ -305,7 +684,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T08:34:59.427Z",
       "skills": [
         "Python",
@@ -332,7 +711,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T08:32:45.080Z",
       "skills": [
         "Excel"
@@ -357,7 +736,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T08:01:20.122Z",
       "skills": [
         "Recruitment",
@@ -383,7 +762,7 @@
       "minExp": 2,
       "maxExp": 4,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T08:00:44.793Z",
       "skills": [
         "Excel",
@@ -412,7 +791,7 @@
       "minExp": 2,
       "maxExp": 4,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T08:00:09.816Z",
       "skills": [
         "Excel",
@@ -441,7 +820,7 @@
       "minExp": 2,
       "maxExp": 4,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:58:48.714Z",
       "skills": [
         "Excel",
@@ -470,7 +849,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:54:21.550Z",
       "skills": [
         "Excel",
@@ -499,7 +878,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:53:51.901Z",
       "skills": [
         "Excel",
@@ -528,7 +907,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:52:40.593Z",
       "skills": [
         "Excel",
@@ -557,7 +936,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:46:53.664Z",
       "skills": [
         "Python",
@@ -585,7 +964,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:46:31.560Z",
       "skills": [
         "Excel",
@@ -616,7 +995,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:45:36.664Z",
       "skills": [
         "Excel",
@@ -644,7 +1023,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:45:07.676Z",
       "skills": [
         "Excel",
@@ -672,7 +1051,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:43:52.295Z",
       "skills": [
         "Excel",
@@ -700,7 +1079,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:18:55.554Z",
       "skills": [
         "Excel"
@@ -725,7 +1104,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:03:08.670Z",
       "skills": [
         "SQL",
@@ -756,7 +1135,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T07:01:26.810Z",
       "skills": [
         "SQL",
@@ -787,7 +1166,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T06:59:33.062Z",
       "skills": [
         "SQL",
@@ -818,7 +1197,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T06:58:06.399Z",
       "skills": [
         "SQL",
@@ -849,7 +1228,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T06:57:20.991Z",
       "skills": [
         "SQL",
@@ -880,7 +1259,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T06:55:45.471Z",
       "skills": [
         "SQL",
@@ -911,7 +1290,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T06:44:44.136Z",
       "skills": [
         "Excel",
@@ -941,7 +1320,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T06:44:04.507Z",
       "skills": [
         "Excel",
@@ -971,7 +1350,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-13T06:42:02.998Z",
       "skills": [
         "Excel",
@@ -1305,7 +1684,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:52:02.500Z",
       "skills": [
         "Python",
@@ -1334,7 +1713,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:49:29.596Z",
       "skills": [
         "Excel",
@@ -1362,7 +1741,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:46:47.469Z",
       "skills": [
         "Excel",
@@ -1390,7 +1769,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:44:20.972Z",
       "skills": [
         "Insurance",
@@ -1419,7 +1798,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:42:42.019Z",
       "skills": [
         "Compliance"
@@ -1444,7 +1823,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:42:10.740Z",
       "skills": [
         "Compliance"
@@ -1469,7 +1848,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:40:54.028Z",
       "skills": [
         "Compliance"
@@ -1494,7 +1873,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:36:28.715Z",
       "skills": [
         "Excel",
@@ -1525,7 +1904,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:35:59.355Z",
       "skills": [
         "Excel",
@@ -1556,7 +1935,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:34:38.052Z",
       "skills": [
         "Excel",
@@ -1587,7 +1966,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:31:28.956Z",
       "skills": [
         "JavaScript",
@@ -1613,7 +1992,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:25:33.287Z",
       "skills": [
         "Excel",
@@ -1644,7 +2023,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:25:00.213Z",
       "skills": [
         "Excel",
@@ -1675,7 +2054,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:23:46.357Z",
       "skills": [
         "Excel",
@@ -1706,7 +2085,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T08:15:51.932Z",
       "skills": [
         "Excel",
@@ -1734,7 +2113,7 @@
       "minExp": 0,
       "maxExp": 2,
       "category": "legal",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T06:14:54.010Z",
       "skills": [
         "Excel",
@@ -2632,7 +3011,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T08:21:55.529Z",
       "skills": [
         "Finance",
@@ -2661,7 +3040,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:50:04.408Z",
       "skills": [
         "Excel",
@@ -2691,7 +3070,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "manufacturing",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:47:43.058Z",
       "skills": [
         "Excel",
@@ -2720,7 +3099,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:45:11.978Z",
       "skills": [
         "Python",
@@ -2748,7 +3127,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:41:01.179Z",
       "skills": [
         "React",
@@ -2776,7 +3155,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:40:28.192Z",
       "skills": [
         "React",
@@ -2804,7 +3183,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:39:09.971Z",
       "skills": [
         "React",
@@ -2832,7 +3211,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:31:59.405Z",
       "skills": [
         "SQL",
@@ -2862,7 +3241,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:31:27.330Z",
       "skills": [
         "SQL",
@@ -2892,7 +3271,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:29:56.718Z",
       "skills": [
         "SQL",
@@ -2922,7 +3301,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:20:43.060Z",
       "skills": [
         "Insurance",
@@ -2948,7 +3327,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:18:44.089Z",
       "skills": [
         "Insurance",
@@ -2974,7 +3353,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T07:17:24.800Z",
       "skills": [
         "Insurance",
@@ -3445,7 +3824,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T08:44:15.021Z",
       "skills": [
         "Excel",
@@ -3472,7 +3851,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T08:36:19.400Z",
       "skills": [
         "Customer Service",
@@ -3502,7 +3881,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T08:19:53.748Z",
       "skills": [
         "Excel",
@@ -3528,7 +3907,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T08:15:17.028Z",
       "skills": [
         "Excel",
@@ -3554,7 +3933,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T08:13:41.932Z",
       "skills": [
         "Excel",
@@ -3580,7 +3959,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T08:04:05.751Z",
       "skills": [
         "Insurance",
@@ -3608,7 +3987,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T08:03:38.018Z",
       "skills": [
         "Insurance",
@@ -3636,7 +4015,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T08:02:24.580Z",
       "skills": [
         "Insurance",
@@ -3664,7 +4043,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T07:51:29.912Z",
       "skills": [
         "Excel",
@@ -3692,7 +4071,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T07:51:01.993Z",
       "skills": [
         "Excel",
@@ -3720,7 +4099,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T07:46:29.154Z",
       "skills": [
         "Python",
@@ -3747,7 +4126,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T07:20:40.367Z",
       "skills": [
         "MEP"
@@ -3772,7 +4151,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T07:12:47.623Z",
       "skills": [
         "MEP"
@@ -3797,7 +4176,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T06:53:40.615Z",
       "skills": [
         "Excel",
@@ -3824,7 +4203,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T06:53:02.752Z",
       "skills": [
         "Excel",
@@ -4355,7 +4734,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T07:49:11.252Z",
       "skills": [
         "Python",
@@ -4385,7 +4764,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T07:46:56.315Z",
       "skills": [
         "React",
@@ -4416,7 +4795,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T07:44:46.016Z",
       "skills": [
         "Excel",
@@ -4445,7 +4824,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T07:41:13.688Z",
       "skills": [
         "Excel",
@@ -4474,7 +4853,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T07:40:46.167Z",
       "skills": [
         "Excel",
@@ -4503,7 +4882,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T07:39:35.171Z",
       "skills": [
         "Excel",
@@ -4532,7 +4911,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T07:35:05.778Z",
       "skills": [
         "Excel",
@@ -4558,7 +4937,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T07:34:15.873Z",
       "skills": [
         "Excel",
@@ -4584,7 +4963,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T07:32:55.283Z",
       "skills": [
         "Excel",
@@ -4610,7 +4989,7 @@
       "minExp": 4,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T07:25:54.211Z",
       "skills": [
         "React",
@@ -4639,7 +5018,7 @@
       "minExp": 4,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T07:25:19.973Z",
       "skills": [
         "React",
@@ -4693,7 +5072,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 9 أيام",
+      "age": "منذ 10 أيام",
       "publishedAt": "2026-11-06T06:08:36.084Z",
       "skills": [
         "Excel",
@@ -4719,7 +5098,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "general",
-      "age": "منذ 13 أيام",
+      "age": "منذ 14 أيام",
       "publishedAt": "2026-11-02T02:16:58-05:00",
       "skills": [
         "Excel",
@@ -4887,7 +5266,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "projects",
-      "age": "منذ 24 أيام",
+      "age": "منذ 25 أيام",
       "publishedAt": "2026-10-22T06:05:40.595Z",
       "skills": [
         "PMP",
@@ -5019,7 +5398,7 @@
       "minExp": 2,
       "maxExp": 4,
       "category": "technology",
-      "age": "منذ 32 أيام",
+      "age": "منذ 33 أيام",
       "publishedAt": "2026-10-14T06:30:36.925Z",
       "skills": [
         "SQL",
@@ -5252,7 +5631,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "technology",
-      "age": "منذ 51 أيام",
+      "age": "منذ 52 أيام",
       "publishedAt": "2026-09-25T08:06:45.340Z",
       "skills": [
         "Python",
@@ -5433,7 +5812,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "general",
-      "age": "منذ 59 أيام",
+      "age": "منذ 60 أيام",
       "publishedAt": "2026-09-17T06:43:26.045Z",
       "skills": [
         "Excel",
@@ -5459,7 +5838,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "general",
-      "age": "منذ 59 أيام",
+      "age": "منذ 60 أيام",
       "publishedAt": "2026-09-17T06:29:45.774Z",
       "skills": [
         "Excel",
@@ -5565,7 +5944,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "manufacturing",
-      "age": "منذ 61 أيام",
+      "age": "منذ 62 أيام",
       "publishedAt": "2026-09-15T06:50:37.096Z",
       "skills": [
         "Excel",
@@ -5941,7 +6320,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 75 أيام",
+      "age": "منذ 76 أيام",
       "publishedAt": "2026-09-01T08:15:05.603Z",
       "skills": [
         "Excel",
@@ -5971,7 +6350,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "finance",
-      "age": "منذ 75 أيام",
+      "age": "منذ 76 أيام",
       "publishedAt": "2026-09-01T07:45:14.868Z",
       "skills": [
         "Excel",
@@ -6266,7 +6645,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 107 أيام",
+      "age": "منذ 108 أيام",
       "publishedAt": "2026-07-31T07:06:13.431Z",
       "skills": [
         "PMP",
@@ -6545,7 +6924,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 216 أيام",
+      "age": "منذ 217 أيام",
       "publishedAt": "2026-04-13T07:28:26.803Z",
       "skills": [
         "Education",
@@ -6660,7 +7039,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 256 أيام",
+      "age": "منذ 257 أيام",
       "publishedAt": "2026-03-04T08:52:35.403Z",
       "skills": [
         "Excel",
@@ -6718,7 +7097,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 269 أيام",
+      "age": "منذ 270 أيام",
       "publishedAt": "2026-02-19T06:41:38.833Z",
       "skills": [
         "Python",
@@ -6745,7 +7124,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "civil",
-      "age": "منذ 269 أيام",
+      "age": "منذ 270 أيام",
       "publishedAt": "2026-02-19T06:23:32.551Z",
       "skills": [
         "AutoCAD",
@@ -6773,7 +7152,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 286 أيام",
+      "age": "منذ 287 أيام",
       "publishedAt": "2026-02-02T07:23:16.709Z",
       "skills": [
         "Finance",
@@ -7106,7 +7485,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 557 أيام",
+      "age": "منذ 558 أيام",
       "publishedAt": "2025-05-07T08:19:01.580Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7184,7 +7563,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 664 أيام",
+      "age": "منذ 665 أيام",
       "publishedAt": "2025-01-20T08:12:44.468Z",
       "skills": [
         "Audit",
@@ -7239,7 +7618,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 865 أيام",
+      "age": "منذ 866 أيام",
       "publishedAt": "2024-07-03T07:43:10.387Z",
       "skills": [
         "Excel",
