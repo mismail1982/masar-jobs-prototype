@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T10:46:16.227Z",
+  "generatedAt": "2026-11-16T11:51:04.055Z",
   "total": 287,
   "feeds": 13,
   "jobs": [
@@ -1749,7 +1749,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-12T11:01:45.581Z",
       "skills": [
         "Marketing"
@@ -2764,7 +2764,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-11T11:00:30.512Z",
       "skills": [
         "Excel",
@@ -4055,7 +4055,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "operations",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T11:32:12.769Z",
       "skills": [
         "PMP",
@@ -5386,7 +5386,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 9 أيام",
+      "age": "منذ 10 أيام",
       "publishedAt": "2026-11-06T11:47:12.630Z",
       "skills": [
         "Sales"
@@ -5523,7 +5523,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 17 أيام",
+      "age": "منذ 18 أيام",
       "publishedAt": "2026-10-29T10:50:46.515Z",
       "skills": [
         "Sales",
@@ -5944,7 +5944,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 44 أيام",
+      "age": "منذ 45 أيام",
       "publishedAt": "2026-10-02T11:45:47.851Z",
       "skills": [
         "Excel",
@@ -6387,7 +6387,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "sales",
-      "age": "منذ 67 أيام",
+      "age": "منذ 68 أيام",
       "publishedAt": "2026-09-09T11:39:00.380Z",
       "skills": [
         "Excel",
@@ -6418,7 +6418,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 67 أيام",
+      "age": "منذ 68 أيام",
       "publishedAt": "2026-09-09T10:47:54.392Z",
       "skills": [
         "SAP"
@@ -6774,7 +6774,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 82 أيام",
+      "age": "منذ 83 أيام",
       "publishedAt": "2026-08-25T11:26:46.838Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6799,7 +6799,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 82 أيام",
+      "age": "منذ 83 أيام",
       "publishedAt": "2026-08-25T11:15:50.932Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6932,7 +6932,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 104 أيام",
+      "age": "منذ 105 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
         "Operations",
@@ -6958,7 +6958,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 104 أيام",
+      "age": "منذ 105 أيام",
       "publishedAt": "2026-08-03T11:24:13.619Z",
       "skills": [
         "React",
@@ -7041,7 +7041,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 111 أيام",
+      "age": "منذ 112 أيام",
       "publishedAt": "2026-07-27T11:44:58.735Z",
       "skills": [
         "Excel",
@@ -7294,7 +7294,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 221 أيام",
+      "age": "منذ 222 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7341,8 +7341,8 @@
       "title": "Kazakh Localization QA Tester / Proofreader",
       "company": "Welo Data",
       "country": "عُمان",
-      "region": "Spain / Romania / Greece / France / Germany / Ireland / United Kingdom",
-      "location": "Spain / Romania / Greece / France / Germany / Ireland / United Kingdom",
+      "region": "Spain / Romania / Greece / France / Germany / Ireland / United Kingdom / Italy",
+      "location": "Spain / Romania / Greece / France / Germany / Ireland / United Kingdom / Italy",
       "mode": "عن بُعد",
       "minSalary": 0,
       "maxSalary": 0,
@@ -7605,7 +7605,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "security",
-      "age": "منذ 412 أيام",
+      "age": "منذ 413 أيام",
       "publishedAt": "2025-09-29T10:53:59.334Z",
       "skills": [
         "Excel",
@@ -7632,7 +7632,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 454 أيام",
+      "age": "منذ 455 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
@@ -7796,7 +7796,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 551 أيام",
+      "age": "منذ 552 أيام",
       "publishedAt": "2025-05-13T10:50:29.522Z",
       "skills": [
         "Customer Service",
