@@ -1,8 +1,285 @@
 {
-  "generatedAt": "2026-11-16T11:51:04.055Z",
-  "total": 287,
+  "generatedAt": "2026-11-16T15:19:58.048Z",
+  "total": 296,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 184347163,
+      "externalId": "8d2631e8-8db2-473f-8025-fa861e8151f9",
+      "title": "DevOps Engineer",
+      "company": "SOUM",
+      "country": "السعودية",
+      "region": "Riyadh",
+      "location": "الرياض",
+      "mode": "حضوري",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 2,
+      "maxExp": 10,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T14:55:16.967Z",
+      "skills": [
+        "Excel"
+      ],
+      "description": "Role & Responsibilities: Take responsibility for the scalability, stability and availability of our low-latency and mission-critical systems. Enhance the CI/CD pipeline using GitHub Actions. Generate and maintain Helm manifests for Kubernetes. Maintain our Infrastructure as Code. Set up and maintain monitoring via New Relic, Prometheus and Grafana. Debug infrastructure and detect bottlenecks. Take responsibility for the company-wide tech infrastructure across all environments. Manage VPN, load balancers and firewalls. Take responsibility for high availability and disaster recovery. Implement secure and stable infrastructure. Drive continuous improvement and cost optimization. Take responsibility for 24x7 monitoring, resolving infrastructure-tier incidents and escalating to upper tiers where necessary. Investigate incidents and produce clear incident report documentation. Skills: Excellent understanding of GCP cloud and AWS cloud. Knowledge of containerized environments with Kubernetes and Docker. Ability to develop a well-managed infrastructure setup. Strong hands-on experience building high availability infrastructure using EKS on AWS. Strong understanding of IaC, specifically Terraform. Strong understanding of GitOps , specifically ArgoCD. Strong understanding of securing production infrastructure. Qualifications: Minimum 2 years of experience in DevOps on production applications. Minimum 1 year working with Terraform. Minimum 1 year working with infrastructure monitoring tools. Experience in designing and architecting high performing applications. Experience in agile development practices. Experience in a fast growing startup is a plus. AWS certifications are a plus.",
+      "source": "Lever · SOUM",
+      "externalUrl": "https://jobs.lever.co/soum/8d2631e8-8db2-473f-8025-fa861e8151f9",
+      "isLive": true
+    },
+    {
+      "id": 2819183979,
+      "externalId": "3099bcfa-731e-4aed-beed-e83148ca0dee",
+      "title": "Head of Product - AdTech",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T13:01:36.752Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Marketing",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: Lead the overall product strategy and development of the AdTech portfolio, identifying opportunities to strengthen mobile advertising capabilities and deliver measurable value to game developers. You will combine strategic leadership, market research, technical expertise, and hands-on product execution to build solutions that support sustainable customer and business growth. Define and own the long-term product vision, strategy, and roadmap across the AdTech business. Identify emerging opportunities in mobile advertising by analyzing customer needs, market trends, competitive developments, technological advancements, and unmet industry demands. Explore how artificial intelligence and automation can transform mobile monetization and user acquisition, making sophisticated advertising solutions accessible to developers of all sizes. Develop an integrated growth ecosystem connecting ad monetization, user acquisition, and data to help game studios make informed decisions and improve profitability. Lead product initiatives from initial concept and validation through development, launch, optimization, and scaling. Establish clear product priorities, balancing customer needs, technical feasibility, commercial opportunities, and long-term business objectives. Collaborate with senior leadership and cross-functional teams to align product investments with strategic business goals. Translate complex advertising technologies into intuitive, scalable products that solve meaningful customer problems. Use data, experimentation, and performance insights to evaluate product success and identify opportunities for continuous improvement. Take ownership of measurable customer outcomes, product performance, revenue contribution, and overall business growth. Encourage innovation and experimentation while supporting teams in developing stronger product thinking and execution capabilities. Requirements : We are looking for an experienced and entrepreneurial product leader with a strong background in AdTech, mobile advertising, or performance marketing technology. The ideal candidate combines a comprehensive understanding of the advertising ecosystem with technical curiosity, commercial awareness, and a proven ability to turn complex ideas into successful products. You should be comfortable operating at both strategic and execution levels, influencing senior stakeholders, and helping teams deliver ambitious product initiatives. At least 5 years of experience building, developing, and scaling products in AdTech, mobile advertising, or adjacent performance marketing technology. Deep understanding of the mobile advertising ecosystem, including ad monetization, mediation, user acquisition, demand-side platforms (DSPs), supply-side platforms (SSPs), bidding mechanisms, attribution, and advertising economics. Proven track record of taking complex technical products from concept to launch and delivering measurable commercial results. Experience working with data-intensive platforms, optimization systems, machine learning, or AI-powered products. Strong understanding of customer businesses and the ability to identify problems that create meaningful, measurable value when solved. Excellent commercial judgment, with the ability to connect product decisions to customer outcomes, revenue generation, and business growth. Entrepreneurial mindset and a demonstrated ability to identify opportunities, challenge conventional approaches, and build products from zero to one. Strong strategic vision combined with practical execution skills and sound technical judgment. Customer-focused approach, with the ability to translate market insights and customer needs into effective product strategies. Experience bringing cross-functional teams together, coaching product professionals, and raising standards for product development. Performance-driven attitude, with a willingness to experiment, learn from setbacks, and continuously improve. Excellent communication",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/3099bcfa-731e-4aed-beed-e83148ca0dee",
+      "isLive": true
+    },
+    {
+      "id": 2780331752,
+      "externalId": "26f9c308-9f1f-433e-ad04-fcb1e40a6046",
+      "title": "Head of Product - AdTech",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T12:56:56.648Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Marketing",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: Lead the overall product strategy and development of the AdTech portfolio, identifying opportunities to strengthen mobile advertising capabilities and deliver measurable value to game developers. You will combine strategic leadership, market research, technical expertise, and hands-on product execution to build solutions that support sustainable customer and business growth. Define and own the long-term product vision, strategy, and roadmap across the AdTech business. Identify emerging opportunities in mobile advertising by analyzing customer needs, market trends, competitive developments, technological advancements, and unmet industry demands. Explore how artificial intelligence and automation can transform mobile monetization and user acquisition, making sophisticated advertising solutions accessible to developers of all sizes. Develop an integrated growth ecosystem connecting ad monetization, user acquisition, and data to help game studios make informed decisions and improve profitability. Lead product initiatives from initial concept and validation through development, launch, optimization, and scaling. Establish clear product priorities, balancing customer needs, technical feasibility, commercial opportunities, and long-term business objectives. Collaborate with senior leadership and cross-functional teams to align product investments with strategic business goals. Translate complex advertising technologies into intuitive, scalable products that solve meaningful customer problems. Use data, experimentation, and performance insights to evaluate product success and identify opportunities for continuous improvement. Take ownership of measurable customer outcomes, product performance, revenue contribution, and overall business growth. Encourage innovation and experimentation while supporting teams in developing stronger product thinking and execution capabilities. Requirements : We are looking for an experienced and entrepreneurial product leader with a strong background in AdTech, mobile advertising, or performance marketing technology. The ideal candidate combines a comprehensive understanding of the advertising ecosystem with technical curiosity, commercial awareness, and a proven ability to turn complex ideas into successful products. You should be comfortable operating at both strategic and execution levels, influencing senior stakeholders, and helping teams deliver ambitious product initiatives. At least 5 years of experience building, developing, and scaling products in AdTech, mobile advertising, or adjacent performance marketing technology. Deep understanding of the mobile advertising ecosystem, including ad monetization, mediation, user acquisition, demand-side platforms (DSPs), supply-side platforms (SSPs), bidding mechanisms, attribution, and advertising economics. Proven track record of taking complex technical products from concept to launch and delivering measurable commercial results. Experience working with data-intensive platforms, optimization systems, machine learning, or AI-powered products. Strong understanding of customer businesses and the ability to identify problems that create meaningful, measurable value when solved. Excellent commercial judgment, with the ability to connect product decisions to customer outcomes, revenue generation, and business growth. Entrepreneurial mindset and a demonstrated ability to identify opportunities, challenge conventional approaches, and build products from zero to one. Strong strategic vision combined with practical execution skills and sound technical judgment. Customer-focused approach, with the ability to translate market insights and customer needs into effective product strategies. Experience bringing cross-functional teams together, coaching product professionals, and raising standards for product development. Performance-driven attitude, with a willingness to experiment, learn from setbacks, and continuously improve. Excellent communication",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/26f9c308-9f1f-433e-ad04-fcb1e40a6046",
+      "isLive": true
+    },
+    {
+      "id": 578470868,
+      "externalId": "aed88b7b-b160-47b4-bf17-7a93aaaba5e4",
+      "title": "Head of Product - AdTech",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T12:55:57.312Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Marketing",
+        "Leadership"
+      ],
+      "description": "Accountabilities:: Lead the overall product strategy and development of the AdTech portfolio, identifying opportunities to strengthen mobile advertising capabilities and deliver measurable value to game developers. You will combine strategic leadership, market research, technical expertise, and hands-on product execution to build solutions that support sustainable customer and business growth. Define and own the long-term product vision, strategy, and roadmap across the AdTech business. Identify emerging opportunities in mobile advertising by analyzing customer needs, market trends, competitive developments, technological advancements, and unmet industry demands. Explore how artificial intelligence and automation can transform mobile monetization and user acquisition, making sophisticated advertising solutions accessible to developers of all sizes. Develop an integrated growth ecosystem connecting ad monetization, user acquisition, and data to help game studios make informed decisions and improve profitability. Lead product initiatives from initial concept and validation through development, launch, optimization, and scaling. Establish clear product priorities, balancing customer needs, technical feasibility, commercial opportunities, and long-term business objectives. Collaborate with senior leadership and cross-functional teams to align product investments with strategic business goals. Translate complex advertising technologies into intuitive, scalable products that solve meaningful customer problems. Use data, experimentation, and performance insights to evaluate product success and identify opportunities for continuous improvement. Take ownership of measurable customer outcomes, product performance, revenue contribution, and overall business growth. Encourage innovation and experimentation while supporting teams in developing stronger product thinking and execution capabilities. Requirements : We are looking for an experienced and entrepreneurial product leader with a strong background in AdTech, mobile advertising, or performance marketing technology. The ideal candidate combines a comprehensive understanding of the advertising ecosystem with technical curiosity, commercial awareness, and a proven ability to turn complex ideas into successful products. You should be comfortable operating at both strategic and execution levels, influencing senior stakeholders, and helping teams deliver ambitious product initiatives. At least 5 years of experience building, developing, and scaling products in AdTech, mobile advertising, or adjacent performance marketing technology. Deep understanding of the mobile advertising ecosystem, including ad monetization, mediation, user acquisition, demand-side platforms (DSPs), supply-side platforms (SSPs), bidding mechanisms, attribution, and advertising economics. Proven track record of taking complex technical products from concept to launch and delivering measurable commercial results. Experience working with data-intensive platforms, optimization systems, machine learning, or AI-powered products. Strong understanding of customer businesses and the ability to identify problems that create meaningful, measurable value when solved. Excellent commercial judgment, with the ability to connect product decisions to customer outcomes, revenue generation, and business growth. Entrepreneurial mindset and a demonstrated ability to identify opportunities, challenge conventional approaches, and build products from zero to one. Strong strategic vision combined with practical execution skills and sound technical judgment. Customer-focused approach, with the ability to translate market insights and customer needs into effective product strategies. Experience bringing cross-functional teams together, coaching product professionals, and raising standards for product development. Performance-driven attitude, with a willingness to experiment, learn from setbacks, and continuously improve. Excellent communication",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/aed88b7b-b160-47b4-bf17-7a93aaaba5e4",
+      "isLive": true
+    },
+    {
+      "id": 4120238998,
+      "externalId": "98054b0a-7e61-4001-8eb5-49171e91a5c4",
+      "title": "Integrated Marketing Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T12:41:52.991Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing",
+        "Content",
+        "Compliance"
+      ],
+      "description": "Accountabilities:: Own the planning and execution of integrated marketing initiatives designed to generate qualified leads, accelerate pipeline development, and support revenue growth. You will collaborate with cross-functional teams to deliver impactful campaigns, optimize marketing resources, and demonstrate the commercial value of marketing investments. Design and execute multi-channel demand generation campaigns across email, social media, targeted advertising lists, and other digital channels to attract qualified prospects and generate measurable pipeline. Develop and implement campaign strategies promoting cloud productivity and AI solutions, ensuring alignment with broader go-to-market objectives. Collaborate with internal creative, copywriting, and content teams to develop and deploy compelling marketing assets that communicate product value and support campaign performance. Leverage existing content and marketing resources, adapting and localizing materials to meet campaign requirements and create effective sales enablement collateral. Partner with go-to-market teams to plan and execute promotional strategies for joint events and webinars, maximizing attendance and engagement among high-value prospects. Work with sales teams, customers, and internal content specialists to identify successful customer stories and develop compelling case studies that demonstrate the value of integrated technology solutions. Manage marketing development funds (MDF) compliance by preparing proof-of-performance reports, documenting campaign activities, and maintaining supporting materials required for funding validation. Monitor campaign performance, lead quality, pipeline contribution, and return on investment to assess effectiveness and identify optimization opportunities. Coordinate multiple projects simultaneously, ensuring timely delivery of marketing assets, campaign materials, and related activities. Continuously identify opportunities to improve campaign execution, strengthen collaboration, and increase marketing impact. Requirements : We are looking for a results-oriented marketing professional with a strong background in B2B digital marketing, demand generation, and integrated campaign management. The ideal candidate combines analytical thinking, content marketing expertise, and excellent project management skills with the ability to collaborate across teams and translate marketing initiatives into measurable commercial results. At least 5 years of professional experience in B2B digital marketing, demand generation, or campaign management. Demonstrated ability to use content marketing and digital assets to improve lead conversion and contribute to pipeline growth. Strong understanding of multi-channel marketing strategies and demand generation best practices. Data-driven mindset, with a strong focus on tracking campaign performance, lead quality, pipeline contribution, and marketing ROI. Excellent project management and organizational skills, with the ability to coordinate multiple campaigns, asset creation processes, content deliveries, and marketing lists simultaneously. Strong communication and collaboration skills, particularly when working with sales, creative, content, and go-to-market teams. Ability to develop compelling marketing messages and leverage customer success stories to communicate business value. Experience managing marketing budgets, campaign documentation, and performance reporting is an advantage. Previous experience within a cloud technology partner ecosystem, particularly Google Cloud, Microsoft, or AWS, is preferred. Familiarity with marketing and project management platforms such as HubSpot, Marketo, Google Workspace, Cvent, and Asana is considered a plus. Proactive, adaptable, and commercially minded approach, with a strong commitment to continuous learning and professional development. Benefits : Annual compensation ranging from $90,000 to $110,000, depending on experience and qualifications. Additional",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/98054b0a-7e61-4001-8eb5-49171e91a5c4",
+      "isLive": true
+    },
+    {
+      "id": 2106898650,
+      "externalId": "086aea52-4821-4ff3-9940-5f8f882431c9",
+      "title": "Integrated Marketing Manager",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T12:39:38.750Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing",
+        "Content",
+        "Compliance"
+      ],
+      "description": "Accountabilities:: Own the planning and execution of integrated marketing initiatives designed to generate qualified leads, accelerate pipeline development, and support revenue growth. You will collaborate with cross-functional teams to deliver impactful campaigns, optimize marketing resources, and demonstrate the commercial value of marketing investments. Design and execute multi-channel demand generation campaigns across email, social media, targeted advertising lists, and other digital channels to attract qualified prospects and generate measurable pipeline. Develop and implement campaign strategies promoting cloud productivity and AI solutions, ensuring alignment with broader go-to-market objectives. Collaborate with internal creative, copywriting, and content teams to develop and deploy compelling marketing assets that communicate product value and support campaign performance. Leverage existing content and marketing resources, adapting and localizing materials to meet campaign requirements and create effective sales enablement collateral. Partner with go-to-market teams to plan and execute promotional strategies for joint events and webinars, maximizing attendance and engagement among high-value prospects. Work with sales teams, customers, and internal content specialists to identify successful customer stories and develop compelling case studies that demonstrate the value of integrated technology solutions. Manage marketing development funds (MDF) compliance by preparing proof-of-performance reports, documenting campaign activities, and maintaining supporting materials required for funding validation. Monitor campaign performance, lead quality, pipeline contribution, and return on investment to assess effectiveness and identify optimization opportunities. Coordinate multiple projects simultaneously, ensuring timely delivery of marketing assets, campaign materials, and related activities. Continuously identify opportunities to improve campaign execution, strengthen collaboration, and increase marketing impact. Requirements : We are looking for a results-oriented marketing professional with a strong background in B2B digital marketing, demand generation, and integrated campaign management. The ideal candidate combines analytical thinking, content marketing expertise, and excellent project management skills with the ability to collaborate across teams and translate marketing initiatives into measurable commercial results. At least 5 years of professional experience in B2B digital marketing, demand generation, or campaign management. Demonstrated ability to use content marketing and digital assets to improve lead conversion and contribute to pipeline growth. Strong understanding of multi-channel marketing strategies and demand generation best practices. Data-driven mindset, with a strong focus on tracking campaign performance, lead quality, pipeline contribution, and marketing ROI. Excellent project management and organizational skills, with the ability to coordinate multiple campaigns, asset creation processes, content deliveries, and marketing lists simultaneously. Strong communication and collaboration skills, particularly when working with sales, creative, content, and go-to-market teams. Ability to develop compelling marketing messages and leverage customer success stories to communicate business value. Experience managing marketing budgets, campaign documentation, and performance reporting is an advantage. Previous experience within a cloud technology partner ecosystem, particularly Google Cloud, Microsoft, or AWS, is preferred. Familiarity with marketing and project management platforms such as HubSpot, Marketo, Google Workspace, Cvent, and Asana is considered a plus. Proactive, adaptable, and commercially minded approach, with a strong commitment to continuous learning and professional development. Benefits : Annual compensation ranging from $90,000 to $110,000, depending on experience and qualifications. Additional",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/086aea52-4821-4ff3-9940-5f8f882431c9",
+      "isLive": true
+    },
+    {
+      "id": 155917702,
+      "externalId": "ac7a3583-d698-4768-9055-42492036bbef",
+      "title": "Integrated Marketing Manager",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T12:38:44.201Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing",
+        "Content",
+        "Compliance"
+      ],
+      "description": "Accountabilities:: Own the planning and execution of integrated marketing initiatives designed to generate qualified leads, accelerate pipeline development, and support revenue growth. You will collaborate with cross-functional teams to deliver impactful campaigns, optimize marketing resources, and demonstrate the commercial value of marketing investments. Design and execute multi-channel demand generation campaigns across email, social media, targeted advertising lists, and other digital channels to attract qualified prospects and generate measurable pipeline. Develop and implement campaign strategies promoting cloud productivity and AI solutions, ensuring alignment with broader go-to-market objectives. Collaborate with internal creative, copywriting, and content teams to develop and deploy compelling marketing assets that communicate product value and support campaign performance. Leverage existing content and marketing resources, adapting and localizing materials to meet campaign requirements and create effective sales enablement collateral. Partner with go-to-market teams to plan and execute promotional strategies for joint events and webinars, maximizing attendance and engagement among high-value prospects. Work with sales teams, customers, and internal content specialists to identify successful customer stories and develop compelling case studies that demonstrate the value of integrated technology solutions. Manage marketing development funds (MDF) compliance by preparing proof-of-performance reports, documenting campaign activities, and maintaining supporting materials required for funding validation. Monitor campaign performance, lead quality, pipeline contribution, and return on investment to assess effectiveness and identify optimization opportunities. Coordinate multiple projects simultaneously, ensuring timely delivery of marketing assets, campaign materials, and related activities. Continuously identify opportunities to improve campaign execution, strengthen collaboration, and increase marketing impact. Requirements : We are looking for a results-oriented marketing professional with a strong background in B2B digital marketing, demand generation, and integrated campaign management. The ideal candidate combines analytical thinking, content marketing expertise, and excellent project management skills with the ability to collaborate across teams and translate marketing initiatives into measurable commercial results. At least 5 years of professional experience in B2B digital marketing, demand generation, or campaign management. Demonstrated ability to use content marketing and digital assets to improve lead conversion and contribute to pipeline growth. Strong understanding of multi-channel marketing strategies and demand generation best practices. Data-driven mindset, with a strong focus on tracking campaign performance, lead quality, pipeline contribution, and marketing ROI. Excellent project management and organizational skills, with the ability to coordinate multiple campaigns, asset creation processes, content deliveries, and marketing lists simultaneously. Strong communication and collaboration skills, particularly when working with sales, creative, content, and go-to-market teams. Ability to develop compelling marketing messages and leverage customer success stories to communicate business value. Experience managing marketing budgets, campaign documentation, and performance reporting is an advantage. Previous experience within a cloud technology partner ecosystem, particularly Google Cloud, Microsoft, or AWS, is preferred. Familiarity with marketing and project management platforms such as HubSpot, Marketo, Google Workspace, Cvent, and Asana is considered a plus. Proactive, adaptable, and commercially minded approach, with a strong commitment to continuous learning and professional development. Benefits : Annual compensation ranging from $90,000 to $110,000, depending on experience and qualifications. Additional",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/ac7a3583-d698-4768-9055-42492036bbef",
+      "isLive": true
+    },
+    {
+      "id": 1282659694,
+      "externalId": "f747b598-131f-4a5f-be16-462a1f63b791",
+      "title": "GTM Marketing Manager, Google Cloud",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T12:31:09.879Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing"
+      ],
+      "description": "Accountabilities:: Lead go-to-market coordination and partner marketing initiatives, ensuring strong alignment between external technology partners and internal commercial teams. You will translate strategic campaigns into actionable sales activities, facilitate collaboration, and deliver targeted programs that accelerate opportunities and strengthen customer relationships. Serve as the primary liaison between the Google corporate sales organization and internal commercial teams, ensuring alignment on joint pipeline objectives and go-to-market priorities. Build and maintain strong relationships across partner and internal sales organizations, facilitating communication and collaboration between different teams and sales structures. Integrate Google Workspace and Gemini messaging into broader go-to-market strategies, helping sales teams develop cohesive solution propositions and communicate combined value to customers. Translate high-level corporate marketing campaigns into targeted, account-specific sales initiatives that support commercial priorities and pipeline development. Coordinate and execute customer-facing activities, including prospective customer meetings, executive roundtables, targeted field events, and high-touch webinars designed to accelerate mid-funnel opportunities. Act as a central point of contact for sales enablement and partner communication, ensuring sellers understand how and when to access partner resources, subject matter experts, and tailored marketing collateral. Facilitate collaboration between sales teams and relevant stakeholders to ensure consistent messaging, effective campaign execution, and strong commercial alignment. Track the performance of field activations, joint marketing initiatives, and sales programs, measuring their contribution to pipeline development and business outcomes. Prepare detailed proof-of-performance reports and activity documentation for partner organizations to demonstrate marketing impact and ensure accountability for marketing development funds (MDF). Identify opportunities to improve partner collaboration, strengthen sales engagement, and increase the effectiveness of go-to-market programs. Requirements : We are looking for a relationship-oriented marketing professional with significant experience in partner, field, or channel marketing, preferably within the B2B technology sector. The ideal candidate combines strong commercial awareness with excellent stakeholder management and execution skills, enabling them to connect different sales organizations and turn strategic marketing objectives into measurable sales activities. At least 5 years of experience in partner marketing, field marketing, or channel marketing. Strong relationship-building and stakeholder management skills, with the ability to navigate complex, matrixed organizations and bridge different sales cultures. Proven experience translating corporate marketing strategies and high-level campaigns into practical, account-specific sales initiatives. Experience planning, organizing, and executing targeted customer meetings, field events, executive engagements, and sales activation programs. Strong understanding of B2B marketing strategies and the relationship between partner marketing, sales enablement, and pipeline development. Ability to coordinate multiple stakeholders and facilitate collaboration between external partners and internal commercial teams. Excellent communication and interpersonal skills, with the ability to influence stakeholders and maintain productive professional relationships. Strong organizational and project management abilities, including the coordination of events, campaigns, and marketing resources. Analytical mindset and experience tracking marketing program performance, preparing activity reports, and demonstrating return on investment. Previous experience working closely with enterprise B2B technology sales teams or within major cloud partner ecosystems is preferred. Familiarity ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/f747b598-131f-4a5f-be16-462a1f63b791",
+      "isLive": true
+    },
+    {
+      "id": 2815036680,
+      "externalId": "085334f2-c96f-4a72-9c37-697fee8541b2",
+      "title": "GTM Marketing Manager, Google Cloud",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T12:22:39.416Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing"
+      ],
+      "description": "Accountabilities:: Lead go-to-market coordination and partner marketing initiatives, ensuring strong alignment between external technology partners and internal commercial teams. You will translate strategic campaigns into actionable sales activities, facilitate collaboration, and deliver targeted programs that accelerate opportunities and strengthen customer relationships. Serve as the primary liaison between the Google corporate sales organization and internal commercial teams, ensuring alignment on joint pipeline objectives and go-to-market priorities. Build and maintain strong relationships across partner and internal sales organizations, facilitating communication and collaboration between different teams and sales structures. Integrate Google Workspace and Gemini messaging into broader go-to-market strategies, helping sales teams develop cohesive solution propositions and communicate combined value to customers. Translate high-level corporate marketing campaigns into targeted, account-specific sales initiatives that support commercial priorities and pipeline development. Coordinate and execute customer-facing activities, including prospective customer meetings, executive roundtables, targeted field events, and high-touch webinars designed to accelerate mid-funnel opportunities. Act as a central point of contact for sales enablement and partner communication, ensuring sellers understand how and when to access partner resources, subject matter experts, and tailored marketing collateral. Facilitate collaboration between sales teams and relevant stakeholders to ensure consistent messaging, effective campaign execution, and strong commercial alignment. Track the performance of field activations, joint marketing initiatives, and sales programs, measuring their contribution to pipeline development and business outcomes. Prepare detailed proof-of-performance reports and activity documentation for partner organizations to demonstrate marketing impact and ensure accountability for marketing development funds (MDF). Identify opportunities to improve partner collaboration, strengthen sales engagement, and increase the effectiveness of go-to-market programs. Requirements : We are looking for a relationship-oriented marketing professional with significant experience in partner, field, or channel marketing, preferably within the B2B technology sector. The ideal candidate combines strong commercial awareness with excellent stakeholder management and execution skills, enabling them to connect different sales organizations and turn strategic marketing objectives into measurable sales activities. At least 5 years of experience in partner marketing, field marketing, or channel marketing. Strong relationship-building and stakeholder management skills, with the ability to navigate complex, matrixed organizations and bridge different sales cultures. Proven experience translating corporate marketing strategies and high-level campaigns into practical, account-specific sales initiatives. Experience planning, organizing, and executing targeted customer meetings, field events, executive engagements, and sales activation programs. Strong understanding of B2B marketing strategies and the relationship between partner marketing, sales enablement, and pipeline development. Ability to coordinate multiple stakeholders and facilitate collaboration between external partners and internal commercial teams. Excellent communication and interpersonal skills, with the ability to influence stakeholders and maintain productive professional relationships. Strong organizational and project management abilities, including the coordination of events, campaigns, and marketing resources. Analytical mindset and experience tracking marketing program performance, preparing activity reports, and demonstrating return on investment. Previous experience working closely with enterprise B2B technology sales teams or within major cloud partner ecosystems is preferred. Familiarity ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/085334f2-c96f-4a72-9c37-697fee8541b2",
+      "isLive": true
+    },
+    {
+      "id": 1649812726,
+      "externalId": "3cdc65e2-c51a-423c-abb2-6394e76b1406",
+      "title": "GTM Marketing Manager, Google Cloud",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 5,
+      "maxExp": 13,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-16T12:21:58.704Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing"
+      ],
+      "description": "Accountabilities:: Lead go-to-market coordination and partner marketing initiatives, ensuring strong alignment between external technology partners and internal commercial teams. You will translate strategic campaigns into actionable sales activities, facilitate collaboration, and deliver targeted programs that accelerate opportunities and strengthen customer relationships. Serve as the primary liaison between the Google corporate sales organization and internal commercial teams, ensuring alignment on joint pipeline objectives and go-to-market priorities. Build and maintain strong relationships across partner and internal sales organizations, facilitating communication and collaboration between different teams and sales structures. Integrate Google Workspace and Gemini messaging into broader go-to-market strategies, helping sales teams develop cohesive solution propositions and communicate combined value to customers. Translate high-level corporate marketing campaigns into targeted, account-specific sales initiatives that support commercial priorities and pipeline development. Coordinate and execute customer-facing activities, including prospective customer meetings, executive roundtables, targeted field events, and high-touch webinars designed to accelerate mid-funnel opportunities. Act as a central point of contact for sales enablement and partner communication, ensuring sellers understand how and when to access partner resources, subject matter experts, and tailored marketing collateral. Facilitate collaboration between sales teams and relevant stakeholders to ensure consistent messaging, effective campaign execution, and strong commercial alignment. Track the performance of field activations, joint marketing initiatives, and sales programs, measuring their contribution to pipeline development and business outcomes. Prepare detailed proof-of-performance reports and activity documentation for partner organizations to demonstrate marketing impact and ensure accountability for marketing development funds (MDF). Identify opportunities to improve partner collaboration, strengthen sales engagement, and increase the effectiveness of go-to-market programs. Requirements : We are looking for a relationship-oriented marketing professional with significant experience in partner, field, or channel marketing, preferably within the B2B technology sector. The ideal candidate combines strong commercial awareness with excellent stakeholder management and execution skills, enabling them to connect different sales organizations and turn strategic marketing objectives into measurable sales activities. At least 5 years of experience in partner marketing, field marketing, or channel marketing. Strong relationship-building and stakeholder management skills, with the ability to navigate complex, matrixed organizations and bridge different sales cultures. Proven experience translating corporate marketing strategies and high-level campaigns into practical, account-specific sales initiatives. Experience planning, organizing, and executing targeted customer meetings, field events, executive engagements, and sales activation programs. Strong understanding of B2B marketing strategies and the relationship between partner marketing, sales enablement, and pipeline development. Ability to coordinate multiple stakeholders and facilitate collaboration between external partners and internal commercial teams. Excellent communication and interpersonal skills, with the ability to influence stakeholders and maintain productive professional relationships. Strong organizational and project management abilities, including the coordination of events, campaigns, and marketing resources. Analytical mindset and experience tracking marketing program performance, preparing activity reports, and demonstrating return on investment. Previous experience working closely with enterprise B2B technology sales teams or within major cloud partner ecosystems is preferred. Familiarity ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/3cdc65e2-c51a-423c-abb2-6394e76b1406",
+      "isLive": true
+    },
     {
       "id": 2971795624,
       "externalId": "5d50c5a6-cff7-46f8-b02a-a5154ebbc4d7",
@@ -3830,7 +4107,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T12:43:49.245Z",
       "skills": [
         "Excel",
@@ -3856,7 +4133,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T12:41:28.642Z",
       "skills": [
         "Excel",
@@ -3882,7 +4159,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T12:40:17.310Z",
       "skills": [
         "Excel",
@@ -3908,7 +4185,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "finance",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T12:28:09.566Z",
       "skills": [
         "Excel",
@@ -3939,7 +4216,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "finance",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T12:25:25.971Z",
       "skills": [
         "Excel",
@@ -3970,7 +4247,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "finance",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T12:24:25.494Z",
       "skills": [
         "Excel",
@@ -4001,7 +4278,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T12:09:55.185Z",
       "skills": [
         "Excel",
@@ -4028,7 +4305,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T12:09:05.505Z",
       "skills": [
         "Excel",
@@ -4084,7 +4361,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -4110,7 +4387,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -4569,7 +4846,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T13:14:38.750Z",
       "skills": [
         "Excel",
@@ -4597,7 +4874,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T13:13:58.192Z",
       "skills": [
         "Excel",
@@ -4625,7 +4902,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T13:12:14.224Z",
       "skills": [
         "Excel",
@@ -4653,7 +4930,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T13:05:22.662Z",
       "skills": [
         "Excel",
@@ -4681,7 +4958,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T13:04:33.775Z",
       "skills": [
         "Excel",
@@ -4709,7 +4986,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T13:02:43.086Z",
       "skills": [
         "Excel",
@@ -4737,7 +5014,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T12:48:20.317Z",
       "skills": [
         "Excel",
@@ -4764,7 +5041,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T12:47:11.667Z",
       "skills": [
         "Excel",
@@ -4791,7 +5068,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T12:24:04.597Z",
       "skills": [
         "React",
@@ -4820,7 +5097,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T12:23:16.822Z",
       "skills": [
         "React",
@@ -4849,7 +5126,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "customer",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T12:12:43.907Z",
       "skills": [
         "Excel",
@@ -4876,7 +5153,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "customer",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T12:10:22.958Z",
       "skills": [
         "Excel",
@@ -4903,7 +5180,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "customer",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T12:09:30.000Z",
       "skills": [
         "Excel",
@@ -4930,7 +5207,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T11:54:38.487Z",
       "skills": [
         "Python",
@@ -4959,7 +5236,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T11:52:21.878Z",
       "skills": [
         "Python",
@@ -4988,7 +5265,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-09T11:51:28.603Z",
       "skills": [
         "Python",
@@ -5634,7 +5911,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 25 أيام",
+      "age": "منذ 26 أيام",
       "publishedAt": "2026-10-21T12:14:36.095Z",
       "skills": [
         "Excel",
@@ -5768,7 +6045,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 34 أيام",
+      "age": "منذ 35 أيام",
       "publishedAt": "2026-10-12T12:22:58.148Z",
       "skills": [
         "Excel",
@@ -5797,7 +6074,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 38 أيام",
+      "age": "منذ 39 أيام",
       "publishedAt": "2026-10-08T13:58:08.204Z",
       "skills": [
         "SAP",
@@ -5828,7 +6105,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 38 أيام",
+      "age": "منذ 39 أيام",
       "publishedAt": "2026-10-08T13:36:09.377Z",
       "skills": [
         "Audit",
@@ -5857,7 +6134,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 38 أيام",
+      "age": "منذ 39 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "SAP",
@@ -5888,7 +6165,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "marketing",
-      "age": "منذ 39 أيام",
+      "age": "منذ 40 أيام",
       "publishedAt": "2026-10-07T13:32:46.237Z",
       "skills": [
         "Audit",
@@ -6124,7 +6401,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 55 أيام",
+      "age": "منذ 56 أيام",
       "publishedAt": "2026-09-21T12:10:38.082Z",
       "skills": [
         "Excel",
@@ -6230,7 +6507,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 60 أيام",
+      "age": "منذ 61 أيام",
       "publishedAt": "2026-09-16T12:38:30.005Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6255,7 +6532,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 60 أيام",
+      "age": "منذ 61 أيام",
       "publishedAt": "2026-09-16T12:18:06.725Z",
       "skills": [
         "Finance",
@@ -6337,7 +6614,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 67 أيام",
+      "age": "منذ 68 أيام",
       "publishedAt": "2026-09-09T12:47:08.145Z",
       "skills": [
         "SAP"
@@ -6362,7 +6639,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 67 أيام",
+      "age": "منذ 68 أيام",
       "publishedAt": "2026-09-09T12:45:38.447Z",
       "skills": [
         "SAP"
@@ -6575,7 +6852,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 74 أيام",
+      "age": "منذ 75 أيام",
       "publishedAt": "2026-09-02T12:36:44.958Z",
       "skills": [
         "Excel",
@@ -6586,37 +6863,6 @@
       "description": "JOB PURPOSE Executing effective financial forecasting and planning, including monitoring and tracking divisional and projects’ financial performance Quarterly performance and KPIs review Financial analysis for new business proposals Preparation of FP&A presentations and reports for the Management This role is for a UAE National ROLES AND RESPONSIBILITIES Business Planning & Forecasting Assist in the preparation, update and overall management of the 5-year Business Plan & financial projections Monitor the Business Plan and Forecast for deviations, keep the plan updated for quarterly changes, and escalate changes to the Management as necessary Support the Management in planning capital allocation by building financial models, to ensure that adequate funds are available and investments appropriately valued Prepare Management reports and presentations (funding requirements, valuations, capital allocation and surplus capital, scenario/sensitivity analysis, dividend analysis, and other financial analysis) Monthly Business Update Assist in the preparation and management of the Monthly Business Update report, in coordination with all the relevant corporate functions, teams and divisions Presentation of the results to the Management Quarterly Performance and KPI Review Preparation and development of the quarterly performance reports and KPIs for various projects and divisions, in coordination with the Financial Reporting and Development teams New Developments/Projects/JVs/Ventures Financial analysis Provide financial analysis in line with internal policies for new business proposals, focusing on valuation, funding requirements and returns Financial Policies Assist in updating, monitoring and reviewing internal financial policies RELATED YEAR OF EXPERIENCE Min of 6+ years of related experience in corporate finance/financial analysis FIELD OF EXPERIENCE Advanced corporate finance and investment analysis experience Good understanding of IFRS accounting for a real estate developer preferrable TECHNICAL AND INTERPERSONAL SKILLS Excellent Excel modeling and PowerPoint drafting skills Excellent analytical skills and attention to detail High level of professional and personal ethical standards Strong communication and interpersonal skills (verbal and written), adept at building strong relationships and teamwork Strong time management capabilities QUALIFICATION Bachelor’s degree in finance, management or economics from a reputable university Professional financial qualification is preferred e.g., CFA, MBA, CIMA, CMA, CPA, etc.",
       "source": "Lever · Aldar Properties",
       "externalUrl": "https://jobs.lever.co/aldar/f5340ed5-e29b-4597-8ae9-3046ad82b2f2",
-      "isLive": true
-    },
-    {
-      "id": 1824606178,
-      "externalId": "9b8d5955-0f64-4086-8bcb-32dde7f94194",
-      "title": "Showroom Accountant",
-      "company": "SOUM",
-      "country": "السعودية",
-      "region": "Riyadh",
-      "location": "الرياض",
-      "mode": "حضوري",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 3,
-      "maxExp": 4,
-      "category": "finance",
-      "age": "منذ 74 أيام",
-      "publishedAt": "2026-09-02T11:56:38.924Z",
-      "skills": [
-        "Accounting",
-        "Audit",
-        "Finance",
-        "Sales",
-        "Marketing",
-        "Operations",
-        "Leadership"
-      ],
-      "description": "Work Week: Sunday - Thursday Location: Riyadh, Saudia- On-site Work Timings: 9 AM - 6 PM (Saudi Arabian Time Zone) About Us Soum is on a mission to revolutionize e-commerce in the MENA region and beyond by building the most convenient and trustworthy re-commerce marketplace in the region. We're reshaping how C2C marketplaces operate, making buying and selling second-hand products seamless and reliable. Since our launch in July 2021, Soum has become one of the fastest-growing startups in the region, achieving rapid expansion in both our team and product offerings. In recognition of our impact and growth, we were proudly named one of the Top 10 LinkedIn Startups in Saudi Arabia for 2024. About the Role We are looking for a Finance professional to manage cash and bank reconciliations, inventory accounting, supplier ledgers, VAT, and month-end closing for our cars business. The ideal candidate will have 3–4 years of experience, be ACCA/Part-Qualified CA or equivalent, and be fluent in Arabic and English. Experience in process improvement and automation is a plus. Roles & Responsibilities : Cash, Bank & Receipts Handle all cash and bank matters for the cars business, including issuing and controlling all receipts. Perform daily cash and bank reconciliations; escalate and resolve differences same-day. Report all daily incomes and expenses, fully reconciled to the bank. Inventory Prepare and maintain inventory ledgers, recording daily movement against sales. Conduct periodic and surprise stock counts; investigate and clear variances. Maintain inventory aging analysis and flag slow-moving or at-risk units. Obtain formal sign-off on month-end closing inventory from the Operations team. Recording & VAT Record each cost centre and each stream of business separately and accurately. Own the VAT treatment of every transaction and ensure filings are supported by clean, traceable records. Suppliers & Reconciliations Own key supplier ledgers; prepare statements and secure sign-offs from the Supply team and suppliers. Work with the Inventory & Pricing Analyst to reconcile inventory value, price updates, and P&L. Track marketing expenditure against approvals and budget. Month-End Close Respond to ad hoc finance requests from the CFO and board. Manage the Finance Analyst for reporting and dashboard maintenance. Improve efficiency by reducing manual reporting through automation and tools. Communication & Coordination Serve as the sole channel between the Cars and Finance teams for all financial matters, requests, approvals, and follow-ups. Keep both sides aligned with clear, documented, and timely communication. Process Improvement Identify manual and duplicated steps in the current workflow and drive automation and system improvements. Standardise and document processes so controls survive volume growth and staff changes. Requirements: 3-4 years of experience Candidates should be fluent in Arabic and English. Candidates should be ACCA / Part qualified CA / other similar professional qualifications Hands-on experience with cash and bank reconciliations, inventory accounting, supplier reconciliations, and month-end closing. Strong understanding of VAT, cost centre accounting, revenue and cost cut-offs, and financial record management. Experience improving finance processes through automation, system improvements, or reducing manual workflows. Why Join Soum?: • Be part of a fast-scaling Saudi marketplace where Finance has real influence over how the business is run. • Work directly with senior Finance leadership and gain broad exposure across accounting, audit, and financial operations. • A culture that values ownership, speed, and constant improvement over hierarchy and red tape.",
-      "source": "Lever · SOUM",
-      "externalUrl": "https://jobs.lever.co/soum/9b8d5955-0f64-4086-8bcb-32dde7f94194",
       "isLive": true
     },
     {
@@ -6719,7 +6965,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 82 أيام",
+      "age": "منذ 83 أيام",
       "publishedAt": "2026-08-25T12:30:04.705Z",
       "skills": [
         "Sales",
@@ -6746,7 +6992,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 82 أيام",
+      "age": "منذ 83 أيام",
       "publishedAt": "2026-08-25T12:03:51.980Z",
       "skills": [
         "Excel",
@@ -6824,7 +7070,7 @@
       "minExp": 5,
       "maxExp": 10,
       "category": "technology",
-      "age": "منذ 84 أيام",
+      "age": "منذ 85 أيام",
       "publishedAt": "2026-08-23T11:59:58.499Z",
       "skills": [
         "Excel",
@@ -6881,7 +7127,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 94 أيام",
+      "age": "منذ 95 أيام",
       "publishedAt": "2026-08-13T12:01:07.661Z",
       "skills": [
         "Operations"
@@ -6906,7 +7152,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 94 أيام",
+      "age": "منذ 95 أيام",
       "publishedAt": "2026-08-13T11:55:04.485Z",
       "skills": [
         "Operations",
@@ -7071,7 +7317,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 119 أيام",
+      "age": "منذ 120 أيام",
       "publishedAt": "2026-07-19T14:35:06.019Z",
       "skills": [
         "Finance",
@@ -7152,7 +7398,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "translation",
-      "age": "منذ 130 أيام",
+      "age": "منذ 131 أيام",
       "publishedAt": "2026-07-08T12:41:35.292Z",
       "skills": [
         "Excel",
@@ -7350,7 +7596,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 228 أيام",
+      "age": "منذ 229 أيام",
       "publishedAt": "2026-04-01T13:34:53.536Z",
       "skills": [
         "Research",
@@ -7687,7 +7933,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 487 أيام",
+      "age": "منذ 488 أيام",
       "publishedAt": "2025-07-16T12:45:37.544Z",
       "skills": [
         "Excel",
@@ -7714,7 +7960,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 487 أيام",
+      "age": "منذ 488 أيام",
       "publishedAt": "2025-07-16T12:38:56.781Z",
       "skills": [
         "Excel",
@@ -7741,7 +7987,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 534 أيام",
+      "age": "منذ 535 أيام",
       "publishedAt": "2025-05-30T14:36:01.234Z",
       "skills": [
         "Content"
@@ -7929,7 +8175,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "customer",
-      "age": "منذ 745 أيام",
+      "age": "منذ 746 أيام",
       "publishedAt": "2024-10-31T12:09:49.201Z",
       "skills": [
         "Excel",
@@ -7986,7 +8232,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 871 أيام",
+      "age": "منذ 872 أيام",
       "publishedAt": "2024-06-27T12:18:56.852Z",
       "skills": [
         "Finance",
@@ -8016,7 +8262,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 907 أيام",
+      "age": "منذ 908 أيام",
       "publishedAt": "2024-05-22T12:17:49.028Z",
       "skills": [
         "Excel",
