@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:09:51.649Z",
+  "generatedAt": "2026-11-19T04:12:22.411Z",
   "total": 272,
   "feeds": 13,
   "jobs": [
@@ -890,7 +890,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-18T04:00:52.125Z",
       "skills": [
         "SQL",
@@ -917,7 +917,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-18T03:58:36.276Z",
       "skills": [
         "JavaScript",
@@ -946,7 +946,7 @@
       "minExp": 8,
       "maxExp": 10,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-18T03:56:19.986Z",
       "skills": [
         "Excel",
@@ -974,7 +974,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-18T03:50:32.981Z",
       "skills": [
         "Excel",
@@ -1005,7 +1005,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-18T03:50:00.789Z",
       "skills": [
         "Excel",
@@ -1036,7 +1036,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-18T03:48:45.499Z",
       "skills": [
         "Excel",
