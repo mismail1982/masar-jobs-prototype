@@ -1,8 +1,529 @@
 {
-  "generatedAt": "2026-11-20T10:33:38.705Z",
-  "total": 289,
+  "generatedAt": "2026-11-20T18:51:17.472Z",
+  "total": 307,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 1027940490,
+      "externalId": "e84176d0-e434-446a-b884-00f96754096e",
+      "title": "Photoshop Graphic Design & Photo Production Virtual Assistant",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "creative",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T13:18:19.365Z",
+      "skills": [
+        "راجع الوصف الوظيفي"
+      ],
+      "description": "Accountabilities: Process athlete images using the client’s established Photoshop workflow, placing predetermined poses into existing design templates. Properly size, center, and position athletes within each design, and adjust team names, colors, and other approved template elements. Prepare finished JPEG files for printing or digital delivery, maintaining consistent visual quality across large batches. Follow established sizing and print guidelines to prevent cropping or production errors. Work remotely alongside the on-site event team during sports competitions, processing images quickly enough to support live production. Communicate clearly about team completion and production status, and organize finished files so printing staff can access them quickly. Access and manage event files through the client’s Dropbox workflow, maintaining folder structures by event, team, division, pose, and finished product. Keep image files organized and correctly labeled, following established procedures for handling and protecting customer images. Prepare customer-approved designs for specialty products using existing templates, verifying names, jersey numbers, poses, colors, and other custom details. Communicate with the client about unclear customization requests and prepare approved designs for submission to third-party production vendors. Assist with weekday fulfillment work following weekend events. Review completed designs for alignment, sizing, proportions, spelling, and color accuracy before marking files complete, and flag anything that does not fit the standard workflow immediately. Requirements Adobe Photoshop experience, including background removal, templates, and image sizing. Strong attention to detail and speed. Availability on most weekends, with flexibility for weekday hours that may change (schedules shared about two weeks in advance). Availability for 20+ hours per week, with additional event-driven hours as needed. Willingness to sign an NDA and follow strict image privacy practices. Strong written and spoken English. Calm, dependable, and focused under event-day time pressure. Teachable and comfortable with repetitive, system-driven work. Comfort working with Dropbox and a client-provided team communication app (training provided on automated batch templates). Entry to junior level experience. Located in Saudi Arabia. Strongly preferred: High-volume photo editing experience (school, sports, or event photography). Preferred: Print sizing and production experience. Preferred: Batch processing or Photoshop automation experience. Nice to have: Custom product or merchandise design experience. Benefits Fully remote, part-time independent contractor engagement. Competitive rates with weekly payments. Free training and upskilling. Constant support and guidance. Access to a vibrant, supportive community of contractors. Access to various other open roles. Opportunity to grow with a business that plans to expand.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/e84176d0-e434-446a-b884-00f96754096e",
+      "isLive": true
+    },
+    {
+      "id": 1476018216,
+      "externalId": "5eb4b8e1-6302-4472-9496-ba9cffad9772",
+      "title": "Photoshop Graphic Design & Photo Production Virtual Assistant",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "creative",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T13:15:22.994Z",
+      "skills": [
+        "راجع الوصف الوظيفي"
+      ],
+      "description": "Accountabilities: Process athlete images using the client’s established Photoshop workflow, placing predetermined poses into existing design templates. Properly size, center, and position athletes within each design, and adjust team names, colors, and other approved template elements. Prepare finished JPEG files for printing or digital delivery, maintaining consistent visual quality across large batches. Follow established sizing and print guidelines to prevent cropping or production errors. Work remotely alongside the on-site event team during sports competitions, processing images quickly enough to support live production. Communicate clearly about team completion and production status, and organize finished files so printing staff can access them quickly. Access and manage event files through the client’s Dropbox workflow, maintaining folder structures by event, team, division, pose, and finished product. Keep image files organized and correctly labeled, following established procedures for handling and protecting customer images. Prepare customer-approved designs for specialty products using existing templates, verifying names, jersey numbers, poses, colors, and other custom details. Communicate with the client about unclear customization requests and prepare approved designs for submission to third-party production vendors. Assist with weekday fulfillment work following weekend events. Review completed designs for alignment, sizing, proportions, spelling, and color accuracy before marking files complete, and flag anything that does not fit the standard workflow immediately. Requirements Adobe Photoshop experience, including background removal, templates, and image sizing. Strong attention to detail and speed. Availability on most weekends, with flexibility for weekday hours that may change (schedules shared about two weeks in advance). Availability for 20+ hours per week, with additional event-driven hours as needed. Willingness to sign an NDA and follow strict image privacy practices. Strong written and spoken English. Calm, dependable, and focused under event-day time pressure. Teachable and comfortable with repetitive, system-driven work. Comfort working with Dropbox and a client-provided team communication app (training provided on automated batch templates). Entry to junior level experience. Located in Saudi Arabia. Strongly preferred: High-volume photo editing experience (school, sports, or event photography). Preferred: Print sizing and production experience. Preferred: Batch processing or Photoshop automation experience. Nice to have: Custom product or merchandise design experience. Benefits Fully remote, part-time independent contractor engagement. Competitive rates with weekly payments. Free training and upskilling. Constant support and guidance. Access to a vibrant, supportive community of contractors. Access to various other open roles. Opportunity to grow with a business that plans to expand.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/5eb4b8e1-6302-4472-9496-ba9cffad9772",
+      "isLive": true
+    },
+    {
+      "id": 786928605,
+      "externalId": "09c0b2a4-2d81-4242-af52-4df95ad77e35",
+      "title": "Photoshop Graphic Design & Photo Production Virtual Assistant",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "creative",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T13:14:08.051Z",
+      "skills": [
+        "راجع الوصف الوظيفي"
+      ],
+      "description": "Accountabilities: Process athlete images using the client’s established Photoshop workflow, placing predetermined poses into existing design templates. Properly size, center, and position athletes within each design, and adjust team names, colors, and other approved template elements. Prepare finished JPEG files for printing or digital delivery, maintaining consistent visual quality across large batches. Follow established sizing and print guidelines to prevent cropping or production errors. Work remotely alongside the on-site event team during sports competitions, processing images quickly enough to support live production. Communicate clearly about team completion and production status, and organize finished files so printing staff can access them quickly. Access and manage event files through the client’s Dropbox workflow, maintaining folder structures by event, team, division, pose, and finished product. Keep image files organized and correctly labeled, following established procedures for handling and protecting customer images. Prepare customer-approved designs for specialty products using existing templates, verifying names, jersey numbers, poses, colors, and other custom details. Communicate with the client about unclear customization requests and prepare approved designs for submission to third-party production vendors. Assist with weekday fulfillment work following weekend events. Review completed designs for alignment, sizing, proportions, spelling, and color accuracy before marking files complete, and flag anything that does not fit the standard workflow immediately. Requirements Adobe Photoshop experience, including background removal, templates, and image sizing. Strong attention to detail and speed. Availability on most weekends, with flexibility for weekday hours that may change (schedules shared about two weeks in advance). Availability for 20+ hours per week, with additional event-driven hours as needed. Willingness to sign an NDA and follow strict image privacy practices. Strong written and spoken English. Calm, dependable, and focused under event-day time pressure. Teachable and comfortable with repetitive, system-driven work. Comfort working with Dropbox and a client-provided team communication app (training provided on automated batch templates). Entry to junior level experience. Located in Saudi Arabia. Strongly preferred: High-volume photo editing experience (school, sports, or event photography). Preferred: Print sizing and production experience. Preferred: Batch processing or Photoshop automation experience. Nice to have: Custom product or merchandise design experience. Benefits Fully remote, part-time independent contractor engagement. Competitive rates with weekly payments. Free training and upskilling. Constant support and guidance. Access to a vibrant, supportive community of contractors. Access to various other open roles. Opportunity to grow with a business that plans to expand.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/09c0b2a4-2d81-4242-af52-4df95ad77e35",
+      "isLive": true
+    },
+    {
+      "id": 3975335863,
+      "externalId": "cb4effb4-d421-4f9a-bd5d-abffb84f2d21",
+      "title": "Business Development Manager – Gaming / iGaming Outsourcing",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "sales",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T13:07:44.688Z",
+      "skills": [
+        "Excel",
+        "Sales"
+      ],
+      "description": "Accountabilities: Identify and generate new business opportunities through existing professional networks, direct outreach and industry connections. Manage the complete B2B sales cycle, from prospecting and lead qualification to preparing proposals, negotiating commercial terms and closing contracts. Build, develop and maintain long-term relationships with game studios, publishers, iGaming operators and other potential clients. Identify client needs and business challenges, working closely with internal development and production teams to propose tailored outsourcing solutions. Lead commercial discussions, present service offerings, negotiate agreements and successfully convert opportunities into signed contracts. Develop, manage and continuously optimise a strong sales pipeline, ensuring consistent progress towards business development targets. Identify new markets, strategic accounts and potential partnership opportunities to support sustainable business growth. Leverage existing industry relationships while actively expanding the network of decision-makers and prospective clients. Represent the business at relevant industry conferences, networking events, client meetings and other commercial activities. Requirements: At least 3 years of professional experience in Business Development or B2B Sales within the gaming or iGaming industry. Previous experience selling outsourcing services, particularly game development, co-development or related production solutions, is highly desirable. An established professional network within the gaming or iGaming ecosystem, with access to relevant decision-makers and potential business partners. A proven track record of personally negotiating and closing commercial deals, rather than focusing exclusively on lead generation. Demonstrated ability to independently manage the entire sales cycle, from initial prospecting through to contract signing. Strong understanding of outsourcing business models and the commercial requirements of game studios, publishers or iGaming operators. Excellent negotiation, communication and relationship-building skills, with the ability to develop trust and maintain long-term client partnerships. A proactive, independent and commercially minded approach, with a strong focus on revenue generation and measurable results. Fluent English, both written and spoken. Russian language skills would be considered an advantage. Benefits: Fully remote work: Location flexibility, with the opportunity to work from anywhere in the world. Competitive compensation: A base salary combined with a performance-based commission structure. Attractive earning potential: Long-term commission opportunities linked to successfully secured client contracts. Autonomy and ownership: Significant independence in managing your business development strategy, activities and commercial relationships. Business growth opportunities: The opportunity to leverage your existing professional network while exploring new markets and developing strategic partnerships. Collaborative environment: Work alongside experienced game development, production and outsourcing professionals. Industry exposure: Build relationships with international clients and contribute to business growth across the gaming and iGaming sectors.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/cb4effb4-d421-4f9a-bd5d-abffb84f2d21",
+      "isLive": true
+    },
+    {
+      "id": 2484763152,
+      "externalId": "09df4e82-59f8-463f-a0fd-f75dc09cd095",
+      "title": "Review Support Specialist",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T13:06:05.943Z",
+      "skills": [
+        "Finance",
+        "Insurance"
+      ],
+      "description": "Accountabilities: Respond to customer reviews and public feedback in line with brand guidelines, adapting templates to each specific situation. Classify and categorize feedback regularly. Maintain a friendly, calm tone of voice that reflects the brand, including when handling negative public feedback. Keep basic reporting and gather statistics accurately, with attention to detail. Identify non-standard or sensitive cases in a timely way and escalate them to related teams. Communicate with review platform support teams when needed. Manage your own task pool independently, meet deadlines, and pick up ongoing operational tasks without reminders. Requirements English proficiency at B2+ (Upper-Intermediate or higher), with strong written skills and a feel for nuance. Maximum attention to detail, as every response is public and mistakes carry a high cost for the brand. High responsibility and self-organization, with the ability to keep your workload under control and meet deadlines. Emotional resilience and the ability to handle daily exposure to negative feedback without taking it personally. Comfort with high-volume, repetitive work while keeping a fresh perspective and focus. Ability to work with data, including categorizing feedback and producing basic reports. Comfort and enjoyment working in stable, orderly processes without frequent changes of direction. Strong cross-functional communication skills for escalating cases to other teams. Located in India. Nice to have: Experience with review platforms (Trustpilot, SmartCustomer, etc.). Nice to have: Previous Customer Support experience. Nice to have: Experience with Zendesk or other ticketing systems. Benefits Fully remote, full-time position. Access to exclusive in-house learning programs, from management schools to AI intensives and professional clubs. Networking and knowledge-sharing with experienced co-founders and top specialists. Medical insurance. Corporate discounts from partners. Paid business trips when the role requires them. Opportunity to contribute to social impact projects through a company-founded charitable foundation. Supportive operational platform covering functions such as Legal, Finance, HR, IT, and more, so teams can focus on the product. Inspiring workspaces and daily comfort perks (such as meals and sports access) at company offices, where applicable.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/09df4e82-59f8-463f-a0fd-f75dc09cd095",
+      "isLive": true
+    },
+    {
+      "id": 3825203497,
+      "externalId": "803fb35a-934a-4aa7-ba60-826a1799a643",
+      "title": "Review Support Specialist",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T13:05:20.709Z",
+      "skills": [
+        "Finance",
+        "Insurance"
+      ],
+      "description": "Accountabilities: Respond to customer reviews and public feedback in line with brand guidelines, adapting templates to each specific situation. Classify and categorize feedback regularly. Maintain a friendly, calm tone of voice that reflects the brand, including when handling negative public feedback. Keep basic reporting and gather statistics accurately, with attention to detail. Identify non-standard or sensitive cases in a timely way and escalate them to related teams. Communicate with review platform support teams when needed. Manage your own task pool independently, meet deadlines, and pick up ongoing operational tasks without reminders. Requirements English proficiency at B2+ (Upper-Intermediate or higher), with strong written skills and a feel for nuance. Maximum attention to detail, as every response is public and mistakes carry a high cost for the brand. High responsibility and self-organization, with the ability to keep your workload under control and meet deadlines. Emotional resilience and the ability to handle daily exposure to negative feedback without taking it personally. Comfort with high-volume, repetitive work while keeping a fresh perspective and focus. Ability to work with data, including categorizing feedback and producing basic reports. Comfort and enjoyment working in stable, orderly processes without frequent changes of direction. Strong cross-functional communication skills for escalating cases to other teams. Located in India. Nice to have: Experience with review platforms (Trustpilot, SmartCustomer, etc.). Nice to have: Previous Customer Support experience. Nice to have: Experience with Zendesk or other ticketing systems. Benefits Fully remote, full-time position. Access to exclusive in-house learning programs, from management schools to AI intensives and professional clubs. Networking and knowledge-sharing with experienced co-founders and top specialists. Medical insurance. Corporate discounts from partners. Paid business trips when the role requires them. Opportunity to contribute to social impact projects through a company-founded charitable foundation. Supportive operational platform covering functions such as Legal, Finance, HR, IT, and more, so teams can focus on the product. Inspiring workspaces and daily comfort perks (such as meals and sports access) at company offices, where applicable.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/803fb35a-934a-4aa7-ba60-826a1799a643",
+      "isLive": true
+    },
+    {
+      "id": 4262267842,
+      "externalId": "0122b162-49eb-4eb7-9edd-8c344f79d8e2",
+      "title": "Business Development Manager – Gaming / iGaming Outsourcing",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "sales",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T13:05:04.871Z",
+      "skills": [
+        "Excel",
+        "Sales"
+      ],
+      "description": "Accountabilities: Identify and generate new business opportunities through existing professional networks, direct outreach and industry connections. Manage the complete B2B sales cycle, from prospecting and lead qualification to preparing proposals, negotiating commercial terms and closing contracts. Build, develop and maintain long-term relationships with game studios, publishers, iGaming operators and other potential clients. Identify client needs and business challenges, working closely with internal development and production teams to propose tailored outsourcing solutions. Lead commercial discussions, present service offerings, negotiate agreements and successfully convert opportunities into signed contracts. Develop, manage and continuously optimise a strong sales pipeline, ensuring consistent progress towards business development targets. Identify new markets, strategic accounts and potential partnership opportunities to support sustainable business growth. Leverage existing industry relationships while actively expanding the network of decision-makers and prospective clients. Represent the business at relevant industry conferences, networking events, client meetings and other commercial activities. Requirements: At least 3 years of professional experience in Business Development or B2B Sales within the gaming or iGaming industry. Previous experience selling outsourcing services, particularly game development, co-development or related production solutions, is highly desirable. An established professional network within the gaming or iGaming ecosystem, with access to relevant decision-makers and potential business partners. A proven track record of personally negotiating and closing commercial deals, rather than focusing exclusively on lead generation. Demonstrated ability to independently manage the entire sales cycle, from initial prospecting through to contract signing. Strong understanding of outsourcing business models and the commercial requirements of game studios, publishers or iGaming operators. Excellent negotiation, communication and relationship-building skills, with the ability to develop trust and maintain long-term client partnerships. A proactive, independent and commercially minded approach, with a strong focus on revenue generation and measurable results. Fluent English, both written and spoken. Russian language skills would be considered an advantage. Benefits: Fully remote work: Location flexibility, with the opportunity to work from anywhere in the world. Competitive compensation: A base salary combined with a performance-based commission structure. Attractive earning potential: Long-term commission opportunities linked to successfully secured client contracts. Autonomy and ownership: Significant independence in managing your business development strategy, activities and commercial relationships. Business growth opportunities: The opportunity to leverage your existing professional network while exploring new markets and developing strategic partnerships. Collaborative environment: Work alongside experienced game development, production and outsourcing professionals. Industry exposure: Build relationships with international clients and contribute to business growth across the gaming and iGaming sectors.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/0122b162-49eb-4eb7-9edd-8c344f79d8e2",
+      "isLive": true
+    },
+    {
+      "id": 1255962082,
+      "externalId": "439b92b9-c20d-43ef-8408-4cd8ab107bc5",
+      "title": "Business Development Manager – Gaming / iGaming Outsourcing",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "sales",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T13:03:43.853Z",
+      "skills": [
+        "Excel",
+        "Sales"
+      ],
+      "description": "Accountabilities: Identify and generate new business opportunities through existing professional networks, direct outreach and industry connections. Manage the complete B2B sales cycle, from prospecting and lead qualification to preparing proposals, negotiating commercial terms and closing contracts. Build, develop and maintain long-term relationships with game studios, publishers, iGaming operators and other potential clients. Identify client needs and business challenges, working closely with internal development and production teams to propose tailored outsourcing solutions. Lead commercial discussions, present service offerings, negotiate agreements and successfully convert opportunities into signed contracts. Develop, manage and continuously optimise a strong sales pipeline, ensuring consistent progress towards business development targets. Identify new markets, strategic accounts and potential partnership opportunities to support sustainable business growth. Leverage existing industry relationships while actively expanding the network of decision-makers and prospective clients. Represent the business at relevant industry conferences, networking events, client meetings and other commercial activities. Requirements: At least 3 years of professional experience in Business Development or B2B Sales within the gaming or iGaming industry. Previous experience selling outsourcing services, particularly game development, co-development or related production solutions, is highly desirable. An established professional network within the gaming or iGaming ecosystem, with access to relevant decision-makers and potential business partners. A proven track record of personally negotiating and closing commercial deals, rather than focusing exclusively on lead generation. Demonstrated ability to independently manage the entire sales cycle, from initial prospecting through to contract signing. Strong understanding of outsourcing business models and the commercial requirements of game studios, publishers or iGaming operators. Excellent negotiation, communication and relationship-building skills, with the ability to develop trust and maintain long-term client partnerships. A proactive, independent and commercially minded approach, with a strong focus on revenue generation and measurable results. Fluent English, both written and spoken. Russian language skills would be considered an advantage. Benefits: Fully remote work: Location flexibility, with the opportunity to work from anywhere in the world. Competitive compensation: A base salary combined with a performance-based commission structure. Attractive earning potential: Long-term commission opportunities linked to successfully secured client contracts. Autonomy and ownership: Significant independence in managing your business development strategy, activities and commercial relationships. Business growth opportunities: The opportunity to leverage your existing professional network while exploring new markets and developing strategic partnerships. Collaborative environment: Work alongside experienced game development, production and outsourcing professionals. Industry exposure: Build relationships with international clients and contribute to business growth across the gaming and iGaming sectors.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/439b92b9-c20d-43ef-8408-4cd8ab107bc5",
+      "isLive": true
+    },
+    {
+      "id": 3280705147,
+      "externalId": "47db5252-0d43-4a58-8e05-db1a20742997",
+      "title": "Review Support Specialist",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T13:03:24.678Z",
+      "skills": [
+        "Finance",
+        "Insurance"
+      ],
+      "description": "Accountabilities: Respond to customer reviews and public feedback in line with brand guidelines, adapting templates to each specific situation. Classify and categorize feedback regularly. Maintain a friendly, calm tone of voice that reflects the brand, including when handling negative public feedback. Keep basic reporting and gather statistics accurately, with attention to detail. Identify non-standard or sensitive cases in a timely way and escalate them to related teams. Communicate with review platform support teams when needed. Manage your own task pool independently, meet deadlines, and pick up ongoing operational tasks without reminders. Requirements English proficiency at B2+ (Upper-Intermediate or higher), with strong written skills and a feel for nuance. Maximum attention to detail, as every response is public and mistakes carry a high cost for the brand. High responsibility and self-organization, with the ability to keep your workload under control and meet deadlines. Emotional resilience and the ability to handle daily exposure to negative feedback without taking it personally. Comfort with high-volume, repetitive work while keeping a fresh perspective and focus. Ability to work with data, including categorizing feedback and producing basic reports. Comfort and enjoyment working in stable, orderly processes without frequent changes of direction. Strong cross-functional communication skills for escalating cases to other teams. Located in India. Nice to have: Experience with review platforms (Trustpilot, SmartCustomer, etc.). Nice to have: Previous Customer Support experience. Nice to have: Experience with Zendesk or other ticketing systems. Benefits Fully remote, full-time position. Access to exclusive in-house learning programs, from management schools to AI intensives and professional clubs. Networking and knowledge-sharing with experienced co-founders and top specialists. Medical insurance. Corporate discounts from partners. Paid business trips when the role requires them. Opportunity to contribute to social impact projects through a company-founded charitable foundation. Supportive operational platform covering functions such as Legal, Finance, HR, IT, and more, so teams can focus on the product. Inspiring workspaces and daily comfort perks (such as meals and sports access) at company offices, where applicable.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/47db5252-0d43-4a58-8e05-db1a20742997",
+      "isLive": true
+    },
+    {
+      "id": 3118318954,
+      "externalId": "d6ccd0da-7269-43e2-9fc2-61b32a579420",
+      "title": "Storage Platform Engineer",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T12:48:26.324Z",
+      "skills": [
+        "Insurance",
+        "Education"
+      ],
+      "description": "Accountabilities: Lead the architecture of the NVMe-oF storage platform, including evaluating and deciding between adopting existing software-defined storage and building on SPDK. Integrate networked block storage into a Kubernetes-based compute platform through CSI drivers and custom controllers, covering provisioning, attach/detach, resizing, and migration. Make Postgres fast on networked storage by profiling and tuning the full I/O path, from fsync, WAL, and checkpoints through the kernel block layer, NVMe/TCP, and the network. Design for durability and availability, including replication or erasure coding, failure domains, failover, and data-integrity verification. Build I/O isolation and QoS so that noisy neighbors cannot degrade other tenants. Set performance and reliability SLOs, and build the benchmarking and observability needed to hold the system to them. Design the layer for block-level snapshots and copy-on-write clones, laying the groundwork for database branching. Keep the platform portable across AWS, other clouds, and bare-metal/colo environments. Write design docs, mentor engineers, and work closely with the Compute, Branching, Postgres, and Multicloud teams. Participate in on-call rotations, incident response, and post-incident reviews. Resolve escalated support issues while identifying and fixing systemic issues across the platform. Requirements 7+ years of software engineering experience, including significant time building and operating storage systems in production. Experience building or operating distributed or software-defined block storage (for example Ceph RBD, Lightbits, Simplyblock, Portworx, LINSTOR/DRBD, or an in-house system). Hands-on experience with NVMe/TCP or NVMe-oF, including targets, initiators, multipath, and failover behavior. Deep understanding of Linux storage internals: the block layer, io_uring, page cache, O_DIRECT and fsync semantics, filesystems, and device-mapper. Strong systems programming skills in Go, plus C, C++, or Rust. Rigorous performance measurement using fio, pgbench, eBPF, and perf, with the ability to explain latency down to its individual components. Solid understanding of durability tradeoffs between replication, erasure coding, and consistency under failure. Experience leading technical direction on a complex system, including design docs, tradeoffs, and bringing others along. Experience with Kubernetes controllers and/or CSI drivers. Experience being on call for large production systems. Clear written communication and the ability to thrive in asynchronous, globally distributed teams. Located in India. Nice to have: SPDK development experience. Nice to have: RDMA/RoCE experience. Nice to have: Experience implementing block-level snapshots, thin provisioning, or copy-on-write cloning. Nice to have: Postgres internals knowledge (WAL, buffer manager, checkpointer), or familiarity with OrioleDB. Nice to have: Experience with AWS networking and instance storage at scale (ENA, placement, bandwidth limits). Nice to have: Experience running storage on bare metal or in colo. Nice to have: Contributions to open source storage projects or the Linux kernel storage stack. Benefits Fully remote work with no offices, plus a WeWork membership or co-working allowance usable anywhere in the world. Equity ownership (ESOP) for every team member. Tech allowance for laptop, monitor, headphones, or other home-office needs. Health insurance covered 100% for employees and 80% for dependents. Annual company off-site in a new city each year. Flexible, asynchronous work with trust to manage your own time. Annual education allowance for courses, books, conferences, or other learning. Open-source-first culture with a globally distributed team across 60+ countries.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/d6ccd0da-7269-43e2-9fc2-61b32a579420",
+      "isLive": true
+    },
+    {
+      "id": 2347597150,
+      "externalId": "8973b8ec-32e4-4943-b9b2-038aadf9b51e",
+      "title": "Storage Platform Engineer",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T12:47:37.200Z",
+      "skills": [
+        "Insurance",
+        "Education"
+      ],
+      "description": "Accountabilities: Lead the architecture of the NVMe-oF storage platform, including evaluating and deciding between adopting existing software-defined storage and building on SPDK. Integrate networked block storage into a Kubernetes-based compute platform through CSI drivers and custom controllers, covering provisioning, attach/detach, resizing, and migration. Make Postgres fast on networked storage by profiling and tuning the full I/O path, from fsync, WAL, and checkpoints through the kernel block layer, NVMe/TCP, and the network. Design for durability and availability, including replication or erasure coding, failure domains, failover, and data-integrity verification. Build I/O isolation and QoS so that noisy neighbors cannot degrade other tenants. Set performance and reliability SLOs, and build the benchmarking and observability needed to hold the system to them. Design the layer for block-level snapshots and copy-on-write clones, laying the groundwork for database branching. Keep the platform portable across AWS, other clouds, and bare-metal/colo environments. Write design docs, mentor engineers, and work closely with the Compute, Branching, Postgres, and Multicloud teams. Participate in on-call rotations, incident response, and post-incident reviews. Resolve escalated support issues while identifying and fixing systemic issues across the platform. Requirements 7+ years of software engineering experience, including significant time building and operating storage systems in production. Experience building or operating distributed or software-defined block storage (for example Ceph RBD, Lightbits, Simplyblock, Portworx, LINSTOR/DRBD, or an in-house system). Hands-on experience with NVMe/TCP or NVMe-oF, including targets, initiators, multipath, and failover behavior. Deep understanding of Linux storage internals: the block layer, io_uring, page cache, O_DIRECT and fsync semantics, filesystems, and device-mapper. Strong systems programming skills in Go, plus C, C++, or Rust. Rigorous performance measurement using fio, pgbench, eBPF, and perf, with the ability to explain latency down to its individual components. Solid understanding of durability tradeoffs between replication, erasure coding, and consistency under failure. Experience leading technical direction on a complex system, including design docs, tradeoffs, and bringing others along. Experience with Kubernetes controllers and/or CSI drivers. Experience being on call for large production systems. Clear written communication and the ability to thrive in asynchronous, globally distributed teams. Located in India. Nice to have: SPDK development experience. Nice to have: RDMA/RoCE experience. Nice to have: Experience implementing block-level snapshots, thin provisioning, or copy-on-write cloning. Nice to have: Postgres internals knowledge (WAL, buffer manager, checkpointer), or familiarity with OrioleDB. Nice to have: Experience with AWS networking and instance storage at scale (ENA, placement, bandwidth limits). Nice to have: Experience running storage on bare metal or in colo. Nice to have: Contributions to open source storage projects or the Linux kernel storage stack. Benefits Fully remote work with no offices, plus a WeWork membership or co-working allowance usable anywhere in the world. Equity ownership (ESOP) for every team member. Tech allowance for laptop, monitor, headphones, or other home-office needs. Health insurance covered 100% for employees and 80% for dependents. Annual company off-site in a new city each year. Flexible, asynchronous work with trust to manage your own time. Annual education allowance for courses, books, conferences, or other learning. Open-source-first culture with a globally distributed team across 60+ countries.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/8973b8ec-32e4-4943-b9b2-038aadf9b51e",
+      "isLive": true
+    },
+    {
+      "id": 512151635,
+      "externalId": "fdd75e8e-90f8-4eae-aca7-e714952bb429",
+      "title": "Storage Platform Engineer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T12:45:35.131Z",
+      "skills": [
+        "Insurance",
+        "Education"
+      ],
+      "description": "Accountabilities: Lead the architecture of the NVMe-oF storage platform, including evaluating and deciding between adopting existing software-defined storage and building on SPDK. Integrate networked block storage into a Kubernetes-based compute platform through CSI drivers and custom controllers, covering provisioning, attach/detach, resizing, and migration. Make Postgres fast on networked storage by profiling and tuning the full I/O path, from fsync, WAL, and checkpoints through the kernel block layer, NVMe/TCP, and the network. Design for durability and availability, including replication or erasure coding, failure domains, failover, and data-integrity verification. Build I/O isolation and QoS so that noisy neighbors cannot degrade other tenants. Set performance and reliability SLOs, and build the benchmarking and observability needed to hold the system to them. Design the layer for block-level snapshots and copy-on-write clones, laying the groundwork for database branching. Keep the platform portable across AWS, other clouds, and bare-metal/colo environments. Write design docs, mentor engineers, and work closely with the Compute, Branching, Postgres, and Multicloud teams. Participate in on-call rotations, incident response, and post-incident reviews. Resolve escalated support issues while identifying and fixing systemic issues across the platform. Requirements 7+ years of software engineering experience, including significant time building and operating storage systems in production. Experience building or operating distributed or software-defined block storage (for example Ceph RBD, Lightbits, Simplyblock, Portworx, LINSTOR/DRBD, or an in-house system). Hands-on experience with NVMe/TCP or NVMe-oF, including targets, initiators, multipath, and failover behavior. Deep understanding of Linux storage internals: the block layer, io_uring, page cache, O_DIRECT and fsync semantics, filesystems, and device-mapper. Strong systems programming skills in Go, plus C, C++, or Rust. Rigorous performance measurement using fio, pgbench, eBPF, and perf, with the ability to explain latency down to its individual components. Solid understanding of durability tradeoffs between replication, erasure coding, and consistency under failure. Experience leading technical direction on a complex system, including design docs, tradeoffs, and bringing others along. Experience with Kubernetes controllers and/or CSI drivers. Experience being on call for large production systems. Clear written communication and the ability to thrive in asynchronous, globally distributed teams. Located in India. Nice to have: SPDK development experience. Nice to have: RDMA/RoCE experience. Nice to have: Experience implementing block-level snapshots, thin provisioning, or copy-on-write cloning. Nice to have: Postgres internals knowledge (WAL, buffer manager, checkpointer), or familiarity with OrioleDB. Nice to have: Experience with AWS networking and instance storage at scale (ENA, placement, bandwidth limits). Nice to have: Experience running storage on bare metal or in colo. Nice to have: Contributions to open source storage projects or the Linux kernel storage stack. Benefits Fully remote work with no offices, plus a WeWork membership or co-working allowance usable anywhere in the world. Equity ownership (ESOP) for every team member. Tech allowance for laptop, monitor, headphones, or other home-office needs. Health insurance covered 100% for employees and 80% for dependents. Annual company off-site in a new city each year. Flexible, asynchronous work with trust to manage your own time. Annual education allowance for courses, books, conferences, or other learning. Open-source-first culture with a globally distributed team across 60+ countries.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/fdd75e8e-90f8-4eae-aca7-e714952bb429",
+      "isLive": true
+    },
+    {
+      "id": 1726085993,
+      "externalId": "545560e2-2152-4b4f-bdba-430c2a251d79",
+      "title": "Influencer & Media Manager",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "media",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T12:42:21.318Z",
+      "skills": [
+        "Excel",
+        "Marketing",
+        "Content"
+      ],
+      "description": "Accountabilities: Develop and execute PR and communications strategies for the publishing label and individual game releases, collaborating closely with the Social Media Manager to maximise visibility and commercial impact. Build, maintain and leverage relationships with games journalists, media outlets, influencers and content creators to secure reviews, features, coverage and promotional opportunities. Create compelling narratives around games, developers and upcoming releases, translating their unique selling points into engaging press releases, announcements and media pitches. Plan and coordinate PR initiatives and creator campaigns around key milestones, including game reveals, demos, Early Access launches and full releases. Establish, develop and actively manage player communities on Discord and Steam Community, driving engagement and fostering long-term relationships with players. Plan, host and deliver Steam livestreams to showcase games, engage audiences and support key promotional activities. Collaborate with developers and internal publishing, production and marketing teams to ensure consistent messaging, maximise exposure and address player feedback. Track media coverage, creator activity, community sentiment and campaign performance, using insights and data to continuously improve communication strategies and engagement. Requirements: Demonstrable experience in PR, influencer marketing, media relations or marketing communications, preferably within the PC and console gaming industry. An active and established network of games media contacts, journalists, influencers and content creators, with recent examples of successfully leveraging these relationships to secure coverage and promotional exposure. Hands-on experience planning, hosting and delivering Steam livestreams. Proven experience building, growing and actively managing gaming communities, particularly on Discord and Steam Community. Excellent written and verbal communication skills, including the ability to produce engaging press releases, media pitches and promotional content. Strong understanding of the PC and console games market, independent game developers and gaming audiences. A proactive, commercially minded and hands-on approach, with the ability to manage multiple games and release campaigns in a growing publishing environment. Strong collaboration and interpersonal skills, combined with the ability to give and receive constructive feedback. A performance-driven mindset, with a focus on measurable outcomes, continuous improvement and experimentation. A curious, adaptable and solution-oriented attitude, with the confidence to take ownership, learn from mistakes and turn ideas into actionable results. Benefits: Competitive compensation: Salary based on qualifications, experience and suitability for the role. Equipment allowance: Financial support to purchase your own device or work equipment. Annual bonus: Opportunity to receive variable compensation through an annual bonus programme. Work from anywhere: Fully remote working, with the freedom to work from anywhere in the world. Flexible schedule: No fixed working hours, allowing you to organise your schedule around your responsibilities. Unlimited paid time off: Flexibility to take the time you need to recharge. International environment: Collaborate with a diverse, supportive and energetic team spread across six continents and more than 30 countries. Professional growth: An environment that encourages experimentation, continuous learning, ownership and career development. Direct impact: Freedom to contribute ideas, take initiative and present proposals directly to management. Global flexibility: Travel freely and receive compensation in your preferred currency.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/545560e2-2152-4b4f-bdba-430c2a251d79",
+      "isLive": true
+    },
+    {
+      "id": 2640673586,
+      "externalId": "5f747b10-f4b8-49eb-84ab-33dfad9b443a",
+      "title": "Influencer & Media Manager",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "media",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T12:39:17.396Z",
+      "skills": [
+        "Excel",
+        "Marketing",
+        "Content"
+      ],
+      "description": "Accountabilities: Develop and execute PR and communications strategies for the publishing label and individual game releases, collaborating closely with the Social Media Manager to maximise visibility and commercial impact. Build, maintain and leverage relationships with games journalists, media outlets, influencers and content creators to secure reviews, features, coverage and promotional opportunities. Create compelling narratives around games, developers and upcoming releases, translating their unique selling points into engaging press releases, announcements and media pitches. Plan and coordinate PR initiatives and creator campaigns around key milestones, including game reveals, demos, Early Access launches and full releases. Establish, develop and actively manage player communities on Discord and Steam Community, driving engagement and fostering long-term relationships with players. Plan, host and deliver Steam livestreams to showcase games, engage audiences and support key promotional activities. Collaborate with developers and internal publishing, production and marketing teams to ensure consistent messaging, maximise exposure and address player feedback. Track media coverage, creator activity, community sentiment and campaign performance, using insights and data to continuously improve communication strategies and engagement. Requirements: Demonstrable experience in PR, influencer marketing, media relations or marketing communications, preferably within the PC and console gaming industry. An active and established network of games media contacts, journalists, influencers and content creators, with recent examples of successfully leveraging these relationships to secure coverage and promotional exposure. Hands-on experience planning, hosting and delivering Steam livestreams. Proven experience building, growing and actively managing gaming communities, particularly on Discord and Steam Community. Excellent written and verbal communication skills, including the ability to produce engaging press releases, media pitches and promotional content. Strong understanding of the PC and console games market, independent game developers and gaming audiences. A proactive, commercially minded and hands-on approach, with the ability to manage multiple games and release campaigns in a growing publishing environment. Strong collaboration and interpersonal skills, combined with the ability to give and receive constructive feedback. A performance-driven mindset, with a focus on measurable outcomes, continuous improvement and experimentation. A curious, adaptable and solution-oriented attitude, with the confidence to take ownership, learn from mistakes and turn ideas into actionable results. Benefits: Competitive compensation: Salary based on qualifications, experience and suitability for the role. Equipment allowance: Financial support to purchase your own device or work equipment. Annual bonus: Opportunity to receive variable compensation through an annual bonus programme. Work from anywhere: Fully remote working, with the freedom to work from anywhere in the world. Flexible schedule: No fixed working hours, allowing you to organise your schedule around your responsibilities. Unlimited paid time off: Flexibility to take the time you need to recharge. International environment: Collaborate with a diverse, supportive and energetic team spread across six continents and more than 30 countries. Professional growth: An environment that encourages experimentation, continuous learning, ownership and career development. Direct impact: Freedom to contribute ideas, take initiative and present proposals directly to management. Global flexibility: Travel freely and receive compensation in your preferred currency.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/5f747b10-f4b8-49eb-84ab-33dfad9b443a",
+      "isLive": true
+    },
+    {
+      "id": 1791551704,
+      "externalId": "8f36462d-b8bd-45f9-abb2-e838783a06f4",
+      "title": "Influencer & Media Manager",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "media",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T12:38:10.516Z",
+      "skills": [
+        "Excel",
+        "Marketing",
+        "Content"
+      ],
+      "description": "Accountabilities: Develop and execute PR and communications strategies for the publishing label and individual game releases, collaborating closely with the Social Media Manager to maximise visibility and commercial impact. Build, maintain and leverage relationships with games journalists, media outlets, influencers and content creators to secure reviews, features, coverage and promotional opportunities. Create compelling narratives around games, developers and upcoming releases, translating their unique selling points into engaging press releases, announcements and media pitches. Plan and coordinate PR initiatives and creator campaigns around key milestones, including game reveals, demos, Early Access launches and full releases. Establish, develop and actively manage player communities on Discord and Steam Community, driving engagement and fostering long-term relationships with players. Plan, host and deliver Steam livestreams to showcase games, engage audiences and support key promotional activities. Collaborate with developers and internal publishing, production and marketing teams to ensure consistent messaging, maximise exposure and address player feedback. Track media coverage, creator activity, community sentiment and campaign performance, using insights and data to continuously improve communication strategies and engagement. Requirements: Demonstrable experience in PR, influencer marketing, media relations or marketing communications, preferably within the PC and console gaming industry. An active and established network of games media contacts, journalists, influencers and content creators, with recent examples of successfully leveraging these relationships to secure coverage and promotional exposure. Hands-on experience planning, hosting and delivering Steam livestreams. Proven experience building, growing and actively managing gaming communities, particularly on Discord and Steam Community. Excellent written and verbal communication skills, including the ability to produce engaging press releases, media pitches and promotional content. Strong understanding of the PC and console games market, independent game developers and gaming audiences. A proactive, commercially minded and hands-on approach, with the ability to manage multiple games and release campaigns in a growing publishing environment. Strong collaboration and interpersonal skills, combined with the ability to give and receive constructive feedback. A performance-driven mindset, with a focus on measurable outcomes, continuous improvement and experimentation. A curious, adaptable and solution-oriented attitude, with the confidence to take ownership, learn from mistakes and turn ideas into actionable results. Benefits: Competitive compensation: Salary based on qualifications, experience and suitability for the role. Equipment allowance: Financial support to purchase your own device or work equipment. Annual bonus: Opportunity to receive variable compensation through an annual bonus programme. Work from anywhere: Fully remote working, with the freedom to work from anywhere in the world. Flexible schedule: No fixed working hours, allowing you to organise your schedule around your responsibilities. Unlimited paid time off: Flexibility to take the time you need to recharge. International environment: Collaborate with a diverse, supportive and energetic team spread across six continents and more than 30 countries. Professional growth: An environment that encourages experimentation, continuous learning, ownership and career development. Direct impact: Freedom to contribute ideas, take initiative and present proposals directly to management. Global flexibility: Travel freely and receive compensation in your preferred currency.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/8f36462d-b8bd-45f9-abb2-e838783a06f4",
+      "isLive": true
+    },
+    {
+      "id": 3641591096,
+      "externalId": "346b828f-05d3-4b76-8ec8-650c83298672",
+      "title": "Senior AI Engineer (Internal Tools & Agents)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 1,
+      "maxExp": 2,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T12:14:51.893Z",
+      "skills": [
+        "Python",
+        "Audit",
+        "Operations"
+      ],
+      "description": "Accountabilities: Design, develop, maintain, and improve AI-powered internal tools that streamline workflows and support better business decisions. Build sophisticated Agent workflows incorporating context management, tool calling, knowledge retrieval, structured outputs, state management, and human approval or escalation processes. Integrate AI applications with internal data sources, APIs, business systems, and third-party services. Develop reliable and scalable backend services and APIs that support production AI applications. Work directly with internal stakeholders to understand operational processes, identify pain points, and define measurable success criteria. Translate ambiguous business requirements into clear, testable, and deliverable technical solutions. Measure the impact of deployed tools through adoption, task-completion quality, time savings, error reduction, and other relevant performance indicators. Use production data, user feedback, and observed failures to prioritize improvements and continuously enhance solutions. Create evaluation datasets and regression tests for prompts, models, retrieval pipelines, tools, and end-to-end workflows. Establish release validation processes to detect quality regressions and unintended effects before deployment. Compare models and technical approaches based on output quality, latency, reliability, security, and cost. Implement robust handling of timeouts, retries, rate limits, asynchronous jobs, partial failures, and third-party dependency issues. Build and maintain logging, tracing, monitoring, versioning, and recovery mechanisms for AI workflows. Apply appropriate access controls, data-handling policies, human approval steps, and audit trails for sensitive internal processes. Troubleshoot issues across model behavior, prompts, knowledge sources, retrieval quality, tool responses, business rules, and backend infrastructure. Collaborate with AI engineers and stakeholders across Product, Engineering, Operations, and other functions to deliver effective solutions. Communicate technical feasibility, risks, costs, trade-offs, and alternative approaches clearly, while breaking larger initiatives into manageable delivery stages. Proactively communicate progress, blockers, timelines, and next steps, and document systems and technical decisions to support long-term maintainability. Requirements At least 4 years of professional software engineering experience, with strong backend development fundamentals. At least 1–2 years of hands-on experience building LLM-powered applications, Agent workflows, or AI automation systems. Demonstrated experience launching AI applications for real users and improving them using production data and user feedback. Practical experience with tool calling, retrieval-augmented generation (RAG), knowledge retrieval, workflow orchestration, structured outputs, and stateful Agent systems. Experience developing production services, APIs, data pipelines, and integrations with internal or third-party systems. Strong hands-on proficiency in Golang. Golang is used for production development, and candidates must be able to complete the technical coding assessment in this language. Practical Python experience for LLM and AI application development. Experience creating evaluation datasets, regression tests, monitoring systems, and release validation processes for LLM applications. Strong debugging and problem-solving skills across models, prompts, retrieval systems, tools, application logic, and backend infrastructure. Strong ownership and accountability, including the ability to identify risks early, follow through after launch, and verify that delivered solutions achieve their intended outcomes. Fluent spoken and written English, as it is the working language for daily communication and collaboration. Clear communication and collaboration skills, particularly in distributed and cross-functional teams. Nice to have: Experience developing internal productivity tools",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/346b828f-05d3-4b76-8ec8-650c83298672",
+      "isLive": true
+    },
+    {
+      "id": 191651697,
+      "externalId": "18cea25a-85e6-470b-a1f4-f5b87871a2ac",
+      "title": "Senior AI Engineer (Internal Tools & Agents)",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 1,
+      "maxExp": 2,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T12:12:34.964Z",
+      "skills": [
+        "Python",
+        "Audit",
+        "Operations"
+      ],
+      "description": "Accountabilities: Design, develop, maintain, and improve AI-powered internal tools that streamline workflows and support better business decisions. Build sophisticated Agent workflows incorporating context management, tool calling, knowledge retrieval, structured outputs, state management, and human approval or escalation processes. Integrate AI applications with internal data sources, APIs, business systems, and third-party services. Develop reliable and scalable backend services and APIs that support production AI applications. Work directly with internal stakeholders to understand operational processes, identify pain points, and define measurable success criteria. Translate ambiguous business requirements into clear, testable, and deliverable technical solutions. Measure the impact of deployed tools through adoption, task-completion quality, time savings, error reduction, and other relevant performance indicators. Use production data, user feedback, and observed failures to prioritize improvements and continuously enhance solutions. Create evaluation datasets and regression tests for prompts, models, retrieval pipelines, tools, and end-to-end workflows. Establish release validation processes to detect quality regressions and unintended effects before deployment. Compare models and technical approaches based on output quality, latency, reliability, security, and cost. Implement robust handling of timeouts, retries, rate limits, asynchronous jobs, partial failures, and third-party dependency issues. Build and maintain logging, tracing, monitoring, versioning, and recovery mechanisms for AI workflows. Apply appropriate access controls, data-handling policies, human approval steps, and audit trails for sensitive internal processes. Troubleshoot issues across model behavior, prompts, knowledge sources, retrieval quality, tool responses, business rules, and backend infrastructure. Collaborate with AI engineers and stakeholders across Product, Engineering, Operations, and other functions to deliver effective solutions. Communicate technical feasibility, risks, costs, trade-offs, and alternative approaches clearly, while breaking larger initiatives into manageable delivery stages. Proactively communicate progress, blockers, timelines, and next steps, and document systems and technical decisions to support long-term maintainability. Requirements At least 4 years of professional software engineering experience, with strong backend development fundamentals. At least 1–2 years of hands-on experience building LLM-powered applications, Agent workflows, or AI automation systems. Demonstrated experience launching AI applications for real users and improving them using production data and user feedback. Practical experience with tool calling, retrieval-augmented generation (RAG), knowledge retrieval, workflow orchestration, structured outputs, and stateful Agent systems. Experience developing production services, APIs, data pipelines, and integrations with internal or third-party systems. Strong hands-on proficiency in Golang. Golang is used for production development, and candidates must be able to complete the technical coding assessment in this language. Practical Python experience for LLM and AI application development. Experience creating evaluation datasets, regression tests, monitoring systems, and release validation processes for LLM applications. Strong debugging and problem-solving skills across models, prompts, retrieval systems, tools, application logic, and backend infrastructure. Strong ownership and accountability, including the ability to identify risks early, follow through after launch, and verify that delivered solutions achieve their intended outcomes. Fluent spoken and written English, as it is the working language for daily communication and collaboration. Clear communication and collaboration skills, particularly in distributed and cross-functional teams. Nice to have: Experience developing internal productivity tools",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/18cea25a-85e6-470b-a1f4-f5b87871a2ac",
+      "isLive": true
+    },
+    {
+      "id": 3787717551,
+      "externalId": "3c3b8644-da33-43cc-a7d5-0fe7c2fff96f",
+      "title": "Senior AI Engineer (Internal Tools & Agents)",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 1,
+      "maxExp": 2,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T12:11:32.245Z",
+      "skills": [
+        "Python",
+        "Audit",
+        "Operations"
+      ],
+      "description": "Accountabilities: Design, develop, maintain, and improve AI-powered internal tools that streamline workflows and support better business decisions. Build sophisticated Agent workflows incorporating context management, tool calling, knowledge retrieval, structured outputs, state management, and human approval or escalation processes. Integrate AI applications with internal data sources, APIs, business systems, and third-party services. Develop reliable and scalable backend services and APIs that support production AI applications. Work directly with internal stakeholders to understand operational processes, identify pain points, and define measurable success criteria. Translate ambiguous business requirements into clear, testable, and deliverable technical solutions. Measure the impact of deployed tools through adoption, task-completion quality, time savings, error reduction, and other relevant performance indicators. Use production data, user feedback, and observed failures to prioritize improvements and continuously enhance solutions. Create evaluation datasets and regression tests for prompts, models, retrieval pipelines, tools, and end-to-end workflows. Establish release validation processes to detect quality regressions and unintended effects before deployment. Compare models and technical approaches based on output quality, latency, reliability, security, and cost. Implement robust handling of timeouts, retries, rate limits, asynchronous jobs, partial failures, and third-party dependency issues. Build and maintain logging, tracing, monitoring, versioning, and recovery mechanisms for AI workflows. Apply appropriate access controls, data-handling policies, human approval steps, and audit trails for sensitive internal processes. Troubleshoot issues across model behavior, prompts, knowledge sources, retrieval quality, tool responses, business rules, and backend infrastructure. Collaborate with AI engineers and stakeholders across Product, Engineering, Operations, and other functions to deliver effective solutions. Communicate technical feasibility, risks, costs, trade-offs, and alternative approaches clearly, while breaking larger initiatives into manageable delivery stages. Proactively communicate progress, blockers, timelines, and next steps, and document systems and technical decisions to support long-term maintainability. Requirements At least 4 years of professional software engineering experience, with strong backend development fundamentals. At least 1–2 years of hands-on experience building LLM-powered applications, Agent workflows, or AI automation systems. Demonstrated experience launching AI applications for real users and improving them using production data and user feedback. Practical experience with tool calling, retrieval-augmented generation (RAG), knowledge retrieval, workflow orchestration, structured outputs, and stateful Agent systems. Experience developing production services, APIs, data pipelines, and integrations with internal or third-party systems. Strong hands-on proficiency in Golang. Golang is used for production development, and candidates must be able to complete the technical coding assessment in this language. Practical Python experience for LLM and AI application development. Experience creating evaluation datasets, regression tests, monitoring systems, and release validation processes for LLM applications. Strong debugging and problem-solving skills across models, prompts, retrieval systems, tools, application logic, and backend infrastructure. Strong ownership and accountability, including the ability to identify risks early, follow through after launch, and verify that delivered solutions achieve their intended outcomes. Fluent spoken and written English, as it is the working language for daily communication and collaboration. Clear communication and collaboration skills, particularly in distributed and cross-functional teams. Nice to have: Experience developing internal productivity tools",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/3c3b8644-da33-43cc-a7d5-0fe7c2fff96f",
+      "isLive": true
+    },
+    {
+      "id": 3554914869,
+      "externalId": "8196989",
+      "title": "Intern, Client Service, Arabic Speaker, 2027",
+      "company": "AlphaSights",
+      "country": "الإمارات",
+      "region": "Dubai",
+      "location": "دبي",
+      "mode": "حضوري",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T08:43:26-05:00",
+      "skills": [
+        "Excel"
+      ],
+      "description": "&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Start date:&lt;/strong&gt; June 1, 2027&nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;End date:&nbsp;&lt;/strong&gt;July 31, 2027&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 9 weeks&lt;/p&gt; &lt;p&gt;Looking for an internship with commercial frontline responsibility and the opportunity to work on live client projects? Do you seek to have immediate personal impact? If so, our Client Service Internship program is the right choice for you.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About AlphaSights&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We bring together some of the most ambitious people from around the globe to work with the leading investment funds, strategy consultancies and Fortune 500 companies. Together, we help our clients access expert knowledge, elevate their decision-making and drive progress by connecting them with niche experts across the world.&lt;/p&gt; &lt;p&gt;Founded in 2008, our journey has been nothing short of extraordinary. With 1500+ professionals in nine cities worldwide, we&#39;ve firmly earned our place as a leader in our market and one of the fastest-growing companies in the world. Our relentless pursuit of excellence means we only hire the best and brightest graduates to help us reach new heights.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Consider the Summer Associate program if:&nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You thrive in a fast-paced, results-oriented environment.&lt;/li&gt; &lt;li&gt;You possess a client-first mindset.&lt;/li&gt; &lt;li&gt;You excel under pressure and enjoy working to tight deadlines.&lt;/li&gt; &lt;li&gt;You are gritty, resilient and ready to roll up your sleeves and make things happen.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;A day in the life of a Summer Associate&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Summer Associate in the Client Service team, you’ll be the link between our clients and the expert knowledge they seek. Throughout your workday, you’ll work on multiple projects from investors, strategists and dealmakers at top-tier client organizations seeking expert insights to inform their decision-making. This is a communications-intense frontline role requiring you to multitask across parallel workstreams.&nbsp;&lt;/p&gt; &lt;p&gt;Your responsibilities will include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Recruiting experts&lt;/strong&gt;: you will spend a significant part of your day speaking on the phone with experts who are uniquely relevant matches for your clients’ projects, often under tight deadlines.&nbsp;&lt;/li&gt; &lt;li&gt;Understanding the&lt;strong&gt; project and market context&lt;/strong&gt; and the legal and regulatory environment in which your clients and experts operate.&nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Taking ownership&lt;/strong&gt; of every aspect of your projects, from initiating and managing client-expert communications to meticulously scheduling calls to ensure seamless collaboration between them.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Ensuring success for our Summer Associates means:&nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Giving you an &lt;strong&gt;introduction to the&lt;/strong&gt; &lt;strong&gt;business world &lt;/strong&gt;without being pigeonholed into any one industry or profession.&lt;/li&gt; &lt;li&gt;Helping you &lt;strong&gt;develop transferable commercial and client management skills&lt;/strong&gt; spanning professional communications, negotiation, persuasion, project and time management.&lt;/li&gt; &lt;li&gt;Opportunity to receive a full-time employment offer to return post-graduation. Learn more about our commercial career paths &lt;a href=&quot;https://www.alphasights.com/careers/&quot;&gt;here.&lt;/a&gt;&lt;/li&gt; &lt;li&gt;A unique training curriculum and intense on-the-job coaching, helping you develop highly transferable commercial and managerial skills.&lt;/li&gt; &lt;li&gt;An inspiring, high-energy, me",
+      "source": "Greenhouse · AlphaSights",
+      "externalUrl": "https://www.alphasights.com/careers/open-roles?gh_jid=8196989",
+      "isLive": true
+    },
+    {
+      "id": 3655580583,
+      "externalId": "8196983",
+      "title": "Intern, Client Service, English Speaker, 2027",
+      "company": "AlphaSights",
+      "country": "الإمارات",
+      "region": "Dubai",
+      "location": "دبي",
+      "mode": "حضوري",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T08:42:41-05:00",
+      "skills": [
+        "Excel"
+      ],
+      "description": "&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Start date:&lt;/strong&gt; June 1, 2027&nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;End date:&nbsp;&lt;/strong&gt;July 31, 2027&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 9 weeks&lt;/p&gt; &lt;p&gt;Looking for an internship with commercial frontline responsibility and the opportunity to work on live client projects? Do you seek to have immediate personal impact? If so, our Client Service Internship program is the right choice for you.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About AlphaSights&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We bring together some of the most ambitious people from around the globe to work with the leading investment funds, strategy consultancies and Fortune 500 companies. Together, we help our clients access expert knowledge, elevate their decision-making and drive progress by connecting them with niche experts across the world.&lt;/p&gt; &lt;p&gt;Founded in 2008, our journey has been nothing short of extraordinary. With 1500+ professionals in nine cities worldwide, we&#39;ve firmly earned our place as a leader in our market and one of the fastest-growing companies in the world. Our relentless pursuit of excellence means we only hire the best and brightest graduates to help us reach new heights.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Consider the Summer Associate program if:&nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You thrive in a fast-paced, results-oriented environment.&lt;/li&gt; &lt;li&gt;You possess a client-first mindset.&lt;/li&gt; &lt;li&gt;You excel under pressure and enjoy working to tight deadlines.&lt;/li&gt; &lt;li&gt;You are gritty, resilient and ready to roll up your sleeves and make things happen.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;A day in the life of a Summer Associate&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Summer Associate in the Client Service team, you’ll be the link between our clients and the expert knowledge they seek. Throughout your workday, you’ll work on multiple projects from investors, strategists and dealmakers at top-tier client organizations seeking expert insights to inform their decision-making. This is a communications-intense frontline role requiring you to multitask across parallel workstreams.&nbsp;&lt;/p&gt; &lt;p&gt;Your responsibilities will include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Recruiting experts&lt;/strong&gt;: you will spend a significant part of your day speaking on the phone with experts who are uniquely relevant matches for your clients’ projects, often under tight deadlines.&nbsp;&lt;/li&gt; &lt;li&gt;Understanding the&lt;strong&gt; project and market context&lt;/strong&gt; and the legal and regulatory environment in which your clients and experts operate.&nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Taking ownership&lt;/strong&gt; of every aspect of your projects, from initiating and managing client-expert communications to meticulously scheduling calls to ensure seamless collaboration between them.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Ensuring success for our Summer Associates means:&nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Giving you an &lt;strong&gt;introduction to the&lt;/strong&gt; &lt;strong&gt;business world &lt;/strong&gt;without being pigeonholed into any one industry or profession.&lt;/li&gt; &lt;li&gt;Helping you &lt;strong&gt;develop transferable commercial and client management skills&lt;/strong&gt; spanning professional communications, negotiation, persuasion, project and time management.&lt;/li&gt; &lt;li&gt;Opportunity to receive a full-time employment offer to return post-graduation. Learn more about our commercial career paths &lt;a href=&quot;https://www.alphasights.com/careers/&quot;&gt;here.&lt;/a&gt;&lt;/li&gt; &lt;li&gt;A unique training curriculum and intense on-the-job coaching, helping you develop highly transferable commercial and managerial skills.&lt;/li&gt; &lt;li&gt;An inspiring, high-energy, me",
+      "source": "Greenhouse · AlphaSights",
+      "externalUrl": "https://www.alphasights.com/careers/open-roles?gh_jid=8196983",
+      "isLive": true
+    },
     {
       "id": 2977720873,
       "externalId": "bf86c03b-04d4-47e9-a2e9-ce65ccecc8ec",
@@ -463,7 +984,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T17:22:11.306Z",
       "skills": [
         "Excel",
@@ -491,7 +1012,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T14:10:20.790Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -516,7 +1037,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T13:44:23.450Z",
       "skills": [
         "Excel",
@@ -542,7 +1063,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T13:23:31.834Z",
       "skills": [
         "Excel",
@@ -570,7 +1091,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T13:22:28.891Z",
       "skills": [
         "Excel",
@@ -598,7 +1119,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T13:09:33.241Z",
       "skills": [
         "Excel",
@@ -627,7 +1148,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "customer",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T13:03:35.081Z",
       "skills": [
         "Excel",
@@ -654,7 +1175,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "customer",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T13:02:14.284Z",
       "skills": [
         "Excel",
@@ -681,7 +1202,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "customer",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T13:01:30.277Z",
       "skills": [
         "Excel",
@@ -708,7 +1229,7 @@
       "minExp": 6,
       "maxExp": 10,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T13:00:13.043Z",
       "skills": [
         "MEP",
@@ -737,7 +1258,7 @@
       "minExp": 6,
       "maxExp": 10,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T12:59:40.076Z",
       "skills": [
         "MEP",
@@ -766,7 +1287,7 @@
       "minExp": 6,
       "maxExp": 10,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T12:58:18.223Z",
       "skills": [
         "MEP",
@@ -795,7 +1316,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T12:47:28.843Z",
       "skills": [
         "Excel",
@@ -823,7 +1344,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T12:46:55.608Z",
       "skills": [
         "Excel",
@@ -851,7 +1372,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T12:45:32.321Z",
       "skills": [
         "Excel",
@@ -1480,7 +2001,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T16:10:01.940Z",
       "skills": [
         "SAP",
@@ -1491,7 +2012,7 @@
         "Compliance",
         "Translation"
       ],
-      "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. Welo Global’s five brands—Welocalize (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services for law firms and corporate legal teams), Welo Life Sciences (regulated language and compliance-aligned content solutions for pharmaceutical, biotech, and medical device organizations), Adapt (multilingual performance-led digital marketing agency), and Welo Data (multilingual data generation, evaluation, and human data infrastructure for AI systems)—serve distinct customer segments with purpose-built expertise, fit-for-purpose solutions, and supporting technology. weloglobal.com The Role We are seeking an experienced English into Kazakh Review Lead to serve as the language quality owner and primary client-facing linguistic expert for a leading global technology client. You will own the locale’s interpretation of the client’s quality standards and make sure that the Post-Editing Lead, Post Editors, and Reviewers all work to the same shared understanding of “good”. You will be the main point of contact for the client’s Language Manager on quality discussions, arbitration, and escalations, and you will drive consistency, quality governance, and continuous improvement across UI, marketing, product, informational, legal, and support content. Project Details - Location: Remote (based in one of the approved countries below) - Expected volume: Approximately 24 hours per month - Employment type: Freelance / Independent Contract - Task type: Language Lead Support - Content types: UI, Marketing, Informational, Legal, Product, Support - Language pair: English into Kazakh What You Will Do -Analyse requirements: Review every style guide and glossary update, assess which quality categories and content types it affects, and record the changes. Track what the client’s Language Manager actually corrects and says in calibration and quality calls, not only what is written down. -Relay expectations: Run regular alignment roundtables with the language community and publish a structured monthly quality digest covering performance, priority improvement areas, style guide updates, and notable errors and arbitration outcomes. -Manage review quality actively: Coach Reviewers one-to-one using specific examples, run shadowing sessions from real alignment data. -Improve the standard: Turn recurring justification patterns into well-reasoned style guide proposals, and share cross-locale patterns with the Welocalize Quality Manager. -Maintain alignment with the client: Treat Language Manager decisions as the standard, raise concerns with evidence at the right forum, and aim for fewer surprises over time. What You Will Own -The locale’s review service score, including RQE audit and alignment performance -The community’s shared understanding of quality -The integrity of the arbitration record, ensuring that every arbitration sent to the client is valid and well-evidenced -The working relationship with the client’s Language Manager, including clarifications, escalations, and expectation tracking Requirements - Experience: 3 to 5+ years in Localization Quality Assurance (LQA), Senior Language Lead, or Quality Governance roles - Client and stakeholder management: Direct experience as the primary point of contact for client Language Managers, managing formal arbitration or escalation processes, and facilitating conflict resolution - Quality audit frameworks: Deep, practical experience with localization evaluation frameworks, including RQE, LQE, error rubrics, and severity mapping - Style guide and expectation analysis:",
+      "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. Welo Global’s five brands—Welocalize (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services for law firms and corporate legal teams), Welo Life Sciences (regulated language and compliance-aligned content solutions for pharmaceutical, biotech, and medical device organizations), Adapt (multilingual performance-led digital marketing agency), and Welo Data (multilingual data generation, evaluation, and human data infrastructure for AI systems)—serve distinct customer segments with purpose-built expertise, fit-for-purpose solutions, and supporting technology. weloglobal.com The Role We are seeking an experienced English into Belarusian Review Lead to serve as the language quality owner and primary client-facing linguistic expert for a leading global technology client. You will own the locale’s interpretation of the client’s quality standards and make sure that the Post-Editing Lead, Post Editors, and Reviewers all work to the same shared understanding of “good”. You will be the main point of contact for the client’s Language Manager on quality discussions, arbitration, and escalations, and you will drive consistency, quality governance, and continuous improvement across UI, marketing, product, informational, legal, and support content. Project Details - Location: Remote (based in one of the approved countries below) - Expected volume: Approximately 24 hours per month - Employment type: Freelance / Independent Contract - Task type: Language Lead Support - Content types: UI, Marketing, Informational, Legal, Product, Support - Language pair: English into Belarusian What You Will Do -Analyse requirements: Review every style guide and glossary update, assess which quality categories and content types it affects, and record the changes. Track what the client’s Language Manager actually corrects and says in calibration and quality calls, not only what is written down. -Relay expectations: Run regular alignment roundtables with the language community and publish a structured monthly quality digest covering performance, priority improvement areas, style guide updates, and notable errors and arbitration outcomes. -Manage review quality actively: Coach Reviewers one-to-one using specific examples, run shadowing sessions from real alignment data. -Improve the standard: Turn recurring justification patterns into well-reasoned style guide proposals, and share cross-locale patterns with the Welocalize Quality Manager. -Maintain alignment with the client: Treat Language Manager decisions as the standard, raise concerns with evidence at the right forum, and aim for fewer surprises over time. What You Will Own -The locale’s review service score, including RQE audit and alignment performance -The community’s shared understanding of quality -The integrity of the arbitration record, ensuring that every arbitration sent to the client is valid and well-evidenced -The working relationship with the client’s Language Manager, including clarifications, escalations, and expectation tracking Requirements - Experience: 3 to 5+ years in Localization Quality Assurance (LQA), Senior Language Lead, or Quality Governance roles - Client and stakeholder management: Direct experience as the primary point of contact for client Language Managers, managing formal arbitration or escalation processes, and facilitating conflict resolution - Quality audit frameworks: Deep, practical experience with localization evaluation frameworks, including RQE, LQE, error rubrics, and severity mapping - Style guide and expectation a",
       "source": "Lever · Welo Data",
       "externalUrl": "https://jobs.lever.co/weloglobal/9c91ec15-acac-42fc-8ba0-c5f610556d0d",
       "isLive": true
@@ -1511,7 +2032,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T13:41:19.382Z",
       "skills": [
         "Excel",
@@ -1540,7 +2061,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T13:38:28.768Z",
       "skills": [
         "Excel",
@@ -1569,7 +2090,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T13:37:35.677Z",
       "skills": [
         "Excel",
@@ -1598,7 +2119,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T13:16:56.221Z",
       "skills": [
         "Python",
@@ -1627,7 +2148,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T13:13:49.555Z",
       "skills": [
         "Python",
@@ -1656,7 +2177,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T13:12:56.028Z",
       "skills": [
         "Python",
@@ -1685,7 +2206,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T12:59:28.997Z",
       "skills": [
         "Python",
@@ -1711,7 +2232,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T12:57:22.355Z",
       "skills": [
         "Python",
@@ -1737,7 +2258,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T12:56:22.747Z",
       "skills": [
         "Python",
@@ -1763,7 +2284,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "customer",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T12:26:07.853Z",
       "skills": [
         "Excel",
@@ -1792,7 +2313,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "customer",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T12:01:11.033Z",
       "skills": [
         "Excel",
@@ -1819,7 +2340,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T11:49:39.644Z",
       "skills": [
         "Excel",
@@ -1845,7 +2366,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T11:48:00.354Z",
       "skills": [
         "Excel",
@@ -1871,7 +2392,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T11:46:59.179Z",
       "skills": [
         "Excel",
@@ -1897,7 +2418,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "civil",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T11:44:42.055Z",
       "skills": [
         "Excel",
@@ -1925,7 +2446,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "civil",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T11:43:48.621Z",
       "skills": [
         "Excel",
@@ -1953,7 +2474,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "civil",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T11:42:10.656Z",
       "skills": [
         "Excel",
@@ -1981,7 +2502,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T11:22:29.020Z",
       "skills": [
         "SQL",
@@ -2011,7 +2532,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T11:21:54.655Z",
       "skills": [
         "SQL",
@@ -2041,7 +2562,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T11:20:24.356Z",
       "skills": [
         "SQL",
@@ -2071,7 +2592,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T10:55:17.142Z",
       "skills": [
         "Excel",
@@ -2484,56 +3005,6 @@
       "isLive": true
     },
     {
-      "id": 3554914869,
-      "externalId": "8196989",
-      "title": "Intern, Client Service, Arabic Speaker, 2027",
-      "company": "AlphaSights",
-      "country": "الإمارات",
-      "region": "Dubai",
-      "location": "دبي",
-      "mode": "حضوري",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "general",
-      "age": "منذ 2 أيام",
-      "publishedAt": "2026-11-18T01:04:01-05:00",
-      "skills": [
-        "Excel"
-      ],
-      "description": "&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Start date:&lt;/strong&gt; June 1, 2027&nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;End date:&nbsp;&lt;/strong&gt;July 31, 2027&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 9 weeks&lt;/p&gt; &lt;p&gt;Looking for an internship with commercial frontline responsibility and the opportunity to work on live client projects? Do you seek to have immediate personal impact? If so, our Client Service Internship program is the right choice for you.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About AlphaSights&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We bring together some of the most ambitious people from around the globe to work with the leading investment funds, strategy consultancies and Fortune 500 companies. Together, we help our clients access expert knowledge, elevate their decision-making and drive progress by connecting them with niche experts across the world.&lt;/p&gt; &lt;p&gt;Founded in 2008, our journey has been nothing short of extraordinary. With 1500+ professionals in nine cities worldwide, we&#39;ve firmly earned our place as a leader in our market and one of the fastest-growing companies in the world. Our relentless pursuit of excellence means we only hire the best and brightest graduates to help us reach new heights.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Consider the Summer Associate program if:&nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You thrive in a fast-paced, results-oriented environment.&lt;/li&gt; &lt;li&gt;You possess a client-first mindset.&lt;/li&gt; &lt;li&gt;You excel under pressure and enjoy working to tight deadlines.&lt;/li&gt; &lt;li&gt;You are gritty, resilient and ready to roll up your sleeves and make things happen.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;A day in the life of a Summer Associate&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Summer Associate in the Client Service team, you’ll be the link between our clients and the expert knowledge they seek. Throughout your workday, you’ll work on multiple projects from investors, strategists and dealmakers at top-tier client organizations seeking expert insights to inform their decision-making. This is a communications-intense frontline role requiring you to multitask across parallel workstreams.&nbsp;&lt;/p&gt; &lt;p&gt;Your responsibilities will include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Recruiting experts&lt;/strong&gt;: you will spend a significant part of your day speaking on the phone with experts who are uniquely relevant matches for your clients’ projects, often under tight deadlines.&nbsp;&lt;/li&gt; &lt;li&gt;Understanding the&lt;strong&gt; project and market context&lt;/strong&gt; and the legal and regulatory environment in which your clients and experts operate.&nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Taking ownership&lt;/strong&gt; of every aspect of your projects, from initiating and managing client-expert communications to meticulously scheduling calls to ensure seamless collaboration between them.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Ensuring success for our Summer Associates means:&nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Giving you an &lt;strong&gt;introduction to the&lt;/strong&gt; &lt;strong&gt;business world &lt;/strong&gt;without being pigeonholed into any one industry or profession.&lt;/li&gt; &lt;li&gt;Helping you &lt;strong&gt;develop transferable commercial and client management skills&lt;/strong&gt; spanning professional communications, negotiation, persuasion, project and time management.&lt;/li&gt; &lt;li&gt;Opportunity to receive a full-time employment offer to return post-graduation. Learn more about our commercial career paths &lt;a href=&quot;https://www.alphasights.com/careers/&quot;&gt;here.&lt;/a&gt;&lt;/li&gt; &lt;li&gt;A unique training curriculum and intense on-the-job coaching, helping you develop highly transferable commercial and managerial skills.&lt;/li&gt; &lt;li&gt;An inspiring, high-energy, me",
-      "source": "Greenhouse · AlphaSights",
-      "externalUrl": "https://www.alphasights.com/careers/open-roles?gh_jid=8196989",
-      "isLive": true
-    },
-    {
-      "id": 3655580583,
-      "externalId": "8196983",
-      "title": "Intern, Client Service, English Speaker, 2027",
-      "company": "AlphaSights",
-      "country": "الإمارات",
-      "region": "Dubai",
-      "location": "دبي",
-      "mode": "حضوري",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "general",
-      "age": "منذ 2 أيام",
-      "publishedAt": "2026-11-18T01:03:07-05:00",
-      "skills": [
-        "Excel"
-      ],
-      "description": "&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Dubai&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Start date:&lt;/strong&gt; June 1, 2027&nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;End date:&nbsp;&lt;/strong&gt;July 31, 2027&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Duration:&lt;/strong&gt; 9 weeks&lt;/p&gt; &lt;p&gt;Looking for an internship with commercial frontline responsibility and the opportunity to work on live client projects? Do you seek to have immediate personal impact? If so, our Client Service Internship program is the right choice for you.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About AlphaSights&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We bring together some of the most ambitious people from around the globe to work with the leading investment funds, strategy consultancies and Fortune 500 companies. Together, we help our clients access expert knowledge, elevate their decision-making and drive progress by connecting them with niche experts across the world.&lt;/p&gt; &lt;p&gt;Founded in 2008, our journey has been nothing short of extraordinary. With 1500+ professionals in nine cities worldwide, we&#39;ve firmly earned our place as a leader in our market and one of the fastest-growing companies in the world. Our relentless pursuit of excellence means we only hire the best and brightest graduates to help us reach new heights.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Consider the Summer Associate program if:&nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;You thrive in a fast-paced, results-oriented environment.&lt;/li&gt; &lt;li&gt;You possess a client-first mindset.&lt;/li&gt; &lt;li&gt;You excel under pressure and enjoy working to tight deadlines.&lt;/li&gt; &lt;li&gt;You are gritty, resilient and ready to roll up your sleeves and make things happen.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;A day in the life of a Summer Associate&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As a Summer Associate in the Client Service team, you’ll be the link between our clients and the expert knowledge they seek. Throughout your workday, you’ll work on multiple projects from investors, strategists and dealmakers at top-tier client organizations seeking expert insights to inform their decision-making. This is a communications-intense frontline role requiring you to multitask across parallel workstreams.&nbsp;&lt;/p&gt; &lt;p&gt;Your responsibilities will include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;Recruiting experts&lt;/strong&gt;: you will spend a significant part of your day speaking on the phone with experts who are uniquely relevant matches for your clients’ projects, often under tight deadlines.&nbsp;&lt;/li&gt; &lt;li&gt;Understanding the&lt;strong&gt; project and market context&lt;/strong&gt; and the legal and regulatory environment in which your clients and experts operate.&nbsp;&lt;/li&gt; &lt;li&gt;&lt;strong&gt;Taking ownership&lt;/strong&gt; of every aspect of your projects, from initiating and managing client-expert communications to meticulously scheduling calls to ensure seamless collaboration between them.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Ensuring success for our Summer Associates means:&nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Giving you an &lt;strong&gt;introduction to the&lt;/strong&gt; &lt;strong&gt;business world &lt;/strong&gt;without being pigeonholed into any one industry or profession.&lt;/li&gt; &lt;li&gt;Helping you &lt;strong&gt;develop transferable commercial and client management skills&lt;/strong&gt; spanning professional communications, negotiation, persuasion, project and time management.&lt;/li&gt; &lt;li&gt;Opportunity to receive a full-time employment offer to return post-graduation. Learn more about our commercial career paths &lt;a href=&quot;https://www.alphasights.com/careers/&quot;&gt;here.&lt;/a&gt;&lt;/li&gt; &lt;li&gt;A unique training curriculum and intense on-the-job coaching, helping you develop highly transferable commercial and managerial skills.&lt;/li&gt; &lt;li&gt;An inspiring, high-energy, me",
-      "source": "Greenhouse · AlphaSights",
-      "externalUrl": "https://www.alphasights.com/careers/open-roles?gh_jid=8196983",
-      "isLive": true
-    },
-    {
       "id": 3683424061,
       "externalId": "448c739f-f919-4fa4-b626-07cbe034e1b8",
       "title": "SMS Routing Specialist / Telecom Traffic Analyst",
@@ -2548,7 +3019,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T14:06:35.908Z",
       "skills": [
         "Excel",
@@ -2574,7 +3045,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T14:04:28.285Z",
       "skills": [
         "Excel",
@@ -2600,7 +3071,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T14:03:32.046Z",
       "skills": [
         "Excel",
@@ -2626,7 +3097,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T13:50:40.900Z",
       "skills": [
         "Excel",
@@ -2653,7 +3124,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T13:48:04.037Z",
       "skills": [
         "Excel",
@@ -2680,7 +3151,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T13:47:01.187Z",
       "skills": [
         "Excel",
@@ -2707,7 +3178,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "customer",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T13:31:08.108Z",
       "skills": [
         "Excel",
@@ -2734,7 +3205,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "customer",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T13:28:14.859Z",
       "skills": [
         "Excel",
@@ -2761,7 +3232,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "customer",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T13:27:26.362Z",
       "skills": [
         "Excel",
@@ -3507,7 +3978,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T14:55:16.967Z",
       "skills": [
         "Excel"
@@ -3532,7 +4003,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T13:01:36.752Z",
       "skills": [
         "Excel",
@@ -3560,7 +4031,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T12:56:56.648Z",
       "skills": [
         "Excel",
@@ -3588,7 +4059,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T12:55:57.312Z",
       "skills": [
         "Excel",
@@ -3616,7 +4087,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T12:41:52.991Z",
       "skills": [
         "Excel",
@@ -3645,7 +4116,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T12:39:38.750Z",
       "skills": [
         "Excel",
@@ -3674,7 +4145,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T12:38:44.201Z",
       "skills": [
         "Excel",
@@ -3703,7 +4174,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T12:31:09.879Z",
       "skills": [
         "Excel",
@@ -3730,7 +4201,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T12:22:39.416Z",
       "skills": [
         "Excel",
@@ -3757,7 +4228,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T12:21:58.704Z",
       "skills": [
         "Excel",
@@ -3784,7 +4255,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "projects",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T10:34:24.378Z",
       "skills": [
         "React",
@@ -5309,7 +5780,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 7 أيام",
+      "age": "منذ 8 أيام",
       "publishedAt": "2026-11-12T15:48:26.880Z",
       "skills": [
         "Excel",
@@ -5339,7 +5810,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 7 أيام",
+      "age": "منذ 8 أيام",
       "publishedAt": "2026-11-12T11:01:45.581Z",
       "skills": [
         "Marketing"
@@ -5364,7 +5835,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "translation",
-      "age": "منذ 8 أيام",
+      "age": "منذ 9 أيام",
       "publishedAt": "2026-11-11T15:25:21.680Z",
       "skills": [
         "Excel",
@@ -5421,7 +5892,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 9 أيام",
+      "age": "منذ 10 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -5447,7 +5918,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 9 أيام",
+      "age": "منذ 10 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -5473,7 +5944,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 13 أيام",
+      "age": "منذ 14 أيام",
       "publishedAt": "2026-11-06T11:47:12.630Z",
       "skills": [
         "Sales"
@@ -5524,7 +5995,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 15 أيام",
+      "age": "منذ 16 أيام",
       "publishedAt": "2026-11-04T14:49:44.215Z",
       "skills": [
         "Audit",
@@ -5581,7 +6052,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "legal",
-      "age": "منذ 21 أيام",
+      "age": "منذ 22 أيام",
       "publishedAt": "2026-10-29T18:19:21.691Z",
       "skills": [
         "Excel",
@@ -5610,7 +6081,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 21 أيام",
+      "age": "منذ 22 أيام",
       "publishedAt": "2026-10-29T15:45:59.006Z",
       "skills": [
         "SAP",
@@ -5640,7 +6111,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 21 أيام",
+      "age": "منذ 22 أيام",
       "publishedAt": "2026-10-29T10:50:46.515Z",
       "skills": [
         "Sales",
@@ -5751,7 +6222,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 29 أيام",
+      "age": "منذ 30 أيام",
       "publishedAt": "2026-10-21T12:14:36.095Z",
       "skills": [
         "Excel",
@@ -5885,7 +6356,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 38 أيام",
+      "age": "منذ 39 أيام",
       "publishedAt": "2026-10-12T12:22:58.148Z",
       "skills": [
         "Excel",
@@ -5914,7 +6385,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 42 أيام",
+      "age": "منذ 43 أيام",
       "publishedAt": "2026-10-08T13:58:08.204Z",
       "skills": [
         "SAP",
@@ -5945,7 +6416,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 42 أيام",
+      "age": "منذ 43 أيام",
       "publishedAt": "2026-10-08T13:36:09.377Z",
       "skills": [
         "Audit",
@@ -5974,7 +6445,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 42 أيام",
+      "age": "منذ 43 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "SAP",
@@ -6034,7 +6505,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 48 أيام",
+      "age": "منذ 49 أيام",
       "publishedAt": "2026-10-02T11:45:47.851Z",
       "skills": [
         "Excel",
@@ -6138,7 +6609,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 57 أيام",
+      "age": "منذ 58 أيام",
       "publishedAt": "2026-09-23T17:48:28.416Z",
       "skills": [
         "Content"
@@ -6214,7 +6685,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 59 أيام",
+      "age": "منذ 60 أيام",
       "publishedAt": "2026-09-21T12:10:38.082Z",
       "skills": [
         "Excel",
@@ -6320,7 +6791,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 64 أيام",
+      "age": "منذ 65 أيام",
       "publishedAt": "2026-09-16T12:38:30.005Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6345,7 +6816,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 64 أيام",
+      "age": "منذ 65 أيام",
       "publishedAt": "2026-09-16T12:18:06.725Z",
       "skills": [
         "Finance",
@@ -6427,7 +6898,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 71 أيام",
+      "age": "منذ 72 أيام",
       "publishedAt": "2026-09-09T12:47:08.145Z",
       "skills": [
         "SAP"
@@ -6452,7 +6923,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 71 أيام",
+      "age": "منذ 72 أيام",
       "publishedAt": "2026-09-09T12:45:38.447Z",
       "skills": [
         "SAP"
@@ -6477,7 +6948,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "sales",
-      "age": "منذ 71 أيام",
+      "age": "منذ 72 أيام",
       "publishedAt": "2026-09-09T11:39:00.380Z",
       "skills": [
         "Excel",
@@ -6508,7 +6979,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 71 أيام",
+      "age": "منذ 72 أيام",
       "publishedAt": "2026-09-09T10:47:54.392Z",
       "skills": [
         "SAP"
@@ -6533,7 +7004,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 71 أيام",
+      "age": "منذ 72 أيام",
       "publishedAt": "2026-09-09T10:42:51.771Z",
       "skills": [
         "SAP"
@@ -6635,7 +7106,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 78 أيام",
+      "age": "منذ 79 أيام",
       "publishedAt": "2026-09-02T12:36:44.958Z",
       "skills": [
         "Excel",
@@ -6748,7 +7219,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 86 أيام",
+      "age": "منذ 87 أيام",
       "publishedAt": "2026-08-25T12:30:04.705Z",
       "skills": [
         "Sales",
@@ -6775,7 +7246,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 86 أيام",
+      "age": "منذ 87 أيام",
       "publishedAt": "2026-08-25T12:03:51.980Z",
       "skills": [
         "Excel",
@@ -6803,7 +7274,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 86 أيام",
+      "age": "منذ 87 أيام",
       "publishedAt": "2026-08-25T11:26:46.838Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6828,7 +7299,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 86 أيام",
+      "age": "منذ 87 أيام",
       "publishedAt": "2026-08-25T11:15:50.932Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6853,7 +7324,7 @@
       "minExp": 5,
       "maxExp": 10,
       "category": "technology",
-      "age": "منذ 88 أيام",
+      "age": "منذ 89 أيام",
       "publishedAt": "2026-08-23T11:59:58.499Z",
       "skills": [
         "Excel",
@@ -6910,7 +7381,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 98 أيام",
+      "age": "منذ 99 أيام",
       "publishedAt": "2026-08-13T12:01:07.661Z",
       "skills": [
         "Operations"
@@ -6935,7 +7406,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 98 أيام",
+      "age": "منذ 99 أيام",
       "publishedAt": "2026-08-13T11:55:04.485Z",
       "skills": [
         "Operations",
@@ -6961,7 +7432,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 108 أيام",
+      "age": "منذ 109 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
         "Operations",
@@ -6987,7 +7458,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 108 أيام",
+      "age": "منذ 109 أيام",
       "publishedAt": "2026-08-03T11:24:13.619Z",
       "skills": [
         "React",
@@ -7070,7 +7541,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 115 أيام",
+      "age": "منذ 116 أيام",
       "publishedAt": "2026-07-27T11:44:58.735Z",
       "skills": [
         "Excel",
@@ -7131,7 +7602,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 123 أيام",
+      "age": "منذ 124 أيام",
       "publishedAt": "2026-07-19T14:35:06.019Z",
       "skills": [
         "Finance",
@@ -7186,7 +7657,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 128 أيام",
+      "age": "منذ 129 أيام",
       "publishedAt": "2026-07-14T17:21:56.371Z",
       "skills": [
         "Research",
@@ -7212,7 +7683,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "translation",
-      "age": "منذ 134 أيام",
+      "age": "منذ 135 أيام",
       "publishedAt": "2026-07-08T12:41:35.292Z",
       "skills": [
         "Excel",
@@ -7266,7 +7737,7 @@
       "minExp": 0,
       "maxExp": 2,
       "category": "sales",
-      "age": "منذ 164 أيام",
+      "age": "منذ 165 أيام",
       "publishedAt": "2026-06-08T18:45:32.064Z",
       "skills": [
         "Customer Service",
@@ -7354,7 +7825,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 225 أيام",
+      "age": "منذ 226 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7637,7 +8108,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "security",
-      "age": "منذ 416 أيام",
+      "age": "منذ 417 أيام",
       "publishedAt": "2025-09-29T10:53:59.334Z",
       "skills": [
         "Excel",
@@ -7664,7 +8135,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 458 أيام",
+      "age": "منذ 459 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
@@ -7692,7 +8163,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "security",
-      "age": "منذ 487 أيام",
+      "age": "منذ 488 أيام",
       "publishedAt": "2025-07-20T16:56:05.026Z",
       "skills": [
         "Audit",
@@ -7719,7 +8190,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 491 أيام",
+      "age": "منذ 492 أيام",
       "publishedAt": "2025-07-16T12:45:37.544Z",
       "skills": [
         "Excel",
@@ -7746,7 +8217,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 491 أيام",
+      "age": "منذ 492 أيام",
       "publishedAt": "2025-07-16T12:38:56.781Z",
       "skills": [
         "Excel",
@@ -7773,7 +8244,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 538 أيام",
+      "age": "منذ 539 أيام",
       "publishedAt": "2025-05-30T14:36:01.234Z",
       "skills": [
         "Content"
@@ -7798,7 +8269,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 549 أيام",
+      "age": "منذ 550 أيام",
       "publishedAt": "2025-05-19T10:42:08.469Z",
       "skills": [
         "Excel",
@@ -7828,7 +8299,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 555 أيام",
+      "age": "منذ 556 أيام",
       "publishedAt": "2025-05-13T10:50:29.522Z",
       "skills": [
         "Customer Service",
@@ -7961,7 +8432,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "customer",
-      "age": "منذ 749 أيام",
+      "age": "منذ 750 أيام",
       "publishedAt": "2024-10-31T12:09:49.201Z",
       "skills": [
         "Excel",
@@ -8018,7 +8489,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 875 أيام",
+      "age": "منذ 876 أيام",
       "publishedAt": "2024-06-27T12:18:56.852Z",
       "skills": [
         "Finance",
@@ -8048,7 +8519,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 911 أيام",
+      "age": "منذ 912 أيام",
       "publishedAt": "2024-05-22T12:17:49.028Z",
       "skills": [
         "Excel",
