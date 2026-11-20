@@ -1,8 +1,453 @@
 {
-  "generatedAt": "2026-11-20T02:38:24.407Z",
-  "total": 274,
+  "generatedAt": "2026-11-20T10:33:38.705Z",
+  "total": 289,
   "feeds": 13,
   "jobs": [
+    {
+      "id": 2977720873,
+      "externalId": "bf86c03b-04d4-47e9-a2e9-ce65ccecc8ec",
+      "title": "Clinical Research Associate - Freelance",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "healthcare",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T08:00:01.820Z",
+      "skills": [
+        "Excel",
+        "Audit",
+        "Nursing",
+        "Clinical",
+        "Research",
+        "Recruitment",
+        "Compliance"
+      ],
+      "description": "Accountabilities:: Conduct clinical site monitoring visits throughout the study lifecycle, including Site Selection Visits (SSVs), Site Initiation Visits (SIVs), Interim Monitoring Visits (IMVs), and Close-Out Visits (COVs). Ensure investigator sites operate in accordance with clinical study protocols, ICH-GCP guidelines, sponsor requirements, and applicable local regulations. Monitor patient safety, clinical data quality, and study documentation to maintain compliance and support reliable trial outcomes. Manage investigator sites from initiation through close-out, ensuring monitoring activities are completed effectively and in line with study requirements. Build and maintain strong working relationships with investigators, site personnel, and sponsor stakeholders. Support site readiness, patient recruitment activities, and the resolution of operational issues that could affect study progress or timelines. Identify, document, and escalate site-level risks, deviations, and challenges while contributing to risk-based monitoring strategies. Maintain accurate monitoring records and ensure essential study documentation is complete and up to date. Support audit and inspection readiness activities, helping ensure sites meet quality and regulatory expectations. Requirements: Bachelor's degree in Life Sciences, Nursing, Pharmacy, or a related discipline. At least 3 years of independent clinical monitoring experience within the pharmaceutical, biotechnology, or Contract Research Organization (CRO) industry. Demonstrated experience monitoring medical device clinical studies. Strong knowledge of ICH-GCP guidelines and applicable clinical research regulatory requirements. Proven experience managing clinical trial sites throughout the full study lifecycle, from initiation to close-out. Excellent written and verbal communication skills in both German and English, with fluency in both languages required. Strong interpersonal and relationship-building skills, with the ability to collaborate effectively with investigators, site teams, and sponsor stakeholders. Strong organizational skills, attention to detail, and the ability to manage monitoring activities and resolve issues independently. Nice to Have: Experience with Medical Device Regulation (MDR) submissions. Benefits: Fully remote working arrangement within Germany. Freelance contract offering flexibility in how you manage your professional commitments. Opportunity to work on clinical research activities for a global pharmaceutical sponsor. Collaboration with experienced clinical research professionals in an international environment. Opportunities for personal and professional development. Work within a quality-focused culture built around trust, collaboration, flexibility, passion, and sustainability. Opportunity to contribute to clinical research that supports patient safety and advances healthcare.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/bf86c03b-04d4-47e9-a2e9-ce65ccecc8ec",
+      "isLive": true
+    },
+    {
+      "id": 548885111,
+      "externalId": "0b319adc-1d4d-452a-9290-7d300dac7bb1",
+      "title": "Head of Content & Brand",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "media",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T07:48:18.002Z",
+      "skills": [
+        "Excel",
+        "Sales",
+        "Marketing",
+        "Content",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Define, document, and lead the overall editorial strategy, including content themes, positioning, points of view, formats, and channel priorities. Ensure a consistent and recognizable brand voice and visual identity across all content and communications. Build and activate a network of internal and external contributors, including executives, customer advocates, and partners, to broaden the brand's reach and perspectives. Own audience growth as a measurable business objective, setting targets across owned channels and relevant industry or partner ecosystems. Track audience engagement and content performance, translating insights into pipeline-related metrics and collaborating with Go-to-Market (GTM) and Revenue Operations (RevOps) teams on attribution. Lead, coach, and develop a team of three specialists responsible for video content, brand design, and written content, establishing clear priorities, expectations, and accountability. Serve as the primary connection between Brand and GTM, ensuring content supports commercial objectives without compromising editorial consistency. Partner with demand generation and sales teams to deliver landing pages, advertising creative, nurture sequences, and sales enablement materials. Establish regular cross-functional planning and communication routines to maintain alignment, remove blockers, and ensure effective execution. Requirements: Proven experience in a broad, end-to-end content leadership role within a B2B SaaS environment. Demonstrated success building and growing an engaged target audience and turning content performance into measurable business value. Strong ability to develop, communicate, and defend an editorial strategy using data, insights, and clear reasoning. Excellent editorial judgment, with the confidence to maintain a consistent brand voice while partnering effectively with commercial teams and senior leadership. Experience managing and developing content and creative specialists, with strong coaching, prioritization, and decision-making skills. Ability to connect brand and editorial concepts with commercial objectives, including ideal customer profile (ICP) reach, audience quality, engagement, and pipeline contribution. Strong understanding of content distribution and audience development across platforms such as LinkedIn, YouTube, and podcasts. Fluency in English is required; French language skills are considered an asset. Comfortable using AI-powered writing and production tools, content management systems (CMS), social media management platforms, and analytics tools. Strong communication and cross-functional collaboration skills, with the ability to operate in a distributed, international environment. Benefits: Fully remote work arrangement, with the role open to candidates based in Canada. Full-time employment. Opportunity to lead and develop a team of three content and creative specialists. Strategic ownership of brand positioning, editorial direction, and audience growth. Close collaboration with senior leadership and cross-functional teams across marketing, sales, revenue operations, and customer success. Opportunity to connect creative and editorial work directly to measurable commercial outcomes. International and remote-friendly working environment.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/0b319adc-1d4d-452a-9290-7d300dac7bb1",
+      "isLive": true
+    },
+    {
+      "id": 2700256212,
+      "externalId": "92f629a7-8090-4455-bdbd-2e8ec22265ac",
+      "title": "Hands-on Engineering Manager DevOps (GCP/Kubernetes)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 7,
+      "maxExp": 15,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T07:41:18.481Z",
+      "skills": [
+        "SQL",
+        "Education",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "Accountabilities: Lead the design, development, and operation of core infrastructure supporting engineering teams, including Kubernetes clusters, CI/CD pipelines, databases, edge infrastructure, and observability systems. Guide the migration of on-premises workloads to GCP and GKE, helping modernize legacy architecture and simplify the overall technology stack. Strengthen infrastructure security, reliability, and business continuity practices while reducing operational complexity and ongoing maintenance. Develop platform capabilities and self-service tooling that enable engineering teams to work more independently and efficiently. Partner with other Engineering Managers and product development leaders to understand internal customer needs, scope initiatives, and prioritize platform work. Manage and mentor a team of four engineers, providing technical guidance while working alongside them on code, infrastructure-as-code quality, engineering standards, and best practices. Maintain approximately 50% hands-on technical involvement, balancing implementation and operational responsibilities with team leadership and development. Establish clear quality standards and lead by example in technical decision-making, infrastructure design, and engineering execution. Lead incident response activities, facilitate postmortems, and drive improvements that strengthen system resilience and operational readiness. Organize team training, define SMART goals, conduct performance reviews, and provide regular, specific, constructive feedback. Maintain oversight of engineers’ work and development processes, helping team members improve their technical capabilities, collaboration, and professional skills. Complete an initial onboarding period of approximately two months as a senior engineer, begin management onboarding during the second month, and assume full team leadership at around the 10-week mark. Requirements: Bachelor's degree or equivalent practical experience. At least 2 years of mentoring or leadership experience, including at least 1 year leading a team formally or as a technical lead. 7+ years of experience in DevOps, Site Reliability Engineering (SRE), or infrastructure engineering. At least 3 years operating production workloads on Kubernetes, preferably Google Kubernetes Engine (GKE). At least 3 years working with a major cloud provider and Infrastructure as Code, with senior-level knowledge of GCP services including IAM, networking, KMS, GKE, Cloud SQL, and Secret Manager. At least 3 years operating at Senior, Staff, or Principal Engineer level. Practical experience designing, implementing, and operating CI/CD pipelines. Experience with GitOps tools such as FluxCD or ArgoCD. Ability to collaborate directly with engineering teams and management stakeholders to understand requirements, define scope, and prioritize infrastructure initiatives. Experience leading incident response processes and facilitating post-incident reviews and postmortems. Strong technical judgment, problem-solving skills, and the ability to balance long-term platform improvements with immediate operational needs. Effective communication, mentoring, feedback, and people-management skills, with a commitment to developing engineers through practical guidance and continuous learning. Additional experience that would be an advantage: Leading teams through significant infrastructure or architectural migrations. Supporting large-scale consumer platforms. Building and operating systems in regulated environments. Managing self-hosted observability stacks using tools such as Prometheus, Thanos, Loki, Grafana, Tempo, and OpenTelemetry. Building internal developer platforms and self-service infrastructure tooling. Supporting deployments of .NET/C# applications. Database operations involving PostgreSQL, MongoDB, Redis, or RabbitMQ. Experience with Istio or other service mesh technologies. Benefits: Annual compensation of €82,000–€140,000, with the final amount determined by skills,",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/92f629a7-8090-4455-bdbd-2e8ec22265ac",
+      "isLive": true
+    },
+    {
+      "id": 248783668,
+      "externalId": "4a5f78a0-5e84-44c6-98ad-5e7652199232",
+      "title": "Director, elluminate Business Development",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "sales",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:59:19.838Z",
+      "skills": [
+        "Excel",
+        "Finance",
+        "Clinical",
+        "Research",
+        "Sales",
+        "Content",
+        "Operations"
+      ],
+      "description": "Accountabilities:: Develop and execute the business development territory strategy, taking ownership of revenue growth and sales targets for the elluminate platform. Identify, qualify, and secure new business opportunities across pharmaceutical and biotechnology organizations through industry networks, internal leads, sales teams, and cross-selling initiatives. Lead large, complex, and strategic sales opportunities, managing the full sales cycle from prospecting to contract negotiation and closing. Build and maintain a strong sales pipeline, ensuring accurate CRM management, forecasting, and reporting to senior leadership. Establish trusted relationships with senior client stakeholders across clinical operations, data management, biometrics, and procurement. Collaborate with account management teams to strengthen existing partnerships, drive account expansion, and support long-term client retention. Lead client presentations, proposals, commercial discussions, and contract negotiations. Work closely with product, proposals, delivery, operations, finance, and legal teams to align solutions with customer needs and ensure commercially viable agreements. Contribute to pricing strategies, deal structures, strategic partnerships, and service innovation. Monitor market developments, competitor activities, industry trends, and regulatory changes to identify opportunities and inform go-to-market strategies. Represent the elluminate business internally and externally, reinforcing its position as a trusted technology partner within the life sciences industry. Requirements: Bachelor's degree or equivalent professional experience preferred. At least 4 years of relevant combined experience in SaaS technology sales, data management, or business development within the pharmaceutical, biotechnology, CRO, or broader life sciences sectors. Demonstrated success in selling SaaS solutions and technology platforms to life sciences organizations. Proven track record of closing large, complex, multi-year commercial agreements. Strong understanding of the clinical trial lifecycle, clinical data management, and the regulatory environment. Established professional network within pharmaceutical and biotechnology organizations, particularly in biometrics and related functions, is highly desirable. Previous experience developing and managing strategic partnerships is an advantage. Excellent executive-level communication, presentation, negotiation, and relationship-building skills. Strong commercial acumen, strategic thinking, and the ability to translate complex customer challenges into valuable business solutions. Results-oriented, self-motivated, and comfortable adopting a consultative, value-based sales approach. Excellent written and verbal communication skills. Highly collaborative, detail-oriented, and capable of working effectively within a cross-functional, international, and matrixed environment. Ability to use approved AI tools responsibly to improve productivity and work quality while protecting confidential information, validating generated content, and maintaining professional accountability. Benefits: Opportunity to join a fast-growing organization operating at the intersection of technology, clinical research, and healthcare. Remote working opportunity within Europe. International and collaborative working environment with opportunities to engage with global life sciences organizations. Career development and professional growth within an expanding technology business. Opportunity to contribute to innovative SaaS solutions that help accelerate clinical development and improve data-driven decision-making. Inclusive, people-first culture that values diversity, individual contributions, continuous learning, and professional development. Opportunity to work alongside experienced professionals across commercial, technology, product, and life sciences teams. Compensation: The original job posting lists a US annual pay range of $125,000. Compensatio",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/4a5f78a0-5e84-44c6-98ad-5e7652199232",
+      "isLive": true
+    },
+    {
+      "id": 3815871799,
+      "externalId": "9fb1513e-81f0-43de-ae2c-e24e7be27238",
+      "title": "OT Cybersecurity Customer Support Engineer",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "security",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:56:41.950Z",
+      "skills": [
+        "Excel",
+        "Administration"
+      ],
+      "description": "Accountabilities:: Provide outstanding technical support by responding to customer and partner inquiries through phone, email, and online support channels. Take ownership of technical support cases, ensuring timely investigation, effective troubleshooting, and satisfactory resolution of customer issues. Diagnose and resolve networking, endpoint security, and system-related problems ranging from straightforward incidents to complex technical challenges. Support customers with the deployment, integration, configuration, and maintenance of industrial cybersecurity products and solutions. Perform first-contact case resolution whenever possible, while proactively managing escalations and high-impact technical situations. Configure and maintain complex laboratory environments to reproduce customer-reported issues, investigate defects, and validate potential solutions. Identify and communicate product quality and serviceability issues, ensuring they are properly documented, prioritized, tracked, and resolved. Collaborate closely with Product Management and R&D teams to investigate complex technical problems and deliver effective solutions. Provide constructive technical feedback to support continuous product improvement and enhance the overall customer experience. Share technical knowledge, troubleshooting methodologies, and best practices with fellow support engineers to improve service quality and operational efficiency. Requirements: At least 5 years of professional experience working with networking products, networking technologies, or related technical solutions. At least 5 years of hands-on experience with Microsoft Windows administration, configuration, and troubleshooting. Strong understanding of networking fundamentals, including TCP/IP, network protocols, connectivity, and network troubleshooting. Demonstrated experience with network security technologies, endpoint protection solutions, and cybersecurity principles. Practical knowledge of security tools, including anti-malware technologies, security processes, and threat protection solutions. Strong troubleshooting and analytical skills, with the ability to investigate complex technical issues, identify root causes, and deliver effective resolutions. Experience with network defect analysis, debugging, and providing technical feedback to improve product performance. Ability to configure and manage complex technical laboratory environments for testing, troubleshooting, and issue replication. Familiarity with Operational Technology (OT) environments, industrial control systems (ICS), and industrial processes is a strong advantage. Knowledge of industrial communication protocols and OT-specific networking technologies is considered a plus. Excellent communication and interpersonal skills, with the ability to explain technical concepts clearly and manage customer expectations effectively. Strong customer-oriented mindset, with the ability to handle challenging situations professionally, tactfully, and confidently. Self-motivated and proactive approach, with a strong sense of ownership, urgency, and accountability. Well-organized, detail-oriented, and comfortable working independently in a fast-paced environment with minimal supervision. Curiosity and adaptability, with the ability to quickly learn new technologies and expand technical expertise. Ability to collaborate effectively with international teams and contribute to a multicultural working environment. Benefits: Fully remote working arrangement within Europe. Full-time employment opportunity. Opportunity to work on innovative cybersecurity solutions protecting industrial environments and critical infrastructure. Exposure to advanced networking, endpoint security, and industrial cybersecurity technologies. Collaboration with international technical experts and cross-functional engineering teams. Opportunities to expand technical expertise in OT cybersecurity, industrial control systems, and network security. A diverse and ",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/9fb1513e-81f0-43de-ae2c-e24e7be27238",
+      "isLive": true
+    },
+    {
+      "id": 1264736083,
+      "externalId": "86ae2d0b-a3c9-4a0b-a8a5-98de58e7231a",
+      "title": "Senior System Administrator (IST Time Zone)",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:54:20.133Z",
+      "skills": [
+        "Python",
+        "Excel",
+        "Education",
+        "Administration",
+        "Operations"
+      ],
+      "description": "Accountabilities:: Monitor system health, availability, and performance, proactively identifying and resolving operational issues to maintain reliable infrastructure. Perform system administration activities, including software updates, security patching, configuration management, and user access administration. Troubleshoot Linux and Windows environments, investigate incidents, and implement effective solutions to minimize operational disruptions. Develop, maintain, and improve technical documentation, including operational runbooks, standard operating procedures (SOPs), and troubleshooting guidelines. Identify opportunities to streamline infrastructure operations through automation and contribute to developing scripts, tools, and repeatable processes. Work with monitoring, logging, and alerting solutions to improve infrastructure visibility and incident response. Collaborate with engineering and operations teams to implement best practices, improve system reliability, and support continuous infrastructure optimization. Contribute to the development of scalable operational processes and support the evolution of infrastructure and DevOps practices. Requirements: At least 4 years of professional experience in IT operations, system administration, infrastructure engineering, or a related technical field. Solid foundational knowledge of Linux and/or Windows system administration, including system configuration, maintenance, and troubleshooting. Good understanding of networking fundamentals, including IP addressing, DNS, connectivity, and basic network troubleshooting. Experience with monitoring, logging, and alerting tools such as Prometheus, Grafana, or equivalent solutions. Exposure to cloud platforms such as AWS or Azure, with an understanding of cloud infrastructure fundamentals. Familiarity with scripting or programming languages such as PowerShell, Python, or Bash, and an interest in developing automation capabilities. Understanding of automation practices and an interest in DevOps methodologies and infrastructure optimization. Familiarity with version control systems such as Git is an advantage. Strong analytical and problem-solving abilities, with excellent attention to detail. Ability to document technical processes and solutions clearly and effectively. Good communication and collaboration skills, with the ability to work effectively within distributed, international teams. Proactive mindset, willingness to learn, and enthusiasm for solving technical challenges and improving operational efficiency. Ability to work in alignment with the IST time zone. Benefits: Flexible working arrangements, including remote, office-based, or hybrid options. Competitive salary and comprehensive compensation package. Personalized career development and growth opportunities. Professional development resources, including mentorship programs, technical talks, training sessions, and centers of excellence. Access to active technical communities and regular knowledge-sharing initiatives. Education and professional development reimbursement. Memorable anniversary gifts and recognition initiatives. Corporate events, team-building activities, and opportunities to connect with colleagues. Additional location-specific benefits. Please note that certain benefits may not apply to freelancers.",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/86ae2d0b-a3c9-4a0b-a8a5-98de58e7231a",
+      "isLive": true
+    },
+    {
+      "id": 4102975651,
+      "externalId": "a95a2c5c-3882-4853-b22e-4901327110cf",
+      "title": "Software Engineer - Postgres Tooling",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:50:31.640Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Insurance",
+        "Education",
+        "Operations"
+      ],
+      "description": "Accountabilities:: Co-maintain and progressively take technical ownership of an open-source PostgreSQL schema comparison and migration engine, reviewing contributions and eventually growing into its lead maintainer. Review, evaluate, and merge code contributions, including AI-generated pull requests, while ensuring high standards of correctness, maintainability, and security. Investigate and resolve reported issues related to schema differences, dependency ordering, migration generation, and PostgreSQL compatibility. Expand automated testing and validation coverage across multiple PostgreSQL versions to ensure consistent and reliable behavior. Ensure generated database migrations are safe, privilege-aware, and designed to prevent unintended data loss or security regressions. Identify potentially destructive schema changes and implement mechanisms to detect them and generate safer alternatives wherever possible. Contribute to the development of a stable 1.0 release, including defining public APIs, establishing semantic versioning contracts, improving documentation, and expanding PostgreSQL extension support. Engage with the open-source community by managing issue reports, reviewing external contributions, providing technical guidance, and maintaining constructive discussions with contributors. Collaborate with internal engineering teams to ensure consistent migration generation and execution across products, platform services, database branching, and AI-powered workflows. Write technical design documents, define architectural direction, and establish engineering strategies for the continued evolution of the tooling. Participate in the engineering team's on-call rotation, helping investigate and resolve production-related issues while supporting reliable software delivery. Requirements: At least 8 years of professional software engineering experience, including extensive hands-on experience with PostgreSQL. Deep understanding of PostgreSQL internals, particularly system catalogs such as pg_catalog and pg_depend , object ownership, permissions, grants, default privileges, Row-Level Security (RLS) policies, and extension membership. Strong knowledge of PostgreSQL DDL operations and database migration semantics, including locking behavior, transactional limitations, dependency management, and the identification of potentially destructive changes. A security-conscious engineering mindset, with particular attention to preventing unauthorized privilege changes, accidental access exposure, and unintended data loss. Strong proficiency in TypeScript and the ability to develop reliable, maintainable, and well-tested software. Experience designing advanced testing strategies for correctness, including differential testing, property-based testing, and test corpus validation across multiple PostgreSQL versions. Familiarity with compiler-style engineering challenges, including dependency graphs, topological sorting, cycle detection, and schema comparison algorithms. Ability to review and understand complex code changes within sophisticated codebases, including contributions generated with AI-assisted development tools. Proven experience owning and maintaining production software, including staged releases, error monitoring, incident investigation, and responding to real-world user feedback. Demonstrated ability to lead complex technical initiatives across multiple teams, from initial problem definition and architectural planning through production implementation. Excellent written communication skills and the ability to document technical decisions clearly. Ability to work independently, manage priorities effectively, and collaborate successfully within asynchronous, globally distributed engineering teams. Nice to Have: Previous experience developing or maintaining database schema comparison and migration tools such as migra, pg-schema-diff, Atlas, pgroll, sqitch, Prisma Migrate, Flyway, or Liquibase. Familiarity with PostgreSQL backup and sc",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/a95a2c5c-3882-4853-b22e-4901327110cf",
+      "isLive": true
+    },
+    {
+      "id": 1583530294,
+      "externalId": "d8cad81e-dd26-4eed-a0d8-8af9daf2507e",
+      "title": "Software Engineer - Postgres Tooling",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:50:01.652Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Insurance",
+        "Education",
+        "Operations"
+      ],
+      "description": "Accountabilities:: Co-maintain and progressively take technical ownership of an open-source PostgreSQL schema comparison and migration engine, reviewing contributions and eventually growing into its lead maintainer. Review, evaluate, and merge code contributions, including AI-generated pull requests, while ensuring high standards of correctness, maintainability, and security. Investigate and resolve reported issues related to schema differences, dependency ordering, migration generation, and PostgreSQL compatibility. Expand automated testing and validation coverage across multiple PostgreSQL versions to ensure consistent and reliable behavior. Ensure generated database migrations are safe, privilege-aware, and designed to prevent unintended data loss or security regressions. Identify potentially destructive schema changes and implement mechanisms to detect them and generate safer alternatives wherever possible. Contribute to the development of a stable 1.0 release, including defining public APIs, establishing semantic versioning contracts, improving documentation, and expanding PostgreSQL extension support. Engage with the open-source community by managing issue reports, reviewing external contributions, providing technical guidance, and maintaining constructive discussions with contributors. Collaborate with internal engineering teams to ensure consistent migration generation and execution across products, platform services, database branching, and AI-powered workflows. Write technical design documents, define architectural direction, and establish engineering strategies for the continued evolution of the tooling. Participate in the engineering team's on-call rotation, helping investigate and resolve production-related issues while supporting reliable software delivery. Requirements: At least 8 years of professional software engineering experience, including extensive hands-on experience with PostgreSQL. Deep understanding of PostgreSQL internals, particularly system catalogs such as pg_catalog and pg_depend , object ownership, permissions, grants, default privileges, Row-Level Security (RLS) policies, and extension membership. Strong knowledge of PostgreSQL DDL operations and database migration semantics, including locking behavior, transactional limitations, dependency management, and the identification of potentially destructive changes. A security-conscious engineering mindset, with particular attention to preventing unauthorized privilege changes, accidental access exposure, and unintended data loss. Strong proficiency in TypeScript and the ability to develop reliable, maintainable, and well-tested software. Experience designing advanced testing strategies for correctness, including differential testing, property-based testing, and test corpus validation across multiple PostgreSQL versions. Familiarity with compiler-style engineering challenges, including dependency graphs, topological sorting, cycle detection, and schema comparison algorithms. Ability to review and understand complex code changes within sophisticated codebases, including contributions generated with AI-assisted development tools. Proven experience owning and maintaining production software, including staged releases, error monitoring, incident investigation, and responding to real-world user feedback. Demonstrated ability to lead complex technical initiatives across multiple teams, from initial problem definition and architectural planning through production implementation. Excellent written communication skills and the ability to document technical decisions clearly. Ability to work independently, manage priorities effectively, and collaborate successfully within asynchronous, globally distributed engineering teams. Nice to Have: Previous experience developing or maintaining database schema comparison and migration tools such as migra, pg-schema-diff, Atlas, pgroll, sqitch, Prisma Migrate, Flyway, or Liquibase. Familiarity with PostgreSQL backup and sc",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/d8cad81e-dd26-4eed-a0d8-8af9daf2507e",
+      "isLive": true
+    },
+    {
+      "id": 277191330,
+      "externalId": "c4128fd1-4bae-4b80-854e-0e9c9808ce2d",
+      "title": "Software Engineer - Postgres Tooling",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "technology",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:48:45.292Z",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Insurance",
+        "Education",
+        "Operations"
+      ],
+      "description": "Accountabilities:: Co-maintain and progressively take technical ownership of an open-source PostgreSQL schema comparison and migration engine, reviewing contributions and eventually growing into its lead maintainer. Review, evaluate, and merge code contributions, including AI-generated pull requests, while ensuring high standards of correctness, maintainability, and security. Investigate and resolve reported issues related to schema differences, dependency ordering, migration generation, and PostgreSQL compatibility. Expand automated testing and validation coverage across multiple PostgreSQL versions to ensure consistent and reliable behavior. Ensure generated database migrations are safe, privilege-aware, and designed to prevent unintended data loss or security regressions. Identify potentially destructive schema changes and implement mechanisms to detect them and generate safer alternatives wherever possible. Contribute to the development of a stable 1.0 release, including defining public APIs, establishing semantic versioning contracts, improving documentation, and expanding PostgreSQL extension support. Engage with the open-source community by managing issue reports, reviewing external contributions, providing technical guidance, and maintaining constructive discussions with contributors. Collaborate with internal engineering teams to ensure consistent migration generation and execution across products, platform services, database branching, and AI-powered workflows. Write technical design documents, define architectural direction, and establish engineering strategies for the continued evolution of the tooling. Participate in the engineering team's on-call rotation, helping investigate and resolve production-related issues while supporting reliable software delivery. Requirements: At least 8 years of professional software engineering experience, including extensive hands-on experience with PostgreSQL. Deep understanding of PostgreSQL internals, particularly system catalogs such as pg_catalog and pg_depend , object ownership, permissions, grants, default privileges, Row-Level Security (RLS) policies, and extension membership. Strong knowledge of PostgreSQL DDL operations and database migration semantics, including locking behavior, transactional limitations, dependency management, and the identification of potentially destructive changes. A security-conscious engineering mindset, with particular attention to preventing unauthorized privilege changes, accidental access exposure, and unintended data loss. Strong proficiency in TypeScript and the ability to develop reliable, maintainable, and well-tested software. Experience designing advanced testing strategies for correctness, including differential testing, property-based testing, and test corpus validation across multiple PostgreSQL versions. Familiarity with compiler-style engineering challenges, including dependency graphs, topological sorting, cycle detection, and schema comparison algorithms. Ability to review and understand complex code changes within sophisticated codebases, including contributions generated with AI-assisted development tools. Proven experience owning and maintaining production software, including staged releases, error monitoring, incident investigation, and responding to real-world user feedback. Demonstrated ability to lead complex technical initiatives across multiple teams, from initial problem definition and architectural planning through production implementation. Excellent written communication skills and the ability to document technical decisions clearly. Ability to work independently, manage priorities effectively, and collaborate successfully within asynchronous, globally distributed engineering teams. Nice to Have: Previous experience developing or maintaining database schema comparison and migration tools such as migra, pg-schema-diff, Atlas, pgroll, sqitch, Prisma Migrate, Flyway, or Liquibase. Familiarity with PostgreSQL backup and sc",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/c4128fd1-4bae-4b80-854e-0e9c9808ce2d",
+      "isLive": true
+    },
+    {
+      "id": 1380684527,
+      "externalId": "60101842-7658-4585-92b2-0055d32f994b",
+      "title": "Digital Marketing Specialist",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:44:01.772Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Sales",
+        "Marketing",
+        "Content",
+        "Leadership"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Digital Marketing Specialist based in India. We are looking for a creative, analytical, and results-driven Digital Marketing Specialist to plan, execute, and optimize digital marketing campaigns for growing U.S.-based businesses. In this role, you will take ownership of online marketing initiatives across multiple channels, helping strengthen brand visibility, attract audiences, and drive measurable business results. You will combine creativity with data analysis to identify opportunities, improve campaign performance, and maximize marketing effectiveness. Working closely with design, sales, and leadership teams, you will contribute to developing engaging content and impactful marketing strategies. You will also monitor industry trends, explore new tools, and continuously test innovative approaches. This fully remote opportunity offers a collaborative environment where your ideas and insights can directly influence brand growth and marketing success. Accountabilities:: Plan, develop, and execute digital marketing campaigns across relevant online channels to support brand awareness, audience engagement, and business growth. Monitor campaign performance regularly, identify areas for improvement, and implement data-driven adjustments to maximize results. Analyze marketing data and prepare clear, actionable performance reports to communicate campaign outcomes and strategic recommendations. Track key performance indicators (KPIs), including conversion rates, cost per acquisition, cost per result, and other relevant campaign metrics. Create, review, and optimize advertising copy, promotional messages, and other digital marketing content to engage target audiences. Collaborate with designers and cross-functional team members to develop creative concepts, marketing assets, and campaign materials. Conduct keyword research, competitor analysis, and market trend monitoring to identify new opportunities and improve marketing strategies. Plan and conduct experiments, including A/B testing, to evaluate different campaign approaches and identify the most effective tactics. Stay informed about emerging digital marketing trends, platforms, tools, and best practices to continuously improve campaign performance. Share insights, recommendations, and successful marketing practices with internal stakeholders to support ongoing business growth. Requirements: At least 2 years of professional experience in digital marketing, online advertising, social media marketing, search marketing, or a related field. Practical experience planning, managing, and optimizing digital marketing campaigns across multiple online channels. Strong analytical skills, with the ability to interpret campaign data, monitor performance indicators, and translate insights into actionable improvements. Proficiency in Microsoft Excel or Google Sheets for organizing marketing data, analyzing results, and preparing reports. Experience using web analytics platforms, digital advertising dashboards, and campaign reporting tools. Understanding of key digital marketing metrics, including conversion rates, campaign costs, audience engagement, and return on marketing investment. Strong writing and content evaluation skills, with the ability to create and review compelling advertising copy and marketing messages. Familiarity with keyword research, competitor analysis, audience targeting, and digital marketing trends. Experience with A/B testing and relevant marketing certifications are considered advantages. Excellent attention to detail and organizational skills, with the ability to manage multiple campaigns and priorities simultaneously. Strong written and verbal English communication skills, with the ability to present marketing results and explain insights to non-marketing stakeholders. Ability to work independently, take ownership of assigned projects, and co",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/60101842-7658-4585-92b2-0055d32f994b",
+      "isLive": true
+    },
+    {
+      "id": 4003915308,
+      "externalId": "0551769d-aea6-46f3-941d-20f403af095b",
+      "title": "Digital Marketing Specialist",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:43:34.660Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Sales",
+        "Marketing",
+        "Content",
+        "Leadership"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Digital Marketing Specialist based in India. We are looking for a creative, analytical, and results-driven Digital Marketing Specialist to plan, execute, and optimize digital marketing campaigns for growing U.S.-based businesses. In this role, you will take ownership of online marketing initiatives across multiple channels, helping strengthen brand visibility, attract audiences, and drive measurable business results. You will combine creativity with data analysis to identify opportunities, improve campaign performance, and maximize marketing effectiveness. Working closely with design, sales, and leadership teams, you will contribute to developing engaging content and impactful marketing strategies. You will also monitor industry trends, explore new tools, and continuously test innovative approaches. This fully remote opportunity offers a collaborative environment where your ideas and insights can directly influence brand growth and marketing success. Accountabilities:: Plan, develop, and execute digital marketing campaigns across relevant online channels to support brand awareness, audience engagement, and business growth. Monitor campaign performance regularly, identify areas for improvement, and implement data-driven adjustments to maximize results. Analyze marketing data and prepare clear, actionable performance reports to communicate campaign outcomes and strategic recommendations. Track key performance indicators (KPIs), including conversion rates, cost per acquisition, cost per result, and other relevant campaign metrics. Create, review, and optimize advertising copy, promotional messages, and other digital marketing content to engage target audiences. Collaborate with designers and cross-functional team members to develop creative concepts, marketing assets, and campaign materials. Conduct keyword research, competitor analysis, and market trend monitoring to identify new opportunities and improve marketing strategies. Plan and conduct experiments, including A/B testing, to evaluate different campaign approaches and identify the most effective tactics. Stay informed about emerging digital marketing trends, platforms, tools, and best practices to continuously improve campaign performance. Share insights, recommendations, and successful marketing practices with internal stakeholders to support ongoing business growth. Requirements: At least 2 years of professional experience in digital marketing, online advertising, social media marketing, search marketing, or a related field. Practical experience planning, managing, and optimizing digital marketing campaigns across multiple online channels. Strong analytical skills, with the ability to interpret campaign data, monitor performance indicators, and translate insights into actionable improvements. Proficiency in Microsoft Excel or Google Sheets for organizing marketing data, analyzing results, and preparing reports. Experience using web analytics platforms, digital advertising dashboards, and campaign reporting tools. Understanding of key digital marketing metrics, including conversion rates, campaign costs, audience engagement, and return on marketing investment. Strong writing and content evaluation skills, with the ability to create and review compelling advertising copy and marketing messages. Familiarity with keyword research, competitor analysis, audience targeting, and digital marketing trends. Experience with A/B testing and relevant marketing certifications are considered advantages. Excellent attention to detail and organizational skills, with the ability to manage multiple campaigns and priorities simultaneously. Strong written and verbal English communication skills, with the ability to present marketing results and explain insights to non-marketing stakeholders. Ability to work independently, take ownership of assigned projects, and co",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/0551769d-aea6-46f3-941d-20f403af095b",
+      "isLive": true
+    },
+    {
+      "id": 4030515867,
+      "externalId": "df58afa4-557c-4437-8bf3-9a3abec10d2a",
+      "title": "Digital Marketing Specialist",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "marketing",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:42:17.379Z",
+      "skills": [
+        "Excel",
+        "Research",
+        "Sales",
+        "Marketing",
+        "Content",
+        "Leadership"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Digital Marketing Specialist based in India. We are looking for a creative, analytical, and results-driven Digital Marketing Specialist to plan, execute, and optimize digital marketing campaigns for growing U.S.-based businesses. In this role, you will take ownership of online marketing initiatives across multiple channels, helping strengthen brand visibility, attract audiences, and drive measurable business results. You will combine creativity with data analysis to identify opportunities, improve campaign performance, and maximize marketing effectiveness. Working closely with design, sales, and leadership teams, you will contribute to developing engaging content and impactful marketing strategies. You will also monitor industry trends, explore new tools, and continuously test innovative approaches. This fully remote opportunity offers a collaborative environment where your ideas and insights can directly influence brand growth and marketing success. Accountabilities:: Plan, develop, and execute digital marketing campaigns across relevant online channels to support brand awareness, audience engagement, and business growth. Monitor campaign performance regularly, identify areas for improvement, and implement data-driven adjustments to maximize results. Analyze marketing data and prepare clear, actionable performance reports to communicate campaign outcomes and strategic recommendations. Track key performance indicators (KPIs), including conversion rates, cost per acquisition, cost per result, and other relevant campaign metrics. Create, review, and optimize advertising copy, promotional messages, and other digital marketing content to engage target audiences. Collaborate with designers and cross-functional team members to develop creative concepts, marketing assets, and campaign materials. Conduct keyword research, competitor analysis, and market trend monitoring to identify new opportunities and improve marketing strategies. Plan and conduct experiments, including A/B testing, to evaluate different campaign approaches and identify the most effective tactics. Stay informed about emerging digital marketing trends, platforms, tools, and best practices to continuously improve campaign performance. Share insights, recommendations, and successful marketing practices with internal stakeholders to support ongoing business growth. Requirements: At least 2 years of professional experience in digital marketing, online advertising, social media marketing, search marketing, or a related field. Practical experience planning, managing, and optimizing digital marketing campaigns across multiple online channels. Strong analytical skills, with the ability to interpret campaign data, monitor performance indicators, and translate insights into actionable improvements. Proficiency in Microsoft Excel or Google Sheets for organizing marketing data, analyzing results, and preparing reports. Experience using web analytics platforms, digital advertising dashboards, and campaign reporting tools. Understanding of key digital marketing metrics, including conversion rates, campaign costs, audience engagement, and return on marketing investment. Strong writing and content evaluation skills, with the ability to create and review compelling advertising copy and marketing messages. Familiarity with keyword research, competitor analysis, audience targeting, and digital marketing trends. Experience with A/B testing and relevant marketing certifications are considered advantages. Excellent attention to detail and organizational skills, with the ability to manage multiple campaigns and priorities simultaneously. Strong written and verbal English communication skills, with the ability to present marketing results and explain insights to non-marketing stakeholders. Ability to work independently, take ownership of assigned projects, and co",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/df58afa4-557c-4437-8bf3-9a3abec10d2a",
+      "isLive": true
+    },
+    {
+      "id": 2920398663,
+      "externalId": "32bd95fa-f5d1-4bac-ab46-e52ed97715e8",
+      "title": "Senior Accounts Receivable Specialist",
+      "company": "Jobgether Partners",
+      "country": "السعودية",
+      "region": "Saudi Arabia",
+      "location": "Saudi Arabia",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:35:16.190Z",
+      "skills": [
+        "Excel",
+        "Accounting",
+        "Finance",
+        "Sales",
+        "Compliance",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Accounts Receivable Specialist based in India. We are seeking an experienced and detail-oriented Senior Accounts Receivable Specialist to manage and optimize the billing, invoicing, and collections processes for growing U.S.-based businesses. In this role, you will take ownership of the accounts receivable cycle, ensuring accurate financial records, timely payments, and effective cash flow management. You will work closely with accounting, sales, customers, and leadership teams to resolve discrepancies and improve collection performance. Your analytical skills and proactive approach will help identify payment delays, strengthen financial processes, and maintain reliable reporting. This fully remote opportunity offers exposure to international business operations and direct collaboration with decision-makers. It is an excellent opportunity for a finance professional who values accuracy, accountability, and continuous process improvement. Accountabilities:: Prepare, review, and issue accurate customer invoices and quotations, ensuring compliance with contractual agreements and purchase orders. Verify invoice details against customer orders, contracts, and supporting documentation, identifying and correcting discrepancies when necessary. Monitor outstanding accounts receivable balances and proactively follow up with customers to secure overdue payments. Manage collections activities professionally and consistently, maintaining positive customer relationships while ensuring timely payment. Respond to customer inquiries regarding invoices, payment terms, billing discrepancies, and account balances with clarity and professionalism. Record and reconcile incoming payments against outstanding invoices, investigating and resolving payment discrepancies. Identify the root causes of delayed payments and develop practical solutions to improve collection efficiency and reduce outstanding balances. Prepare regular accounts receivable, collections, and revenue reports to provide leadership with accurate financial insights. Maintain data consistency across accounting platforms and other business systems, ensuring accurate and up-to-date financial records. Identify opportunities to improve billing and collections workflows through better tools, automation, and standardized procedures. Collaborate with accounting, sales, and management teams to strengthen financial coordination and optimize the overall payment cycle. Requirements: At least 5 years of professional experience in accounts receivable, billing, collections, or a related accounting and finance position. Practical experience using QuickBooks or comparable accounting and financial management software. Strong proficiency in Microsoft Excel or Google Sheets, with the ability to manage financial data, reconciliations, and reporting. Solid understanding of accounts receivable processes, invoicing, payment allocation, collections, and account reconciliation. Excellent attention to detail, with the ability to identify inconsistencies, investigate discrepancies, and maintain accurate financial records. Strong analytical and problem-solving skills, particularly when investigating delayed payments and resolving complex billing issues. Excellent written and verbal English communication skills, with the ability to explain financial and billing matters clearly to customers and non-finance stakeholders. Strong interpersonal skills and a customer-oriented approach, with the ability to manage payment follow-ups professionally, confidently, and diplomatically. Ability to work independently, take ownership of responsibilities, identify potential issues, and communicate challenges proactively. Experience working with multiple accounting platforms or payment systems is considered an advantage. Availability to work in alignment with U.S. Eastern business hours. A suitable",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/32bd95fa-f5d1-4bac-ab46-e52ed97715e8",
+      "isLive": true
+    },
+    {
+      "id": 2692708704,
+      "externalId": "cbb9c3b4-aee1-454b-93ce-75822c6552d9",
+      "title": "Senior Accounts Receivable Specialist",
+      "company": "Jobgether Partners",
+      "country": "الإمارات",
+      "region": "United Arab Emirates",
+      "location": "United Arab Emirates",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:34:46.069Z",
+      "skills": [
+        "Excel",
+        "Accounting",
+        "Finance",
+        "Sales",
+        "Compliance",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Accounts Receivable Specialist based in India. We are seeking an experienced and detail-oriented Senior Accounts Receivable Specialist to manage and optimize the billing, invoicing, and collections processes for growing U.S.-based businesses. In this role, you will take ownership of the accounts receivable cycle, ensuring accurate financial records, timely payments, and effective cash flow management. You will work closely with accounting, sales, customers, and leadership teams to resolve discrepancies and improve collection performance. Your analytical skills and proactive approach will help identify payment delays, strengthen financial processes, and maintain reliable reporting. This fully remote opportunity offers exposure to international business operations and direct collaboration with decision-makers. It is an excellent opportunity for a finance professional who values accuracy, accountability, and continuous process improvement. Accountabilities:: Prepare, review, and issue accurate customer invoices and quotations, ensuring compliance with contractual agreements and purchase orders. Verify invoice details against customer orders, contracts, and supporting documentation, identifying and correcting discrepancies when necessary. Monitor outstanding accounts receivable balances and proactively follow up with customers to secure overdue payments. Manage collections activities professionally and consistently, maintaining positive customer relationships while ensuring timely payment. Respond to customer inquiries regarding invoices, payment terms, billing discrepancies, and account balances with clarity and professionalism. Record and reconcile incoming payments against outstanding invoices, investigating and resolving payment discrepancies. Identify the root causes of delayed payments and develop practical solutions to improve collection efficiency and reduce outstanding balances. Prepare regular accounts receivable, collections, and revenue reports to provide leadership with accurate financial insights. Maintain data consistency across accounting platforms and other business systems, ensuring accurate and up-to-date financial records. Identify opportunities to improve billing and collections workflows through better tools, automation, and standardized procedures. Collaborate with accounting, sales, and management teams to strengthen financial coordination and optimize the overall payment cycle. Requirements: At least 5 years of professional experience in accounts receivable, billing, collections, or a related accounting and finance position. Practical experience using QuickBooks or comparable accounting and financial management software. Strong proficiency in Microsoft Excel or Google Sheets, with the ability to manage financial data, reconciliations, and reporting. Solid understanding of accounts receivable processes, invoicing, payment allocation, collections, and account reconciliation. Excellent attention to detail, with the ability to identify inconsistencies, investigate discrepancies, and maintain accurate financial records. Strong analytical and problem-solving skills, particularly when investigating delayed payments and resolving complex billing issues. Excellent written and verbal English communication skills, with the ability to explain financial and billing matters clearly to customers and non-finance stakeholders. Strong interpersonal skills and a customer-oriented approach, with the ability to manage payment follow-ups professionally, confidently, and diplomatically. Ability to work independently, take ownership of responsibilities, identify potential issues, and communicate challenges proactively. Experience working with multiple accounting platforms or payment systems is considered an advantage. Availability to work in alignment with U.S. Eastern business hours. A suitable",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/cbb9c3b4-aee1-454b-93ce-75822c6552d9",
+      "isLive": true
+    },
+    {
+      "id": 2175514008,
+      "externalId": "9ef16b49-f450-4bcb-9af4-108d200a54ea",
+      "title": "Senior Accounts Receivable Specialist",
+      "company": "Jobgether Partners",
+      "country": "عُمان",
+      "region": "Romania",
+      "location": "Romania",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 0,
+      "maxExp": 30,
+      "category": "general",
+      "age": "اليوم",
+      "publishedAt": "2026-11-20T05:33:33.817Z",
+      "skills": [
+        "Excel",
+        "Accounting",
+        "Finance",
+        "Sales",
+        "Compliance",
+        "Operations",
+        "Leadership"
+      ],
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Senior Accounts Receivable Specialist based in India. We are seeking an experienced and detail-oriented Senior Accounts Receivable Specialist to manage and optimize the billing, invoicing, and collections processes for growing U.S.-based businesses. In this role, you will take ownership of the accounts receivable cycle, ensuring accurate financial records, timely payments, and effective cash flow management. You will work closely with accounting, sales, customers, and leadership teams to resolve discrepancies and improve collection performance. Your analytical skills and proactive approach will help identify payment delays, strengthen financial processes, and maintain reliable reporting. This fully remote opportunity offers exposure to international business operations and direct collaboration with decision-makers. It is an excellent opportunity for a finance professional who values accuracy, accountability, and continuous process improvement. Accountabilities:: Prepare, review, and issue accurate customer invoices and quotations, ensuring compliance with contractual agreements and purchase orders. Verify invoice details against customer orders, contracts, and supporting documentation, identifying and correcting discrepancies when necessary. Monitor outstanding accounts receivable balances and proactively follow up with customers to secure overdue payments. Manage collections activities professionally and consistently, maintaining positive customer relationships while ensuring timely payment. Respond to customer inquiries regarding invoices, payment terms, billing discrepancies, and account balances with clarity and professionalism. Record and reconcile incoming payments against outstanding invoices, investigating and resolving payment discrepancies. Identify the root causes of delayed payments and develop practical solutions to improve collection efficiency and reduce outstanding balances. Prepare regular accounts receivable, collections, and revenue reports to provide leadership with accurate financial insights. Maintain data consistency across accounting platforms and other business systems, ensuring accurate and up-to-date financial records. Identify opportunities to improve billing and collections workflows through better tools, automation, and standardized procedures. Collaborate with accounting, sales, and management teams to strengthen financial coordination and optimize the overall payment cycle. Requirements: At least 5 years of professional experience in accounts receivable, billing, collections, or a related accounting and finance position. Practical experience using QuickBooks or comparable accounting and financial management software. Strong proficiency in Microsoft Excel or Google Sheets, with the ability to manage financial data, reconciliations, and reporting. Solid understanding of accounts receivable processes, invoicing, payment allocation, collections, and account reconciliation. Excellent attention to detail, with the ability to identify inconsistencies, investigate discrepancies, and maintain accurate financial records. Strong analytical and problem-solving skills, particularly when investigating delayed payments and resolving complex billing issues. Excellent written and verbal English communication skills, with the ability to explain financial and billing matters clearly to customers and non-finance stakeholders. Strong interpersonal skills and a customer-oriented approach, with the ability to manage payment follow-ups professionally, confidently, and diplomatically. Ability to work independently, take ownership of responsibilities, identify potential issues, and communicate challenges proactively. Experience working with multiple accounting platforms or payment systems is considered an advantage. Availability to work in alignment with U.S. Eastern business hours. A suitable",
+      "source": "Lever · Jobgether Partners",
+      "externalUrl": "https://jobs.lever.co/jobgether/9ef16b49-f450-4bcb-9af4-108d200a54ea",
+      "isLive": true
+    },
     {
       "id": 1745640750,
       "externalId": "a1234349-670c-421f-94f6-4ebec36d8640",
@@ -434,7 +879,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:39:21.529Z",
       "skills": [
         "SQL",
@@ -464,7 +909,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:30:36.475Z",
       "skills": [
         "SQL",
@@ -494,7 +939,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:30:34.829Z",
       "skills": [
         "Excel",
@@ -523,7 +968,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:30:02.222Z",
       "skills": [
         "Excel",
@@ -552,7 +997,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:29:50.538Z",
       "skills": [
         "SQL",
@@ -582,7 +1027,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:28:27.923Z",
       "skills": [
         "Excel",
@@ -611,7 +1056,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:20:55.989Z",
       "skills": [
         "SQL",
@@ -641,7 +1086,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:20:17.418Z",
       "skills": [
         "SQL",
@@ -671,7 +1116,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:19:02.804Z",
       "skills": [
         "SQL",
@@ -701,7 +1146,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:17:43.452Z",
       "skills": [
         "Excel",
@@ -728,7 +1173,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:15:45.675Z",
       "skills": [
         "Excel",
@@ -755,7 +1200,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T09:14:53.466Z",
       "skills": [
         "Excel",
@@ -782,7 +1227,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T08:02:33.384Z",
       "skills": [
         "Python",
@@ -811,7 +1256,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T07:30:33.212Z",
       "skills": [
         "Excel",
@@ -839,7 +1284,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T07:19:25.177Z",
       "skills": [
         "Excel",
@@ -868,7 +1313,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hospitality",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T06:02:37.330Z",
       "skills": [
         "Excel",
@@ -896,7 +1341,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hospitality",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T06:01:12.740Z",
       "skills": [
         "Excel",
@@ -924,7 +1369,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hospitality",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T05:54:57.818Z",
       "skills": [
         "Excel",
@@ -952,7 +1397,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T05:22:13.884Z",
       "skills": [
         "Excel",
@@ -978,7 +1423,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T05:19:59.203Z",
       "skills": [
         "SQL",
@@ -1008,7 +1453,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-19T05:17:37.260Z",
       "skills": [
         "Insurance",
@@ -1656,7 +2101,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T07:12:44.355Z",
       "skills": [
         "SAP",
@@ -1682,7 +2127,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T07:06:38.032Z",
       "skills": [
         "SAP",
@@ -1708,7 +2153,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T05:55:23.639Z",
       "skills": [
         "React",
@@ -1736,7 +2181,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T05:54:48.054Z",
       "skills": [
         "React",
@@ -1764,7 +2209,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T05:53:26.159Z",
       "skills": [
         "React",
@@ -1792,7 +2237,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T05:47:46.547Z",
       "skills": [
         "Python",
@@ -1820,7 +2265,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T05:47:18.751Z",
       "skills": [
         "Python",
@@ -1848,7 +2293,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T05:46:07.232Z",
       "skills": [
         "Python",
@@ -1876,7 +2321,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T04:00:52.125Z",
       "skills": [
         "SQL",
@@ -1903,7 +2348,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T03:58:36.276Z",
       "skills": [
         "JavaScript",
@@ -1932,7 +2377,7 @@
       "minExp": 8,
       "maxExp": 10,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T03:56:19.986Z",
       "skills": [
         "Excel",
@@ -1960,7 +2405,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T03:50:32.981Z",
       "skills": [
         "Excel",
@@ -1991,7 +2436,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T03:50:00.789Z",
       "skills": [
         "Excel",
@@ -2022,7 +2467,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T03:48:45.499Z",
       "skills": [
         "Excel",
@@ -2053,7 +2498,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T01:04:01-05:00",
       "skills": [
         "Excel"
@@ -2078,7 +2523,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-18T01:03:07-05:00",
       "skills": [
         "Excel"
@@ -2343,7 +2788,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T09:29:02.783Z",
       "skills": [
         "Marketing",
@@ -2369,7 +2814,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:46:49.238Z",
       "skills": [
         "Python",
@@ -2398,7 +2843,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:43:42.963Z",
       "skills": [
         "Python",
@@ -2429,7 +2874,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:41:15.057Z",
       "skills": [
         "Excel",
@@ -2455,7 +2900,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:36:50.543Z",
       "skills": [
         "Python",
@@ -2485,7 +2930,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:36:12.324Z",
       "skills": [
         "Python",
@@ -2515,7 +2960,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:34:32.021Z",
       "skills": [
         "Python",
@@ -2545,7 +2990,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:29:37.501Z",
       "skills": [
         "Python",
@@ -2572,7 +3017,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:29:04.904Z",
       "skills": [
         "Python",
@@ -2599,7 +3044,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:27:42.932Z",
       "skills": [
         "Python",
@@ -2626,7 +3071,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:20:48.751Z",
       "skills": [
         "React",
@@ -2652,7 +3097,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:19:11.333Z",
       "skills": [
         "Excel",
@@ -2681,7 +3126,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:18:40.062Z",
       "skills": [
         "Excel",
@@ -2710,7 +3155,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:17:12.253Z",
       "skills": [
         "Excel",
@@ -2739,7 +3184,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:10:32.405Z",
       "skills": [
         "SQL",
@@ -2766,7 +3211,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:09:07.664Z",
       "skills": [
         "SQL",
@@ -2793,7 +3238,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:07:31.234Z",
       "skills": [
         "SQL",
@@ -2820,7 +3265,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:05:51.149Z",
       "skills": [
         "Content"
@@ -2845,7 +3290,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:05:13.720Z",
       "skills": [
         "Content"
@@ -2870,7 +3315,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:03:27.655Z",
       "skills": [
         "Content"
@@ -2895,7 +3340,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "legal",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:01:45.063Z",
       "skills": [
         "Excel",
@@ -2924,7 +3369,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T08:00:57.668Z",
       "skills": [
         "Sales",
@@ -2952,7 +3397,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T07:53:04.328Z",
       "skills": [
         "Python",
@@ -2980,7 +3425,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T07:52:31.307Z",
       "skills": [
         "Python",
@@ -3008,7 +3453,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T07:51:04.733Z",
       "skills": [
         "Python",
@@ -3036,7 +3481,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-17T07:49:57.191Z",
       "skills": [
         "Python",
@@ -3369,7 +3814,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T10:33:16.331Z",
       "skills": [
         "SQL",
@@ -3399,7 +3844,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T10:32:39.242Z",
       "skills": [
         "SQL",
@@ -3429,7 +3874,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T10:30:58.156Z",
       "skills": [
         "SQL",
@@ -3459,7 +3904,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T10:25:46.891Z",
       "skills": [
         "Excel",
@@ -3487,7 +3932,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T10:25:16.170Z",
       "skills": [
         "Excel",
@@ -3515,7 +3960,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T10:23:20.122Z",
       "skills": [
         "Excel",
@@ -3543,7 +3988,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T10:06:48.924Z",
       "skills": [
         "Excel",
@@ -3570,7 +4015,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T10:06:16.341Z",
       "skills": [
         "Excel",
@@ -3597,7 +4042,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T10:04:37.995Z",
       "skills": [
         "Excel",
@@ -3624,7 +4069,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T09:48:13.773Z",
       "skills": [
         "Python",
@@ -3651,7 +4096,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T09:03:52.309Z",
       "skills": [
         "Excel",
@@ -3678,7 +4123,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:46:28.604Z",
       "skills": [
         "Python",
@@ -3707,7 +4152,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:44:57.615Z",
       "skills": [
         "Excel",
@@ -3738,7 +4183,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:42:54.414Z",
       "skills": [
         "Excel",
@@ -3769,7 +4214,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:39:57.133Z",
       "skills": [
         "SAP",
@@ -3796,7 +4241,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:37:52.376Z",
       "skills": [
         "Power BI",
@@ -3827,7 +4272,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:36:08.537Z",
       "skills": [
         "Power BI",
@@ -3858,7 +4303,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:35:29.119Z",
       "skills": [
         "Power BI",
@@ -3889,7 +4334,7 @@
       "minExp": 6,
       "maxExp": 8,
       "category": "legal",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:34:57.191Z",
       "skills": [
         "Excel",
@@ -3918,7 +4363,7 @@
       "minExp": 6,
       "maxExp": 8,
       "category": "legal",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:34:15.430Z",
       "skills": [
         "Excel",
@@ -3947,7 +4392,7 @@
       "minExp": 6,
       "maxExp": 8,
       "category": "legal",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:32:43.471Z",
       "skills": [
         "Excel",
@@ -3976,7 +4421,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:17:49.494Z",
       "skills": [
         "Excel",
@@ -4003,7 +4448,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:16:58.817Z",
       "skills": [
         "Excel",
@@ -4030,7 +4475,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-16T08:14:46.922Z",
       "skills": [
         "Excel",
@@ -4057,7 +4502,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T10:06:02.260Z",
       "skills": [
         "Python",
@@ -4085,7 +4530,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T10:03:32.269Z",
       "skills": [
         "Python",
@@ -4113,7 +4558,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T10:02:50.053Z",
       "skills": [
         "Python",
@@ -4141,7 +4586,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T09:49:23.025Z",
       "skills": [
         "MEP",
@@ -4169,7 +4614,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T09:39:41.903Z",
       "skills": [
         "SQL",
@@ -4199,7 +4644,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T09:37:05.619Z",
       "skills": [
         "SQL",
@@ -4229,7 +4674,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "operations",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T09:36:11.678Z",
       "skills": [
         "SQL",
@@ -4259,7 +4704,7 @@
       "minExp": 2,
       "maxExp": 5,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T08:53:24.809Z",
       "skills": [
         "Excel",
@@ -4285,7 +4730,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T08:37:28.785Z",
       "skills": [
         "Python",
@@ -4314,7 +4759,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T08:32:45.080Z",
       "skills": [
         "Excel"
@@ -4339,7 +4784,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T08:01:20.122Z",
       "skills": [
         "Recruitment",
@@ -4365,7 +4810,7 @@
       "minExp": 2,
       "maxExp": 4,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T08:00:44.793Z",
       "skills": [
         "Excel",
@@ -4394,7 +4839,7 @@
       "minExp": 2,
       "maxExp": 4,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T08:00:09.816Z",
       "skills": [
         "Excel",
@@ -4423,7 +4868,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T07:54:21.550Z",
       "skills": [
         "Excel",
@@ -4452,7 +4897,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T07:53:51.901Z",
       "skills": [
         "Excel",
@@ -4481,7 +4926,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T07:52:40.593Z",
       "skills": [
         "Excel",
@@ -4510,7 +4955,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T07:46:53.664Z",
       "skills": [
         "Python",
@@ -4538,7 +4983,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T07:46:31.560Z",
       "skills": [
         "Excel",
@@ -4569,7 +5014,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T07:45:36.664Z",
       "skills": [
         "Excel",
@@ -4597,7 +5042,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T07:45:07.676Z",
       "skills": [
         "Excel",
@@ -4625,7 +5070,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T07:18:55.554Z",
       "skills": [
         "Excel"
@@ -4650,7 +5095,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T07:01:26.810Z",
       "skills": [
         "SQL",
@@ -4681,7 +5126,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T06:59:33.062Z",
       "skills": [
         "SQL",
@@ -4712,7 +5157,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T06:58:06.399Z",
       "skills": [
         "SQL",
@@ -4743,7 +5188,7 @@
       "minExp": 3,
       "maxExp": 11,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T06:57:20.991Z",
       "skills": [
         "SQL",
@@ -4774,7 +5219,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T06:44:44.136Z",
       "skills": [
         "Excel",
@@ -4804,7 +5249,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T06:44:04.507Z",
       "skills": [
         "Excel",
@@ -4834,7 +5279,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-13T06:42:02.998Z",
       "skills": [
         "Excel",
@@ -4947,7 +5392,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 8 أيام",
+      "age": "منذ 9 أيام",
       "publishedAt": "2026-11-11T08:21:55.529Z",
       "skills": [
         "Finance",
@@ -5053,7 +5498,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 13 أيام",
+      "age": "منذ 14 أيام",
       "publishedAt": "2026-11-06T06:08:36.084Z",
       "skills": [
         "Excel",
@@ -5109,7 +5554,7 @@
       "minExp": 2,
       "maxExp": 3,
       "category": "general",
-      "age": "منذ 17 أيام",
+      "age": "منذ 18 أيام",
       "publishedAt": "2026-11-02T02:16:58-05:00",
       "skills": [
         "Excel",
@@ -5221,7 +5666,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 22 أيام",
+      "age": "منذ 23 أيام",
       "publishedAt": "2026-10-28T10:00:42.776Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5246,7 +5691,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "energy",
-      "age": "منذ 28 أيام",
+      "age": "منذ 29 أيام",
       "publishedAt": "2026-10-22T09:11:56.331Z",
       "skills": [
         "Python",
@@ -5277,7 +5722,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "projects",
-      "age": "منذ 28 أيام",
+      "age": "منذ 29 أيام",
       "publishedAt": "2026-10-22T06:05:40.595Z",
       "skills": [
         "PMP",
@@ -5334,7 +5779,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 30 أيام",
+      "age": "منذ 31 أيام",
       "publishedAt": "2026-10-20T09:51:08.047Z",
       "skills": [
         "Research"
@@ -5359,7 +5804,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 30 أيام",
+      "age": "منذ 31 أيام",
       "publishedAt": "2026-10-20T09:50:41.630Z",
       "skills": [
         "Research"
@@ -5384,7 +5829,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 30 أيام",
+      "age": "منذ 31 أيام",
       "publishedAt": "2026-10-20T09:31:49.383Z",
       "skills": [
         "Research"
@@ -5409,7 +5854,7 @@
       "minExp": 2,
       "maxExp": 4,
       "category": "technology",
-      "age": "منذ 36 أيام",
+      "age": "منذ 37 أيام",
       "publishedAt": "2026-10-14T06:30:36.925Z",
       "skills": [
         "SQL",
@@ -5615,7 +6060,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "technology",
-      "age": "منذ 55 أيام",
+      "age": "منذ 56 أيام",
       "publishedAt": "2026-09-25T08:06:45.340Z",
       "skills": [
         "Python",
@@ -5643,7 +6088,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 56 أيام",
+      "age": "منذ 57 أيام",
       "publishedAt": "2026-09-24T09:23:39.128Z",
       "skills": [
         "Content"
@@ -5668,7 +6113,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 56 أيام",
+      "age": "منذ 57 أيام",
       "publishedAt": "2026-09-24T09:19:29.053Z",
       "skills": [
         "Content"
@@ -5718,7 +6163,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 57 أيام",
+      "age": "منذ 58 أيام",
       "publishedAt": "2026-09-23T05:18:15.252Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5743,7 +6188,7 @@
       "minExp": 10,
       "maxExp": 12,
       "category": "technology",
-      "age": "منذ 57 أيام",
+      "age": "منذ 58 أيام",
       "publishedAt": "2026-09-23T05:08:30.489Z",
       "skills": [
         "Operations",
@@ -5796,7 +6241,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "general",
-      "age": "منذ 63 أيام",
+      "age": "منذ 64 أيام",
       "publishedAt": "2026-09-17T06:43:26.045Z",
       "skills": [
         "Excel",
@@ -5822,7 +6267,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "general",
-      "age": "منذ 63 أيام",
+      "age": "منذ 64 أيام",
       "publishedAt": "2026-09-17T06:29:45.774Z",
       "skills": [
         "Excel",
@@ -5849,7 +6294,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 63 أيام",
+      "age": "منذ 64 أيام",
       "publishedAt": "2026-09-17T05:54:05.061Z",
       "skills": [
         "Excel",
@@ -5928,7 +6373,7 @@
       "minExp": 8,
       "maxExp": 16,
       "category": "manufacturing",
-      "age": "منذ 65 أيام",
+      "age": "منذ 66 أيام",
       "publishedAt": "2026-09-15T06:50:37.096Z",
       "skills": [
         "Excel",
@@ -6113,7 +6558,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 71 أيام",
+      "age": "منذ 72 أيام",
       "publishedAt": "2026-09-09T05:44:32.524Z",
       "skills": [
         "Excel",
@@ -6140,7 +6585,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 71 أيام",
+      "age": "منذ 72 أيام",
       "publishedAt": "2026-09-09T05:31:11.945Z",
       "skills": [
         "Sales"
@@ -6165,7 +6610,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 72 أيام",
+      "age": "منذ 73 أيام",
       "publishedAt": "2026-09-08T04:40:50.396Z",
       "skills": [
         "Excel"
@@ -6218,7 +6663,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 78 أيام",
+      "age": "منذ 79 أيام",
       "publishedAt": "2026-09-02T05:40:58.164Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6243,7 +6688,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 79 أيام",
+      "age": "منذ 80 أيام",
       "publishedAt": "2026-09-01T08:15:05.603Z",
       "skills": [
         "Excel",
@@ -6273,7 +6718,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "finance",
-      "age": "منذ 79 أيام",
+      "age": "منذ 80 أيام",
       "publishedAt": "2026-09-01T07:45:14.868Z",
       "skills": [
         "Excel",
@@ -6435,7 +6880,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 92 أيام",
+      "age": "منذ 93 أيام",
       "publishedAt": "2026-08-19T09:20:20.297Z",
       "skills": [
         "Excel",
@@ -6568,7 +7013,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 111 أيام",
+      "age": "منذ 112 أيام",
       "publishedAt": "2026-07-31T07:06:13.431Z",
       "skills": [
         "PMP",
@@ -6597,7 +7042,7 @@
       "minExp": 4,
       "maxExp": 6,
       "category": "sales",
-      "age": "منذ 111 أيام",
+      "age": "منذ 112 أيام",
       "publishedAt": "2026-07-31T05:49:03.529Z",
       "skills": [
         "Excel",
@@ -6655,7 +7100,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "administration",
-      "age": "منذ 122 أيام",
+      "age": "منذ 123 أيام",
       "publishedAt": "2026-07-20T10:01:59.840Z",
       "skills": [
         "SAP",
@@ -6795,7 +7240,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 135 أيام",
+      "age": "منذ 136 أيام",
       "publishedAt": "2026-07-07T09:06:51.302Z",
       "skills": [
         "Content",
@@ -6850,7 +7295,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 189 أيام",
+      "age": "منذ 190 أيام",
       "publishedAt": "2026-05-14T10:28:50.593Z",
       "skills": [
         "Finance",
@@ -6878,7 +7323,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 220 أيام",
+      "age": "منذ 221 أيام",
       "publishedAt": "2026-04-13T07:28:26.803Z",
       "skills": [
         "Education",
@@ -6934,7 +7379,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 227 أيام",
+      "age": "منذ 228 أيام",
       "publishedAt": "2026-04-06T09:05:43.236Z",
       "skills": [
         "Audit",
@@ -6965,7 +7410,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 260 أيام",
+      "age": "منذ 261 أيام",
       "publishedAt": "2026-03-04T08:52:35.403Z",
       "skills": [
         "Excel",
@@ -7023,7 +7468,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 273 أيام",
+      "age": "منذ 274 أيام",
       "publishedAt": "2026-02-19T06:41:38.833Z",
       "skills": [
         "Python",
@@ -7050,7 +7495,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "civil",
-      "age": "منذ 273 أيام",
+      "age": "منذ 274 أيام",
       "publishedAt": "2026-02-19T06:23:32.551Z",
       "skills": [
         "AutoCAD",
@@ -7078,7 +7523,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 290 أيام",
+      "age": "منذ 291 أيام",
       "publishedAt": "2026-02-02T07:23:16.709Z",
       "skills": [
         "Finance",
@@ -7108,7 +7553,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 301 أيام",
+      "age": "منذ 302 أيام",
       "publishedAt": "2026-01-22T05:22:02.669Z",
       "skills": [
         "Excel",
@@ -7134,7 +7579,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "projects",
-      "age": "منذ 364 أيام",
+      "age": "منذ 365 أيام",
       "publishedAt": "2025-11-20T04:47:02.192Z",
       "skills": [
         "Excel",
@@ -7164,7 +7609,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 380 أيام",
+      "age": "منذ 381 أيام",
       "publishedAt": "2025-11-04T10:29:24.468Z",
       "skills": [
         "AutoCAD",
@@ -7411,7 +7856,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 561 أيام",
+      "age": "منذ 562 أيام",
       "publishedAt": "2025-05-07T08:19:01.580Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7462,7 +7907,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "projects",
-      "age": "منذ 651 أيام",
+      "age": "منذ 652 أيام",
       "publishedAt": "2025-02-06T04:32:02.400Z",
       "skills": [
         "Primavera P6",
@@ -7489,7 +7934,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 668 أيام",
+      "age": "منذ 669 أيام",
       "publishedAt": "2025-01-20T08:12:44.468Z",
       "skills": [
         "Audit",
@@ -7544,7 +7989,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 869 أيام",
+      "age": "منذ 870 أيام",
       "publishedAt": "2024-07-03T07:43:10.387Z",
       "skills": [
         "Excel",
