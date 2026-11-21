@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-21T16:26:08.660Z",
-  "total": 281,
+  "generatedAt": "2026-11-21T21:54:23.513Z",
+  "total": 277,
   "feeds": 13,
   "jobs": [
     {
@@ -1038,7 +1038,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-19T17:22:11.306Z",
       "skills": [
         "Excel",
@@ -4043,34 +4043,6 @@
       "isLive": true
     },
     {
-      "id": 2819183979,
-      "externalId": "3099bcfa-731e-4aed-beed-e83148ca0dee",
-      "title": "Head of Product - AdTech",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 5,
-      "maxExp": 13,
-      "category": "general",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-11-16T13:01:36.752Z",
-      "skills": [
-        "Excel",
-        "Research",
-        "Marketing",
-        "Leadership"
-      ],
-      "description": "Accountabilities:: Lead the overall product strategy and development of the AdTech portfolio, identifying opportunities to strengthen mobile advertising capabilities and deliver measurable value to game developers. You will combine strategic leadership, market research, technical expertise, and hands-on product execution to build solutions that support sustainable customer and business growth. Define and own the long-term product vision, strategy, and roadmap across the AdTech business. Identify emerging opportunities in mobile advertising by analyzing customer needs, market trends, competitive developments, technological advancements, and unmet industry demands. Explore how artificial intelligence and automation can transform mobile monetization and user acquisition, making sophisticated advertising solutions accessible to developers of all sizes. Develop an integrated growth ecosystem connecting ad monetization, user acquisition, and data to help game studios make informed decisions and improve profitability. Lead product initiatives from initial concept and validation through development, launch, optimization, and scaling. Establish clear product priorities, balancing customer needs, technical feasibility, commercial opportunities, and long-term business objectives. Collaborate with senior leadership and cross-functional teams to align product investments with strategic business goals. Translate complex advertising technologies into intuitive, scalable products that solve meaningful customer problems. Use data, experimentation, and performance insights to evaluate product success and identify opportunities for continuous improvement. Take ownership of measurable customer outcomes, product performance, revenue contribution, and overall business growth. Encourage innovation and experimentation while supporting teams in developing stronger product thinking and execution capabilities. Requirements : We are looking for an experienced and entrepreneurial product leader with a strong background in AdTech, mobile advertising, or performance marketing technology. The ideal candidate combines a comprehensive understanding of the advertising ecosystem with technical curiosity, commercial awareness, and a proven ability to turn complex ideas into successful products. You should be comfortable operating at both strategic and execution levels, influencing senior stakeholders, and helping teams deliver ambitious product initiatives. At least 5 years of experience building, developing, and scaling products in AdTech, mobile advertising, or adjacent performance marketing technology. Deep understanding of the mobile advertising ecosystem, including ad monetization, mediation, user acquisition, demand-side platforms (DSPs), supply-side platforms (SSPs), bidding mechanisms, attribution, and advertising economics. Proven track record of taking complex technical products from concept to launch and delivering measurable commercial results. Experience working with data-intensive platforms, optimization systems, machine learning, or AI-powered products. Strong understanding of customer businesses and the ability to identify problems that create meaningful, measurable value when solved. Excellent commercial judgment, with the ability to connect product decisions to customer outcomes, revenue generation, and business growth. Entrepreneurial mindset and a demonstrated ability to identify opportunities, challenge conventional approaches, and build products from zero to one. Strong strategic vision combined with practical execution skills and sound technical judgment. Customer-focused approach, with the ability to translate market insights and customer needs into effective product strategies. Experience bringing cross-functional teams together, coaching product professionals, and raising standards for product development. Performance-driven attitude, with a willingness to experiment, learn from setbacks, and continuously improve. Excellent communication",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/3099bcfa-731e-4aed-beed-e83148ca0dee",
-      "isLive": true
-    },
-    {
       "id": 2780331752,
       "externalId": "26f9c308-9f1f-433e-ad04-fcb1e40a6046",
       "title": "Head of Product - AdTech",
@@ -4580,33 +4552,6 @@
       "isLive": true
     },
     {
-      "id": 785896709,
-      "externalId": "afa3e053-d9a4-46ef-8703-9015dd8ec9c6",
-      "title": "Senior ML Engineer",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "general",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-11-16T09:48:13.773Z",
-      "skills": [
-        "Python",
-        "SQL",
-        "Insurance"
-      ],
-      "description": "Accountabilities: Develop and implement machine learning models, initially focusing on player churn prediction, early identification of VIP players and player profiling. Formulate and validate hypotheses to assess potential machine learning use cases before investing in model development. Select appropriate modelling approaches and build predictive solutions using supervised and unsupervised learning techniques. Perform feature engineering, including the creation, selection and optimization of features to improve model performance. Evaluate model quality through appropriate statistical methods, validation strategies and performance metrics. Translate machine learning models into production-ready solutions and manage their technical implementation. Deploy, maintain and optimize models in production environments, ensuring reliability and scalability. Monitor model performance and stability, identify potential issues and implement improvements when needed. Contribute to MLOps practices and continuously improve the machine learning development and deployment lifecycle. Collaborate with data and analytics colleagues to deliver effective solutions aligned with business needs. Requirements: Strong practical experience with Python, SQL and Git. Experience containerizing applications and ML workloads using Docker. Solid understanding of statistics, model validation techniques and machine learning performance evaluation. Hands-on experience with supervised learning methods, including forecasting, regression and classification. Experience with unsupervised learning approaches, particularly clustering and segmentation. Strong feature engineering skills, including feature creation, selection and optimization. Proven experience deploying machine learning models into production environments. Understanding of MLOps practices and production model monitoring. Ability to investigate problems, validate assumptions and translate analytical findings into practical ML solutions. Strong problem-solving skills, ownership and a proactive approach to technical challenges. Comfortable collaborating within a team, communicating ideas clearly and incorporating feedback. Nice to have: Experience with ML lifecycle management tools such as MLflow or equivalent platforms. Nice to have: Knowledge of neural network architectures, including RNNs and autoencoders. Nice to have: Experience with uplift modelling. Nice to have: Familiarity with dbt. Benefits: Fully remote working arrangements, with the option to work from comfortable and secure hubs in Kyiv or Warsaw. 20 paid days off per year, in addition to public holidays and sick leave. Medical insurance with access to leading clinics. Coverage for psychological support through the Pleso platform. Monthly Benefit Café allowance to spend on personal interests, hobbies, sports and other eligible activities. Individual learning and development budget for courses and professional training. Corporate English language classes, workshops and access to an online learning library. Performance reviews, structured career planning and mentoring opportunities. Team-building activities, corporate events and workshops. Access to in-house technical capabilities and opportunities to build technology solutions from the ground up. An open, collaborative culture that values initiative, autonomy, straightforward communication and continuous improvement. An environment focused on reducing repetitive work through automation and supporting professional growth.",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/afa3e053-d9a4-46ef-8703-9015dd8ec9c6",
-      "isLive": true
-    },
-    {
       "id": 3556627560,
       "externalId": "0f9f7ae0-0420-4412-b933-d8bbfa1266f7",
       "title": "Digital Program Lead - B2B SaaS",
@@ -4722,33 +4667,6 @@
       "description": "Accountabilities:: Commercial Legal Support: Review, negotiate, and redline Master Services Agreements (MSAs), Statements of Work (SOWs), Data Processing Agreements (DPAs), and other third-party commercial contracts. Standardize commercial terms, support the deal desk, ensure legal compliance in sales documentation, and facilitate timely contract execution. Procurement and Vendor Management: Support vendor evaluations and selection processes, lead contract negotiations, manage renewal timelines, optimize pricing, and identify opportunities for vendor consolidation and cost reduction. Internal Legal Management: Draft, review, and manage employment agreements, contractor agreements, non-disclosure agreements (NDAs), and other internal legal documentation. Act as a key point of contact for compliance matters involving internal teams and external stakeholders. Legal Operations and Process Improvement: Maintain and optimize the contract management system, establish a centralized legal request and ticketing process, develop standardized workflows, and implement procurement policies. AI and Automation: Identify repetitive legal and procurement activities that can be automated using AI-powered tools and workflow solutions. Develop practical applications such as automated contract reviews, clause comparisons, contract summaries, self-service NDAs, and contract knowledge assistants while ensuring appropriate human oversight. Team Leadership: Manage, train, and coach the Paralegal, enabling greater autonomy in handling standard commercial and legal requests while ensuring effective delegation and workload management. Performance and Business Impact: Drive measurable improvements, including reducing procurement costs by at least 10%, processing 80% of commercial agreements within the same business day, proactively managing all contract renewals, and automating at least 50% of standard legal requests through self-service or AI-assisted workflows. Requirements: Proven professional experience in commercial legal counsel, contract management, procurement, or a comparable legal operations role. Strong expertise in negotiating and reviewing commercial agreements, particularly MSAs, SOWs, DPAs, NDAs, and vendor contracts. Demonstrated experience in procurement strategy, vendor evaluation, contract negotiations, renewal management, and achieving measurable cost savings. Solid understanding of commercial compliance, employment agreements, contractor agreements, and internal legal documentation. Ability to balance legal risk management with business priorities, particularly in fast-paced, sales-driven environments where contract turnaround times are important. Strong organizational and process-building skills, with experience developing contract templates, negotiation playbooks, approval workflows, and request management systems. An AI-first and automation-oriented mindset, with practical experience using AI assistants and workflow tools to accelerate contract reviews, drafting, clause comparisons, and routine legal support. Excellent negotiation, analytical, and problem-solving abilities, combined with sound commercial judgment and attention to detail. Strong communication and stakeholder management skills, with the ability to collaborate effectively with finance, sales, procurement, and other internal teams. Leadership and mentoring capabilities, including the ability to manage and develop paralegal support and coordinate with external legal counsel when necessary. A proactive, independent, and results-oriented approach, with a strong sense of ownership and the ability to manage multiple priorities in a remote working environment. Professional proficiency in English and the ability to operate effectively in an international business environment. Benefits: Remote working: Europe-based remote opportunity offering flexibility in where you work. Strategic responsibility: Direct reporting to the CFO and the opportunity to influence legal, procurement,",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/7d72f937-dc7d-4f0e-b168-ef917b9bf06e",
-      "isLive": true
-    },
-    {
-      "id": 3537589323,
-      "externalId": "83de0e49-16fc-4999-b133-3c614759132b",
-      "title": "SAP Close Automation Consultant, Global",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "general",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-11-16T08:39:57.133Z",
-      "skills": [
-        "SAP",
-        "Accounting",
-        "Finance"
-      ],
-      "description": "Accountabilities:: Design and build an automated financial close framework using SAP Financial Closing Cockpit or SAP Advanced Financial Closing (AFC). Configure and manage close task lists, dependencies, approval workflows, and financial close calendars. Automate key financial close activities, including balance sheet reconciliations, automatic certifications, accruals, and journal postings. Align financial close automation processes with SAP Financial Accounting and Controlling (FI/CO) requirements. Identify opportunities to optimize existing financial close processes, reduce manual tasks, and improve accuracy and efficiency. Collaborate with finance and technical teams to ensure the solution meets business requirements and supports the wider finance automation programme. Requirements: At least 8 years of relevant professional experience in SAP consulting, finance transformation, or financial close automation. Proven hands-on experience designing and implementing automated financial close solutions using SAP Financial Closing Cockpit, SAP Advanced Financial Closing (AFC), BlackLine, or Trintech Cadency. Strong expertise in balance sheet reconciliation, automatic certification, accruals, and journal posting automation. Solid knowledge of SAP FI/CO and its integration with financial close processes. Experience translating finance requirements into effective technical and functional solutions. Strong analytical, problem-solving, and stakeholder management skills. Ability to work independently in a remote, international project environment. Professional proficiency in English is required. Exposure to Redwood Finance Automation or SAP CPS/BPA is considered an advantage but is not essential. Applicants must be based in Germany for this specific location listing. Benefits: Competitive daily rate: EUR 400 per day for consultants based in Germany and other eligible European countries. Contract opportunity: International consulting assignment within a global finance automation programme. Remote flexibility: Fully remote working arrangement. International exposure: Opportunity to collaborate with stakeholders across multiple European markets. Professional development: Hands-on involvement in SAP financial close automation and finance transformation initiatives. Project impact: Opportunity to contribute to the design and implementation of scalable financial automation solutions. Contract duration: To be confirmed. Expected start date: 15 November 2026. Working language: English.",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/83de0e49-16fc-4999-b133-3c614759132b",
       "isLive": true
     },
     {
@@ -4983,33 +4901,6 @@
       "description": "Accountabilities:: Leverage your FP&A expertise to develop realistic, practical tasks that replicate the responsibilities and challenges of financial planning and analysis professionals. Work through each assignment to establish accurate expected outcomes and create objective evaluation criteria that can be used to assess AI-generated results. Develop realistic FP&A tasks based on your professional experience and everyday financial workflows. Create domain-specific assignments and deliverables using Excel, Word, PowerPoint, and other relevant professional tools. Complete each task independently to establish a clear, accurate, and reliable reference answer. Identify common mistakes and limitations in AI-generated financial analysis and incorporate relevant scenarios into evaluation tasks. Develop precise yes-or-no evaluation criteria that allow graders to consistently assess the accuracy and quality of AI-generated outputs. Follow provided project guidelines and collaborate with the research team to ensure tasks meet quality expectations. Apply attention to detail and professional judgment throughout the task creation and evaluation process. Requirements: The ideal candidate has hands-on experience in financial planning and analysis, with a strong understanding of financial workflows and the ability to translate professional knowledge into structured, practical assignments. You should be comfortable producing and reviewing financial deliverables, communicating clearly in English, and exploring how AI tools can support or improve finance-related activities. Minimum of 3 years of professional experience in Financial Planning and Analysis (FP&A). Relevant professional qualifications are valued, including ACCA, CIMA, CPA, CA, or ACA. Strong written English communication skills and the ability to explain complex financial concepts clearly. Practical experience using financial tools and producing professional deliverables in Excel, Word, and PowerPoint. Strong attention to detail and the ability to identify errors, inconsistencies, and gaps in financial outputs. Willingness to learn about artificial intelligence, AI evaluation methodologies, and emerging concepts in AI assessments. Ability to develop structured tasks and objective evaluation criteria. Familiarity with Enterprise Resource Planning (ERP) systems is an advantage. Ability to work independently, manage deadlines, and deliver high-quality assignments within the required timelines. Benefits: Fully remote independent contractor opportunity. Flexible working schedule, allowing you to complete tasks on your own schedule. Immediate start available. Initial project duration of approximately 4–6 weeks. Task-based compensation, with payment issued weekly following task completion. Opportunity to qualify for additional assignments throughout the project after successfully completing the first task within the required timeline. Potential for project extensions depending on business needs and individual performance. Opportunity to apply your FP&A expertise to real-world AI training and evaluation initiatives. Exposure to emerging AI technologies and professional AI assessment methodologies. No requirement to access confidential or proprietary information belonging to current or previous employers, clients, or institutions.",
       "source": "Lever · Jobgether Partners",
       "externalUrl": "https://jobs.lever.co/jobgether/9fb1b53b-2485-4322-8585-6738678c6367",
-      "isLive": true
-    },
-    {
-      "id": 2293235355,
-      "externalId": "7ff6e707-d120-4c77-b570-d5717e037b30",
-      "title": "FP&A AI Research Contributor",
-      "company": "Jobgether Partners",
-      "country": "عُمان",
-      "region": "Romania",
-      "location": "Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "research",
-      "age": "منذ 5 أيام",
-      "publishedAt": "2026-11-16T08:14:46.922Z",
-      "skills": [
-        "Excel",
-        "Finance",
-        "Research"
-      ],
-      "description": "Accountabilities:: Leverage your FP&A expertise to develop realistic, practical tasks that replicate the responsibilities and challenges of financial planning and analysis professionals. Work through each assignment to establish accurate expected outcomes and create objective evaluation criteria that can be used to assess AI-generated results. Develop realistic FP&A tasks based on your professional experience and everyday financial workflows. Create domain-specific assignments and deliverables using Excel, Word, PowerPoint, and other relevant professional tools. Complete each task independently to establish a clear, accurate, and reliable reference answer. Identify common mistakes and limitations in AI-generated financial analysis and incorporate relevant scenarios into evaluation tasks. Develop precise yes-or-no evaluation criteria that allow graders to consistently assess the accuracy and quality of AI-generated outputs. Follow provided project guidelines and collaborate with the research team to ensure tasks meet quality expectations. Apply attention to detail and professional judgment throughout the task creation and evaluation process. Requirements: The ideal candidate has hands-on experience in financial planning and analysis, with a strong understanding of financial workflows and the ability to translate professional knowledge into structured, practical assignments. You should be comfortable producing and reviewing financial deliverables, communicating clearly in English, and exploring how AI tools can support or improve finance-related activities. Minimum of 3 years of professional experience in Financial Planning and Analysis (FP&A). Relevant professional qualifications are valued, including ACCA, CIMA, CPA, CA, or ACA. Strong written English communication skills and the ability to explain complex financial concepts clearly. Practical experience using financial tools and producing professional deliverables in Excel, Word, and PowerPoint. Strong attention to detail and the ability to identify errors, inconsistencies, and gaps in financial outputs. Willingness to learn about artificial intelligence, AI evaluation methodologies, and emerging concepts in AI assessments. Ability to develop structured tasks and objective evaluation criteria. Familiarity with Enterprise Resource Planning (ERP) systems is an advantage. Ability to work independently, manage deadlines, and deliver high-quality assignments within the required timelines. Benefits: Fully remote independent contractor opportunity. Flexible working schedule, allowing you to complete tasks on your own schedule. Immediate start available. Initial project duration of approximately 4–6 weeks. Task-based compensation, with payment issued weekly following task completion. Opportunity to qualify for additional assignments throughout the project after successfully completing the first task within the required timeline. Potential for project extensions depending on business needs and individual performance. Opportunity to apply your FP&A expertise to real-world AI training and evaluation initiatives. Exposure to emerging AI technologies and professional AI assessment methodologies. No requirement to access confidential or proprietary information belonging to current or previous employers, clients, or institutions.",
-      "source": "Lever · Jobgether Partners",
-      "externalUrl": "https://jobs.lever.co/jobgether/7ff6e707-d120-4c77-b570-d5717e037b30",
       "isLive": true
     },
     {
@@ -5299,7 +5190,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "legal",
-      "age": "منذ 22 أيام",
+      "age": "منذ 23 أيام",
       "publishedAt": "2026-10-29T18:19:21.691Z",
       "skills": [
         "Excel",
@@ -5723,7 +5614,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 47 أيام",
+      "age": "منذ 48 أيام",
       "publishedAt": "2026-10-04T20:56:32.354Z",
       "skills": [
         "Finance",
@@ -5856,7 +5747,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 58 أيام",
+      "age": "منذ 59 أيام",
       "publishedAt": "2026-09-23T17:48:28.416Z",
       "skills": [
         "Content"
@@ -6118,7 +6009,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 67 أيام",
+      "age": "منذ 68 أيام",
       "publishedAt": "2026-09-14T20:16:03.084Z",
       "skills": [
         "Excel",
@@ -6877,7 +6768,7 @@
       "minExp": 4,
       "maxExp": 5,
       "category": "operations",
-      "age": "منذ 128 أيام",
+      "age": "منذ 129 أيام",
       "publishedAt": "2026-07-15T20:43:54.041Z",
       "skills": [
         "Operations",
@@ -6904,7 +6795,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 129 أيام",
+      "age": "منذ 130 أيام",
       "publishedAt": "2026-07-14T17:21:56.371Z",
       "skills": [
         "Research",
@@ -6984,7 +6875,7 @@
       "minExp": 0,
       "maxExp": 2,
       "category": "sales",
-      "age": "منذ 165 أيام",
+      "age": "منذ 166 أيام",
       "publishedAt": "2026-06-08T18:45:32.064Z",
       "skills": [
         "Customer Service",
@@ -7410,7 +7301,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "security",
-      "age": "منذ 488 أيام",
+      "age": "منذ 489 أيام",
       "publishedAt": "2025-07-20T16:56:05.026Z",
       "skills": [
         "Audit",
@@ -7599,7 +7490,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 611 أيام",
+      "age": "منذ 612 أيام",
       "publishedAt": "2025-03-19T20:33:36.186Z",
       "skills": [
         "Excel",
@@ -7797,7 +7688,7 @@
       "minExp": 2,
       "maxExp": 4,
       "category": "translation",
-      "age": "منذ 2453 أيام",
+      "age": "منذ 2454 أيام",
       "publishedAt": "2020-03-03T19:47:29.279Z",
       "skills": [
         "Excel",
