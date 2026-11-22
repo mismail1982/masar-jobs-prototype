@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-22T09:51:54.033Z",
-  "total": 278,
+  "generatedAt": "2026-11-22T17:50:17.627Z",
+  "total": 277,
   "feeds": 13,
   "jobs": [
     {
@@ -18,7 +18,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-21T16:05:12.374Z",
       "skills": [
         "Excel",
@@ -72,7 +72,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T13:18:19.365Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -97,7 +97,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T13:15:22.994Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -122,7 +122,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T13:14:08.051Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -147,7 +147,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T13:07:44.688Z",
       "skills": [
         "Excel",
@@ -173,7 +173,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T13:06:05.943Z",
       "skills": [
         "Finance",
@@ -199,7 +199,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T13:05:20.709Z",
       "skills": [
         "Finance",
@@ -225,7 +225,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T13:05:04.871Z",
       "skills": [
         "Excel",
@@ -251,7 +251,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T13:03:43.853Z",
       "skills": [
         "Excel",
@@ -277,7 +277,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T13:03:24.678Z",
       "skills": [
         "Finance",
@@ -303,7 +303,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T12:48:26.324Z",
       "skills": [
         "Insurance",
@@ -329,7 +329,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T12:47:37.200Z",
       "skills": [
         "Insurance",
@@ -355,7 +355,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T12:45:35.131Z",
       "skills": [
         "Insurance",
@@ -381,7 +381,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T12:42:21.318Z",
       "skills": [
         "Excel",
@@ -408,7 +408,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T12:39:17.396Z",
       "skills": [
         "Excel",
@@ -435,7 +435,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T12:38:10.516Z",
       "skills": [
         "Excel",
@@ -462,7 +462,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T12:14:51.893Z",
       "skills": [
         "Python",
@@ -489,7 +489,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T12:12:34.964Z",
       "skills": [
         "Python",
@@ -516,7 +516,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T12:11:32.245Z",
       "skills": [
         "Python",
@@ -543,7 +543,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T08:43:26-05:00",
       "skills": [
         "Excel"
@@ -568,7 +568,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-20T08:42:41-05:00",
       "skills": [
         "Excel"
@@ -1038,7 +1038,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T17:22:11.306Z",
       "skills": [
         "Excel",
@@ -1066,7 +1066,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T14:10:20.790Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -1091,7 +1091,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T13:44:23.450Z",
       "skills": [
         "Excel",
@@ -1117,7 +1117,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T13:23:31.834Z",
       "skills": [
         "Excel",
@@ -1145,7 +1145,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T13:22:28.891Z",
       "skills": [
         "Excel",
@@ -1173,7 +1173,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T13:09:33.241Z",
       "skills": [
         "Excel",
@@ -1202,7 +1202,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "customer",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T13:03:35.081Z",
       "skills": [
         "Excel",
@@ -1229,7 +1229,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "customer",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T13:02:14.284Z",
       "skills": [
         "Excel",
@@ -1256,7 +1256,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "customer",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T13:01:30.277Z",
       "skills": [
         "Excel",
@@ -1283,7 +1283,7 @@
       "minExp": 6,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T13:00:13.043Z",
       "skills": [
         "MEP",
@@ -1312,7 +1312,7 @@
       "minExp": 6,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T12:59:40.076Z",
       "skills": [
         "MEP",
@@ -1341,7 +1341,7 @@
       "minExp": 6,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T12:58:18.223Z",
       "skills": [
         "MEP",
@@ -1370,7 +1370,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T12:47:28.843Z",
       "skills": [
         "Excel",
@@ -1398,7 +1398,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T12:46:55.608Z",
       "skills": [
         "Excel",
@@ -1426,7 +1426,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-19T12:45:32.321Z",
       "skills": [
         "Excel",
@@ -2055,7 +2055,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T16:10:01.940Z",
       "skills": [
         "SAP",
@@ -2086,7 +2086,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T13:41:19.382Z",
       "skills": [
         "Excel",
@@ -2115,7 +2115,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T13:38:28.768Z",
       "skills": [
         "Excel",
@@ -2144,7 +2144,7 @@
       "minExp": 5,
       "maxExp": 8,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T13:37:35.677Z",
       "skills": [
         "Excel",
@@ -2173,7 +2173,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T13:16:56.221Z",
       "skills": [
         "Python",
@@ -2202,7 +2202,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T13:13:49.555Z",
       "skills": [
         "Python",
@@ -2231,7 +2231,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T13:12:56.028Z",
       "skills": [
         "Python",
@@ -2260,7 +2260,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T12:59:28.997Z",
       "skills": [
         "Python",
@@ -2286,7 +2286,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T12:57:22.355Z",
       "skills": [
         "Python",
@@ -2312,7 +2312,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T12:56:22.747Z",
       "skills": [
         "Python",
@@ -2338,7 +2338,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "customer",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T12:26:07.853Z",
       "skills": [
         "Excel",
@@ -2367,7 +2367,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "customer",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T12:01:11.033Z",
       "skills": [
         "Excel",
@@ -2394,7 +2394,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T11:49:39.644Z",
       "skills": [
         "Excel",
@@ -2420,7 +2420,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T11:48:00.354Z",
       "skills": [
         "Excel",
@@ -2446,7 +2446,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "creative",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T11:46:59.179Z",
       "skills": [
         "Excel",
@@ -2472,7 +2472,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "civil",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T11:44:42.055Z",
       "skills": [
         "Excel",
@@ -2500,7 +2500,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "civil",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T11:43:48.621Z",
       "skills": [
         "Excel",
@@ -2528,7 +2528,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "civil",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T11:42:10.656Z",
       "skills": [
         "Excel",
@@ -2556,7 +2556,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T11:22:29.020Z",
       "skills": [
         "SQL",
@@ -2586,7 +2586,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T11:21:54.655Z",
       "skills": [
         "SQL",
@@ -2616,7 +2616,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T11:20:24.356Z",
       "skills": [
         "SQL",
@@ -2646,7 +2646,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-18T10:55:17.142Z",
       "skills": [
         "Excel",
@@ -3073,7 +3073,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-17T14:06:35.908Z",
       "skills": [
         "Excel",
@@ -3099,7 +3099,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-17T14:04:28.285Z",
       "skills": [
         "Excel",
@@ -3125,7 +3125,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-17T14:03:32.046Z",
       "skills": [
         "Excel",
@@ -3151,7 +3151,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-17T13:50:40.900Z",
       "skills": [
         "Excel",
@@ -3178,7 +3178,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-17T13:48:04.037Z",
       "skills": [
         "Excel",
@@ -3205,7 +3205,7 @@
       "minExp": 7,
       "maxExp": 15,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-17T13:47:01.187Z",
       "skills": [
         "Excel",
@@ -3232,7 +3232,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "customer",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-17T13:31:08.108Z",
       "skills": [
         "Excel",
@@ -3259,7 +3259,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "customer",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-17T13:28:14.859Z",
       "skills": [
         "Excel",
@@ -3286,7 +3286,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "customer",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-17T13:27:26.362Z",
       "skills": [
         "Excel",
@@ -4032,7 +4032,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T14:55:16.967Z",
       "skills": [
         "Excel"
@@ -4057,7 +4057,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T12:56:56.648Z",
       "skills": [
         "Excel",
@@ -4085,7 +4085,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T12:55:57.312Z",
       "skills": [
         "Excel",
@@ -4113,7 +4113,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T12:41:52.991Z",
       "skills": [
         "Excel",
@@ -4142,7 +4142,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T12:39:38.750Z",
       "skills": [
         "Excel",
@@ -4171,7 +4171,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T12:38:44.201Z",
       "skills": [
         "Excel",
@@ -4200,7 +4200,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T12:31:09.879Z",
       "skills": [
         "Excel",
@@ -4227,7 +4227,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T12:22:39.416Z",
       "skills": [
         "Excel",
@@ -4254,7 +4254,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T12:21:58.704Z",
       "skills": [
         "Excel",
@@ -4281,7 +4281,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "projects",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T10:34:24.378Z",
       "skills": [
         "React",
@@ -4311,7 +4311,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T10:33:16.331Z",
       "skills": [
         "SQL",
@@ -4341,7 +4341,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T10:32:39.242Z",
       "skills": [
         "SQL",
@@ -4371,7 +4371,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T10:30:58.156Z",
       "skills": [
         "SQL",
@@ -4401,7 +4401,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T10:25:46.891Z",
       "skills": [
         "Excel",
@@ -4429,7 +4429,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T10:25:16.170Z",
       "skills": [
         "Excel",
@@ -4457,7 +4457,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "hr",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T10:23:20.122Z",
       "skills": [
         "Excel",
@@ -4485,7 +4485,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T10:06:48.924Z",
       "skills": [
         "Excel",
@@ -4512,7 +4512,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T10:06:16.341Z",
       "skills": [
         "Excel",
@@ -4539,7 +4539,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-16T10:04:37.995Z",
       "skills": [
         "Excel",
@@ -4918,7 +4918,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 9 أيام",
+      "age": "منذ 10 أيام",
       "publishedAt": "2026-11-12T15:48:26.880Z",
       "skills": [
         "Excel",
@@ -4948,7 +4948,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 9 أيام",
+      "age": "منذ 10 أيام",
       "publishedAt": "2026-11-12T11:01:45.581Z",
       "skills": [
         "Marketing"
@@ -4973,7 +4973,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "translation",
-      "age": "منذ 10 أيام",
+      "age": "منذ 11 أيام",
       "publishedAt": "2026-11-11T15:25:21.680Z",
       "skills": [
         "Excel",
@@ -5030,7 +5030,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 11 أيام",
+      "age": "منذ 12 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -5056,7 +5056,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 11 أيام",
+      "age": "منذ 12 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -5082,7 +5082,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 15 أيام",
+      "age": "منذ 16 أيام",
       "publishedAt": "2026-11-06T11:47:12.630Z",
       "skills": [
         "Sales"
@@ -5133,7 +5133,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "administration",
-      "age": "منذ 17 أيام",
+      "age": "منذ 18 أيام",
       "publishedAt": "2026-11-04T14:49:44.215Z",
       "skills": [
         "Audit",
@@ -5219,7 +5219,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 23 أيام",
+      "age": "منذ 24 أيام",
       "publishedAt": "2026-10-29T15:45:59.006Z",
       "skills": [
         "SAP",
@@ -5249,7 +5249,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 23 أيام",
+      "age": "منذ 24 أيام",
       "publishedAt": "2026-10-29T10:50:46.515Z",
       "skills": [
         "Sales",
@@ -5275,7 +5275,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 24 أيام",
+      "age": "منذ 25 أيام",
       "publishedAt": "2026-10-28T10:00:42.776Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5360,7 +5360,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 31 أيام",
+      "age": "منذ 32 أيام",
       "publishedAt": "2026-10-21T12:14:36.095Z",
       "skills": [
         "Excel",
@@ -5494,7 +5494,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 40 أيام",
+      "age": "منذ 41 أيام",
       "publishedAt": "2026-10-12T12:22:58.148Z",
       "skills": [
         "Excel",
@@ -5523,7 +5523,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 44 أيام",
+      "age": "منذ 45 أيام",
       "publishedAt": "2026-10-08T13:58:08.204Z",
       "skills": [
         "SAP",
@@ -5554,7 +5554,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 44 أيام",
+      "age": "منذ 45 أيام",
       "publishedAt": "2026-10-08T13:36:09.377Z",
       "skills": [
         "Audit",
@@ -5583,7 +5583,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 44 أيام",
+      "age": "منذ 45 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "SAP",
@@ -5643,7 +5643,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 50 أيام",
+      "age": "منذ 51 أيام",
       "publishedAt": "2026-10-02T11:45:47.851Z",
       "skills": [
         "Excel",
@@ -5747,7 +5747,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 59 أيام",
+      "age": "منذ 60 أيام",
       "publishedAt": "2026-09-23T17:48:28.416Z",
       "skills": [
         "Content"
@@ -5823,7 +5823,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 61 أيام",
+      "age": "منذ 62 أيام",
       "publishedAt": "2026-09-21T12:10:38.082Z",
       "skills": [
         "Excel",
@@ -5929,7 +5929,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 66 أيام",
+      "age": "منذ 67 أيام",
       "publishedAt": "2026-09-16T12:38:30.005Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5954,7 +5954,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 66 أيام",
+      "age": "منذ 67 أيام",
       "publishedAt": "2026-09-16T12:18:06.725Z",
       "skills": [
         "Finance",
@@ -6036,7 +6036,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 73 أيام",
+      "age": "منذ 74 أيام",
       "publishedAt": "2026-09-09T12:47:08.145Z",
       "skills": [
         "SAP"
@@ -6061,7 +6061,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 73 أيام",
+      "age": "منذ 74 أيام",
       "publishedAt": "2026-09-09T12:45:38.447Z",
       "skills": [
         "SAP"
@@ -6086,7 +6086,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "sales",
-      "age": "منذ 73 أيام",
+      "age": "منذ 74 أيام",
       "publishedAt": "2026-09-09T11:39:00.380Z",
       "skills": [
         "Excel",
@@ -6117,7 +6117,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 73 أيام",
+      "age": "منذ 74 أيام",
       "publishedAt": "2026-09-09T10:47:54.392Z",
       "skills": [
         "SAP"
@@ -6142,7 +6142,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 73 أيام",
+      "age": "منذ 74 أيام",
       "publishedAt": "2026-09-09T10:42:51.771Z",
       "skills": [
         "SAP"
@@ -6244,7 +6244,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 80 أيام",
+      "age": "منذ 81 أيام",
       "publishedAt": "2026-09-02T12:36:44.958Z",
       "skills": [
         "Excel",
@@ -6357,7 +6357,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 88 أيام",
+      "age": "منذ 89 أيام",
       "publishedAt": "2026-08-25T12:30:04.705Z",
       "skills": [
         "Sales",
@@ -6384,7 +6384,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "realestate",
-      "age": "منذ 88 أيام",
+      "age": "منذ 89 أيام",
       "publishedAt": "2026-08-25T12:03:51.980Z",
       "skills": [
         "Excel",
@@ -6412,7 +6412,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 88 أيام",
+      "age": "منذ 89 أيام",
       "publishedAt": "2026-08-25T11:26:46.838Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6437,7 +6437,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 88 أيام",
+      "age": "منذ 89 أيام",
       "publishedAt": "2026-08-25T11:15:50.932Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6462,7 +6462,7 @@
       "minExp": 5,
       "maxExp": 10,
       "category": "technology",
-      "age": "منذ 90 أيام",
+      "age": "منذ 91 أيام",
       "publishedAt": "2026-08-23T11:59:58.499Z",
       "skills": [
         "Excel",
@@ -6519,7 +6519,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 100 أيام",
+      "age": "منذ 101 أيام",
       "publishedAt": "2026-08-13T12:01:07.661Z",
       "skills": [
         "Operations"
@@ -6544,7 +6544,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 100 أيام",
+      "age": "منذ 101 أيام",
       "publishedAt": "2026-08-13T11:55:04.485Z",
       "skills": [
         "Operations",
@@ -6570,7 +6570,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 110 أيام",
+      "age": "منذ 111 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
         "Operations",
@@ -6596,7 +6596,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 110 أيام",
+      "age": "منذ 111 أيام",
       "publishedAt": "2026-08-03T11:24:13.619Z",
       "skills": [
         "React",
@@ -6679,7 +6679,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 117 أيام",
+      "age": "منذ 118 أيام",
       "publishedAt": "2026-07-27T11:44:58.735Z",
       "skills": [
         "Excel",
@@ -6692,37 +6692,6 @@
       "description": "JOB PURPOSE Lead the strategic management of Aldar's assigned commercial assets to maximize portfolio value, optimize financial performance, and enhance customer experience. Drive asset performance through leasing strategy, capital investment, service provider governance, sustainability initiatives, and cross-functional collaboration while supporting Aldar's long-term investment objectives. The role is for the UAE national ROLES AND RESPONSIBILITIES 1. Strategic Asset & Portfolio Management Develop and implement asset strategies to maximize long-term value and portfolio performance. Drive portfolio optimization through asset repositioning, enhancement, and capital recycling initiatives. Monitor market trends and asset performance to support strategic decision-making. 2. Financial Performance & Capital Management Manage portfolio financial performance, including NOI, occupancy, yield, valuation, and total return. Identify value creation opportunities and oversee annual business planning, budgeting, and financial reporting. Support investment decisions through financial analysis and performance insights. 3. Leasing, Commercialisation & Tenant Experience Lead leasing strategies to maximize occupancy, rental growth, and tenant retention. Identify commercialisation opportunities and oversee tenant engagement initiatives to improve customer satisfaction and NPS. Review key leasing transactions and ensure alignment with portfolio objectives. 4. Asset Enhancement & Development Coordination Lead asset enhancement programmes and CAPEX initiatives to improve asset performance and customer experience. Coordinate with Development, Legal, Finance, and Operations to ensure successful project delivery and asset handover. Monitor post-completion performance against approved business cases. 5. Service Provider Governance Oversee the performance of Property and Facilities Management service providers through agreed SLAs, KPIs, and governance frameworks. Drive continuous improvement, operational excellence, and cost optimization across the portfolio. 6. Stakeholder & Portfolio Collaboration Partner with internal business units, including Development, Finance, Legal, Retail, Hospitality, and Education, to deliver integrated portfolio initiatives. Build and maintain effective relationships with tenants, brokers, consultants, contractors, and external stakeholders. RELATED YEARS OF EXPERIENCE Min of 10+ years of at least 5 years of experience in real estate, property and asset management, investment banking, buy side or sell side advisory or other related field. YOE IN MANAGERIAL POSITION Min of 2+ years in a related managerial position FIELD OF EXPERIENCE Banking, real estate consultancy, management consultancy. TECHNICAL AND INTERPERSONAL SKILLS Outstanding analytical and quantitative skills; proficiency with standard software, including MS Office; advanced Excel skills is a must. Proven track record in conducting valuation / financial models. Able to analyze, evaluate and move quickly to support rapid decision making. Ability to interpret and manage transaction documentation: NDAs, MoUs, LoI’s, and SPA’s Ability to develop Board level papers and investment memoranda. QUALIFICATION Bachelor Degree in Engineering, Economics, Finance or Accounting, MBA (Finance), CFA, CA or CPA preferred.",
       "source": "Lever · Aldar Properties",
       "externalUrl": "https://jobs.lever.co/aldar/8ceda84e-e690-48cc-b9a6-7f7c30e65813",
-      "isLive": true
-    },
-    {
-      "id": 291394282,
-      "externalId": "f23b0af7-7a12-4096-ad4b-525ffbe9ec9e",
-      "title": "Leasing Coordinator",
-      "company": "Flow",
-      "country": "السعودية",
-      "region": "Riyadh, Saudi Arabia",
-      "location": "الرياض",
-      "mode": "حضوري",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 1,
-      "maxExp": 2,
-      "category": "administration",
-      "age": "منذ 124 أيام",
-      "publishedAt": "2026-07-20T10:01:59.840Z",
-      "skills": [
-        "SAP",
-        "Excel",
-        "Finance",
-        "Customer Service",
-        "Sales",
-        "Administration",
-        "Operations"
-      ],
-      "description": "About the Role: As a Leasing Coordinator , you will support the Leasing Team by coordinating the administrative and operational aspects of the leasing process while helping deliver an outstanding experience for prospective and current residents. You will work closely with Leasing Agents and cross-functional teams to ensure lease documentation, EJAR contracts, payments, and move-in processes are completed accurately and efficiently. This role is ideal for someone who is highly organized, detail-oriented, enjoys working in a fast-paced environment, and is looking to build a career in real estate. Responsibilities: Support the leasing team by preparing lease documentation, quotations, reservations, and maintaining accurate records across internal systems. Coordinate the leasing process from reservation through move-in, ensuring all required documentation is collected and completed on time. Prepare and process EJAR contracts, ensuring all required documents are received and lease details are accurate before submission. Maintain accurate prospect, resident, and lease information within CRM systems and internal trackers. Provide timely administrative support and excellent customer service to prospective residents, current residents, and internal stakeholders. Day-to-Day Activities: Prepare lease offers, reservation agreements, quotations, invoices, and leasing documentation. Create, process, and coordinate EJAR contracts while following up on any outstanding documents or approvals. Update CRM systems, Excel trackers, and internal databases with accurate leasing information. Coordinate with Finance, Resident Experience, Operations, and Leasing Agents to ensure smooth lease execution and resident move-ins. Respond to inquiries via email, WhatsApp, phone calls, and internal communication platforms while supporting the Leasing Team with day-to-day administrative tasks. Ideal Background: 1–2 years of experience in administration, customer service, sales support, real estate or a similar coordination role. Experience working with EJAR is required. Experience working in Saudi Arabia is required. Strong organizational skills with excellent attention to detail. Comfortable using CRM systems, Microsoft Excel, Google Workspace, WhatsApp, Slack, and other communication tools. Fluent in English with excellent written and verbal communication skills. Ability to manage multiple priorities in a fast-paced environment. Candidate must be physically located in Saudi Arabia.",
-      "source": "Lever · Flow",
-      "externalUrl": "https://jobs.lever.co/flowlife/f23b0af7-7a12-4096-ad4b-525ffbe9ec9e",
       "isLive": true
     },
     {
@@ -6740,7 +6709,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 125 أيام",
+      "age": "منذ 126 أيام",
       "publishedAt": "2026-07-19T14:35:06.019Z",
       "skills": [
         "Finance",
@@ -6795,7 +6764,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 130 أيام",
+      "age": "منذ 131 أيام",
       "publishedAt": "2026-07-14T17:21:56.371Z",
       "skills": [
         "Research",
@@ -6821,7 +6790,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "translation",
-      "age": "منذ 136 أيام",
+      "age": "منذ 137 أيام",
       "publishedAt": "2026-07-08T12:41:35.292Z",
       "skills": [
         "Excel",
@@ -6904,7 +6873,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 191 أيام",
+      "age": "منذ 192 أيام",
       "publishedAt": "2026-05-14T10:28:50.593Z",
       "skills": [
         "Finance",
@@ -6932,7 +6901,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 193 أيام",
+      "age": "منذ 194 أيام",
       "publishedAt": "2026-05-12T12:47:57.404Z",
       "skills": [
         "Excel",
@@ -6994,7 +6963,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 227 أيام",
+      "age": "منذ 228 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7249,7 +7218,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 382 أيام",
+      "age": "منذ 383 أيام",
       "publishedAt": "2025-11-04T10:29:24.468Z",
       "skills": [
         "AutoCAD",
@@ -7277,7 +7246,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "security",
-      "age": "منذ 418 أيام",
+      "age": "منذ 419 أيام",
       "publishedAt": "2025-09-29T10:53:59.334Z",
       "skills": [
         "Excel",
@@ -7304,7 +7273,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 460 أيام",
+      "age": "منذ 461 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
@@ -7332,7 +7301,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "security",
-      "age": "منذ 489 أيام",
+      "age": "منذ 490 أيام",
       "publishedAt": "2025-07-20T16:56:05.026Z",
       "skills": [
         "Audit",
@@ -7359,7 +7328,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 493 أيام",
+      "age": "منذ 494 أيام",
       "publishedAt": "2025-07-16T12:45:37.544Z",
       "skills": [
         "Excel",
@@ -7386,7 +7355,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 493 أيام",
+      "age": "منذ 494 أيام",
       "publishedAt": "2025-07-16T12:38:56.781Z",
       "skills": [
         "Excel",
@@ -7413,7 +7382,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 540 أيام",
+      "age": "منذ 541 أيام",
       "publishedAt": "2025-05-30T14:36:01.234Z",
       "skills": [
         "Content"
@@ -7438,7 +7407,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 551 أيام",
+      "age": "منذ 552 أيام",
       "publishedAt": "2025-05-19T10:42:08.469Z",
       "skills": [
         "Excel",
@@ -7468,7 +7437,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 557 أيام",
+      "age": "منذ 558 أيام",
       "publishedAt": "2025-05-13T10:50:29.522Z",
       "skills": [
         "Customer Service",
@@ -7601,7 +7570,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "customer",
-      "age": "منذ 751 أيام",
+      "age": "منذ 752 أيام",
       "publishedAt": "2024-10-31T12:09:49.201Z",
       "skills": [
         "Excel",
@@ -7658,7 +7627,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 877 أيام",
+      "age": "منذ 878 أيام",
       "publishedAt": "2024-06-27T12:18:56.852Z",
       "skills": [
         "Finance",
@@ -7688,7 +7657,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 913 أيام",
+      "age": "منذ 914 أيام",
       "publishedAt": "2024-05-22T12:17:49.028Z",
       "skills": [
         "Excel",
