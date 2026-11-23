@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T23:37:27.580Z",
+  "generatedAt": "2026-11-23T04:01:52.232Z",
   "total": 273,
   "feeds": 13,
   "jobs": [
@@ -2896,7 +2896,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-18T04:00:52.125Z",
       "skills": [
         "SQL",
@@ -2923,7 +2923,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-18T03:58:36.276Z",
       "skills": [
         "JavaScript",
@@ -2952,7 +2952,7 @@
       "minExp": 8,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-18T03:56:19.986Z",
       "skills": [
         "Excel",
@@ -2980,7 +2980,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-18T03:50:32.981Z",
       "skills": [
         "Excel",
@@ -3011,7 +3011,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-18T03:50:00.789Z",
       "skills": [
         "Excel",
@@ -3042,7 +3042,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-18T03:48:45.499Z",
       "skills": [
         "Excel",
