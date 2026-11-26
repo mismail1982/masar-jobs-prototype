@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:55:26.788Z",
+  "generatedAt": "2026-11-26T19:02:05.776Z",
   "total": 267,
   "feeds": 13,
   "jobs": [
@@ -936,7 +936,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T13:44:53.757Z",
       "skills": [
         "Excel",
@@ -964,7 +964,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T13:44:31.139Z",
       "skills": [
         "Excel",
@@ -992,7 +992,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T12:55:26.554Z",
       "skills": [
         "SQL",
@@ -1021,7 +1021,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T12:33:42.930Z",
       "skills": [
         "SQL",
@@ -1052,7 +1052,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T10:42:45.762Z",
       "skills": [
         "Excel",
@@ -1080,7 +1080,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T10:27:57.939Z",
       "skills": [
         "Excel",
@@ -1107,7 +1107,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "legal",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T10:10:10.987Z",
       "skills": [
         "Excel",
@@ -1138,7 +1138,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T09:43:30.126Z",
       "skills": [
         "MEP",
@@ -1169,7 +1169,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "general",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T09:10:45.487Z",
       "skills": [
         "Excel",
@@ -1196,7 +1196,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T09:02:15.855Z",
       "skills": [
         "Excel"
@@ -1221,7 +1221,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T09:00:37.121Z",
       "skills": [
         "Excel"
@@ -1246,7 +1246,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "technology",
-      "age": "اليوم",
+      "age": "أمس",
       "publishedAt": "2026-11-25T09:00:07.926Z",
       "skills": [
         "Excel"
@@ -1790,7 +1790,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T16:59:10.622Z",
       "skills": [
         "Python",
@@ -1817,7 +1817,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T16:58:01.040Z",
       "skills": [
         "Python",
@@ -1844,7 +1844,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T16:57:22.797Z",
       "skills": [
         "Python",
@@ -1871,7 +1871,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T16:42:30.602Z",
       "skills": [
         "Python",
@@ -1900,7 +1900,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T16:41:14.251Z",
       "skills": [
         "Python",
@@ -1929,7 +1929,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T16:40:35.405Z",
       "skills": [
         "Python",
@@ -1958,7 +1958,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T16:28:00.166Z",
       "skills": [
         "Research",
@@ -1985,7 +1985,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T16:14:12.119Z",
       "skills": [
         "Python",
@@ -2012,7 +2012,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T16:02:03.869Z",
       "skills": [
         "Excel",
@@ -2042,7 +2042,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T15:34:41.640Z",
       "skills": [
         "Python",
@@ -2072,7 +2072,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T14:12:23.911Z",
       "skills": [
         "Excel",
@@ -2098,7 +2098,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T13:47:36.629Z",
       "skills": [
         "Excel",
@@ -2126,7 +2126,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T13:46:57.181Z",
       "skills": [
         "Excel",
@@ -2154,7 +2154,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T13:46:28.251Z",
       "skills": [
         "Excel",
@@ -2182,7 +2182,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T12:46:41.128Z",
       "skills": [
         "PMP",
@@ -2209,7 +2209,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "research",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-24T11:20:09.312Z",
       "skills": [
         "Python",
@@ -2239,7 +2239,7 @@
       "minExp": 15,
       "maxExp": 23,
       "category": "finance",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T14:24:22.658Z",
       "skills": [
         "SAP",
@@ -2270,7 +2270,7 @@
       "minExp": 4,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T13:25:31.158Z",
       "skills": [
         "Excel",
@@ -2299,7 +2299,7 @@
       "minExp": 4,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T13:22:36.185Z",
       "skills": [
         "Excel",
@@ -2328,7 +2328,7 @@
       "minExp": 4,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T13:21:24.935Z",
       "skills": [
         "Excel",
@@ -2357,7 +2357,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T13:06:29.941Z",
       "skills": [
         "Marketing",
@@ -2383,7 +2383,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T13:01:58.317Z",
       "skills": [
         "Marketing",
@@ -2409,7 +2409,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T13:00:24.000Z",
       "skills": [
         "Marketing",
@@ -2435,7 +2435,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T12:46:18.270Z",
       "skills": [
         "Python",
@@ -2463,7 +2463,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T12:43:31.119Z",
       "skills": [
         "Python",
@@ -2491,7 +2491,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T12:42:34.295Z",
       "skills": [
         "Python",
@@ -2519,7 +2519,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T12:03:50.865Z",
       "skills": [
         "Excel",
@@ -2547,7 +2547,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T11:58:32.226Z",
       "skills": [
         "Audit",
@@ -2573,7 +2573,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T11:57:55.198Z",
       "skills": [
         "Audit",
@@ -2599,7 +2599,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T11:56:30.312Z",
       "skills": [
         "Audit",
@@ -2625,7 +2625,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T11:49:23.708Z",
       "skills": [
         "SAP",
@@ -2656,7 +2656,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T11:48:47.883Z",
       "skills": [
         "SAP",
@@ -2687,7 +2687,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T11:47:29.180Z",
       "skills": [
         "SAP",
@@ -2718,7 +2718,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "architecture",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T11:36:58.259Z",
       "skills": [
         "Revit",
@@ -2747,7 +2747,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "architecture",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T11:36:23.361Z",
       "skills": [
         "Revit",
@@ -2776,7 +2776,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "architecture",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T11:34:51.067Z",
       "skills": [
         "Revit",
@@ -2805,7 +2805,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "healthcare",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T10:03:17.967Z",
       "skills": [
         "Excel",
@@ -2834,7 +2834,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-23T09:55:27.124Z",
       "skills": [
         "Python",
@@ -3194,7 +3194,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-21T16:05:12.374Z",
       "skills": [
         "Excel",
@@ -3222,7 +3222,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "legal",
-      "age": "منذ 4 أيام",
+      "age": "منذ 5 أيام",
       "publishedAt": "2026-11-21T09:42:41.319Z",
       "skills": [
         "Excel",
@@ -3248,7 +3248,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T13:15:22.994Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -3273,7 +3273,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T13:14:08.051Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -3298,7 +3298,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T13:06:05.943Z",
       "skills": [
         "Finance",
@@ -3324,7 +3324,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T13:05:04.871Z",
       "skills": [
         "Excel",
@@ -3350,7 +3350,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T13:03:43.853Z",
       "skills": [
         "Excel",
@@ -3376,7 +3376,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T12:48:26.324Z",
       "skills": [
         "Insurance",
@@ -3402,7 +3402,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T12:47:37.200Z",
       "skills": [
         "Insurance",
@@ -3428,7 +3428,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T12:42:21.318Z",
       "skills": [
         "Excel",
@@ -3455,7 +3455,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T12:39:17.396Z",
       "skills": [
         "Excel",
@@ -3482,7 +3482,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T12:38:10.516Z",
       "skills": [
         "Excel",
@@ -3509,7 +3509,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T12:14:51.893Z",
       "skills": [
         "Python",
@@ -3536,7 +3536,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T12:12:34.964Z",
       "skills": [
         "Python",
@@ -3563,7 +3563,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T12:11:32.245Z",
       "skills": [
         "Python",
@@ -3590,7 +3590,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T08:43:26-05:00",
       "skills": [
         "Excel"
@@ -3615,7 +3615,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 5 أيام",
+      "age": "منذ 6 أيام",
       "publishedAt": "2026-11-20T08:42:41-05:00",
       "skills": [
         "Excel"
@@ -3966,7 +3966,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T17:22:11.306Z",
       "skills": [
         "Excel",
@@ -3994,7 +3994,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T13:44:23.450Z",
       "skills": [
         "Excel",
@@ -4020,7 +4020,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T13:09:33.241Z",
       "skills": [
         "Excel",
@@ -4049,7 +4049,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "customer",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T13:03:35.081Z",
       "skills": [
         "Excel",
@@ -4076,7 +4076,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "customer",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T13:02:14.284Z",
       "skills": [
         "Excel",
@@ -4103,7 +4103,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "customer",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T13:01:30.277Z",
       "skills": [
         "Excel",
@@ -4130,7 +4130,7 @@
       "minExp": 6,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T13:00:13.043Z",
       "skills": [
         "MEP",
@@ -4159,7 +4159,7 @@
       "minExp": 6,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T12:59:40.076Z",
       "skills": [
         "MEP",
@@ -4188,7 +4188,7 @@
       "minExp": 6,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T12:58:18.223Z",
       "skills": [
         "MEP",
@@ -4217,7 +4217,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T12:47:28.843Z",
       "skills": [
         "Excel",
@@ -4245,7 +4245,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T12:46:55.608Z",
       "skills": [
         "Excel",
@@ -4273,7 +4273,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T12:45:32.321Z",
       "skills": [
         "Excel",
@@ -4301,7 +4301,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T09:39:21.529Z",
       "skills": [
         "SQL",
@@ -4331,7 +4331,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T09:30:36.475Z",
       "skills": [
         "SQL",
@@ -4361,7 +4361,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T09:30:34.829Z",
       "skills": [
         "Excel",
@@ -4390,7 +4390,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T09:30:02.222Z",
       "skills": [
         "Excel",
@@ -4419,7 +4419,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "marketing",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T09:29:50.538Z",
       "skills": [
         "SQL",
@@ -4449,7 +4449,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T09:20:55.989Z",
       "skills": [
         "SQL",
@@ -4479,7 +4479,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T09:20:17.418Z",
       "skills": [
         "SQL",
@@ -4509,7 +4509,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T09:15:45.675Z",
       "skills": [
         "Excel",
@@ -4536,7 +4536,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-19T09:14:53.466Z",
       "skills": [
         "Excel",
@@ -4729,7 +4729,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 7 أيام",
+      "age": "منذ 8 أيام",
       "publishedAt": "2026-11-18T16:10:01.940Z",
       "skills": [
         "SAP",
@@ -4760,7 +4760,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "technology",
-      "age": "منذ 9 أيام",
+      "age": "منذ 10 أيام",
       "publishedAt": "2026-11-16T14:55:16.967Z",
       "skills": [
         "Excel"
@@ -4785,7 +4785,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 13 أيام",
+      "age": "منذ 14 أيام",
       "publishedAt": "2026-11-12T11:01:45.581Z",
       "skills": [
         "Sales",
@@ -4813,7 +4813,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "translation",
-      "age": "منذ 14 أيام",
+      "age": "منذ 15 أيام",
       "publishedAt": "2026-11-11T15:25:21.680Z",
       "skills": [
         "Excel",
@@ -4870,7 +4870,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 15 أيام",
+      "age": "منذ 16 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -4896,7 +4896,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 15 أيام",
+      "age": "منذ 16 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -4922,7 +4922,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 19 أيام",
+      "age": "منذ 20 أيام",
       "publishedAt": "2026-11-06T11:47:12.630Z",
       "skills": [
         "Sales"
@@ -4956,36 +4956,6 @@
       "description": "OVERVIEW Are you tech-savvy? Have a passion for quality? We are looking for Data Raters to work on projects aimed at advancing AI technologies. Join us for a unique chance to kickstart your career in the AI field! This project is an excellent starting point for entry-level candidates. We offer comprehensive learning support, making it a great opportunity to gain experience in data annotation and data rating within the AI field—an industry currently in high demand for skilled specialists, especially those with expertise in localization and linguistic proficiency. MAIN DUTIES - Follow project-specific guidelines to conduct research on e-commerce data. - Evaluate the usefulness of product filters and results based on the research. - Rate the e-commerce data according to the guidelines provided. Project Details Start Date: Immediately after completing the qualification process Duration: Ongoing Schedule: This is a freelance opportunity; the workload is based on project needs. Weekly hours may vary. Employment Type: Freelance/Independent Contract Language: Swedish Pay Rate:$10/hour - Based on tasks completed By applying, you'll become part of our Freelance community, opening doors to a range of projects tailored to your skills and availability, particularly highlighting localization and linguistic expertise. Payment rates for future projects may vary, ensuring fair compensation that reflects your location, industry, and skill set. Joining us means contributing to our current project and becoming part of our dynamic network. This is a unique chance to enhance global user experiences and apply your language skills in meaningful ways. Requirements: Fully Proficient in Swedish Linguistic competency in English equal to the following: ILR Level 5 or CEF C2 Web-savvy and able to work in a fast-paced environment Preferably previous experience in Search Relevance tasks, experience with e-commerce searches/websites Excellent online research skills Attention to detail Performing enough research during the allocated time, working within short throughputs Reliable computer system and internet connection Ability to follow instructions in English and comply with the project conventions and rules expected by the client Must sign a Non-Disclosure Agreement to protect client confidentiality Must pass training and a required quality test before starting work",
       "source": "Lever · Welo Data",
       "externalUrl": "https://jobs.lever.co/weloglobal/a8d8ee01-c5ca-4c95-b5b6-cba8a09bf718",
-      "isLive": true
-    },
-    {
-      "id": 3479531160,
-      "externalId": "364ed0a1-ab8d-4382-9f68-26609d463200",
-      "title": "Localization Production Coordinator",
-      "company": "Welo Data",
-      "country": "عُمان",
-      "region": "Athens, Greece / Romania",
-      "location": "Athens, Greece / Romania",
-      "mode": "عن بُعد",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 0,
-      "maxExp": 30,
-      "category": "administration",
-      "age": "منذ 21 أيام",
-      "publishedAt": "2026-11-04T14:49:44.215Z",
-      "skills": [
-        "Audit",
-        "Education",
-        "Marketing",
-        "Content",
-        "Operations",
-        "Translation"
-      ],
-      "description": "About Welocalize Welocalize, a Welo Global brand, serves localization teams through AI-enabled multilingual content solutions that enable enterprises to operate and scale globally. Welocalize combines AI, automation, and human expertise to support enterprises in more than 300 languages, enabling accurate, culturally aligned, and compliant multilingual content at scale. Welocalize’s Opal Platform comprises patented technology designed to automate multilingual content and improve workflow performance for enterprises. Opal functions as an agentic system that orchestrates AI, automation, and human expertise to coordinate content workflows across the lifecycle, improving speed, scalability, and operational control for global enterprises. These solutions operate within a secure and compliant environment supported by seven ISO certifications. Welocalize is headquartered in New York with offices worldwide. welocalize.com Job Overview Want to help bring a world-class digital product to audiences around the globe? As a Production Coordinator on our client’s Localization team, you’ll support the localization of product features, marketing campaigns, editorial content, and web experiences across multiple markets. You’ll work alongside Senior Coordinators and Project Managers to deliver high-quality work on time, while building your expertise in localization operations and cross-functional collaboration. This role is built to grow. The localization function is shifting toward AI-first workflows, and over the next 12 months you’ll move from supported operational work toward independently running AI-assisted localization workflows. You’ll run traditional processes while building the skills to be the human judgment layer for AI output, and you’ll take on greater cross-functional ownership along the way. We’re hiring for today’s work and for where this role is heading. Main Responsibilities Facilitate the end-to-end localization workflow for product features, marketing campaigns, editorial, and web content, with guidance from Senior Coordinators or Project Managers Work with designers, product owners, engineers, marketers, and internal reviewers to gather localization requirements and track open action items Collaborate with external vendors on query management, file handoffs, and delivery timelines Monitor project status and flag risks or blockers to stakeholders early Manage day-to-day translation operations, including testing, bug triage, localizability reviews, and design audits Help prioritize and balance incoming work across shifting priorities Follow established translation workflows and contribute ideas to improve efficiency and reduce time to market Use AI tools and automation to streamline repetitive tasks, and look for new ways to apply them as your skills grow Assist with project retrospectives, internal reports, and presentations Support new team members by sharing knowledge and documenting processes Partner with Project Managers and Program Managers to make sure program operations align with business needs and localization best practices Job Requirements Clear, proactive communication: you’re comfortable asking questions and raising issues early Strong organizational skills and attention to detail, with a knack for keeping multiple workstreams on track Comfort with change and ambiguity: you’d rather figure it out than wait for perfect instructions Ownership of your work, and the discipline to follow through Enthusiasm for AI and automation. The mindset matters more than prior experience Skills & Experience Curiosity and self-drive: when you meet a new tool or process, you dig in rather than wait to be shown The ability to build strong working relationships through empathy, respect, and reliability Experience in project coordination, localization operations, or a similar role is helpful, but not required if you bring the right mindset A willingness to keep growing as your role expands Education Bachelor’s degree or equivalent prac",
-      "source": "Lever · Welo Data",
-      "externalUrl": "https://jobs.lever.co/weloglobal/364ed0a1-ab8d-4382-9f68-26609d463200",
       "isLive": true
     },
     {
@@ -5030,7 +5000,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "legal",
-      "age": "منذ 27 أيام",
+      "age": "منذ 28 أيام",
       "publishedAt": "2026-10-29T18:19:21.691Z",
       "skills": [
         "Excel",
@@ -5059,7 +5029,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 27 أيام",
+      "age": "منذ 28 أيام",
       "publishedAt": "2026-10-29T15:45:59.006Z",
       "skills": [
         "SAP",
@@ -5089,7 +5059,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 27 أيام",
+      "age": "منذ 28 أيام",
       "publishedAt": "2026-10-29T10:50:46.515Z",
       "skills": [
         "Sales",
@@ -5115,7 +5085,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 28 أيام",
+      "age": "منذ 29 أيام",
       "publishedAt": "2026-10-28T10:00:42.776Z",
       "skills": [
         "Finance",
@@ -5143,7 +5113,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "energy",
-      "age": "منذ 34 أيام",
+      "age": "منذ 35 أيام",
       "publishedAt": "2026-10-22T09:11:56.331Z",
       "skills": [
         "Python",
@@ -5203,7 +5173,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 35 أيام",
+      "age": "منذ 36 أيام",
       "publishedAt": "2026-10-21T12:14:36.095Z",
       "skills": [
         "Excel",
@@ -5231,7 +5201,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 36 أيام",
+      "age": "منذ 37 أيام",
       "publishedAt": "2026-10-20T09:51:08.047Z",
       "skills": [
         "Research"
@@ -5256,7 +5226,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 36 أيام",
+      "age": "منذ 37 أيام",
       "publishedAt": "2026-10-20T09:50:41.630Z",
       "skills": [
         "Research"
@@ -5281,7 +5251,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 36 أيام",
+      "age": "منذ 37 أيام",
       "publishedAt": "2026-10-20T09:31:49.383Z",
       "skills": [
         "Research"
@@ -5337,7 +5307,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 44 أيام",
+      "age": "منذ 45 أيام",
       "publishedAt": "2026-10-12T12:22:58.148Z",
       "skills": [
         "Excel",
@@ -5366,7 +5336,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 48 أيام",
+      "age": "منذ 49 أيام",
       "publishedAt": "2026-10-08T13:58:08.204Z",
       "skills": [
         "SAP",
@@ -5380,6 +5350,37 @@
       "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. Welo Global’s five brands—Welocalize (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services for law firms and corporate legal teams), Welo Life Sciences (regulated language and compliance-aligned content solutions for pharmaceutical, biotech, and medical device organizations), Adapt (multilingual performance-led digital marketing agency), and Welo Data (multilingual data generation, evaluation, and human data infrastructure for AI systems)—serve distinct customer segments with purpose-built expertise, fit-for-purpose solutions, and supporting technology. weloglobal.com The Role We are seeking an experienced English into Uzbek (Cyrillic) Review Lead to serve as the language quality owner and primary client-facing linguistic expert for a leading global technology client. You will own the locale’s interpretation of the client’s quality standards and make sure that the Post-Editing Lead, Post Editors, and Reviewers all work to the same shared understanding of “good”. You will be the main point of contact for the client’s Language Manager on quality discussions, arbitration, and escalations, and you will drive consistency, quality governance, and continuous improvement across UI, marketing, product, informational, legal, and support content. Project Details - Location: Remote (based in one of the approved countries below) - Expected volume: Approximately 24 hours per month - Employment type: Freelance / Independent Contract - Task type: Language Lead Support - Content types: UI, Marketing, Informational, Legal, Product, Support - Language pair: English into Uzbek (Cyrillic) What You Will Do -Analyse requirements: Review every style guide and glossary update, assess which quality categories and content types it affects, and record the changes. Track what the client’s Language Manager actually corrects and says in calibration and quality calls, not only what is written down. -Relay expectations: Run regular alignment roundtables with the language community and publish a structured monthly quality digest covering performance, priority improvement areas, style guide updates, and notable errors and arbitration outcomes. -Manage review quality actively: Coach Reviewers one-to-one using specific examples, run shadowing sessions from real alignment data. -Improve the standard: Turn recurring justification patterns into well-reasoned style guide proposals, and share cross-locale patterns with the Welocalize Quality Manager. -Maintain alignment with the client: Treat Language Manager decisions as the standard, raise concerns with evidence at the right forum, and aim for fewer surprises over time. What You Will Own -The locale’s review service score, including RQE audit and alignment performance -The community’s shared understanding of quality -The integrity of the arbitration record, ensuring that every arbitration sent to the client is valid and well-evidenced -The working relationship with the client’s Language Manager, including clarifications, escalations, and expectation tracking Requirements - Experience: 3 to 5+ years in Localization Quality Assurance (LQA), Senior Language Lead, or Quality Governance roles - Client and stakeholder management: Direct experience as the primary point of contact for client Language Managers, managing formal arbitration or escalation processes, and facilitating conflict resolution - Quality audit frameworks: Deep, practical experience with localization evaluation frameworks, including RQE, LQE, error rubrics, and severity mapping - Style guide and e",
       "source": "Lever · Welo Data",
       "externalUrl": "https://jobs.lever.co/weloglobal/82e197c4-7341-4cb6-a81f-183d77f0427a",
+      "isLive": true
+    },
+    {
+      "id": 896768927,
+      "externalId": "88806f02-9476-45f3-afab-ff77491b6b82",
+      "title": "English to Serbian (Cyrillic) Review Lead for UI, Marketing & Product Content",
+      "company": "Welo Data",
+      "country": "عُمان",
+      "region": "Croatia / Austria / Germany / Zurich, Switzerland / Budapest, Hungary / Romania / Remote - Europe / Remote / Remote, Worldwide",
+      "location": "Croatia / Austria / Germany / Zurich, Switzerland / Budapest, Hungary / Romania / Remote - Europe / Remote / Remote, Worldwide",
+      "mode": "عن بُعد",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 3,
+      "maxExp": 5,
+      "category": "media",
+      "age": "منذ 49 أيام",
+      "publishedAt": "2026-10-08T13:52:32.927Z",
+      "skills": [
+        "SAP",
+        "Audit",
+        "Marketing",
+        "Content",
+        "Recruitment",
+        "Compliance",
+        "Translation"
+      ],
+      "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with advanced NLP, computational linguistics, and best-in-class compliance backed by seven ISO certifications. Welo Global’s five brands—Welocalize (multilingual content and localization services for global enterprises), Park IP (intellectual property and patent translation services for law firms and corporate legal teams), Welo Life Sciences (regulated language and compliance-aligned content solutions for pharmaceutical, biotech, and medical device organizations), Adapt (multilingual performance-led digital marketing agency), and Welo Data (multilingual data generation, evaluation, and human data infrastructure for AI systems)—serve distinct customer segments with purpose-built expertise, fit-for-purpose solutions, and supporting technology. weloglobal.com The Role We are seeking an experienced English into Serbian (Cyrillic) Review Lead to serve as the language quality owner and primary client-facing linguistic expert for a leading global technology client. You will own the locale’s interpretation of the client’s quality standards and make sure that the Post-Editing Lead, Post Editors, and Reviewers all work to the same shared understanding of “good”. You will be the main point of contact for the client’s Language Manager on quality discussions, arbitration, and escalations, and you will drive consistency, quality governance, and continuous improvement across UI, marketing, product, informational, legal, and support content. Project Details - Location: Remote (based in one of the approved countries below) - Expected volume: Approximately 24 hours per month - Employment type: Freelance / Independent Contract - Task type: Language Lead Support - Content types: UI, Marketing, Informational, Legal, Product, Support - Language pair: English into Serbian (Cyrillic) What You Will Do -Analyse requirements: Review every style guide and glossary update, assess which quality categories and content types it affects, and record the changes. Track what the client’s Language Manager actually corrects and says in calibration and quality calls, not only what is written down. -Relay expectations: Run regular alignment roundtables with the language community and publish a structured monthly quality digest covering performance, priority improvement areas, style guide updates, and notable errors and arbitration outcomes. -Manage review quality actively: Coach Reviewers one-to-one using specific examples, run shadowing sessions built from real alignment data. -Improve the standard: Turn recurring justification patterns into well-reasoned style guide proposals, and share cross-locale patterns with the Welocalize Quality Manager. -Maintain alignment with the client: Treat Language Manager decisions as the standard, raise concerns with evidence at the right forum, and aim for fewer surprises over time. What You Will Own -The locale’s review service score, including RQE audit and alignment performance -The community’s shared understanding of quality -The integrity of the arbitration record, ensuring that every arbitration sent to the client is valid and well-evidenced -The working relationship with the client’s Language Manager, including clarifications, escalations, and expectation tracking Requirements - Experience: 3 to 5+ years in Localization Quality Assurance (LQA), Senior Language Lead, or Quality Governance roles - Client and stakeholder management: Direct experience as the primary point of contact for client Language Managers, managing formal arbitration or escalation processes, and facilitating conflict resolution - Quality audit frameworks: Deep, practical experience with localization evaluation frameworks, including RQE, LQE, error rubrics, and severity mapping - Style g",
+      "source": "Lever · Welo Data",
+      "externalUrl": "https://jobs.lever.co/weloglobal/88806f02-9476-45f3-afab-ff77491b6b82",
       "isLive": true
     },
     {
@@ -5397,7 +5398,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 48 أيام",
+      "age": "منذ 49 أيام",
       "publishedAt": "2026-10-08T13:36:09.377Z",
       "skills": [
         "Audit",
@@ -5426,7 +5427,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 48 أيام",
+      "age": "منذ 49 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "SAP",
@@ -5486,7 +5487,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 54 أيام",
+      "age": "منذ 55 أيام",
       "publishedAt": "2026-10-02T11:45:47.851Z",
       "skills": [
         "Excel",
@@ -5540,7 +5541,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 62 أيام",
+      "age": "منذ 63 أيام",
       "publishedAt": "2026-09-24T09:23:39.128Z",
       "skills": [
         "Content"
@@ -5565,7 +5566,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 62 أيام",
+      "age": "منذ 63 أيام",
       "publishedAt": "2026-09-24T09:19:29.053Z",
       "skills": [
         "Content"
@@ -5590,7 +5591,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 63 أيام",
+      "age": "منذ 64 أيام",
       "publishedAt": "2026-09-23T17:48:28.416Z",
       "skills": [
         "Content"
@@ -5666,7 +5667,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 65 أيام",
+      "age": "منذ 66 أيام",
       "publishedAt": "2026-09-21T12:10:38.082Z",
       "skills": [
         "Excel",
@@ -5772,7 +5773,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 70 أيام",
+      "age": "منذ 71 أيام",
       "publishedAt": "2026-09-16T12:38:30.005Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5797,7 +5798,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 70 أيام",
+      "age": "منذ 71 أيام",
       "publishedAt": "2026-09-16T12:18:06.725Z",
       "skills": [
         "Finance",
@@ -5879,7 +5880,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 77 أيام",
+      "age": "منذ 78 أيام",
       "publishedAt": "2026-09-09T12:47:08.145Z",
       "skills": [
         "SAP"
@@ -5904,7 +5905,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 77 أيام",
+      "age": "منذ 78 أيام",
       "publishedAt": "2026-09-09T12:45:38.447Z",
       "skills": [
         "SAP"
@@ -5929,7 +5930,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "sales",
-      "age": "منذ 77 أيام",
+      "age": "منذ 78 أيام",
       "publishedAt": "2026-09-09T11:39:00.380Z",
       "skills": [
         "Excel",
@@ -5960,7 +5961,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 77 أيام",
+      "age": "منذ 78 أيام",
       "publishedAt": "2026-09-09T10:47:54.392Z",
       "skills": [
         "SAP"
@@ -5985,7 +5986,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 77 أيام",
+      "age": "منذ 78 أيام",
       "publishedAt": "2026-09-09T10:42:51.771Z",
       "skills": [
         "SAP"
@@ -6087,7 +6088,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 84 أيام",
+      "age": "منذ 85 أيام",
       "publishedAt": "2026-09-02T12:36:44.958Z",
       "skills": [
         "Excel",
@@ -6200,7 +6201,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 92 أيام",
+      "age": "منذ 93 أيام",
       "publishedAt": "2026-08-25T12:30:04.705Z",
       "skills": [
         "Sales",
@@ -6210,34 +6211,6 @@
       "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. Since our founding in 2014, we have focused on delivering top-tier intelligence through user-friendly platforms. Our team of over 850 experts from 69 countries works tirelessly to transform intricate data into actionable strategies, ensuring our clients stay ahead in a dynamic market landscape. Join us to leverage cutting-edge innovation for impactful results and experience unparalleled support on your journey to success. We are looking for a commercially driven sales professional to lead new business and expansion across large government accounts in the Middle East. This is a hunter-led, revenue-focused role, where you will own the full sales cycle, build strategic relationships, and pursue high-value opportunities with ministries, government agencies, and other public sector institutions. Key Responsibilities : Own the end-to-end sales cycle for new business across government accounts. Identify, pursue, and close high-value new business opportunities while managing strategic existing accounts for upsell and cross-sell potential. Achieve aggressive revenue targets and contribute to overall regional growth. Navigate complex and lengthy public sector procurement processes, including tenders and RFPs, to win and retain contracts. Build trusted, long-term relationships with key decision-makers across ministries, agencies, and institutional clients. Collaborate with Customer Success, Marketing, and Product teams to ensure clients maximize value from Kpler’s solutions. Maintain accurate sales pipeline and forecasts in the CRM to enable data-driven strategy and reporting. Represent Kpler externally at relevant industry events, conferences, and client meetings. Skills & Competencies: Proven track record of hunter-driven sales and achieving or exceeding revenue targets. Deep understanding of government procurement processes, tenders, and RFPs. Experience managing large, strategic accounts and navigating multi-stakeholder environments Experience in SaaS/DaaS/data platform sales to government institutions is a plus. Fluent in Arabic and English; additional language of the region is a plus. Strong consultative selling skills combined with a results-driven, competitive mindset. Ability to thrive in a fast-paced, high-growth environment while managing multiple complex opportunities.",
       "source": "Lever · Kpler",
       "externalUrl": "https://jobs.lever.co/kpler/28234859-8c3e-4782-94f8-4b8c0458584a",
-      "isLive": true
-    },
-    {
-      "id": 3492610404,
-      "externalId": "c87f013f-6603-4746-bd6e-d6794880eb17",
-      "title": "Senior Analyst, Real Estate",
-      "company": "Flow",
-      "country": "السعودية",
-      "region": "Riyadh, Saudi Arabia",
-      "location": "الرياض",
-      "mode": "حضوري",
-      "minSalary": 0,
-      "maxSalary": 0,
-      "salaryDisclosed": false,
-      "minExp": 5,
-      "maxExp": 13,
-      "category": "realestate",
-      "age": "منذ 92 أيام",
-      "publishedAt": "2026-08-25T12:03:51.980Z",
-      "skills": [
-        "Excel",
-        "Finance",
-        "Operations",
-        "Hospitality"
-      ],
-      "description": "About the Company At Flow, we’re reimagining what it means to live, work, and connect. More than just a real estate company, Flow is a brand, a technology platform, and an operations ecosystem spanning condominiums, hotels, multifamily residences, and office spaces. We’re building a new kind of living experience: one that’s flexible, connected, and designed to create genuine community and real value for the people who call Flow home. Our mission is oneness: prioritizing our residents and their experiences, and fostering connection with ourselves, their neighbors, and the natural world. By putting people at the center of everything we do, we’re creating vibrant, human-centered communities where life, work, creativity, and play all come together in one place. About The Role: The Senior Analyst, Real Estate will support the origination, underwriting, structuring, and execution of third-party management agreements and acquisitions. The role will evaluate owner and asset opportunities where Flow can operate under its brand and platform, similar to a hotel flag or management model, with a focus on financial analysis, feasibility, commercial terms, due diligence, and deal execution across multifamily and hospitality-led opportunities. Key Responsibilities: Underwriting: Build and maintain financial models for prospective management agreements, including property performance, management fee streams, ramp-up assumptions, and Flow-level economics. Conduct sensitivities to assess risk and commercial attractiveness. Asset & Owner Opportunity Evaluation: Underwrite prospective assets and owner partnerships for operational fit, financial viability, brand suitability, and value creation potential. Analyze operating statements, unit mix, occupancy, pricing, and historical performance where available. Market & Feasibility Analysis: Assess supply and demand, rental or room rates, competitive positioning, development pipelines, customer segments, and operating benchmarks. Translate findings into clear recommendations on whether and how Flow should pursue an opportunity. Management Agreement Structuring: Support the structuring and negotiation of management agreements, including base and incentive fees, pre-opening or technical service fees, term, performance tests, owner obligations, termination rights, exclusivity, and brand standards. Deal Materials & Approvals: Prepare deal summaries, financial analyses, presentations, and approval memoranda for senior management, clearly articulating the strategic rationale, economics, key risks, negotiation points, and recommended position. Due Diligence & Deal Execution: Coordinate financial, operational, legal, technical, and commercial diligence with internal teams, owners, advisors, and counterparties. Support opportunities from initial assessment through term sheet, contract execution, and handover to pre-opening or operations. Pipeline & Performance Support: Track the management agreement pipeline, including deal status, expected openings, fee potential, and key milestones. Review signed and operating deals against underwriting to improve future assumptions. Background & Experience : Bachelor’s degree in Finance, Real Estate, Economics, or a related field. Minimum 5 years of experience in real estate, hospitality, development, investment, strategy, or related roles, with strong financial analysis and underwriting experience. Strong proficiency in Excel, particularly in building complex financial models. Strong understanding of real estate and operating metrics, including NOI, margins, occupancy, ADR/rental rates, RevPAR where relevant, and management fee economics. Knowledge of third-party operating models, hospitality-style management agreements, and owner-operator commercial structures. Experience evaluating, structuring, or negotiating management agreements, franchise or flag arrangements, operating partnerships, or similar transactions is strongly preferred. Experience in multifamily, hospitality,",
-      "source": "Lever · Flow",
-      "externalUrl": "https://jobs.lever.co/flowlife/c87f013f-6603-4746-bd6e-d6794880eb17",
       "isLive": true
     },
     {
@@ -6255,7 +6228,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 92 أيام",
+      "age": "منذ 93 أيام",
       "publishedAt": "2026-08-25T11:26:46.838Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6280,7 +6253,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 92 أيام",
+      "age": "منذ 93 أيام",
       "publishedAt": "2026-08-25T11:15:50.932Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6305,7 +6278,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 98 أيام",
+      "age": "منذ 99 أيام",
       "publishedAt": "2026-08-19T09:20:20.297Z",
       "skills": [
         "Excel",
@@ -6335,7 +6308,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 104 أيام",
+      "age": "منذ 105 أيام",
       "publishedAt": "2026-08-13T12:01:07.661Z",
       "skills": [
         "Operations"
@@ -6360,7 +6333,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 104 أيام",
+      "age": "منذ 105 أيام",
       "publishedAt": "2026-08-13T11:55:04.485Z",
       "skills": [
         "Operations",
@@ -6386,7 +6359,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 114 أيام",
+      "age": "منذ 115 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
         "Operations",
@@ -6412,7 +6385,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 114 أيام",
+      "age": "منذ 115 أيام",
       "publishedAt": "2026-08-03T11:24:13.619Z",
       "skills": [
         "React",
@@ -6466,7 +6439,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 121 أيام",
+      "age": "منذ 122 أيام",
       "publishedAt": "2026-07-27T11:44:58.735Z",
       "skills": [
         "Excel",
@@ -6496,7 +6469,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 129 أيام",
+      "age": "منذ 130 أيام",
       "publishedAt": "2026-07-19T14:35:06.019Z",
       "skills": [
         "Finance",
@@ -6551,7 +6524,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 134 أيام",
+      "age": "منذ 135 أيام",
       "publishedAt": "2026-07-14T17:21:56.371Z",
       "skills": [
         "Research",
@@ -6577,7 +6550,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "translation",
-      "age": "منذ 140 أيام",
+      "age": "منذ 141 أيام",
       "publishedAt": "2026-07-08T12:41:35.292Z",
       "skills": [
         "Excel",
@@ -6605,7 +6578,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 141 أيام",
+      "age": "منذ 142 أيام",
       "publishedAt": "2026-07-07T09:06:51.302Z",
       "skills": [
         "Content",
@@ -6631,7 +6604,7 @@
       "minExp": 0,
       "maxExp": 2,
       "category": "sales",
-      "age": "منذ 170 أيام",
+      "age": "منذ 171 أيام",
       "publishedAt": "2026-06-08T18:45:32.064Z",
       "skills": [
         "Customer Service",
@@ -6660,7 +6633,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 195 أيام",
+      "age": "منذ 196 أيام",
       "publishedAt": "2026-05-14T10:28:50.593Z",
       "skills": [
         "Finance",
@@ -6688,7 +6661,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 197 أيام",
+      "age": "منذ 198 أيام",
       "publishedAt": "2026-05-12T12:47:57.404Z",
       "skills": [
         "Excel",
@@ -6750,7 +6723,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 231 أيام",
+      "age": "منذ 232 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6775,7 +6748,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "research",
-      "age": "منذ 233 أيام",
+      "age": "منذ 234 أيام",
       "publishedAt": "2026-04-06T09:05:43.236Z",
       "skills": [
         "Audit",
@@ -6789,6 +6762,36 @@
       "description": "About Welo Life Sciences Welo Life Sciences, a Welo Global brand, is a specialized language and technology partner serving pharmaceutical, CRO, and medical device organizations operating in regulated global markets. We deliver regulator-ready translation, linguistic validation, and localization solutions that support clinical trials, pharmacovigilance, regulatory affairs, labeling, and global commercialization. Our approach combines subject matter expertise with ISO-certified quality processes and technology-enabled workflows designed to integrate seamlessly into life sciences operations. With extensive experience supporting global product development and post-market requirements, Welo Life Sciences helps organizations accelerate timelines, protect data integrity, and maintain compliance across languages and regions. All solutions are delivered within a secure, audit-ready framework supported by seven ISO certifications. welolifesciences.com Overview The Quality Manager is the squad team member on a squad (s) responsible for supplier alignment and supplier performance on accounts owned by that squad. Performance includes, but is not limited to, on-time delivery, adherence to all client and project specific requirements, and defect-free deliverables. The role is managing service delivery quality to the client or managing tasks or initiatives. This role is responsible for engaging with the customer to understand capacity requirements and quality expectations and liaising with Language Services to ensure such requirements can be met. As part of ensuring adequate performance, the Quality Manager will monitor customer Objectives & Key Results (OKRs) and take necessary actions to ensure quality and on-time delivery targets are met. Main Duties: Strategic Alignment: Partner with Engagement Managers to ensure supplier alignment and coordinate with the Language Services Team on resource recommendations and capacity planning. Client Relationship Management: Serve as the primary point of contact for language quality, leading client conversations, managing documentation, and presenting regular quality reports. Performance Monitoring: Track supplier KPIs—including OTD, task acceptance, and linguistic accuracy—flagging and escalating any performance that falls beneath defined client thresholds. Quality Framework & Asset Management: Design and maintain quality frameworks, ensuring all language assets (glossaries, style guides, and TMs) are updated and optimized. Corrective Action & Escalation: Act as the escalation point for PMs on missed deliverables; lead Root Cause Analysis (RCA) and oversee Quality Improvement Plans (QIP) or CAPAs in collaboration with Language Services. SLA Compliance: Execute regular quality measuring and Content Type Analysis to ensure all internal and client-facing LQA SLAs are consistently met. Process Improvement: Support the development of new internal and customer initiatives by assessing and optimizing current processes to drive efficiency. Experience: Industry Expertise: Proven track record in Localization Vendor, Language, or Quality Management within fast-paced, client-centric environments. Experience in CRO-Pharma or Medical Devices would be a plus. Quality Methodology: Deep understanding of quality principles and practices; experience with Agile or Lean Six Sigma methodologies is preferred. Technical Proficiency: Expert knowledge of Translation Management Systems (TMS), TM tools, and MTPE workflows, with a keen interest in emerging industry trends. Data-Driven Problem Solving: Strong data literacy with the ability to leverage analytics for decision-making, risk mitigation, and proactive process improvement. Communication & Influence: Exceptional verbal and written communication skills in English (multilingualism preferred) with the ability to present structured arguments and influence diverse stakeholders. Operational Agility: High capacity to manage and prioritize multiple time-sensitive projects independe",
       "source": "Lever · Welo Data",
       "externalUrl": "https://jobs.lever.co/weloglobal/42cd2886-d3ea-4618-bf19-af01777316cf",
+      "isLive": true
+    },
+    {
+      "id": 3850411018,
+      "externalId": "6a12366e-8fd2-4306-984e-eca733bd30bd",
+      "title": "Leasing Agent",
+      "company": "Flow",
+      "country": "السعودية",
+      "region": "Riyadh, Saudi Arabia",
+      "location": "الرياض",
+      "mode": "حضوري",
+      "minSalary": 0,
+      "maxSalary": 0,
+      "salaryDisclosed": false,
+      "minExp": 3,
+      "maxExp": 11,
+      "category": "realestate",
+      "age": "منذ 235 أيام",
+      "publishedAt": "2026-04-05T09:40:30.575Z",
+      "skills": [
+        "SAP",
+        "Excel",
+        "Customer Service",
+        "Sales",
+        "Compliance",
+        "Operations"
+      ],
+      "description": "About the Company At Flow, we’re reimagining what it means to live, work, and connect. More than just a real estate company, Flow is a brand, a technology platform, and an operations ecosystem spanning condominiums, hotels, multifamily residences, and office spaces. We’re building a new kind of living experience: one that’s flexible, connected, and designed to create genuine community and real value for the people who call Flow home. Our mission is oneness: prioritizing our residents and their experiences, and fostering connection with ourselves, their neighbors, and the natural world. By putting people at the center of everything we do, we’re creating vibrant, human-centered communities where life, work, creativity, and play all come together in one place. About The Role: As a Leasing Agent at Flow Narjis, you will be the first point of contact for prospective neighbors, guiding them through the leasing process and ensuring they feel welcomed and connected even before they move in. This is not a typical 9-to-5 job—success in this role requires relentless drive, a passion for working with people, and the ability to thrive in a fast-paced, tech-driven environment. Responsibilities: Drive leasing efforts: Engage, qualify, and convert leads into signed leases, ensuring high occupancy rates. Work tirelessly: Be available evenings, weekends, and holidays to accommodate prospective residents' schedules. Be tech-savvy: Utilize CRMs, Excel, WhatsApp, Slack, VOIP systems, and email efficiently to manage leads and track leasing performance. Master the details: Capture and manage data under pressure, ensuring accurate and organized record-keeping. Deliver an outstanding experience: Provide best-in-class customer service to prospects and current residents from diverse cultural backgrounds. Be a brand ambassador: Represent Flow’s values by engaging with the community, attending events, and fostering a sense of belonging. Understand the legal side: Experience with EJAR is a plus, as you’ll be involved in the leasing process compliance. Ideal Background: Minimum 3 years of experience in sales or customer service. Experience leasing property is an advantage. Experience in Saudi Arabia is an advantage. Candidate must be physically located in Saudi Arabia. Hardworking & relentless: You thrive under pressure and are willing to put in the hours to get the job done. Tech-proficient: You have experience working with multiple systems, capturing data in CRMs, and using tools like WhatsApp, Slack, and VOIP systems to manage communications effectively. Sales-oriented: Background in software sales or a related high-touch sales role is a plus. Detail-driven: You can juggle multiple priorities without dropping the ball. Fluent in English: Exceptional spoken and written communication skills are a must. Charismatic & engaging: You have strong presentation skills and can connect with clients from all cultures and backgrounds. Active lifestyle enthusiast: Passion for sports, wellness, yoga, fitness, or similar interests is a strong cultural fit with Flow’s brand. Ability to drive: A valid driver's license is required. Ability to work across multiple sites: Flexibility to travel between different Flow locations as needed.",
+      "source": "Lever · Flow",
+      "externalUrl": "https://jobs.lever.co/flowlife/6a12366e-8fd2-4306-984e-eca733bd30bd",
       "isLive": true
     },
     {
@@ -7005,7 +7008,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 386 أيام",
+      "age": "منذ 387 أيام",
       "publishedAt": "2025-11-04T10:29:24.468Z",
       "skills": [
         "AutoCAD",
@@ -7033,7 +7036,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "security",
-      "age": "منذ 422 أيام",
+      "age": "منذ 423 أيام",
       "publishedAt": "2025-09-29T10:53:59.334Z",
       "skills": [
         "Excel",
@@ -7060,7 +7063,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 464 أيام",
+      "age": "منذ 465 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
@@ -7088,7 +7091,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "security",
-      "age": "منذ 493 أيام",
+      "age": "منذ 494 أيام",
       "publishedAt": "2025-07-20T16:56:05.026Z",
       "skills": [
         "Audit",
@@ -7115,7 +7118,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 497 أيام",
+      "age": "منذ 498 أيام",
       "publishedAt": "2025-07-16T12:45:37.544Z",
       "skills": [
         "Excel",
@@ -7142,7 +7145,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 497 أيام",
+      "age": "منذ 498 أيام",
       "publishedAt": "2025-07-16T12:38:56.781Z",
       "skills": [
         "Excel",
@@ -7169,7 +7172,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 544 أيام",
+      "age": "منذ 545 أيام",
       "publishedAt": "2025-05-30T14:36:01.234Z",
       "skills": [
         "Content"
@@ -7194,7 +7197,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 555 أيام",
+      "age": "منذ 556 أيام",
       "publishedAt": "2025-05-19T10:42:08.469Z",
       "skills": [
         "Excel",
@@ -7224,7 +7227,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 561 أيام",
+      "age": "منذ 562 أيام",
       "publishedAt": "2025-05-13T10:50:29.522Z",
       "skills": [
         "Customer Service",
@@ -7357,7 +7360,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "customer",
-      "age": "منذ 755 أيام",
+      "age": "منذ 756 أيام",
       "publishedAt": "2024-10-31T12:09:49.201Z",
       "skills": [
         "Excel",
@@ -7414,7 +7417,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 881 أيام",
+      "age": "منذ 882 أيام",
       "publishedAt": "2024-06-27T12:18:56.852Z",
       "skills": [
         "Finance",
@@ -7444,7 +7447,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 917 أيام",
+      "age": "منذ 918 أيام",
       "publishedAt": "2024-05-22T12:17:49.028Z",
       "skills": [
         "Excel",
