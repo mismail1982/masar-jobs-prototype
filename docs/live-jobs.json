@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T10:53:02.793Z",
+  "generatedAt": "2026-11-27T19:58:33.576Z",
   "total": 273,
   "feeds": 13,
   "jobs": [
@@ -1853,7 +1853,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-25T13:44:53.757Z",
       "skills": [
         "Excel",
@@ -1881,7 +1881,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-25T13:44:31.139Z",
       "skills": [
         "Excel",
@@ -1909,7 +1909,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-25T12:55:26.554Z",
       "skills": [
         "SQL",
@@ -1938,7 +1938,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "أمس",
+      "age": "منذ 2 أيام",
       "publishedAt": "2026-11-25T12:33:42.930Z",
       "skills": [
         "SQL",
@@ -2707,7 +2707,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T16:59:10.622Z",
       "skills": [
         "Python",
@@ -2734,7 +2734,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T16:58:01.040Z",
       "skills": [
         "Python",
@@ -2761,7 +2761,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T16:57:22.797Z",
       "skills": [
         "Python",
@@ -2788,7 +2788,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T16:42:30.602Z",
       "skills": [
         "Python",
@@ -2817,7 +2817,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T16:41:14.251Z",
       "skills": [
         "Python",
@@ -2846,7 +2846,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T16:40:35.405Z",
       "skills": [
         "Python",
@@ -2875,7 +2875,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T16:28:00.166Z",
       "skills": [
         "Research",
@@ -2902,7 +2902,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T16:14:12.119Z",
       "skills": [
         "Python",
@@ -2929,7 +2929,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T16:02:03.869Z",
       "skills": [
         "Excel",
@@ -2959,7 +2959,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T15:34:41.640Z",
       "skills": [
         "Python",
@@ -2989,7 +2989,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T14:12:23.911Z",
       "skills": [
         "Excel",
@@ -3015,7 +3015,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T13:47:36.629Z",
       "skills": [
         "Excel",
@@ -3043,7 +3043,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T13:46:57.181Z",
       "skills": [
         "Excel",
@@ -3071,7 +3071,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T13:46:28.251Z",
       "skills": [
         "Excel",
@@ -3099,7 +3099,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T12:46:41.128Z",
       "skills": [
         "PMP",
@@ -3126,7 +3126,7 @@
       "minExp": 1,
       "maxExp": 3,
       "category": "research",
-      "age": "منذ 2 أيام",
+      "age": "منذ 3 أيام",
       "publishedAt": "2026-11-24T11:20:09.312Z",
       "skills": [
         "Python",
@@ -3156,7 +3156,7 @@
       "minExp": 15,
       "maxExp": 23,
       "category": "finance",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T14:24:22.658Z",
       "skills": [
         "SAP",
@@ -3187,7 +3187,7 @@
       "minExp": 4,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T13:25:31.158Z",
       "skills": [
         "Excel",
@@ -3216,7 +3216,7 @@
       "minExp": 4,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T13:22:36.185Z",
       "skills": [
         "Excel",
@@ -3245,7 +3245,7 @@
       "minExp": 4,
       "maxExp": 10,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T13:21:24.935Z",
       "skills": [
         "Excel",
@@ -3274,7 +3274,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T13:06:29.941Z",
       "skills": [
         "Marketing",
@@ -3300,7 +3300,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T13:01:58.317Z",
       "skills": [
         "Marketing",
@@ -3326,7 +3326,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T13:00:24.000Z",
       "skills": [
         "Marketing",
@@ -3352,7 +3352,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T12:46:18.270Z",
       "skills": [
         "Python",
@@ -3380,7 +3380,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T12:43:31.119Z",
       "skills": [
         "Python",
@@ -3408,7 +3408,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T12:42:34.295Z",
       "skills": [
         "Python",
@@ -3436,7 +3436,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T12:03:50.865Z",
       "skills": [
         "Excel",
@@ -3464,7 +3464,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T11:58:32.226Z",
       "skills": [
         "Audit",
@@ -3490,7 +3490,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T11:57:55.198Z",
       "skills": [
         "Audit",
@@ -3516,7 +3516,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T11:56:30.312Z",
       "skills": [
         "Audit",
@@ -3542,7 +3542,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T11:49:23.708Z",
       "skills": [
         "SAP",
@@ -3573,7 +3573,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T11:48:47.883Z",
       "skills": [
         "SAP",
@@ -3604,7 +3604,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T11:47:29.180Z",
       "skills": [
         "SAP",
@@ -3635,7 +3635,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "architecture",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T11:36:58.259Z",
       "skills": [
         "Revit",
@@ -3664,7 +3664,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "architecture",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T11:36:23.361Z",
       "skills": [
         "Revit",
@@ -3693,7 +3693,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "architecture",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T11:34:51.067Z",
       "skills": [
         "Revit",
@@ -3722,7 +3722,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 3 أيام",
+      "age": "منذ 4 أيام",
       "publishedAt": "2026-11-23T11:20:36.408Z",
       "skills": [
         "Excel",
@@ -4142,7 +4142,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T13:15:22.994Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -4167,7 +4167,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "creative",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T13:14:08.051Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -4192,7 +4192,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T13:06:05.943Z",
       "skills": [
         "Finance",
@@ -4218,7 +4218,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T13:05:04.871Z",
       "skills": [
         "Excel",
@@ -4244,7 +4244,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T13:03:43.853Z",
       "skills": [
         "Excel",
@@ -4270,7 +4270,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T12:48:26.324Z",
       "skills": [
         "Insurance",
@@ -4296,7 +4296,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T12:47:37.200Z",
       "skills": [
         "Insurance",
@@ -4322,7 +4322,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T12:42:21.318Z",
       "skills": [
         "Excel",
@@ -4349,7 +4349,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T12:39:17.396Z",
       "skills": [
         "Excel",
@@ -4376,7 +4376,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "media",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T12:38:10.516Z",
       "skills": [
         "Excel",
@@ -4403,7 +4403,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T12:14:51.893Z",
       "skills": [
         "Python",
@@ -4430,7 +4430,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T12:12:34.964Z",
       "skills": [
         "Python",
@@ -4457,7 +4457,7 @@
       "minExp": 1,
       "maxExp": 2,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T12:11:32.245Z",
       "skills": [
         "Python",
@@ -4484,7 +4484,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T08:43:26-05:00",
       "skills": [
         "Excel"
@@ -4509,7 +4509,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 6 أيام",
+      "age": "منذ 7 أيام",
       "publishedAt": "2026-11-20T08:42:41-05:00",
       "skills": [
         "Excel"
@@ -4860,7 +4860,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 7 أيام",
+      "age": "منذ 8 أيام",
       "publishedAt": "2026-11-19T17:22:11.306Z",
       "skills": [
         "Excel",
@@ -4888,7 +4888,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 8 أيام",
+      "age": "منذ 9 أيام",
       "publishedAt": "2026-11-18T16:10:01.940Z",
       "skills": [
         "SAP",
@@ -4919,7 +4919,7 @@
       "minExp": 2,
       "maxExp": 10,
       "category": "technology",
-      "age": "منذ 10 أيام",
+      "age": "منذ 11 أيام",
       "publishedAt": "2026-11-16T14:55:16.967Z",
       "skills": [
         "Excel"
@@ -4944,7 +4944,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "marketing",
-      "age": "منذ 14 أيام",
+      "age": "منذ 15 أيام",
       "publishedAt": "2026-11-12T11:01:45.581Z",
       "skills": [
         "Sales",
@@ -4972,7 +4972,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "translation",
-      "age": "منذ 15 أيام",
+      "age": "منذ 16 أيام",
       "publishedAt": "2026-11-11T15:25:21.680Z",
       "skills": [
         "Excel",
@@ -5029,7 +5029,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 16 أيام",
+      "age": "منذ 17 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -5055,7 +5055,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 16 أيام",
+      "age": "منذ 17 أيام",
       "publishedAt": "2026-11-10T09:37:49-05:00",
       "skills": [
         "Excel",
@@ -5081,7 +5081,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 20 أيام",
+      "age": "منذ 21 أيام",
       "publishedAt": "2026-11-06T11:47:12.630Z",
       "skills": [
         "Sales"
@@ -5159,7 +5159,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "legal",
-      "age": "منذ 28 أيام",
+      "age": "منذ 29 أيام",
       "publishedAt": "2026-10-29T18:19:21.691Z",
       "skills": [
         "Excel",
@@ -5188,7 +5188,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 28 أيام",
+      "age": "منذ 29 أيام",
       "publishedAt": "2026-10-29T15:45:59.006Z",
       "skills": [
         "SAP",
@@ -5332,7 +5332,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 36 أيام",
+      "age": "منذ 37 أيام",
       "publishedAt": "2026-10-21T12:14:36.095Z",
       "skills": [
         "Excel",
@@ -5466,7 +5466,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 45 أيام",
+      "age": "منذ 46 أيام",
       "publishedAt": "2026-10-12T12:22:58.148Z",
       "skills": [
         "Excel",
@@ -5495,7 +5495,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 49 أيام",
+      "age": "منذ 50 أيام",
       "publishedAt": "2026-10-08T13:58:08.204Z",
       "skills": [
         "SAP",
@@ -5526,7 +5526,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 49 أيام",
+      "age": "منذ 50 أيام",
       "publishedAt": "2026-10-08T13:52:32.927Z",
       "skills": [
         "SAP",
@@ -5557,7 +5557,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 49 أيام",
+      "age": "منذ 50 أيام",
       "publishedAt": "2026-10-08T13:36:09.377Z",
       "skills": [
         "Audit",
@@ -5586,7 +5586,7 @@
       "minExp": 3,
       "maxExp": 5,
       "category": "media",
-      "age": "منذ 49 أيام",
+      "age": "منذ 50 أيام",
       "publishedAt": "2026-10-08T11:51:46.180Z",
       "skills": [
         "SAP",
@@ -5646,7 +5646,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 55 أيام",
+      "age": "منذ 56 أيام",
       "publishedAt": "2026-10-02T11:45:47.851Z",
       "skills": [
         "Excel",
@@ -5750,7 +5750,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "translation",
-      "age": "منذ 64 أيام",
+      "age": "منذ 65 أيام",
       "publishedAt": "2026-09-23T17:48:28.416Z",
       "skills": [
         "Content"
@@ -5826,7 +5826,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 66 أيام",
+      "age": "منذ 67 أيام",
       "publishedAt": "2026-09-21T12:10:38.082Z",
       "skills": [
         "Excel",
@@ -5932,7 +5932,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 71 أيام",
+      "age": "منذ 72 أيام",
       "publishedAt": "2026-09-16T12:38:30.005Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -5957,7 +5957,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 71 أيام",
+      "age": "منذ 72 أيام",
       "publishedAt": "2026-09-16T12:18:06.725Z",
       "skills": [
         "Finance",
@@ -6039,7 +6039,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 78 أيام",
+      "age": "منذ 79 أيام",
       "publishedAt": "2026-09-09T12:47:08.145Z",
       "skills": [
         "SAP"
@@ -6064,7 +6064,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 78 أيام",
+      "age": "منذ 79 أيام",
       "publishedAt": "2026-09-09T12:45:38.447Z",
       "skills": [
         "SAP"
@@ -6089,7 +6089,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "sales",
-      "age": "منذ 78 أيام",
+      "age": "منذ 79 أيام",
       "publishedAt": "2026-09-09T11:39:00.380Z",
       "skills": [
         "Excel",
@@ -6247,7 +6247,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "finance",
-      "age": "منذ 85 أيام",
+      "age": "منذ 86 أيام",
       "publishedAt": "2026-09-02T12:36:44.958Z",
       "skills": [
         "Excel",
@@ -6360,7 +6360,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "government",
-      "age": "منذ 93 أيام",
+      "age": "منذ 94 أيام",
       "publishedAt": "2026-08-25T12:30:04.705Z",
       "skills": [
         "Sales",
@@ -6387,7 +6387,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 93 أيام",
+      "age": "منذ 94 أيام",
       "publishedAt": "2026-08-25T11:26:46.838Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6412,7 +6412,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 93 أيام",
+      "age": "منذ 94 أيام",
       "publishedAt": "2026-08-25T11:15:50.932Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -6494,7 +6494,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 105 أيام",
+      "age": "منذ 106 أيام",
       "publishedAt": "2026-08-13T12:01:07.661Z",
       "skills": [
         "Operations"
@@ -6519,7 +6519,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "operations",
-      "age": "منذ 105 أيام",
+      "age": "منذ 106 أيام",
       "publishedAt": "2026-08-13T11:55:04.485Z",
       "skills": [
         "Operations",
@@ -6545,7 +6545,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 115 أيام",
+      "age": "منذ 116 أيام",
       "publishedAt": "2026-08-03T11:28:28.426Z",
       "skills": [
         "Operations",
@@ -6571,7 +6571,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 115 أيام",
+      "age": "منذ 116 أيام",
       "publishedAt": "2026-08-03T11:24:13.619Z",
       "skills": [
         "React",
@@ -6625,7 +6625,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "sales",
-      "age": "منذ 122 أيام",
+      "age": "منذ 123 أيام",
       "publishedAt": "2026-07-27T11:44:58.735Z",
       "skills": [
         "Excel",
@@ -6655,7 +6655,7 @@
       "minExp": 5,
       "maxExp": 13,
       "category": "general",
-      "age": "منذ 130 أيام",
+      "age": "منذ 131 أيام",
       "publishedAt": "2026-07-19T14:35:06.019Z",
       "skills": [
         "Finance",
@@ -6710,7 +6710,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 135 أيام",
+      "age": "منذ 136 أيام",
       "publishedAt": "2026-07-14T17:21:56.371Z",
       "skills": [
         "Research",
@@ -6736,7 +6736,7 @@
       "minExp": 4,
       "maxExp": 12,
       "category": "translation",
-      "age": "منذ 141 أيام",
+      "age": "منذ 142 أيام",
       "publishedAt": "2026-07-08T12:41:35.292Z",
       "skills": [
         "Excel",
@@ -6790,7 +6790,7 @@
       "minExp": 0,
       "maxExp": 2,
       "category": "sales",
-      "age": "منذ 171 أيام",
+      "age": "منذ 172 أيام",
       "publishedAt": "2026-06-08T18:45:32.064Z",
       "skills": [
         "Customer Service",
@@ -6847,7 +6847,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "sales",
-      "age": "منذ 198 أيام",
+      "age": "منذ 199 أيام",
       "publishedAt": "2026-05-12T12:47:57.404Z",
       "skills": [
         "Excel",
@@ -6909,7 +6909,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "projects",
-      "age": "منذ 232 أيام",
+      "age": "منذ 233 أيام",
       "publishedAt": "2026-04-08T11:49:43.031Z",
       "skills": [
         "راجع الوصف الوظيفي"
@@ -7222,7 +7222,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "security",
-      "age": "منذ 423 أيام",
+      "age": "منذ 424 أيام",
       "publishedAt": "2025-09-29T10:53:59.334Z",
       "skills": [
         "Excel",
@@ -7249,7 +7249,7 @@
       "minExp": 10,
       "maxExp": 18,
       "category": "general",
-      "age": "منذ 465 أيام",
+      "age": "منذ 466 أيام",
       "publishedAt": "2025-08-18T11:49:20.672Z",
       "skills": [
         "Excel",
@@ -7277,7 +7277,7 @@
       "minExp": 3,
       "maxExp": 4,
       "category": "security",
-      "age": "منذ 494 أيام",
+      "age": "منذ 495 أيام",
       "publishedAt": "2025-07-20T16:56:05.026Z",
       "skills": [
         "Audit",
@@ -7304,7 +7304,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 498 أيام",
+      "age": "منذ 499 أيام",
       "publishedAt": "2025-07-16T12:45:37.544Z",
       "skills": [
         "Excel",
@@ -7331,7 +7331,7 @@
       "minExp": 12,
       "maxExp": 20,
       "category": "general",
-      "age": "منذ 498 أيام",
+      "age": "منذ 499 أيام",
       "publishedAt": "2025-07-16T12:38:56.781Z",
       "skills": [
         "Excel",
@@ -7358,7 +7358,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "education",
-      "age": "منذ 545 أيام",
+      "age": "منذ 546 أيام",
       "publishedAt": "2025-05-30T14:36:01.234Z",
       "skills": [
         "Content"
@@ -7546,7 +7546,7 @@
       "minExp": 6,
       "maxExp": 14,
       "category": "customer",
-      "age": "منذ 756 أيام",
+      "age": "منذ 757 أيام",
       "publishedAt": "2024-10-31T12:09:49.201Z",
       "skills": [
         "Excel",
@@ -7603,7 +7603,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "general",
-      "age": "منذ 882 أيام",
+      "age": "منذ 883 أيام",
       "publishedAt": "2024-06-27T12:18:56.852Z",
       "skills": [
         "Finance",
@@ -7633,7 +7633,7 @@
       "minExp": 0,
       "maxExp": 30,
       "category": "technology",
-      "age": "منذ 918 أيام",
+      "age": "منذ 919 أيام",
       "publishedAt": "2024-05-22T12:17:49.028Z",
       "skills": [
         "Excel",
@@ -7664,7 +7664,7 @@
       "minExp": 2,
       "maxExp": 4,
       "category": "translation",
-      "age": "منذ 2459 أيام",
+      "age": "منذ 2460 أيام",
       "publishedAt": "2020-03-03T19:47:29.279Z",
       "skills": [
         "Excel",
